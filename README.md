@@ -1,5 +1,5 @@
 # The_Nuremberg_Chronicle_1493_Sources
-Literature sources to the Nuremberg Chronicle, fol. Ir to VIIr.
+Literature sources for the Nuremberg Chronicle, fol. Ir to VIIr.
 
 See e.g. Janko, [2002](http://www.jstor.org/stable/20191519).
 
