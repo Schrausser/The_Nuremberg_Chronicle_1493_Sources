@@ -120,14 +120,14 @@ Most ancient Western literature survived through centuries of recopying; however
 4. **Vindolanda Tablets** (1st-2nd c. AD): Hand-written wooden leaf tablets from a Roman fort in Britain, providing a rare first-hand look at daily life in the Roman Empire.
 5. **Villa of the Papyri Scrolls** (1st c. AD): A library of approximately 1800 carbonized papyrus scrolls buried by the eruption of Mt. Vesuvius in 79 AD. It is **the only library of Western antiquity** to have its physical collection **survive**. 
 
-Comparison of Foundational Sources
+**Table1**. Comparison of Foundational Sources.
 ~~~
-Source 	Approximate Date	Type
+Source 					Approximate Date	Type
 
-Homer's Iliad	8th Century BCE	Foundational Literature
-Dispilio Tablet	5300–5100 BCE	Earliest physical artifact (undeciphered)
-Pyrgi Tablets	500 BCE	Oldest physical multi-page "book"
-Villa of the Papyri	1st Century CE	Only surviving ancient library collection
+Dispilio Tablet			5300–5100 BC		Earliest physical artifact (undeciphered)
+Homer's Iliad			8th c. BC			Foundational Literature
+Pyrgi Tablets			500 BC				Oldest physical multi-page "book"
+Villa of the Papyri		1st c. AD			Only surviving ancient library collection
 ~~~
 
 The **Vergilius Vaticanus** (c. 400 AD) is widely considered **one of the oldest surviving manuscripts** from Western antiquity, representing the critical transition from the classical world to the medieval period. It is **one of** only **three ancient manuscripts** of **Virgil** to survive into the modern era, alongside the **Vergilius Augusteus** (4th c. AD fragment) and the **Vergilius Romanus** (c. 500 AD). 
