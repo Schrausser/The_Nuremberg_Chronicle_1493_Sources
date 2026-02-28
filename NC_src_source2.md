@@ -159,13 +159,13 @@ Paper, parchment, and papyrus **represent the evolution of writing surfaces**, e
 
 **Table 1**. Comparison.
 ~~~
-Feature 	Papyrus	Parchment	Paper
+Feature 		Papyrus							Parchment							Paper
 
-Source	Papyrus plant (reeds)	Animal skins (sheep, goat, calf)	Plant fibers (wood pulp, rags, hemp)
-Origin	Ancient Egypt (~3000 BC)	Pergamon (~2nd Century BC)	China (~105 AD)
-Durability	Fragile; rots in humidity	Extremely durable; lasts centuries	Moderate; ages better than papyrus
-Reusability	Limited; one-sided mostly	High (can be scraped and reused)	Low; harder to erase without damage
-Cost	Relatively cheap to produce	Very expensive; labor-intensive	Cheapest once mass-produced
+Source			Papyrus plant (reeds)			Animal skins (sheep, goat, calf)	Plant fibers (wood pulp, rags, hemp)
+Origin			Ancient Egypt (~3000 BC)		Pergamon (~2nd Century BC)			China (~105 AD)
+Durability		Fragile; rots in humidity		Extremely durable; lasts centuries	Moderate; ages better than papyrus
+Reusability		Limited; one-sided mostly		High (can be scraped and reused)	Low; harder to erase without damage
+Cost			Relatively cheap to produce		Very expensive; labor-intensive		Cheapest once mass-produced
 ~~~
 
 Key Differences
