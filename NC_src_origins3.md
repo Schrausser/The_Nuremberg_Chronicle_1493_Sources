@@ -548,13 +548,13 @@ Traditional accounts list dozens of Milesian monarchs. Some of the most signific
 
 **Table 1**. Traditional Chronology.
 ~~~
-King(s) 	AFM Date (Annals of the Four Masters)	FFE Date (Foras Feasa ar Éirinn)
+King(s) 			AFM Date (Annals of the Four Masters)	FFE Date (Foras Feasa ar Éirinn)
 
-Éber Finn & Érimón	1700 BC	1287–1286 BC
-Érimón (Alone)	1700–1684 BC	1286–1272 BC
-Tigernmas	1621–1544 BC	1209–1159 BC
-Ollom Fotla	1318–1278 BC	943–913 BC
-Cimbáeth	717–710 BC	488–468 BC
+Éber Finn & Érimón	1700 BC									1287–1286 BC
+Érimón (Alone)		1700–1684 BC							1286–1272 BC
+Tigernmas			1621–1544 BC							1209–1159 BC
+Ollom Fotla			1318–1278 BC							943–913 BC
+Cimbáeth			717–710 BC								488–468 BC
 ~~~
 
 <br>
