@@ -633,7 +633,7 @@ Philosophy and Legacy
 
 1. **Famous Sayings**: He is credited with comparing laws to *spiders' webs* that catch the weak but are broken by the powerful. Another famous quote is: "Play, in order that you may work hard".
 2. **Literary Impact**: His character was popularized in the 18th century by *Jean-Jacques Barthélemy* in the fictional ***Travels of Anacharsis the Younger in Greece***.
-3. **Namesake**: The French Revolutionary ***Anacharsis Cloots*** **adopted the name as a pseudonym** to signify his role as an orator of the human race. 
+3. **Namesake**: The French Revolutionary ***Anacharsis Cloots*** [^1] **adopted the name as a pseudonym** to signify his role as an orator of the human race. 
 
 ***Leophantos*** Mentioned in the records of *Maeandrius*.
 
@@ -768,7 +768,7 @@ Causes and Conflict Dynamics
 
 Result and Aftermath
 
-The war ended in 404 BC[^3] after the Spartan admiral *Lysander* destroyed the Athenian fleet at the *Battle of Aegospotami* (405 BC). 
+The war ended in 404 BC [^2] after the Spartan admiral *Lysander* destroyed the Athenian fleet at the *Battle of Aegospotami* (405 BC). 
 
 Surrender Terms
 
@@ -780,7 +780,7 @@ Long-term Impact:
 
 While **Sparta emerged as the leading power**, the war's economic and human costs weakened all Greek city-states, eventually *allowing Philip II of Macedon* to unify them under his rule. 
 
-[^3]: A symbolic peace treaty was signed by the mayors of modern Athens and Sparta on March 12, 1996, officially *ending* the ancient conflict nearly *2400 years later*. 
+[^2]: A symbolic peace treaty was signed by the mayors of modern Athens and Sparta on March 12, 1996, officially *ending* the ancient conflict nearly *2400 years later*. 
 
 
 ---
@@ -830,10 +830,3 @@ Summary of Outcomes (146 BC)
 The **primary location** associated with ancient Greek **philosophers** is **Athens**, which served as the intellectual heart of the Greek world. However, early thinkers—known as the **Pre-Socratics**—**originated** from various city-states across the Mediterranean, including **Ionia** (modern-day Turkey), southern **Italy**, and **Sicily**. 
 
 ---
-
-
-
-
-
-
-
