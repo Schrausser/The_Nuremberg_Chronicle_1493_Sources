@@ -53,9 +53,9 @@ So, according to these accounts, *Homer and Hesiod*  sharing an ancestor named *
 **Table 1**. Lineage of *Homer* and *Hesiod*.
 ~~~
 gen.				
-1	[Melanopus]+[]			
-2	[Apelles]+[]				[Dius]+[Pycimede]	
-3	[Maeon]+[daughter of the River Meles]	[Hesiod][Perses]
+1								[Melanopus]+[]			
+2	[Apelles]+[]	-----------------+------------------	[Dius]+[Pycimede]	
+3	[Maeon]+[daughter of the River Meles]			[Hesiod]	----+----	[Perses]
 4	[Homer]
 ~~~
 
@@ -294,14 +294,14 @@ The Intellectual Connection
 
 Key Differences in Legacy
 
-**Table 2**. Anaxagoras vs. Euripides
+**Table 2**. Anaxagoras vs. Euripides.
 ~~~
-Feature 	Anaxagoras of Clazomenae	Euripides of Athens
+Feature 				Anaxagoras of Clazomenae				Euripides of Athens
 
-Primary Field	Pre-Socratic Philosophy / Science	Tragic Drama
-Major Concept	Nous (Cosmic Mind) as the prime mover	Realism and psychological depth in characters
-Public Reception	Tried for impiety; forced into exile	Often mocked by comic poets like Aristophanes
-Known Works	On Nature (surviving in fragments)	Medea, The Bacchae, The Trojan Women
+Primary Field			Pre-Socratic Philosophy / Science		Tragic Drama
+Major Concept			Nous (Cosmic Mind) as the prime mover	Realism and psychological depth in characters
+Public Reception		Tried for impiety; forced into exile	Often mocked by comic poets like Aristophanes
+Known Works	On Nature 	(surviving in fragments)				Medea, The Bacchae, The Trojan Women
 ~~~
 
 While some modern scholars view the *teacher-pupil* relationship as a later biographical *invention* to explain Euripides' intellectual style, the thematic overlap remains a cornerstone of Classical Greek studies. 
@@ -708,10 +708,10 @@ Key Conceptual Differences
 
 **Table 3**. Arche vs. Yle.
 
-Concept 	Translation	Role in Philosophy
+Concept 	Translation						Role in Philosophy
 ~~~
-Arche	Beginning, Origin, Principle	The foundational source or cause from which everything originates and to which it returns.
-Hyle	Matter, Wood/Timber	The underlying material that receives form to become a specific object.
+Arche		Beginning, Origin, Principle	The foundational source or cause from which everything originates and to which it returns.
+Hyle		Matter, Wood/Timber				The underlying material that receives form to become a specific object.
 ~~~
 
 ### Arche: The Originating Principle
