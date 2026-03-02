@@ -33,6 +33,12 @@ After *Brutus* died the rest of Britain was divided between his three sons,
 
 *Elias* is the *New Testament* and *Islamic* (*Ilyās*) name for the Hebrew *prophet Elijah*, what means *My God is Yahweh*, a central figure in *Judaism*, *Christianity*, and *Islam*, renowned for his unwavering defense of *monotheism* and his ***miraculous departure from earth***. 
 
+Ladvocat & Lohenschiold ([1760](https://doi.org/10.3931/e-rara-22312), p. 1221):
+
+>"Elias, einer der grösten Propheten des alten Testaments, unter der Regierung der Könige Achab und Josaphat, war von Thisbe in Gilead gebürtig. Er prophezeyte im Jahr 912. v. C. G. dem Achab und der Jesabel eine Dürre und Hunger, welche 3. Jahr und 6. Monate anhielt. Während dieser Zeit wurde Elias wunderbarer Weise in der Wüsten von den Raben, und hernach von einer Wittwe zu Zarpath oder Sarepta ernähret, deren weder ihr kleiner Vorrath an Mehl noch ihr weniges Oel aufgieng. Er erweckte seiner Wirthinn üderdiß ihren verstorbenen Sohn wieder; bestrafte hierauf Achab wegen seines Götzendienstes, und ließ, als sein Opfer durch Feuer vorn Himmel aus sein Gebet verzehrt wurde, vierhundertund fünfzig Baalspfaffen erwürgen. Jesabel wollte sich dieserwegen an Elias rächen; er flöhe aber in die Wüsten, wo ihm ein Engel Brod und Wasser brachte. Diese Speise setzte ihn in Stand, eine Reise von 40. Tagen und 40 Nächten bis an den Berg Horcb zu thun. Hier bekam er vom HErrn den Befehl Hasael zum König in Syrien, Jehu zum König in Israel und Elisa zum Propheten an seine statt zu salben, gieng darauf zu Achab, und bestrafte ihn wegen des Mords, den er an Naboth verübet; sagte dem König  in Israel Ahasia um voraus, daß er an seinem Fall, den er zu Samaria aus dem Fenster seines Pallasts gethan hatte, sterben würde, und ließ Feuer vom Himmel fallen, das zwey Hauptleute und 100. Soldaten fraß , welche abgeschickt waren, ihn mit Gewalt zum König zu führen. Endlich wurde dieser grosse Prophet 895. v. C. G. auf einem feurigen Wagen gen Himmel genommen. Sein Schüler Elisa nahm seinen Mantel, und erlangte, nach seiner letzte Bitte, daß der Geist Eliä zweyfältig auf ihm ruhete. Die Juden haben nach ihrer Gewohnheit auch die Geschichte dieses Propheten mit vielen Fabeln befleckt, die nicht verdienen angeführt zu werden."
+
+>Elijah, one of the greatest prophets of the Old Testament, during the reign of Kings Ahab and Jehoshaphat, was a native of Thisbe in Gilead. In 912 BC, he prophesied to Ahab and Jezebel a drought and famine that lasted three years and six months. During this time, Elijah was miraculously fed in the desert by ravens, and later by a widow in Zarephath, whose neither small supply of flour nor oil ran out. He also resurrected his hostess's deceased son; then punished Ahab for his idolatry, and when his prayer was consumed by fire from heaven, he had four hundred and fifty Baal priests slain. Jezebel sought revenge on Elijah for this; however, he fled into the desert, where an angel brought him bread and water.  This food enabled him to undertake a journey of 40 days and 40 nights to Mount Horeb. There, he received from the Lord the command to anoint Hazael king in Syria, Jehu king in Israel, and Elisha prophet in his place. He then went to Ahab and punished him for the murder he had committed against Naboth. He foretold to King Ahaziah of Israel that he would die from his fall from the window of his palace in Samaria, and caused fire to fall from heaven, which consumed two captains and 100 soldiers who had been sent to bring him to the king by force. Finally, in 895 BC, this great prophet was taken to heaven in a fiery chariot. His disciple Elisha took his mantle and, at his last request, obtained that the spirit of Elijah rest upon him twice over.  The Jews, in their custom, have also tainted the story of this prophet with many fables that do not deserve to be cited.
+
 ### Core Biblical Narrative
 
 1. **The Struggle Against** ***Baal***: Elias famously opposed King *Ahab* and Queen *Jezebel*, who had introduced the worship of the idol *Baal* to the Israelites.
@@ -75,6 +81,12 @@ A particularly rich trove of anecdotes is found in Iamblichus's *Vita Pythagoric
 
 *Plato* (*Charmides* 158C) classes him amongst the *Thracian physicians* who practice medicine upon the *soul* as well as the *body* by means of *incantations*. A temple to *Persephone* at Sparta was attributed to *Abaris* by *Pausanias* (9.10).
 
+Ladvocat & Lohenschiold ([1760](https://doi.org/10.3931/e-rara-22312), p. 8):
+
+>"Abaris, Gesandter der Hyperboreer, den sie etwa 564. vor Christi Geburt nach Athen geschickt, als die Pest damals den ganzen bekannten Erdkraiß heimsuchte, und Apollo den  Ausspruch gethan, daß die Athenienser für alle andere Völker Gelübde thun sollten. Er war einer von den Barbaren, deren Tugend und Weisheit auch die Athenienser bewunderten. Uebrigens haben die Alten sehr viele Fabeln von ihm, die manche unter ihnen selber nicht glaubten."
+
+>Abaris, an envoy of the Hyperboreans, whom they sent to Athens around 564 BC, when the plague was ravaging the entire known world, where Apollo proclaimed that the Athenians should make vows on behalf of all other peoples. He was one of the barbarians whose virtue and wisdom even the Athenians admired. Incidentally, the ancients have many fables about him, some of which they themselves did not believe.
+
 Several dates for his arrival in Greece: 
 
 1. **568-565 BC**: The most common historical dating provided by the *Suda* and *Hippostratos*.
@@ -93,13 +105,25 @@ In Greek legend, *Abaris the Hyperborean* was a priest of *Apollo* who received 
 4. **Connection to Pythagoras**: Later traditions claim *Abaris* gave the arrow to the philosopher *Pythagoras* after recognizing him as the *Hyperborean Apollo*. 
 
 
-[^1]: John Wood, the Elder (1704-1784) wrote about *Abaris*, and put forth the fanciful suggestion that he should be identified with King **Bladud** or *Blaiddyd[a]* is a *legendary* king of the *Britons*,  contemporaneous with the biblical prophet *Elijah* (9th c. BC), s. above. According to the final form of the legend, which appeared in John Hardyng's Chronicles of 1457, Bladud's father sent his son to be educated in the liberal arts in Athens, he built *Kaerbadum* or *Caervaddon* (Bath), creating the hot springs there by the use of *magic*. He dedicated the city to the goddess *Athena* and in honour of her, lit *undying fires*, whose flames *turned to balls* of stone as they *grew low*, with new ones springing up in their stead: an embellishment of an account from the third-century writer Solinus of the use of local coal on the altars of her temple, he is said to have constructed *wings* for himself and to have tried to ***fly*** to the temple of *Apollo* in Trinovantum (London).
+[^1]: John Wood, the Elder (1704-1784) wrote about *Abaris*, and put forth the fanciful suggestion that he should be identified with King **Bladud** or *Blaiddyd[a]* is a *legendary* king of the *Britons*,  contemporaneous with the biblical prophet *Elijah* (9th c. BC), s. above (c.f. Wood, [1749](https://archive.org/details/bim_eighteenth-century_an-essay-towards-a-descr_wood-john_1749_1), p. 126). According to the final form of the legend, which appeared in John Hardyng's Chronicles of 1457, Bladud's father sent his son to be educated in the liberal arts in Athens, he built *Kaerbadum* or *Caervaddon* (Bath), creating the hot springs there by the use of *magic*. He dedicated the city to the goddess *Athena* and in honour of her, lit *undying fires*, whose flames *turned to balls* of stone as they *grew low*, with new ones springing up in their stead: an embellishment of an account from the third-century writer Solinus of the use of local coal on the altars of her temple, he is said to have constructed *wings* for himself and to have tried to ***fly*** to the temple of *Apollo* in Trinovantum (London).
 
 ---
 
 ## Orpheus
 
 In Greek mythology, *Orpheus* is the legendary archetypal poet and musician whose art possessed the power to charm all living things, including animals and even stones. He is most famous for his descent into the Underworld to retrieve his wife, *Eurydice*, using only the beauty of his song to persuade the gods of the dead. 
+
+Ladvocat & Lohenschiold ([1761](https://doi.org/10.3931/e-rara-22312), p. 570):
+
+>"Orpheus, aus Thracien, ein berühmter griechischer Dichter, noch älter als Homerus, war, nach der Fabellehre, des Apollo Sohn, und ein so vortreflicher Musicus, daß bey dem Gesang seiner Stimme und feiner Leyer die Flüsse in ihrem Lauf stille stunden, die Felsen sich zu ihm hinbewegten und die wildesten Thiere zahm wurden. Er stieg zur Höllen hinab, um seine Gemahlinn Eurydice wieder aus derselben abzuholen. Pluto und Proserpina erlaubten ihm solches unter der Bedingung, daß er nicht nach ihr umsehen sollte, bis sie ausser der Hölle seyn würde. Als aber Orpheus aus Ungedult vor der Zeit nach ihr umsähe, verlohr er sie wieder auf ewig. Von dieser Zeit an war er gegen das schöne Geschlecht gleichgültig, worüber aber die thracischen Weiber so böse wurden, daß sie ihn in Stücke zerrissen. Nach seinem Tod sorgten die Musen vor seinen Leib, und seine Leyer wurde unter die Gestirne versetzt. Die Alten haben sehr viel vom Orpheus und von seinen Gedichten erzählt. Sie machen ihn zu einem Schüler des Linus, Lehrmeister des Musäus, und noch älter als den Trojanischen Krieg. Wir haben noch Hymnen und andere Gedichte unter seinem Nahmen; es ist aber richtig, daß sie unterschoben sind."
+
+>Orpheus, from Thrace, a famous Greek poet, even older than Homer, was, according to legend, the son of Apollo and such a superb musician that at the sound of his voice and fine lyre, the rivers stood still, the rocks moved towards him, and the wildest beasts became tame. He descended to Hell to retrieve his wife Eurydice. Pluto and Proserpina allowed him to do so on the condition that he should not look for her until they were out of Hell. But when Orpheus, out of impatience, looked for her prematurely, he lost her again forever. From that time on, he was indifferent to women, which so angered the Thracian women that they tore him to pieces. After his death, the Muses cared for his body, and his lyre was placed among the stars.  The ancients told many stories about Orpheus and his poems. They portrayed him as a pupil of Linus, a teacher of Musaeus, and even older than the Trojan War. We still have hymns and other poems attributed to him; however, it is true that these are false.
+
+Ladvocat & Lohenschiold ([1760](https://doi.org/10.3931/e-rara-22312), p. 1296):
+
+>"Euridice, des Orpheus Frau, wurde von einer Schlange gestochen, und starb an dem Tag ihrer Hochzeit. Orpheus suchte sie in der Hölle auf, und erlangte durch die Annehmlichkeiten seiner Leyer und Stimme vom Pluto die Erlaubniß, die Eurydice mit sich in die obere Welt zurückzunehmen, doch unter der Bedingung, daß er nicht nach ihr zurück sehen sollte, bis sie ausserhalb der Hölle seyn würde. Allein Orpheus konnte sich nicht enthalten, nach ihr zu schauen, und verlohr sie dadurch aufs neue, ohne Hofnung sie jemals wieder zu erlangen."
+
+>Eurydice, Orpheus' wife, was bitten by a snake and died on her wedding day. Orpheus sought her out in Hell and, through the charms of his lyre and voice, obtained permission from Pluto to take Eurydice back with him to the upper world, but on the condition that he not look back at her until they where outside Hell. However, Orpheus could not resist looking for her and thus lost her once more, without any hope of ever seeing her again.
 
 Key Literary Works on Orpheus
 
@@ -774,19 +798,13 @@ Philolaus was a leading figure in the **Pythagorean tradition** and is credited 
 2. **The Laughing Philosopher**: He was known in antiquity for his emphasis on *cheerfulness* (euthymia) as the **goal of life**, which he believed resulted from a **balanced and moderate soul**.
 3. **Scientific Scope**: His work was encyclopedic, covering ethics, mathematics, biology, and astronomy, and his materialist view directly **influenced later** thinkers like ***Epicurus***. 
 
->"Nothing exists except atoms and empty space; everything else is opinion."
-
-Democritus's *Fragment B125* from the *Diels-Kranz numbering* is a famous quote summarizing his atomist philosophy: 
-
->"By convention (nomos) color, by convention sweet, by convention bitter, but in reality (eteê) atoms and a void."
-
-This fragment highlights the distinction between sense perception and the true nature of reality. 
+**Nothing exists except atoms and empty space; everything else is opinion**.
+Democritus's *Fragment B125* from the *Diels-Kranz numbering* is a famous quote summarizing his atomist philosophy: **By convention (nomos) color, by convention sweet, by convention bitter, but in reality (eteê) atoms and a void**. This fragment highlights the distinction between sense perception and the true nature of reality. 
 
 Original Greek Text
 
 The original Greek text for the fragment is:
-
->νόμῳ χροιή, νόμῳ γλυκύ, νόμῳ πικρόω, ἑτεῇ δ' ἄτομα καὶ κενόν 
+νόμῳ χροιή, νόμῳ γλυκύ, νόμῳ πικρόω, ἑτεῇ δ' ἄτομα καὶ κενόν 
 
 Source
 
@@ -808,4 +826,15 @@ Basic Substance		Numbers, Limiters, Unlimiteds		Atoms and the Void
 Cosmology			Central Fire (non-geocentric)		Infinite atoms in motion
 Key Writing			On Nature (first Pythagorean book)	Numerous works on various sciences
 ~~~
----
+
+<br>
+
+## References
+
+Ladvocat, J. B., & Lohenschiold, O. C. (1760). *Des Herrn Abts Ladvocat historisches Hand-Wörterbuch ...* Vol. 1. Ulm: in der Gaumischen Handlung. [https://doi.org/10.3931/e-rara-22312](https://doi.org/10.3931/e-rara-22312)
+
+———. (1761). *Des Herrn Abts Ladvocat historisches Hand-Wörterbuch ...* Vol. 3. Ulm: in der Gaumischen Handlung. [https://doi.org/10.3931/e-rara-22312](https://doi.org/10.3931/e-rara-22312)
+
+Wood, J. (1749). *An Essay Towards a Description of Bath: In Four Parts*. 2nd ed. Vol. 1. London: James Bettenham. [https://archive.org/details/bim_eighteenth-century_an-essay-towards-a-descr_wood-john_1749_1](https://archive.org/details/bim_eighteenth-century_an-essay-towards-a-descr_wood-john_1749_1)
+
+
