@@ -774,13 +774,19 @@ Philolaus was a leading figure in the **Pythagorean tradition** and is credited 
 2. **The Laughing Philosopher**: He was known in antiquity for his emphasis on *cheerfulness* (euthymia) as the **goal of life**, which he believed resulted from a **balanced and moderate soul**.
 3. **Scientific Scope**: His work was encyclopedic, covering ethics, mathematics, biology, and astronomy, and his materialist view directly **influenced later** thinkers like ***Epicurus***. 
 
-**Nothing exists except atoms and empty space; everything else is opinion**.
-Democritus's *Fragment B125* from the *Diels-Kranz numbering* is a famous quote summarizing his atomist philosophy: **By convention (nomos) color, by convention sweet, by convention bitter, but in reality (eteê) atoms and a void**. This fragment highlights the distinction between sense perception and the true nature of reality. 
+>"Nothing exists except atoms and empty space; everything else is opinion."
+
+Democritus's *Fragment B125* from the *Diels-Kranz numbering* is a famous quote summarizing his atomist philosophy: 
+
+>"By convention (nomos) color, by convention sweet, by convention bitter, but in reality (eteê) atoms and a void."
+
+This fragment highlights the distinction between sense perception and the true nature of reality. 
 
 Original Greek Text
 
 The original Greek text for the fragment is:
-νόμῳ χροιή, νόμῳ γλυκύ, νόμῳ πικρόω, ἑτεῇ δ' ἄτομα καὶ κενόν 
+
+>νόμῳ χροιή, νόμῳ γλυκύ, νόμῳ πικρόω, ἑτεῇ δ' ἄτομα καὶ κενόν 
 
 Source
 
