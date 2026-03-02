@@ -61,11 +61,45 @@ The work evolved through several major revisions, with the 6th edition becoming 
 
 ---
 
-# The Oxyrhynchus Papyri
+# Papyri
 
 ---
 
-The *&primary publication** for these ancient manuscripts is the ongoing series titled **The Oxyrhynchus Papyri, published by the Egypt Exploration Society (EES)** within its Graeco-Roman Memoirs series. Since the first volume appeared in 1898, academics have transcribed and published over 6000 texts, yet this represents only about 1–2% of the estimated half-million fragments found at the site. 
+## The Derveni papyrus
+
+The Derveni papyrus is an Ancient Greek papyrus roll that was discovered in 1962 at the archaeological site of Derveni, near Thessaloniki, in Central Macedonia. A philosophical treatise, the text is **an allegorical commentary on an Orphic poem, a theogony** concerning the birth of the gods, *produced in the circle of* the philosopher ***Anaxagoras***. The roll dates to around 340 BC, during the reign of Philip II of Macedon, making it **Europe's oldest surviving manuscript**.
+
+>"in the fields of Greek religion, the sophistic movement, early philosophy, and the origins of literary criticism it is unquestionably the most important textual discovery of the 20th century.", (Janko, [2002](http://www.jstor.org/stable/20191519), p. 1)
+
+---
+
+## The Oxyrhynchus Papyri
+
+The Oxyrhynchus Papyri comprise the **world's largest collection of ancient manuscripts**, discovered in an ancient rubbish dump at Oxyrhynchus (modern Al-Bahnasa), Egypt. Excavated primarily between 1896 and 1907 by Oxford archaeologists *Bernard Grenfell* and *Arthur Hunt*, the collection contains over 500000 fragments dating from the 3rd c. BC to the 7th c. AD. 
+
+
+Overview of the Collection
+
+1. **Massive Scale**: The site yielded an unequalled archive of the ancient world; scholars estimate that only 1–2% of the recovered fragments have been transcribed and published so far.
+2. **Diverse Content**: Approximately 10% of the collection consists of literary, philosophical, and religious works, while the remaining 90% is *everyday* documentation such as tax assessments, private letters, and wills.
+3. **Languages**: While predominantly in Greek, the texts also include Latin, Coptic, Arabic, Hebrew, and various forms of ancient Egyptian. 
+
+Key Archaeological & Literary Highlights
+
+1. **Lost Literature**: The finds restored major works previously thought lost, including poems by *Sappho*, comedies by *Menander*, and fragments of *Sophocles'* satyr plays.
+2. **Biblical Significance**: The collection includes some of the earliest known fragments of the *New Testament* and the *Septuagint*. Notable finds include the *Sayings of Jesus* (Logia), now identified as part of the *Gospel of Thomas*.
+3. **Scientific Texts**: It contains one of the oldest extant diagrams from *Euclid's Elements*.
+4. **Everyday Life**: Documents like school writing exercises about mythology or a man's lament for a lost fighting cock provide rare insights into the lives of ordinary citizens. 
+
+Current Status & Access
+
+The ***Egypt Exploration Society*** acts as the custodian of the collection, which is primarily housed in the Sackler Library at the University of Oxford. 
+
+1. **Publication**: Systematic publication began in 1898; as of 2025, 88 volumes have been released in the ***Graeco-Roman Memoirs series***.
+2. **Digital Access**: Many images and transcripts are available via the Sustainable Digital Scholarship (SDS) platform and Oxyrhynchus Online. 
+
+
+The **primary publication** for these ancient manuscripts is the ongoing series titled **The Oxyrhynchus Papyri, published by the Egypt Exploration Society (EES)** within its Graeco-Roman Memoirs series. Since the first volume appeared in 1898, academics have transcribed and published over 6000 texts, yet this represents only about 1–2% of the estimated half-million fragments found at the site. 
 
 
 Key Publication Series
@@ -91,6 +125,7 @@ Digital and Archival Access
 2. Papyri.info: An online database offering searchable Greek texts for many of the published documentary papyri.
 3. Imaging Papyri Project: A digital repository hosted by the University of Oxford providing high-resolution images of the papyri. 
 
+<br>
 
 ---
 
@@ -572,7 +607,7 @@ The *Manetho* we read today is a reconstruction *based on these primary sources*
 
 1. ***Sextus Julius Africanus (early 3rd c. AD)***: His version is considered the most accurate to the original, though it survives only through Syncellus.
 2. ***Eusebius of Caesarea (4th c. AD)***: A Christian bishop whose version often differs from Africanus, preserved in Armenian and Latin translations.
-3. George Syncellus (9th c. AD): The *bridge* to the Middle Ages who **preserved both Africanus and Eusebius** in his **universal chronicle**. 
+3. ***George Syncellus (9th c. AD)***: The *bridge* to the Middle Ages who **preserved both Africanus and Eusebius** in his **universal chronicle**. 
 
 ---
 
@@ -590,8 +625,6 @@ The oldest physical evidence of Euclid’s work consists of small fragments foun
 2. **Herculaneum Carbonized Papyrus (c. 100 BC)**: Parts of Book I preserved as citations in a philosophical treatise recovered from the ruins of the eruption of Vesuvius. 
 3. **Oxyrhynchus Papyrus 29 (c. 75-125 AD)**: One of the oldest papyrus fragments, containing a diagram and text for Book II, Proposition 5.
 
-
-
 Most Significant Medieval Manuscripts 
 
 Complete or **nearly complete versions** of Euclid only appear starting in the 9th c. AD. 
@@ -608,5 +641,9 @@ Modern Preservation
 Most historical research today relies on the critical edition established by ***J. L. Heiberg (1883–1888)***, who **synthesized** the **Vatican manuscript** with various **papyri fragments** to reconstruct a text as close to *Euclid's* **original as possible**. 
 
 ---
+
+## References
+
+Janko, R. (2002). The Derveni Papyrus: An Interim Text. *Zeitschrift Für Papyrologie Und Epigraphik, 141*, 1–62. [http://www.jstor.org/stable/20191519](http://www.jstor.org/stable/20191519)
 
 
