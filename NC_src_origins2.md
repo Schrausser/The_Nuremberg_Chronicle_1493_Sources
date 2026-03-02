@@ -193,7 +193,7 @@ Empedocles proposed a *pluralistic archē*, arguing the universe is made of four
 
 ---
 
-## Arche vs. Yle
+## Archē vs. Yle
 
 In ancient Greek philosophy, *Arche (or archē)* refers to the fundamental substance or *first principle* of the universe, while *Hyle (or hyle)* refers to the *matter* or *material* that makes up physical objects. 
 The distinction between these two concepts is central to how early thinkers, **particularly Aristotle**, explained the structure of reality. 
