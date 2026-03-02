@@ -93,7 +93,7 @@ In Greek legend, *Abaris the Hyperborean* was a priest of *Apollo* who received 
 4. **Connection to Pythagoras**: Later traditions claim *Abaris* gave the arrow to the philosopher *Pythagoras* after recognizing him as the *Hyperborean Apollo*. 
 
 
-[^1]: John Wood, the Elder (1704-1784) wrote about *Abaris*, and put forth the fanciful suggestion that he should be identified with King **Bladud** or *Blaiddyd[a]* is a *legendary* king of the *Britons*,  contemporaneous with the biblical prophet *Elijah* (9th c. BC), s. above. According to the final form of the legend, which appeared in John Hardyng's Chronicles of 1457, Bladud's father sent his son to be educated in the liberal arts in Athens, he built *Kaerbadum* or *Caervaddon* (Bath), creating the hot springs there by the use of *magic*. He dedicated the city to the goddess *Athena* and in honour of her, lit *undying fires*, whose flames *turned to balls* of stone as they *grew low*, with new ones springing up in their stead: an embellishment of an account from the third-century writer Solinus of the use of local coal on the altars of her temple.he is said to have constructed *wings* for himself and to have tried to ***fly*** to the temple of *Apollo* in Trinovantum (London).
+[^1]: John Wood, the Elder (1704-1784) wrote about *Abaris*, and put forth the fanciful suggestion that he should be identified with King **Bladud** or *Blaiddyd[a]* is a *legendary* king of the *Britons*,  contemporaneous with the biblical prophet *Elijah* (9th c. BC), s. above. According to the final form of the legend, which appeared in John Hardyng's Chronicles of 1457, Bladud's father sent his son to be educated in the liberal arts in Athens, he built *Kaerbadum* or *Caervaddon* (Bath), creating the hot springs there by the use of *magic*. He dedicated the city to the goddess *Athena* and in honour of her, lit *undying fires*, whose flames *turned to balls* of stone as they *grew low*, with new ones springing up in their stead: an embellishment of an account from the third-century writer Solinus of the use of local coal on the altars of her temple, he is said to have constructed *wings* for himself and to have tried to ***fly*** to the temple of *Apollo* in Trinovantum (London).
 
 ---
 
@@ -201,9 +201,9 @@ The distinction between these two concepts is central to how early thinkers, **p
 Key Conceptual Differences
 
 **Table 1**. Arche vs. Yle.
-
-Concept 	Translation						Role in Philosophy
 ~~~
+Concept 	Translation						Role in Philosophy
+
 Arche		Beginning, Origin, Principle	The foundational source or cause from which everything originates and to which it returns.
 Hyle		Matter, Wood/Timber				The underlying material that receives form to become a specific object.
 ~~~
@@ -730,7 +730,7 @@ The Greek idea lay dormant through the Middle Ages until a manuscript of ***Lucr
 It is fascinating to look back at Greek atomism because Democritus and his teacher Leucippus managed to *intuit* the *fundamental nature of matter* over 2000 years before the invention of the microscope. 
 Here is a timeline of the development, peak, and eventual suppression of Greek atomism.
 
-**Table 5**. Timeline of Greek Atomism.
+**Table 6**. Timeline of Greek Atomism.
 ~~~
 Era 				Key Figure			Major Milestone
 
@@ -793,7 +793,7 @@ Meaning and Context
 3. **Epistemological Debate**: This fragment is part of a larger discussion about knowledge. In other related fragments (e.g., B11/TD22), *Democritus* distinguishes between **dark knowing** (*sense perception*) and **genuine knowing** (*reasoning about atoms and the void*), suggesting that **true understanding** requires going **beyond the senses**. Another passage describes a *Complaint of the Senses* where the senses challenge the intellect for using them as a basis only to then dismiss their input. 
 
 
-**Table 6**. Philolaus vs. Democritus.
+**Table 7**. Philolaus vs. Democritus.
 ~~~
 Feature 			Philolaus							Democritus
 
