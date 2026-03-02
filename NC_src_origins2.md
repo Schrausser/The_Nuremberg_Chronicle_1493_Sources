@@ -200,7 +200,7 @@ The distinction between these two concepts is central to how early thinkers, **p
 
 Key Conceptual Differences
 
-**Table 3**. Arche vs. Yle.
+**Table 1**. Arche vs. Yle.
 
 Concept 	Translation						Role in Philosophy
 ~~~
@@ -559,15 +559,15 @@ The **Eleatic school** and the **Megarian school** are **closely linked** by the
 
 Key Comparisons
 
-**Table 1**. Eleatic School	 vs. Megarian School.
+**Table 2**. Eleatic School	 vs. Megarian School.
 ~~~
-Feature 	Eleatic School	Megarian School
+Feature 			Eleatic School																		Megarian School
 
-Founder	Parmenides of Elea (c. 5th century BC)	Euclid of Megara (c. 4th century BC), a pupil of Socrates
-Primary Concept	The One (Being): Reality is a single, unchanging, and indivisible "Being."	The Good: Identified the Socratic "Good" with the Eleatic "One," arguing they are the same reality.
-View of Change	Change, motion, and plurality are complete illusions of the senses.	Motion and growth are figments of the senses; only the "Good" truly exists.
-Methodology	Known for Zeno’s Paradoxes, used to prove that motion is impossible through logic.	Developed Eristic (the art of dispute), using logical puzzles and the reductio ad absurdum.
-Legacy	Influenced Plato and established the foundations of ontology.	Influenced Stoic logic and developed famous paradoxes like "The Liar."
+Founder				Parmenides of Elea (c. 5th c. BC)													Euclid of Megara (c. 4th c. BC), a pupil of Socrates
+Primary Concept		The One (Being): Reality is a single, unchanging, and indivisible "Being."			The Good: Identified the Socratic "Good" with the Eleatic "One," arguing they are the same reality.
+View of Change		Change, motion, and plurality are complete illusions of the senses.					Motion and growth are figments of the senses; only the "Good" truly exists.
+Methodology			Known for Zeno’s Paradoxes, used to prove that motion is impossible through logic.	Developed Eristic (the art of dispute), using logical puzzles and the reductio ad absurdum.
+Legacy				Influenced Plato and established the foundations of ontology.						Influenced Stoic logic and developed famous paradoxes like "The Liar."
 ~~~
 
 Key Differences & Evolutions
@@ -600,14 +600,14 @@ Here is a timeline of the key figures and milestones in Greek Atomism.
 
 Timeline of Key Figures
 
-**Table 2**. Atomism.
+**Table 3**. Atomism.
 ~~~
-Era 	Philosopher	Key Contribution
+Era 				Philosopher		Key Contribution
 
-c. 480 – 420 BCE	Leucippus	The "Father of Atomism." He first proposed that everything is made of atoms and "the void."
-c. 460 – 370 BCE	Democritus	Expanded the theory; argued that atoms differ in shape and size, and their arrangement creates different substances.
-c. 341 – 270 BCE	Epicurus	Integrated atomism into ethics; introduced the "Swerve" theory to allow for human free will.
-c. 99 – 55 BCE	Lucretius	A Roman poet who preserved Greek atomist ideas in his epic poem De Rerum Natura (On the Nature of Things).
+c. 480 – 420 BC		Leucippus		The "Father of Atomism." He first proposed that everything is made of atoms and "the void."
+c. 460 – 370 BC		Democritus		Expanded the theory; argued that atoms differ in shape and size, and their arrangement creates different substances.
+c. 341 – 270 BC		Epicurus		Integrated atomism into ethics; introduced the "Swerve" theory to allow for human free will.
+c. 99 – 55 BC		Lucretius		A Roman poet who preserved Greek atomist ideas in his epic poem De Rerum Natura (On the Nature of Things).
 ~~~
 
 Core Concepts of the Atomist School
@@ -646,15 +646,15 @@ The *Golden Age* of Discovery: Inside the Atom
 
 At the turn of the 20th century, scientists realized the *indivisible* atom actually had *internal parts*. 
 
-**Table 3**. 
+**Table 4**. 
 ~~~
-Year 	Scientist	Discovery	Impact
+Year 	Scientist			Discovery			Impact
 
-1897	J.J. Thomson	The Electron	Proved atoms aren't solid; proposed the "Plum Pudding" model.
-1905	Albert Einstein	Brownian Motion	Provided the first mathematical proof that atoms actually exist.
-1911	Ernest Rutherford	The Nucleus	Discovered the atom is mostly empty space with a dense, positive core.
-1913	Niels Bohr	Electron Orbits	Proposed electrons travel in fixed energy levels (Planetary Model).
-1932	James Chadwick	The Neutron	Completed the basic atomic structure (Protons + Neutrons + Electrons).
+1897	J.J. Thomson		The Electron		Proved atoms aren't solid; proposed the "Plum Pudding" model.
+1905	Albert Einstein		Brownian Motion		Provided the first mathematical proof that atoms actually exist.
+1911	Ernest Rutherford	The Nucleus			Discovered the atom is mostly empty space with a dense, positive core.
+1913	Niels Bohr			Electron Orbits		Proposed electrons travel in fixed energy levels (Planetary Model).
+1932	James Chadwick		The Neutron			Completed the basic atomic structure (Protons + Neutrons + Electrons).
 ~~~
 
 The Quantum Era: Modern Atomism
@@ -713,14 +713,14 @@ Atomism *might* have been *lost* if not for the Roman poet *Lucretius*.
 He wrote the epic poem *De Rerum Natura* (*On the Nature of Things*).
 He used *poetic metaphors* to explain complex physics—***like dust motes dancing in a sunbeam***—to *prove* that invisible particles are always in motion. 
 
-**Table 4**. Comparison Greek vs. Modern Atoms.
+**Table 5**. Comparison Greek vs. Modern Atoms.
 ~~~
-Feature 	Greek Atomism	Modern Atomic Theory
+Feature 		Greek Atomism									Modern Atomic Theory
 
-Divisibility	Believed to be the "uncuttable" end.	Divisible (protons, neutrons, electrons).
-Evidence	Purely philosophical/logic-based.	Empirical (mathematical & experimental).
-The Void	Essential for movement.	Understood as "fields" or "space-time."
-Shapes	Thought atoms had hooks, points, or spheres.	Defined by energy levels and orbitals.
+Divisibility	Believed to be the "uncuttable" end.			Divisible (protons, neutrons, electrons).
+Evidence		Purely philosophical/logic-based.				Empirical (mathematical & experimental).
+The Void		Essential for movement.							Understood as "fields" or "space-time."
+Shapes			Thought atoms had hooks, points, or spheres.	Defined by energy levels and orbitals.
 ~~~
 
 The *Re-Discovery"*
@@ -732,14 +732,14 @@ Here is a timeline of the development, peak, and eventual suppression of Greek a
 
 **Table 5**. Timeline of Greek Atomism.
 ~~~
-Era 	Key Figure	Major Milestone
+Era 				Key Figure			Major Milestone
 
-c. 480 – 490 BC	Leucippus	The "Shadowy Founder." He proposes the first atomic theory to resolve the paradoxes of the Eleatic school (who argued motion was impossible).
-c. 460 BC	Democritus	Born in Abdera. He expands Leucippus's ideas into a complete cosmic system, earning the nickname "The Laughing Philosopher."
-c. 400 BC	Democritus	Publishes his core thesis: "Nothing exists except atoms and empty space; everything else is opinion."
-c. 380 – 340 BC	Plato & Aristotle	The "Great Rejection." Plato reportedly hated Democritus's work so much he wanted his books burned. Aristotle argues against atoms in favor of the four elements.
-c. 300 BC	Epicurus	Revives atomism in Athens. He adds the concept of the "Swerve" (clinamen) to account for free will in a deterministic universe.
-c. 50 BC	Lucretius	Writes the epic poem De Rerum Natura (On the Nature of Things), preserving the details of Democritus's theory for the Roman world.
+c. 480 – 490 BC		Leucippus			The "Shadowy Founder." He proposes the first atomic theory to resolve the paradoxes of the Eleatic school (who argued motion was impossible).
+c. 460 BC			Democritus			Born in Abdera. He expands Leucippus's ideas into a complete cosmic system, earning the nickname "The Laughing Philosopher."
+c. 400 BC			Democritus			Publishes his core thesis: "Nothing exists except atoms and empty space; everything else is opinion."
+c. 380 – 340 BC		Plato & Aristotle	The "Great Rejection." Plato reportedly hated Democritus's work so much he wanted his books burned. Aristotle argues against atoms in favor of the four elements.
+c. 300 BC			Epicurus			Revives atomism in Athens. He adds the concept of the "Swerve" (clinamen) to account for free will in a deterministic universe.
+c. 50 BC			Lucretius			Writes the epic poem De Rerum Natura (On the Nature of Things), preserving the details of Democritus's theory for the Roman world.
 ~~~
 
 The Core Pillars of Democritus’s Theory
@@ -795,25 +795,11 @@ Meaning and Context
 
 **Table 6**. Philolaus vs. Democritus.
 ~~~
-Summary Comparison
-Feature 	Philolaus	Democritus
-School	Pythagoreanism	Atomism
-Basic Substance	Numbers, Limiters, Unlimiteds	Atoms and the Void
-Cosmology	Central Fire (non-geocentric)	Infinite atoms in motion
-Key Writing	On Nature (first Pythagorean book)	Numerous works on various sciences
+Feature 			Philolaus							Democritus
+
+School				Pythagoreanism						Atomism
+Basic Substance		Numbers, Limiters, Unlimiteds		Atoms and the Void
+Cosmology			Central Fire (non-geocentric)		Infinite atoms in motion
+Key Writing			On Nature (first Pythagorean book)	Numerous works on various sciences
 ~~~
-
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
