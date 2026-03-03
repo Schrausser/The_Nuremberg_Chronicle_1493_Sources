@@ -533,7 +533,7 @@ Relationships and Theories
 The Phoenician civilization lasted from approximately 1550-300 BC. Emerging from the *Bronze Age Canaanites*, they became the **dominant maritime and mercantile power** in the Mediterranean **following the Late Bronze Age collapse**. 
 
 
-Early Roots & Formation (c. 3000 – 1200 BCEä) 
+Early Roots & Formation (c. 3000 – 1200 BC) 
 
 1. **c. 3000 – 2750 BC**: Foundation of major city-states like *Byblos, Sidon, and Tyre*.
 2. **c. 2900 BC**: Beginning of significant commercial **trade with Egypt**, primarily exporting *Lebanon cedar wood*.
@@ -549,7 +549,7 @@ The Golden Age & Expansion (c. 1200 – 800 BC)
 4. **814 BC**: Traditional date for the **founding of Carthage** by Queen Dido (Elissa) of Tyre. 
 
 
-Imperial Domination & Decline (c. 800 – 64 BCE)
+Imperial Domination & Decline (c. 800 – 64 BC)
 
 1. **858 – 608 BC**: Phoenicia becomes a **vassal state under** the **Assyrian Empire**, paying heavy tributes to maintain relative autonomy.
 2. **585 – 573 BC**: Nebuchadnezzar II of Babylon conducts a **13-year siege of Tyre**.
