@@ -184,3 +184,41 @@ Key Differences
 - ancient parchment was ***skin-based***, 
 - modern parchment paper used in baking is actually a ***cellulose-based*** paper treated with *silicone* or *acid* to make it heat-resistant and non-stick.
 
+---
+
+## Printing press
+
+The printing press evolved from early manual **woodblock techniques in East Asia** to the mechanical revolution led by ***Johannes Gutenberg***, eventually leading to modern digital and 3D printing. 
+
+### Early Foundations (Ancient – 14th c.)
+
+1. **200 AD**: **Woodblock Printing (China)** – The **earliest** known printing form, where images or text were carved into wood blocks, inked, and pressed onto fabric or paper.
+2. **868 AD**: The *Diamond Sutra* – The **oldest known** dated **printed book**, produced in *China* using woodblock printing.
+3. **1041**: **First Movable Type (China)** – Invented by ***Bi Sheng*** using baked clay; however, it was fragile and not widely adopted.
+4. **1297–1313**: **Improved Wood Type (China)** – ***Wang Zhen*** refined movable type using wood and developed revolving tables for typesetters to improve efficiency.
+5. **1377**: First Metal Movable Type Book **(Korea)** – The *Jikji*, a Buddhist document, was printed using **bronze movable type**, predating Gutenberg's work. 
+
+
+### The Gutenberg Revolution (15th – 18th c.) 
+
+1. **1440**: *The Gutenberg Press (Germany)* – ***Johannes Gutenberg*** adapted the screw-press (used for wine and olives) to create the **first mechanical movable-type press**.
+2. **1455**: **Gutenberg Bible** – The **first major book** printed in the West using movable metal type, with roughly 180 copies produced.
+3. **1476**: Printing in England – ***William Caxton*** established the first English printing press near Westminster Abbey.
+4. **1501**: Italic Type – Introduced by ***Aldus Manutius*** in Venice to create smaller, more portable *pocket* books.
+5. **1605**: First **Weekly Newspaper** – Relation aller *Fürnemmen und gedenckwürdigen Historien* began publication in Strasbourg.
+6. **1796**: **Lithography** – ***Alois Senefelder*** invented this chemical process, allowing for the reproduction of images and text from a flat surface. 
+
+
+### Industrial and Modern Era (19th c. – Present)
+
+1. **1800: The Stanhope Press** – The **first all-iron** printing press, which was stronger and faster than its wooden predecessors.
+2. **1814: Steam-Powered Press** – The **first steam-powered** cylindrical press was installed at *The Times in London*, capable of 1100 sheets per hour.
+3. **1843: Rotary Press** – ***Richard March Hoe*** invented the rotary press, which allowed for **massive increases in speed**, printing millions of pages per day.
+4. **1886: Linotype Machine** – Developed by ***Ottmar Mergenthaler***, this allowed operators to *set type* via a keyboard, **revolutionizing newspaper** production.
+5. **1904: Offset Lithography** – Became the dominant method for commercial printing, transferring ink from a plate to a *rubber blanket* before the paper.
+6. **1938: Xerography (Photocopying)** – Invented by ***Chester Carlson***, leading to the **first office copiers in 1959**.
+7. **1969: Laser Printing** – ***Gary Starkweather*** at *Xerox* developed the **first laser printer**, enabling high-speed digital output.
+8. **1984: 3D Printing** – ***Chuck Hull*** produced the **first 3D printer** using stereolithography, shifting the focus from printing on paper to *fabricating objects*. 
+
+---
+
