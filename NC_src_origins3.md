@@ -441,6 +441,16 @@ Some sources identify *Histiaeus* as his *eventual successor* in the line of not
 
 ## Aeinautae (c. 600 BC)
 
+
+The term aeinautae (Greek: ἀειναῦται, "ever-voyagers") refers to a specific group or magistrate class in ancient Greek maritime cities, most notably Miletus and Chalcis. 
+
+Available historical dates and periods associated with the aeinautae include:
+
+1. **Archaic Period (6th c. BC)**: In *Miletus*, the aeinautae were an **aristocratic faction** that held power following the era of the tyrants, specifically after the rule of *Thrasybulus*. They were known for holding their political deliberations on board ships at sea to avoid interference from the populace. 
+2. **5th c. BC**: An *inscription* from **Eretria** (LSAG 88.21a. S433) records a dedication made by the **koinon (association) of the aeinautae**, dating it specifically to this century.
+3. **3rd c. BC**: A dedicatory *inscription* from **Chalcis** (IG XII. 9.909) **mentions the aeinautae** during this later Hellenistic period.
+
+
 The ***Aeinautae were a mercantile oligarchy*** in archaic Miletus whose name literally translates to **ever-voyagers** (αεί, *always and ναύται, *sailors*). They were known for ***conducting governmental business while aboard their ships*** at sea to remain undisturbed by the populace. Their *rule was eventually overturned by civil strife* (***stasis***), which ***led to the rise of individual tyrants***, most notably ***Thrasybulus***, who was a contemporary and ally of Periander of Corinth. 
 
 Aeinautae  were *magistrates* at Miletus around 600 BC, consisting of the *chief men in the state*, who obtained the *supreme power* on the ***deposition of the tyrants, Thoas and Damasenor***. 
@@ -460,6 +470,124 @@ Summary of Political Shift
 4. *Final Resolution*: Government by Landowning Aristocrats (established by Parian arbitrators) 
 
 In Miletus, the **Aeinautae (Aeinaustae) were succeeded in power by tyrants.**
+
+---
+
+## Sea Peoples vs.  Aeinautae vs. Atlantis
+
+The connection between the *Sea Peoples*, the term *Aenautae*, and *Atlantis* lies in a historical-literary theory that suggests *Plato's Atlantis* was inspired by the real-world **Bronze Age invasions recorded in Egypt**. 
+
+The *Aeinautae* and Sea Peoples Connection
+
+1. **The Aeinautae (Ever-Sailors)**: The term Aeinautae (from the Greek aeinautai, meaning *always-sailing*) refers to a specific class of perpetual mariners or a *merchant-naval guild* in ancient Greek history, most notably in *Miletus*. In some fringe or speculative historical contexts, this *term is used to describe the Sea Peoples*—the mysterious *confederation of naval raiders* (such as the Peleset, Sherden, and Lukka) who destabilized the Mediterranean during the Late Bronze Age Collapse (c. 1200 BC).
+2. Egyptian Records: **The Sea Peoples** are primary known through *Egyptian inscriptions* (e.g., at **Medinet Habu**) which describe them as **foreign countries that made a conspiracy in their islands**. 
+
+
+Atlantis as a *Veiled* Sea People Invasion
+
+Scholars and historians often propose that Plato’s account of Atlantis (written c. 360 BC) was a **distorted retelling of the Sea Peoples' wars against Egypt** 900 years earlier. 
+
+
+1. **The Add a Zero Theory**: Plato claims Atlantis existed 9000 years before his time. Proponents of the *Sea Peoples theory* suggest he (or his source, Solon) may have erroneously added a zero to the actual 900-year interval since the Bronze Age Collapse.
+2. **Geographic Parallels**: Like the *Sea Peoples*, the *Atlanteans* are described as an **advanced, island-based maritime power** that attempted **to conquer Egypt and Greece** before being repelled and ultimately **destroyed by a natural cataclysm**.
+3. **The Thera Connection**: Many link the *destruction* of this empire to the **Minoan Eruption** on the island of Thera (Santorini), which **crippled** the ***seafaring*** **Minoan civilization** and potentially contributed to the subsequent **migrations of the Sea Peoples**.
+
+---
+
+## Phoenicians vs.  Sea Peoples
+
+
+The *Phoenicians* and the *Sea Peoples* were two distinct but contemporaneous groups that played pivotal roles in the Late Bronze Age collapse (c. 1200 BC) and the subsequent transition to the Iron Age. While the Sea Peoples are often credited with the violent destruction of Mediterranean empires, the Phoenicians are seen as the "winners" who thrived in the resulting power vacuum. 
+
+
+Key Distinctions
+
+1. Origins: 
+
+- The **Phoenicians** were a Levantine, Semitic-speaking people directly descended from the Bronze Age **Canaanites**. 
+- The **Sea Peoples** were a **mysterious confederacy** likely originating from the Aegean, Anatolia, or Southern Europe.
+
+2. Nature of Activities: 
+
+- The **Phoenicians** were primarily maritime **merchants** and **colonisers**(!) who built extensive trade networks.
+- The **Sea Peoples** were largely migratory **warriors** and raiders who attacked *Egypt* and destroyed the *Hittite* and *Mycenaean* empires. 
+
+
+3. Historical Records: 
+
+- **Phoenician** history is **reconstructed through archaeology** and the accounts of the *Greeks and Romans*, as their own papyrus records have perished. 
+- Most knowledge of the **Sea Peoples** comes from Egyptian **inscriptions at Medinet Habu**. 
+
+
+Relationships and Theories
+
+1. **The "Survival" Mystery**: While major cities like *Ugarit* were burned to the ground, **Phoenician city-states** like *Tyre, Sidon*, and *Byblos* remained **largely untouched** or quickly recovered. Some scholars suggest the *Phoenicians* may have paid off the *Sea Peoples* or even acted as **silent partners**.
+2. **Technological Exchange**: There is **evidence of cultural merging**; some archaeologists believe the **Phoenicians learned** advanced shipbuilding techniques, such as constructing harbors and moorings, **from the Sea Peoples**.
+3. **Philisitine Connection**: One group of **Sea Peoples**, the Peleset, **settled in southern Canaan** and became the *Philistines*, who **lived alongside the Phoenicians** for centuries.
+4. **Common Source Theory**: A minority of researchers propose that the **Sea Peoples** might have been an earlier wave of migratory **Proto-Phoenicians** or that the two groups mixed significantly to create the distinct Iron Age Phoenician identity. 
+
+---
+
+## Phoenicians
+
+The Phoenician civilization lasted from approximately 1550-300 BC. Emerging from the *Bronze Age Canaanites*, they became the **dominant maritime and mercantile power** in the Mediterranean **following the Late Bronze Age collapse**. 
+
+
+Early Roots & Formation (c. 3000 – 1200 BCEä) 
+
+1. **c. 3000 – 2750 BC**: Foundation of major city-states like *Byblos, Sidon, and Tyre*.
+2. **c. 2900 BC**: Beginning of significant commercial **trade with Egypt**, primarily exporting *Lebanon cedar wood*.
+3. **c. 1500 BC**: Development of an entirely new approach to writing, leading to the **Phoenician alphabet**.
+4. **1479 – 1200 BC**: Phoenician cities function as **autonomous** but *favored* entities under *Egyptian* and *Hittite influence*. 
+
+
+The Golden Age & Expansion (c. 1200 – 800 BC) 
+
+1. **c. 1200 BC**: The Late **Bronze Age collapse** weakens major powers (Egyptians, Hittites), allowing for a **Phoenician renaissance** where they become the **sole maritime power**.
+2. **c. 1100 BC**: Foundation of far-reaching **colonies** including *Gades* (Cadiz, Spain), *Utica* (Tunisia), and *Lixus* (Morocco).
+3. **969 – 936 BC**: Reign of ***Hiram I of Tyre***, who forms an **alliance with** Israel's ***King Solomon*** and establishes Tyre as the dominant Phoenician city-state.
+4. **814 BC**: Traditional date for the **founding of Carthage** by Queen Dido (Elissa) of Tyre. 
+
+
+Imperial Domination & Decline (c. 800 – 64 BCE)
+
+1. **858 – 608 BC**: Phoenicia becomes a **vassal state under** the **Assyrian Empire**, paying heavy tributes to maintain relative autonomy.
+2. **585 – 573 BC**: Nebuchadnezzar II of Babylon conducts a **13-year siege of Tyre**.
+3. **539 BC**: Phoenicia falls **under Persian (Achaemenid) rule**. Phoenician fleets become the backbone of the Persian **navy during the Greco-Persian Wars**.
+4. **332 BC**: *Alexander the Great* conquers Phoenicia after a brutal seven-month siege of Tyre, effectively **ending Phoenician political independence**.
+5. **264 – 146 BC**: The Punic Wars between Carthage (the greatest Phoenician colony) and Rome end with the total **destruction of Carthage**.
+6. **64 BC**: The remaining Phoenician cities are officially **annexed by Rome** and incorporated into the province of Syria.
+
+---
+
+## The Sea Peoples
+
+The Sea Peoples were a confederation of seafaring raiders who invaded the eastern Mediterranean between approximately 1276 and 1178 BC. Their movements are often cited as a **major catalyst for the Late Bronze Age Collapse**, a period marked by the sudden downfall of powerful empires like the *Hittites* and *Mycenaeans*. 
+
+
+Sea Peoples Timeline
+
+
+Early Encounters (13th Century BC)
+
+1. **c. 1280 – 1276 BC**: *Ramesses II* (The Great) records the first clear mention of a **seaborne threat from the Shardana**, whom he *later recruits as mercenaries*.
+2. **c. 1210 – 1208 BC**: Pharaoh *Merneptah* repels a massive **coalition of Libyans and Sea Peoples** (including the Ekwesh, Teresh, and Lukka) at the Battle of Perire.
+3. **Late 13th c. BC**: Archaeological evidence shows the beginning of **widespread destruction** in the *Aegean* and western *Anatolia*. 
+
+
+The Peak of Destruction (c. 1200 – 1180 BC) 
+
+1. **c. 1200 BC**: The Hittite capital of *Hattusa* is destroyed, leading to the **collapse of the Hittite Empire**.
+2. **c. 1192 – 1185 BC**: The prosperous coastal city of *Ugarit* is burned to the ground; final letters from its king describe **enemy ships** and burning towns.
+3. **c. 1187 BC**: The city of **Kadesh is destroyed** and subsequently vanishes from history.
+4. **Early 12th c. BC**: **Mycenaean** palace culture in Greece **collapses**; cities are abandoned and writing systems are lost. 
+
+
+Final Conflicts and Settlement (1178 BC & Beyond)
+
+1. **1178 BC**: **Ramesses III defeats the Sea Peoples** in two decisive engagements: the land Battle of Djahy and the naval Battle of the Delta.
+2. **1175 BC**: Following their defeat, groups like the Peleset are **settled by the Egyptians** in the Levant, eventually becoming the *Philistines*.
+3. **Post-1150 BC**: The era of migratory raids largely ends as the survivors assimilate into local populations, marking the definitive **transition into the Iron Age**. 
 
 ---
 
@@ -594,7 +722,9 @@ Daneben kursierten noch *andere Listen*, die statt *Myson* bzw. *Periandros* und
 
 Mitunter wurden folgende Persönlichkeiten zu den *Sieben Weisen* gezählt:
 
-***Epimenides*** (7th-6th c. BC) *Epimenides of Knossos* was a semi-mythical Greek seer, philosopher, and poet from Crete who flourished in the 6th-7th c. BC. He is most famous in modern logic for the *Epimenides Paradox* and in theology for being quoted in the New Testament. 
+### ***Epimenides*** (7th-6th c. BC) 
+
+*Epimenides of Knossos* was a semi-mythical Greek seer, philosopher, and poet from Crete who flourished in the 6th-7th c. BC. He is most famous in modern logic for the *Epimenides Paradox* and in theology for being quoted in the New Testament. 
 
 Key Biographical Legends
 
@@ -618,7 +748,9 @@ The ***Apostle Paul*** alludes to *Epimenides* twice in the New Testament:
 1. **Titus 1:12**: Paul explicitly quotes the *Cretans are always liars* line, referring to *Epimenides* as *a prophet of their own*.
 2. **Acts 17:28**: During his speech at the Areopagus, Paul says, "For in him we live and move and have our being," which is believed to be *a quote* from *Epimenides'* poem *Cretica*.
 
-***Anacharsis*** Anacharsis (fl. 6th c. BC) was a legendary Scythian prince and philosopher who became a celebrated figure in Ancient Greece.  A legendary **Scythian prince and traveller**. Known for his sharp wit and *barbarian* perspective, he is often included in lists of the Seven Sages of Greece. 
+### ***Anacharsis*** 
+
+Anacharsis (fl. 6th c. BC) was a legendary Scythian prince and philosopher who became a celebrated figure in Ancient Greece.  A legendary **Scythian prince and traveller**. Known for his sharp wit and *barbarian* perspective, he is often included in lists of the Seven Sages of Greece. 
 
 Key Biographical Details
 
@@ -635,21 +767,33 @@ Philosophy and Legacy
 2. **Literary Impact**: His character was popularized in the 18th century by *Jean-Jacques Barthélemy* in the fictional ***Travels of Anacharsis the Younger in Greece***.
 3. **Namesake**: The French Revolutionary ***Anacharsis Cloots*** [^1] **adopted the name as a pseudonym** to signify his role as an orator of the human race. 
 
-***Leophantos*** Mentioned in the records of *Maeandrius*.
+### ***Leophantos*** 
 
-***Aristodemos*** Aristodemus of Sparta (d. 479 BC) was a Spartan warrior famously known as one of only two survivors from the legendary 300 Spartans at the Battle of Thermopylae.
+Mentioned in the records of *Maeandrius*.
 
-***Pherekydes von Syros*** (6th c. BC)
+### ***Aristodemos*** 
 
-***Pythagoras von Samos*** The famous mathematician and philosopher.
+Aristodemus of Sparta (d. 479 BC) was a Spartan warrior famously known as one of only two survivors from the legendary 300 Spartans at the Battle of Thermopylae.
 
-***Anaxagoras***
+### ***Pherekydes von Syros*** (6th c. BC)
 
-***Akusilaos von Argos*** Akusilaos of Argos (also known as Acusilaus) was a Greek logographer and mythographer who lived during the late 6th and early 5th c. BC. He is recognized as one of the earliest known Greek prose writers and historians. 
+### ***Pythagoras von Samos*** 
 
-***Lasos aus Hermione*** Lasus of Hermione was a celebrated 6th c. BC Greek lyric poet and music theorist. He is best known for his revolutionary innovations in the *dithyramb*, a choral hymn performed in honor of the god *Dionysus*. 
+The famous mathematician and philosopher.
 
-****Orpheus*** 6th c. BC (First Mentions): The earliest surviving literary references to Orpheus appear in the 6th c. BC, with the poet ***Ibycus*** referring to him as *famous Orpheus*. 
+### ***Anaxagoras***
+
+### ***Akusilaos von Argos*** 
+
+Akusilaos of Argos (also known as Acusilaus) was a Greek logographer and mythographer who lived during the late 6th and early 5th c. BC. He is recognized as one of the earliest known Greek prose writers and historians. 
+
+### ***Lasos aus Hermione*** 
+
+Lasus of Hermione was a celebrated 6th c. BC Greek lyric poet and music theorist. He is best known for his revolutionary innovations in the *dithyramb*, a choral hymn performed in honor of the god *Dionysus*. 
+
+### ***Orpheus*** 6th c. BC (First Mentions)
+
+The earliest surviving literary references to Orpheus appear in the 6th c. BC, with the poet ***Ibycus*** referring to him as *famous Orpheus*. 
 Orpheus was a **Thracian bard**, **poet**, and **prophet**. He is often called the greatest musician of antiquity, represents the mythological and mystical branch of wisdom rather than the legislative branch of the Seven Sages, often discussed in the context of philosophy as the **founder of Orphism**, a mystery religion that deeply influenced later thinkers like *Pythagoras* and *Plato*.They *both adopted* elements of *Orphic thought* ***regarding the soul***. 
 
 1. **14th-15th c. BC**: Some ancient sources, such as the *Suda* encyclopedia and the *Parian Marble*, date Orpheus to around the 14th-15th c. BC. He is often cited as having lived 11 generations before the Trojan War.  
@@ -657,9 +801,13 @@ Orpheus was a **Thracian bard**, **poet**, and **prophet**. He is often called t
 3. **Argonaut Expedition**: He was a **key member of Jason's crew**, using his music to save the Argonauts from the deadly song of the Sirens.
 The ***Argonautica** is a Greek epic poem *written by* ***Apollonius of Rhodes*** in the **3rd c. BC**. It is the only surviving epic from the Hellenistic period and recounts the legendary voyage of Jason and the Argonauts as they quest for the Golden Fleece in the distant land of *Colchis*. 
 
-***Epicharmos*** Epicharmos (c. 550-460 BC) was a Greek poet, dramatist, and philosopher, widely credited by ancient authorities like *Aristotle* as the **inventor of comedy**.
+### ***Epicharmos*** 
 
-***Peisistratos*** Peisistratos (c. 600-527 BC) was the definitive *popular tyrant* of ancient Athens, whose rule transformed the city into a dominant cultural and economic powerhouse. Unlike modern dictators, he was largely respected for maintaining *Solon's* laws while championing the lower classes. 
+Epicharmos (c. 550-460 BC) was a Greek poet, dramatist, and philosopher, widely credited by ancient authorities like *Aristotle* as the **inventor of comedy**.
+
+### ***Peisistratos*** 
+
+Peisistratos (c. 600-527 BC) was the definitive *popular tyrant* of ancient Athens, whose rule transformed the city into a dominant cultural and economic powerhouse. Unlike modern dictators, he was largely respected for maintaining *Solon's* laws while championing the lower classes. 
 
 Rise to Power
 
@@ -682,7 +830,8 @@ The Peisistratids
 
 Following his death in 527 BC, his sons *Hippias and Hipparchus* succeeded him. While initially following their father's benevolent path, their rule became increasingly oppressive after *Hipparchus* was assassinated in 514 BC, eventually leading to the family's expulsion and the birth of Athenian Democracy.
 
-***Linos***
+### ***Linos***
+
 Linos (or Linus) is an ancient Greek figure occasionally included in variant lists of the Seven Sages of Greece. 
 While there is a canonical core of four sages *Thales, Solon, Pittacus, and Bias* the remaining three spots varied among different ancient authors. *Linos* appears in the catalog of the historian *Hippobotus*, who listed him alongside other legendary and historical figures such as *Orphe (Orpheus)* and *Pythagoras*. 
 
@@ -692,7 +841,7 @@ Context of Linos in the Seven Sages
 2. *Sage Status*: His inclusion by authors like Hippobotus highlights that the "Seven Sages" was not always a fixed historical group but rather a symbolic assembly of the wisest men from Greece's early era.
 3. *Other Lists*: Most standard lists replace him with figures like *Chilon of Sparta*, *Cleobulus of Lindos*, or *Periander of Corinth*. 
 
-***Pamphilos***
+### ***Pamphilos***
 
 Vereinzelt wurden auch noch weitere Namen genannt.
 
