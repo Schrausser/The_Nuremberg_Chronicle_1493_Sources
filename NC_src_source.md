@@ -5,7 +5,7 @@
 
 ---
 
-The term ***Diels-Kranz*** (often abbreviated as ***DK***) refers to the definitive collection of source materials for Presocratic philosophy, titled **Die Fragmente der Vorsokratiker** (The Fragments of the Presocratics). First published by ***Hermann Diels*** in 1903 and later expanded by ***Walther Kranz***, it is the **standard reference** for scholars studying early Greek thinkers. 
+The term ***Diels-Kranz*** (often abbreviated as ***DK***) refers to the definitive collection of source materials for Presocratic philosophy, titled **Die Fragmente der Vorsokratiker** (The Fragments of the Presocratics). First published by ***Hermann Diels*** in 1903 and later expanded by ***Walther Kranz***, it is the **standard reference** for scholars studying early Greek thinkers (c.f. Diels, [1906](https://archive.org/details/diefragmentederv01diel)). 
 
 Core Structure of Sources
 
@@ -93,7 +93,7 @@ Key Archaeological & Literary Highlights
 
 Current Status & Access
 
-The ***Egypt Exploration Society*** acts as the custodian of the collection, which is primarily housed in the Sackler Library at the University of Oxford. 
+The ***Egypt Exploration Society*** acts as the custodian of the collection, which is primarily housed in the Sackler Library at the University of Oxford (c.f. Benaissa et al., [2025](https://oxyrhynchus.web.ox.ac.uk/publications)).
 
 1. **Publication**: Systematic publication began in 1898; as of 2025, 88 volumes have been released in the ***Graeco-Roman Memoirs series***.
 2. **Digital Access**: Many images and transcripts are available via the Sustainable Digital Scholarship (SDS) platform and Oxyrhynchus Online. 
@@ -643,6 +643,10 @@ Most historical research today relies on the critical edition established by ***
 ---
 
 ## References
+
+Benaissa, A., Henry, W. B., & et al., ed. (2025). *The Oxyrhynchus Papyri*. Vol. LXXXVIII. Graeco-Roman Memoirs. London: Egypt Exploration Society. [https://oxyrhynchus.web.ox.ac.uk/publications](https://oxyrhynchus.web.ox.ac.uk/publications)
+
+Diels, H. (1906). *Die Fragmente der Vorsokratiker: Griechisch und Deutsch*. 2nd ed. Vol. 1. Berlin: Weidmannsche Buchhandlung. [https://archive.org/details/diefragmentederv01diel](https://archive.org/details/diefragmentederv01diel)
 
 Janko, R. (2002). The Derveni Papyrus: An Interim Text. *Zeitschrift Für Papyrologie Und Epigraphik, 141*, 1–62. [http://www.jstor.org/stable/20191519](http://www.jstor.org/stable/20191519)
 
