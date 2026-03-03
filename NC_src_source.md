@@ -73,6 +73,25 @@ The Derveni papyrus is an Ancient Greek papyrus roll that was discovered in 1962
 
 ---
 
+## The Villa of the Papyri scrolls
+
+The Villa of the Papyri scrolls were carbonised during the eruption of Mount Vesuvius in **AD 79**. While the scrolls were buried for nearly 1700 years, the majority of the texts themselves **date back** to the **1st c. BC**. 
+
+Key Historical Dates
+
+1. **Initial Construction (c. 40 BC)**: Recent archaeological findings suggest the villa was built around this time.
+2. **Writing of the Scrolls (1st Century BC)**: Most scrolls contain the works of the *Epicurean philosopher* ***Philodemus of Gadara*** (c. 110–30 BC), meaning they were likely written and collected during the mid-to-late 1st c. BC.
+3. **Seaside Pavilion Addition (c. AD 20)**: A later extension was added to the villa roughly 50 years before the eruption.
+4. **Volcanic Eruption (AD 79)**: The villa and its library were buried under 30 metres of volcanic material, which carbonised the papyri and preserved them from total decay.
+5. **Rediscovery (1750–1754)**: The villa and its collection of over **1800 scrolls** were accidentally found by workers digging a well. 
+
+Recent Breakthroughs
+
+1. 2023–2024: The Vesuvius Challenge successfully used AI and X-ray phase-contrast tomography to *read the first full words* and passages from the *unopened scrolls*.
+2. April 2024: Researchers used these techniques to identify a scroll detailing the exact burial location of *Plato* at his Academy in Athens.
+
+---
+
 ## The Oxyrhynchus Papyri
 
 The Oxyrhynchus Papyri comprise the **world's largest collection of ancient manuscripts**, discovered in an ancient rubbish dump at Oxyrhynchus (modern Al-Bahnasa), Egypt. Excavated primarily between 1896 and 1907 by Oxford archaeologists *Bernard Grenfell* and *Arthur Hunt*, the collection contains over 500000 fragments dating from the 3rd c. BC to the 7th c. AD. 

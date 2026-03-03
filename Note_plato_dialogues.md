@@ -410,6 +410,99 @@ You can read the full text for free on [Project Gutenberg](https://www.google.co
 
 ## 2.2. Middle period
 
+### 2.2.1.
+
+Plato’s Symposium (c. 385–370 BC) is a cornerstone of Western philosophy that explores the nature of Love (Eros) through a series of speeches. Set at a banquet (or "drinking party") in 416 BC, the dialogue depicts a contest among notable Athenians to provide the most compelling praise of the god Eros. 
+
+Key Speeches & Perspectives
+
+The dialogue is structured as a narrative told by Apollodorus, recounting the speeches of the guests: 
+
+Phaedrus: Argues that Love is the oldest of gods and inspires courage and virtue in lovers.
+Pausanias: Distinguishes between "Common Love" (mere physical lust) and "Heavenly Love" (intellectual and moral attraction).
+Eryximachus: A physician who views Love as a universal force of harmony affecting medicine, music, and nature.
+Aristophanes: Provides a famous myth where humans were once four-legged, eight-limbed creatures split in half by Zeus; Love is the lifelong quest to find our "other half" to restore our original wholeness.
+Agathon: Praises Love as the youngest, most beautiful, and most virtuous god. 
+
+Socrates and Diotima’s Ladder 
+
+Socrates challenges the previous speakers, claiming he only knows the truth about Love from a woman named Diotima. She describes Love not as a god, but as a "spirit" (daimon) that mediates between the mortal and the divine. 
+
+
+She introduces the "Ladder of Love," a progression of desire: 
+A single beautiful body: Initial physical attraction.
+All beautiful bodies: Recognizing beauty as a shared trait.
+Beautiful souls: Valuing character and virtue over physical appearance.
+Laws and institutions: Appreciating the beauty in social order.
+The sciences/knowledge: Finding beauty in intellectual pursuits.
+The Form of Beauty: The final stage, where one contemplates "Beauty itself"—eternal, absolute, and unchanging. 
+
+
+The Arrival of Alcibiades
+
+The dialogue concludes with the dramatic entrance of a drunken Alcibiades, a charismatic general. Instead of praising Love, he delivers a raw, personal eulogy for Socrates, describing him as a "Silenus" figure—ugly on the outside but filled with "divine and golden" images of virtue on the inside. 
+
+---
+
+### 2.2.2. Cratylus
+
+Plato's Cratylus is a philosophical dialogue centered on the correctness of names (onomastics) and whether language is a product of nature or convention. It is widely considered one of Plato's most complex and "vexing" works, often blending deep metaphysical inquiry with satirical humor. 
+
+
+Core Debate
+
+The dialogue features a three-way discussion between Socrates and two primary interlocutors who hold opposing views: 
+Hermogenes (Conventionalism): Argues that names are merely arbitrary conventions agreed upon by a community. For him, any name is "correct" as long as it is established by usage, and individuals could even have private names for things.
+Cratylus (Naturalism): Contends that names have a natural rightness or an inherent connection to the objects they represent. He believes a name must somehow describe or imitate the essence of the thing it names.
+Socrates (Referee): Mediates the dispute by first challenging Hermogenes' radical conventionalism, then dismantling Cratylus' extreme naturalism. 
+
+
+Key Philosophical Arguments
+
+The Tool Analogy: Socrates compares a name to a tool (like a shuttle or a drill). Just as a tool must be crafted by an expert to perform a specific function, a name should be crafted by a "lawgiver" to "instruct and separate being".
+Etymological Section: A large portion of the dialogue consists of Socrates providing creative, and often far-fetched, etymologies for Greek words to show how they might describe the nature of things. Scholars debate whether these were meant seriously or as a parody of contemporary linguistic theories.
+Imitation through Sound: Socrates explores the idea that primary sounds (letters) have imitative qualities—for example, "r" (rho) representing motion or "l" (lambda) representing smoothness.
+The Rejection of Language as Ultimate Knowledge: By the end, Socrates argues that studying names is inferior to studying things themselves. He concludes that while names may be tools, they cannot be infallible sources of truth, as the original "name-givers" might have been mistaken about the nature of reality. 
+
+
+Historical and Modern Influence
+
+Dating: Most scholars place it in Plato's middle period, alongside the Phaedo, as it begins to introduce the Theory of Forms.
+Heraclitean Influence: The character Cratylus was a follower of Heraclitus, whose doctrine of universal flux (everything is in constant motion) heavily influences the dialogue's discussion on whether stable names can refer to a changing world.
+Legacy: The dialogue's tension between naturalism and conventionalism prefigures modern linguistics, including Ferdinand de Saussure’s theory of the arbitrary nature of the sign. 
+
+---
+
+### 2.2.3. Euthydemus
+
+Written around 384 BC, Plato's Euthydemus is a satirical dialogue that pits Socratic inquiry against the "eristic" (combative) methods of two prominent Sophists, Euthydemus and his brother Dionysodorus. 
+
+
+Core Themes & Structure
+The dialogue is framed as a report from Socrates to his friend Crito about a conversation held at the Lyceum gymnasium. It centers on the education of a young man named Cleinias, contrasting two distinct approaches: 
+
+
+Sophistic Eristic: Euthydemus and Dionysodorus use linguistic tricks and logical fallacies to "refute" any statement, regardless of its truth. Their goal is to win arguments through verbal combat (pankration) rather than to find truth.
+Socratic Dialectic: Socrates demonstrates a "protreptic" (persuasive) style, aiming to encourage Cleinias toward the sincere pursuit of wisdom and virtue. 
+
+
+Key Philosophical Arguments
+
+The work is famous for its early exploration of logic and the pitfalls of language:
+The Paradox of Learning: The Sophists trap Cleinias by asking if those who learn are "the wise" or "the ignorant," eventually arguing that learning is impossible because one either already knows something or cannot understand what they don't know.
+The Impossibility of Falsehood: A major sophistical claim in the text is that it is impossible to speak falsely because one cannot "speak what is not".
+The Use of Wisdom: Socrates argues that external goods (wealth, health, power) are only "good" if they are used correctly, and only wisdom provides the knowledge to use them for happiness. 
+
+
+Notable Characters
+
+Socrates: The narrator and protagonist, who ironically requests to become a student of the Sophists.
+Euthydemus & Dionysodorus: Brothers and former wrestling teachers turned "warriors of words".
+Cleinias: A promising youth whom Socrates wishes to steer toward philosophy.
+Crito: Socrates' old friend, who is concerned about finding the right education for his own sons. 
+
+---
+
 ### 2.2.4. Republic
 
 Plato's Republic is a seminal Socratic dialogue and one of the *most influential* works of *Western philosophy*, primarily concerned with the nature of justice and the character of the just city-state and the just individual. 
@@ -517,6 +610,29 @@ Academic Commentary: For in-depth analysis, see the [Cambridge University Press 
 
 ---
 
+### 2.2.6. Meno
+
+Plato’s Meno is a foundational Socratic dialogue that transitions from his early works on ethics to his middle-period metaphysical and epistemological theories. Written around 385 BC, it explores the central question of whether virtue can be taught and introduces the famous "Theory of Recollection". 
+
+
+Core Philosophical Themes
+
+The Definition of Virtue: The dialogue begins with Meno asking Socrates if virtue can be taught. Socrates insists they must first define what virtue is. Meno fails multiple times, initially offering a "swarm" of different virtues for different people (men, women, children) rather than a single, universal definition.
+Meno’s Paradox: Meno presents a logical puzzle: how can you search for something if you don't know what it is? If you don't know it, you won't recognize it when you find it; if you already know it, there is no need to search.
+Theory of Recollection (Anamnesis): To solve the paradox, Socrates argues that the soul is immortal and has already learned everything. "Learning" is actually the process of recollecting knowledge forgotten at birth.
+The Slave Boy Demonstration: Socrates proves this theory by guiding an uneducated slave boy through a complex geometric problem. By only asking questions, Socrates leads the boy to the correct answer, suggesting the knowledge was already innate within him.
+Knowledge vs. True Belief: The dialogue concludes that while knowledge is "anchored" by a rational understanding of cause, "true belief" can be just as useful for guiding action in the short term. Socrates ultimately suggests that virtue might be a "divine gift" rather than something taught. 
+
+
+Key Characters
+
+Socrates: The primary interrogator who claims ignorance about the nature of virtue.
+Meno: A young, wealthy Thessalian visitor who is overconfident in his own knowledge until Socrates reduces him to a state of aporia (philosophical confusion).
+Anytus: A prominent Athenian politician and future prosecutor of Socrates, who appears briefly and reacts with hostility to Socrates' questioning of whether the "great men" of Athens were actually able to teach virtue to their sons. 
+
+---
+
+
 ### 2.2.7. Phaedo
 
 The ***Phaedo***, *Phaidōn* (Φαίδων) is one of Plato's most influential middle-period dialogues, depicting the *final hours* of *Socrates* before his execution in 399 BCE, in which Socrates *discusses* the *immortality of the soul* and the *nature of the afterlife* with his friends. Narrated by *Phaedo of Elis* to *Echecrates*.
@@ -571,11 +687,75 @@ The dialogue concludes with *Socrates* calmly drinking the hemlock poison. His f
 
 You can read the full text of the *Phaedo* via [Project Gutenberg](https://www.gutenberg.org/ebooks/1658) or the [Internet Classics Archive]( https://classics.mit.edu/Plato/phaedo.html).
 
+---
+
+### 2.2.8. Phaedrus
+
+Plato's Phaedrus is a central dialogue in Western philosophy that explores the nature of love (Eros), the soul, and the art of rhetoric. Written around 370 BC, it is unique for being the only dialogue where Socrates leaves the city of Athens for the countryside, settling with Phaedrus by a stream under a plane tree. 
+
+Three Speeches on Love
+
+The first half of the dialogue consists of three speeches regarding whether a young man should favor a "non-lover" or a "lover": 
+
+Lysias' Speech: Argues that the "non-lover" is a better choice because a lover is "mad," jealous, and ultimately harmful to the youth's development.
+Socrates' First Speech: Initially agrees with Lysias, providing a more structured argument that love is an irrational desire for pleasure that stultifies the beloved's intellectual and physical growth.
+The Palinode (Socrates' Second Speech): Socrates recants his previous speech, fearing he has offended the god Eros. He argues that love is actually a "divine madness" (theia mania) that leads the soul toward truth and the divine. 
+
+Key Philosophical Concepts
+
+The Chariot Allegory: To explain the soul, Socrates describes it as a charioteer (Reason) driving two winged horses. One horse is noble and rational (Moral Impulse), while the other is ignoble and irrational (Appetite). The goal is to control the horses to ascend back to the "World of Forms".
+Anamnesis (Recollection): The soul has seen the perfect Forms (Truth, Beauty, Justice) in a previous existence. Encountering earthly beauty "reminds" the soul of these divine truths, causing its "wings" to grow.
+True Rhetoric: Socrates criticizes current orators (like Lysias) for prioritizing persuasion over truth. He argues that a true master of rhetoric must be a philosopher who understands the truth of their subject and the different types of human souls to lead them toward what is good. 
+
+
+The Critique of Writing
+
+The dialogue famously concludes with a myth about the Egyptian god Theuth, the inventor of writing. Socrates argues that writing is inferior to the "living word" of spoken dialogue (dialectic) because it: 
+
+
+Creates forgetfulness by making people rely on external marks rather than internal memory.
+Cannot answer questions or defend itself when attacked.
+Addresses everyone the same way, whereas a true teacher adapts their message to the specific soul of the student. 
+
+The dialogue ends with a famous prayer to Pan and the local deities, asking for "beauty in the inward soul". 
+
 <br>
 
 ---
 
 ## 2.3. Late period
+
+### 2.3.1. Statesman
+
+Plato’s Statesman (Greek: Politikos) is a late-period Socratic dialogue that explores the nature of political leadership and the definition of a true ruler. It serves as a philosophical bridge between the idealist politics of the Republic and the more practical, legalistic focus of the Laws. 
+
+Core Themes and Narrative
+The dialogue features a conversation between an Eleatic Stranger and Socrates the Younger, with Socrates (the elder) observing. It is the second part of a projected trilogy that began with the Sophist and was intended to conclude with a never-written dialogue called the Philosopher. 
+
+
+The Art of Ruling (Technê): The Stranger argues that statesmanship is a specialized form of expert knowledge (gnosis). Just as a physician is an expert in medicine, a true statesman is an expert in the "royal art" of governing, which is defined as a theoretical rather than a manual labor.
+The Statesman as Weaver: A central metaphor in the text describes the ruler as a "Royal Weaver". The statesman's task is to weave together the disparate "threads" of society—such as the courageous and the temperate citizens—into a unified, harmonious whole through education and common values.
+The "Herdsman" Myth: Early in the dialogue, the Stranger uses a myth about the reversal of the universe's rotation to distinguish human rulers from divine ones. While gods once "herded" humans directly, in the current age, humans must learn to rule themselves through the specialized art of statesmanship.
+The Role of Law: Plato presents a nuanced view of law:
+The Ideal: The best rule is by a wise statesman who can make specific decisions for specific cases, as laws are often too rigid and general to account for every unique circumstance.
+The Reality: Since perfect rulers are rare, written laws are the "second-best" option and must be strictly followed to prevent the state from degenerating into tyranny or chaos. 
+
+
+Classification of Governments
+The dialogue categorizes six forms of government based on whether they are lawful or lawless: 
+
+**Table 1**.
+~~~
+Type of Rule 	Lawful (Good Imitations)	Lawless (Bad Imitations)
+
+By One	Monarchy/Kingship	Tyranny
+By Few	Aristocracy	Oligarchy
+By Many	Democracy (Best of lawless)	Democracy (Worst of lawful)
+~~~
+
+According to the Loeb Classical Library, democracy is considered the weakest form of government because it has the least power to do significant good or harm.
+
+---
 
 ### 2.3.2. Critias 
 
@@ -727,6 +907,35 @@ At the end, *Socrates* ranks the elements of a good life. Measure and Proportion
 It is noted for its *dense, multilayered structure* and is considered a high point of *Plato's* ethical and metaphysical mature thought.
 
 You can read the full text via [Project Gutenberg](https://www.gutenberg.org/ebooks/1744) or explore scholarly analysis through [Oxford University Press](https://global.oup.com/academic/product/platos-philebus-9780198803386?cc=at&lang=en&).
+
+---
+
+### 2.3.6. Sophist
+
+Plato's Sophist is a foundational work of his late period (c. 360 BC) that investigates the nature of truth, falsity, and the definition of a "sophist". It is famous for its "Eleatic" challenge to Parmenides, ultimately proving that "not-being" must somehow exist to account for false statements. 
+
+
+The Hunt for the Sophist
+The dialogue is framed as a "hunt" where the interlocutors—led by the Eleatic Stranger rather than Socrates—attempt to pin down the elusive sophist. They use the method of division (dichotomous classification) to produce seven distinct definitions: 
+
+
+The Hunter: A hired hunter of wealthy young men.
+The Merchant: A traveling salesman of intellectual wares for the soul.
+The Retailer: A local shopkeeper of the same.
+The Eristic: A professional debater seeking profit.
+The Purifier: A "noble" sophist who cleanses the soul of hubris (often seen as a description of Socrates).
+The Image-Maker: An imitator who creates "appearances" (semblances) of wisdom rather than true knowledge. 
+
+
+The Metaphysical "Parricide"
+To justify calling the sophist a "purveyor of falsehoods," the Stranger must overcome the Parmenidean paradox: if "what is not" cannot exist, then falsehood (which says what is not) is impossible. The Stranger commits "parricide" against his intellectual father Parmenides by proving: 
+
+Not-Being as Difference: "Not-being" is not the opposite of being (nothingness), but simply difference (being other than something).
+The Five Greatest Kinds: Being, Sameness, Difference, Motion, and Rest are the foundational "vowel forms" that allow other ideas to blend or stay separate. 
+
+
+Defining Falsehood
+The dialogue concludes that a statement like "Theaetetus flies" is false not because it refers to nothing, but because it attributes a property (flying) to a subject (Theaetetus) that is different from what he is actually doing (sitting). This establishes that language can refer to reality while still being false. 
 
 ---
 
