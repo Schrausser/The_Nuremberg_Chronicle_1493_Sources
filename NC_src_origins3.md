@@ -442,14 +442,21 @@ Some sources identify *Histiaeus* as his *eventual successor* in the line of not
 ## Aeinautae (c. 600 BC)
 
 
-The term aeinautae (Greek: ἀειναῦται, "ever-voyagers") refers to a specific group or magistrate class in ancient Greek maritime cities, most notably Miletus and Chalcis. 
+The term aeinautae (Greek: ἀειναῦται, "ever-voyagers") refers to a specific group or magistrate class in ancient Greek maritime cities, most notably *Miletus and Chalcis*. 
+According to historical accounts (such as those from ***Plutarch***), the name originated from a political faction that conducted its deliberations while at sea on ships. They would sail far from shore to reach important decisions and only return once a conclusion was reached. 
 
 Available historical dates and periods associated with the aeinautae include:
 
 1. **Archaic Period (6th c. BC)**: In *Miletus*, the aeinautae were an **aristocratic faction** that held power following the era of the tyrants, specifically after the rule of *Thrasybulus*. They were known for holding their political deliberations on board ships at sea to avoid interference from the populace. 
-2. **5th c. BC**: An *inscription* from **Eretria** (LSAG 88.21a. S433) records a dedication made by the **koinon (association) of the aeinautae**, dating it specifically to this century.
-3. **3rd c. BC**: A dedicatory *inscription* from **Chalcis** (IG XII. 9.909) **mentions the aeinautae** during this later Hellenistic period.
 
+2. **5th c. BC**: An *inscription* from **Eretria** (LSAG 88.21a. S433) records a dedication made by the **koinon (association) of the aeinautae**, dating it specifically to this century. The Aeinautae (meaning "Perpetual Sailors") were a social or political group in *Eretria*, and their existence is primarily confirmed through a 5th c. BC stone inscription found in 1961 near the city's ancient theatre. 
+- Content: The stone **records a dedication** (votive offering) made by the **koinon** (association) of the **Aeinautae to** the god **Hermes**.
+- Historical Significance: This is the earliest known evidence of the cult of Hermes in Eretria and highlights the city's deep-rooted **connection to maritime activities**.  
+
+3. **3rd c. BC**: A dedicatory *inscription* from **Chalcis** (IG XII. 9.909 and IG XII. 9.923) **mentions the aeinautae** during this later Hellenistic period. While not specifically naming the Aeinautae, this is the most famous inscription found at Chalcis. It records an oath of allegiance sworn by the city to Athens in 446/5 BC after a failed revolt. Colonial Expansion: The **Aeinautae of Chalcis** were likely the **driving force behind the city's extensive colonization** efforts across the Mediterranean, including the Chalcidice peninsula and southern Italy.
+
+
+See [http://doi.org/10.14277/2532-6848/Axon-1-1-17-9](http://doi.org/10.14277/2532-6848/Axon-1-1-17-9)
 
 The ***Aeinautae were a mercantile oligarchy*** in archaic Miletus whose name literally translates to **ever-voyagers** (αεί, *always and ναύται, *sailors*). They were known for ***conducting governmental business while aboard their ships*** at sea to remain undisturbed by the populace. Their *rule was eventually overturned by civil strife* (***stasis***), which ***led to the rise of individual tyrants***, most notably ***Thrasybulus***, who was a contemporary and ally of Periander of Corinth. 
 
