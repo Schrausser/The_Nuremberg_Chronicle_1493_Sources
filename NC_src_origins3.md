@@ -153,7 +153,7 @@ Key Details of the 27th Dynasty
 
 ## Library of Alexandria
 
-The timeline of the Ancient Library of Alexandria spans nearly a millennium, from its **founding in the early 3rd c. BC** to its *gradual decline* and **ultimate disappearance by the 7th c. AD**. Rather than a single catastrophic event, it was likely destroyed through a ***series of fires**, ***neglect***, and ***political shifts***. 
+The timeline of the Ancient Library of Alexandria spans nearly a millennium, from its **founding in the early 3rd c. BC** to its *gradual decline* and **ultimate disappearance by the 7th c. AD**. Rather than a single catastrophic event, it was likely destroyed through a ***series of fires***, ***neglect***, and ***political shifts***. 
 
 Founding and Peak (**Ptolemaic Era**)
 
@@ -193,7 +193,7 @@ Beyond lists, physical remains provide the cultural and social context of the ci
 
 1. **The Rosetta Stone**: Essential for deciphering hieroglyphs, this decree was written in three scripts: Hieroglyphic, Demotic, and Greek.
 2. **Pyramid Texts & Book of the Dead**: Funerary spells inscribed on tomb walls or papyri that detail Egyptian beliefs about the afterlife.
-3. **Autobiographies**: *Inscriptions* in non-royal tombs, such as those of the official ***Weni** or the explorer ***Harkhuf***, offer rare insights into military campaigns and trade. 
+3. **Autobiographies**: *Inscriptions* in non-royal tombs, such as those of the official ***Weni*** or the explorer ***Harkhuf***, offer rare insights into military campaigns and trade. 
 
 Classical Foreign Accounts
 
@@ -245,7 +245,7 @@ The stories of Rhampsinit are told in ***Historiae, Book II, chapter 121-124*** 
 
 Cheops pyramid:
 
-The Greek historian ***Herodotus** instead depicts *Khufu* as a heretic and cruel tyrant. In his literary work ***Historiae, Book II, chapter 124–126***, he writes: 
+The Greek historian ***Herodotus*** instead depicts *Khufu* as a heretic and cruel tyrant. In his literary work ***Historiae, Book II, chapter 124–126***, he writes: 
 
 >"As long as *Rhámpsinîtos* was king, as they told me, there was nothing but orderly rule in Egypt, and the land prospered greatly. But after him *Khéops* became king over them and brought them to every kind of suffering: He closed all the temples; after this he kept the priests from sacrificing there and then he forced all the Egyptians to work for him. So some were ordered to draw stones from the stone quarries in the Arabian mountains to the Nile, and others he forced to receive the stones after they had been carried over the river in boats, and to draw them to those called the Libyan mountains. And they worked by 100,000 men at a time, for each three months continually. Of this oppression there passed ten years while the causeway was made by which they drew the stones, which causeway they built, and it is a work not much less, as it appears to me, than the pyramid. For the length of it is 5 furlongs and the breadth 10 fathoms and the height, where it is highest, 8 fathoms, and it is made of polished stone and with figures carved upon it. For this, they said, 10 years were spent, and for the underground chambers on the hill upon which the pyramids stand, which he caused to be made as sepulchral chambers for himself in an island, having conducted thither a channel from the Nile.  
     For the making of the pyramid itself there passed a period of 20 years; and the pyramid is square, each side measuring 800 feet, and the height of it is the same. It is built of stone smoothed and fitted together in the most perfect manner, not one of the stones being less than 30 feet in length. This pyramid was made after the manner of steps, which some call 'rows' and others 'bases': When they had first made it thus, they raised the remaining stones with *devices made of short pieces of timber*, lifting them first from the ground to the first stage of the steps, and when the stone got up to this it was placed upon another machine standing on the first stage, and so from this it was drawn to the second upon another machine; for as many as were the courses of the steps, so many machines there were also, or perhaps they transferred one and the same machine, made so as easily to be carried, to each stage successively, in order that they might take up the stones; for let it be told in both ways, according as it is reported. However, that may be, the highest parts of it were finished first, and afterwards they proceeded to finish that which came next to them, and lastly they finished the parts of it near the ground and the lowest ranges.  
@@ -458,7 +458,7 @@ Available historical dates and periods associated with the aeinautae include:
 
 See [http://doi.org/10.14277/2532-6848/Axon-1-1-17-9](http://doi.org/10.14277/2532-6848/Axon-1-1-17-9)
 
-The ***Aeinautae were a mercantile oligarchy*** in archaic Miletus whose name literally translates to **ever-voyagers** (αεί, *always and ναύται, *sailors*). They were known for ***conducting governmental business while aboard their ships*** at sea to remain undisturbed by the populace. Their *rule was eventually overturned by civil strife* (***stasis***), which ***led to the rise of individual tyrants***, most notably ***Thrasybulus***, who was a contemporary and ally of Periander of Corinth. 
+The ***Aeinautae were a mercantile oligarchy*** in archaic Miletus whose name literally translates to **ever-voyagers** (αεί, *always* and ναύται, *sailors*). They were known for ***conducting governmental business while aboard their ships*** at sea to remain undisturbed by the populace. Their *rule was eventually overturned by civil strife* (***stasis***), which ***led to the rise of individual tyrants***, most notably ***Thrasybulus***, who was a contemporary and ally of Periander of Corinth. 
 
 Aeinautae  were *magistrates* at Miletus around 600 BC, consisting of the *chief men in the state*, who obtained the *supreme power* on the ***deposition of the tyrants, Thoas and Damasenor***. 
 
@@ -806,7 +806,7 @@ Orpheus was a **Thracian bard**, **poet**, and **prophet**. He is often called t
 1. **14th-15th c. BC**: Some ancient sources, such as the *Suda* encyclopedia and the *Parian Marble*, date Orpheus to around the 14th-15th c. BC. He is often cited as having lived 11 generations before the Trojan War.  
 2. **Orphism & the Soul**: By the 5th-4th c. BC, a body of literature and religious practice called *Orphism* was established, which was attributed to him and **focused on the immortality of the soul**.Orpheus is the traditional founder of the Orphic Mysteries. This movement introduced concepts of *metempsychosis (reincarnation)* and the idea of the soul as divine and eternal, trapped within the *body as a prison* (plato cave allegory). 
 3. **Argonaut Expedition**: He was a **key member of Jason's crew**, using his music to save the Argonauts from the deadly song of the Sirens.
-The ***Argonautica** is a Greek epic poem *written by* ***Apollonius of Rhodes*** in the **3rd c. BC**. It is the only surviving epic from the Hellenistic period and recounts the legendary voyage of Jason and the Argonauts as they quest for the Golden Fleece in the distant land of *Colchis*. 
+The ***Argonautica*** is a Greek epic poem *written by* ***Apollonius of Rhodes*** in the **3rd c. BC**. It is the only surviving epic from the Hellenistic period and recounts the legendary voyage of Jason and the Argonauts as they quest for the Golden Fleece in the distant land of *Colchis*. 
 
 ### ***Epicharmos*** 
 

@@ -436,7 +436,7 @@ moved by the forces of **Love (aggregation)** and **Strife (separation)**.
 
 ## Academy (387-89 BC)
 
-Plato's Academy, founded in 387 BC in Athens, is widely considered the world's *first institution of higher learning* and the ultimate **ancestor of the modern university**. Located in a sacred grove originally *dedicated to the hero ***Academus***, it served as a center for research, intellectual discussion, and scientific inquiry for nearly 900 years until its closure in 529 AD. 
+Plato's Academy, founded in 387 BC in Athens, is widely considered the world's *first institution of higher learning* and the ultimate **ancestor of the modern university**. Located in a sacred grove originally *dedicated to* the hero ***Academus***, it served as a center for research, intellectual discussion, and scientific inquiry for nearly 900 years until its closure in 529 AD. 
 
 Core Purpose and Teachings
 
@@ -516,7 +516,7 @@ Early History (6th-4th c. BC)
 
 1. **c. 6th-5th c.  BC**: The site is established as a sanctuary dedicated to ***Apollo Lykeios*** (Apollo the *Wolf-God*). It serves as a public gymnasium, a **military training ground** for *hoplites* and *cavalry*, and a meeting place for early philosophers like *Socrates* and *Isocrates*.
 2. **335 BC**: Upon returning to Athens *after tutoring Alexander* the Great, **Aristotle founds his school** *within the Lyceum grounds*. As a non-citizen (metic), he cannot own property and instead rents the buildings.
-3. **335 – 323 BC*: The **Peripatetic School** flourishes. *Aristotle* creates the *first great library* and a research museum, lecturing while walking through the peripatoi (covered walkways). 
+3. **335 – 323 BC**: The **Peripatetic School** flourishes. *Aristotle* creates the *first great library* and a research museum, lecturing while walking through the peripatoi (covered walkways). 
 
 Hellenistic & Roman Eras (322 BC - 4th c. AD) 
 
@@ -536,7 +536,7 @@ The Peripatetic school was managed by a **succession of scholars** until its eve
 2. ***Theophrastus (322–286 BC)***
 3. ***Strato of Lampsacus (288–269 BC)***
 4. ***Lyco of Troas (269–225 BC)***
-5. ***Andronicus of Rhodes (c. 60 BC)**: Credited with ***editing*** *Aristotle's* works ***into the form we know today***. 
+5. ***Andronicus of Rhodes (c. 60 BC)***: Credited with ***editing*** *Aristotle's* works ***into the form we know today***. 
 
 ---
 

@@ -462,7 +462,7 @@ Other Greek Influences
 While **Aristotle is the primary figure**, other Greek thinkers contributed significantly: 
 
 1. ***Socrates***: Introduced **introspection**—looking inward to gain *self-knowledge and awareness*.
-2. ***Plato***: Proposed a **tripartite model of the soul***, suggesting the mind is divided into **reason, spirit, and appetite**—a precursor to later theories like ***Freud's*** **id, ego, and superego**.
+2. ***Plato***: Proposed a ***tripartite model of the soul***, suggesting the mind is divided into **reason, spirit, and appetite**—a precursor to later theories like ***Freud's*** **id, ego, and superego**.
 3. ***Hippocrates***: Known as the **father of medicine**, he was one of the first to suggest that *mental illnesses* had natural, **physical causes** rather than being divine punishments.
 
 Core Life and Career
@@ -603,6 +603,30 @@ While the formal scholarchate declined, Epicureanism continued through influenti
 The *Epicurean paradox* is a version of the problem of evil. Lactantius attributes this trilemma to *Epicurus in De Ira Dei, 13, 20-21*.
 
 The **Garden of Epicurus** (Ho Kêpos) was a philosophical school and commune founded by *Epicurus* in Athens around 306 BC. *Unlike the public spaces* used by other schools—such as **Plato’s Academy** or **Aristotle’s Lyceum**—the Garden was a *private* residence and retreat that became the heart of *Epicurean* life and thought. 
+
+---
+
+## Aratus (c. 315–240 BC)
+
+Aratus of Soli (c. 315–240 BC) was a famous Greek **didactic poet**. He is best known for his influential astronomical hexameter poem, the **Phaenomena** (Appearances), which describes the constellations and celestial phenomena and which was one of the most widely read works in antiquity, second only to *Homer's* *Iliad* and *Odyssey*. 
+
+- Work: The **Phaenomena** describes the constellations and celestial spheres, while its second half, the **Diosemeia**, focuses on weather lore and forecasts.
+- Influence: Despite some astronomical inaccuracies, the poem was highly influential and was translated into Latin by figures such as *Cicero* and *Ovid*.
+- Biblical Connection: He is famously quoted by St. Paul in the New Testament (Acts 17:28) with the line, "For we too are his offspring". 
+
+Key Works and Influence
+
+1. **Phaenomena**: His only completely extant work, this hexameter poem versifies the astronomical prose of ***Eudoxus of Cnidus***. It was *incredibly popular in antiquity*, second only to *Homer's* epics in readership.
+2. **Diosemeia** (*Forecasts*): The **second half of the Phaenomena** (sometimes treated as a separate work), which focuses on *weather* lore and signs for *farmers and sailors*.
+3. **Biblical Connection**: Aratus is famously quoted by St. Paul in the New Testament (Acts 17:28). The line *"For we are indeed his offspring"* is a direct reference to the *opening hymn to Zeus* in the Phaenomena.
+4. **Roman Translations**: The poem was so well-regarded that it was translated into Latin by major figures like **Cicero** and **Germanicus**. 
+
+Life and Background
+
+1. **Origin**: Born in Soli (near modern Mersin, Turkey) in Cilicia.
+2. **Education**: He studied in Athens, where he was influenced by *Stoic philosophy*, which is reflected in the serious, *pantheistic tone* of his poetry.
+3. **Royal Courts**: He spent much of his career at the court of King *Antigonus II Gonatas* of Macedonia and also resided briefly with *Antiochus I Soter* in Syria.
+4. **Burial**: Archaeologists recently discovered what is believed to be his memorial tomb in the ancient city of Soli (Pompeiopolis).
 
 ---
 

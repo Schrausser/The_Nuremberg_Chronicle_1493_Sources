@@ -1,4 +1,3 @@
-
 ---
 
 # Diels-Kranz
@@ -345,13 +344,13 @@ The oldest sources we have for his work are indirect fragments preserved as **qu
 
 
 1. ***Herodotus (5th c. BC)***: The **most famous early source**. In his *Histories, Herodotus* discusses *Hekataios’s* role in the *Ionian Revolt* and famously critiques his maps and geographical theories.
-2. ***Strabo (1st c. BC/AD): The geographer Strabo refers to *Hekataios* as one of the first writers of scientific geography and **as a successor** to ***Anaximander***. 
+2. ***Strabo (1st c. BC/AD)***: The geographer Strabo refers to *Hekataios* as one of the first writers of scientific geography and **as a successor** to ***Anaximander***. 
 3. **The Oxyrhynchus Papyri (1st c. AD)**: some of the oldest physical scraps of text *quoting Hekataios* have been found among Egyptian papyrus fragments dating back to the Roman period. 
 4. ***Stephanus of Byzantium (6th c. AD)***: Though writing much later, his *geographical lexicon* ***Ethnica*** is the **primary source** for the majority of the surviving fragments of *Hekataios's Periodos Ges*.
 
-There are **no surviving original medieval manuscripts** of the works of Hekataios of Milet (Hecataeus of Miletus). His two known major works—the geography-focused ***Ges Periodos*** (Description of the Earth) and the mythological **Genealogiai***—have **not survived** in their entirety. 
+There are **no surviving original medieval manuscripts** of the works of Hekataios of Milet (Hecataeus of Miletus). His two known major works—the geography-focused ***Ges Periodos*** (Description of the Earth) and the mythological ***Genealogiai***—have **not survived** in their entirety. 
 
-The text of Hekataios **exists only through fragments** preserved *as citations or summaries** in the works of later authors. These *fragments* are found in various medieval and Byzantine manuscript traditions, the most important of which include: 
+The text of Hekataios **exists only through fragments** preserved **as citations or summaries** in the works of later authors. These *fragments* are found in various medieval and Byzantine manuscript traditions, the most important of which include: 
 
 Primary Sources of Fragments
 
@@ -549,7 +548,7 @@ Most of our **modern knowledge** of *Aristotle* comes from **Byzantine manuscrip
 
 1. **Codex Vindobonensis phil. gr. 100** (J): Dating to the **mid-9th c.**, it is considered the **oldest extant codex** *containing* a substantial portion of *Aristotle's* theoretical works, including the **Physics and Metaphysics**.
 2. **Codex Parisinus gr. 1853** (E): Dating to the **early 10th c.**, it is one of the **most authoritative sources** for the **Corpus Physicum and Metaphysics**.
-3. **MS 108** (Corpus Christi College, Oxford): An **early 9th c.** manuscript containing *Aristotle’s* ***biological** *works* (e.g., *History of Animals*), widely regarded as the **oldest surviving copy** for that specific field. 
+3. **MS 108** (Corpus Christi College, Oxford): An **early 9th c.** manuscript containing *Aristotle’s* ***biological*** *works* (e.g., *History of Animals*), widely regarded as the **oldest surviving copy** for that specific field. 
 
 Ancient Indirect Sources
 
@@ -610,9 +609,95 @@ Other Significant Fragments
 
 ---
 
+## Aratus
+
+
+Aratus of Soli (c. 315–240 BC) was a Greek didactic poet primarily known for his astronomical poem, the **Phaenomena**. His work was not based on original astronomical observations but was a *versification of existing prose scientific treatises*. 
+
+Importance and Content
+
+1. **Structure**: The **Phaenomena** is a ***hexameter poem*** divided into *two parts*: a description of the constellations and a section on weather signs known as the **Diosemeia**.
+
+2  **Illustrations**: Aratus' work is described as the ***most frequently illustrated text from antiquity***. The manuscripts often include:
+
+- Detailed cycles of constellations.
+- Celestial maps and personifications of the Sun, Moon, and planets.
+
+3. **Legacy**: The ***poem*** was *so popular* that it was ***quoted in the New Testament*** (Acts 17:28) by the Apostle Paul. 
+
+
+Primary Literary Sources
+
+Aratus relied on two major prose works for the two main sections of his poem: 
+
+1. ***Hesiod and Homer***: Aratus *drew heavily* from these early epic poets for his vocabulary, syntax, and the didactic *Hellenistic* style. 
+2. ***Eudoxus of Cnidus***: The first part of the poem (lines 1–757), which describes the constellations and their movements, is based on a lost prose work also titled Phaenomena by the mathematician and astronomer *Eudoxus* (c. 390–340 BC).
+3. ***Theophrastus***: The *second part*, often referred to as the **Diosemeia** (Weather Signs), is largely derived from a meteorological work titled **De signis** (On Signs), attributed to the Peripatetic philosopher *Theophrastus*.
+
+Biographical Sources
+
+Information regarding the life of *Aratus* comes from several ancient biographical accounts:
+
+1. **Anonymous Greek Lives**: *Several surviving* ***Lives of Aratus*** (Vitae) by **anonymous** ancient authors, often found in the Scholia (commentaries) of his manuscripts.
+2. ***Plutarch***: Mentions *Aratus*' connections and influence in his writings. 
+3. **The Suda**: A 10th c. Byzantine encyclopedia that provides biographical details.
+4. **Eudocia**: Mentioned alongside the *Suda* as a source for his life.
+
+Ancient Citations and Commentaries
+
+Aratus' **immense popularity** led to *numerous ancient sources* that preserve or discuss his work: 
+
+1. ***Hipparchus***: Wrote the only surviving major ancient commentary, In ***Arati et Eudoxi phaenomena***, which *compares* *Aratus'* poem with its source by *Eudoxus*.
+2. **New Testament**: ***Saint Paul*** famously quotes *Aratus'* opening hymn to Zeus (*For we are also his offspring*) in the *Acts of the Apostles 17:28*.
+3. **Latin Translators**: Significant portions of his work are preserved through Latin translations by ***Cicero, Germanicus***, and ***Avienus***. 
+
+Archaeological Evidence
+
+1. **Numismatic Evidence**: **Bronze coins** from his home city of Soli (renamed Pompeiopolis) dating to **c. 163/4 AD** depict ***Aratus*** *alongside* the philosopher ***Chrysippus***.
+2. **Monumental Grave**: Archaeological remains of what is believed to be his monumental tomb were recently **discovered in Soli** (modern-day Turkey).
+
+While the **original Greek manuscripts** of *Aratus of Soli* are **lost**, his work survives through a continuous tradition of copying and translation, with manuscripts dating from the 9th-15th c. His most significant work, the ***Phaenomena***, is the **oldest preserved astronomical text in Europe**. 
+
+
+Key Surviving Manuscripts and Traditions
+
+The survival of Aratus' work is primarily categorized into the original Greek text and several influential Latin translations (collectively known as Aratea). 
+
+**Greek Tradition**: 
+
+The *original Greek didactic poem* survives intact through manuscript transmission. One of the most significant recent discoveries is a **fragment of Aratus' star catalog** found within the
+
+- **Codex Climaci Rescriptus**, a **5th-6th c. palimpsest**.
+
+**Latin Translations (Aratea)**:
+
+The **earliest surviving medieval manuscripts** of the astronomical poem *Phaenomena* by *Aratus of Soli* date back to the **9th c.**, primarily in the form of Latin translations known as ***Aratea***. While *Aratus* wrote the **original Greek** work around **270 BC**, it was the **Roman translations** by ***Cicero, Germanicus***, and ***Avienus*** that became popular in the Middle Ages and were **preserved** in highly decorated, illuminated manuscripts. 
+
+**Earliest** Surviving Medieval Manuscripts (9th c.)
+
+1. **Leiden Aratea (Leiden University Library, VLQ 79)**: Dated to approximately **816 AD**, this is one of the most famous and artistically significant Carolingian manuscripts. It contains the translation by ***Germanicus*** and features 39 full-page miniatures of the constellations. It was produced at the court of **Louis the Pious** and is considered a major work of *Carolingian* art.
+2. **Harley MS 647 (British Library)**: Produced in 9th c. France, this manuscript contains ***Cicero’s*** translation. It is notable for its unique *word drawings*, where the text describing a constellation is written in the shape of the constellation itself.
+3. **Vatican Library, MS Reg. lat. 1324**: Another 9th c. witness to the Aratea tradition. 
+
+
+Other **Notable Early** Medieval Manuscripts (10th–12th c.)
+
+1. **Boulogne-sur-Mer, Bibliothèque municipale, Ms. 188**: A **10th c.** copy made at the Abbey of Saint-Bertin **based on the Leiden Aratea**. 
+2. **Harley MS 2506 (British Library)**: Created at the Fleury Abbey around **1000 AD**, this manuscript is a copy of the Aratea tradition and is known for its elegant pen-and-ink illustrations.
+3. **NLW MS 735C (National Library of Wales)**: An illuminated manuscript from the early 11th c. **(c. 1000–1150)** featuring ***Germanicus'*** translation. It was likely produced in the Limoges area of France.
+4. **Cotton MS Tiberius C I (British Library)**: Produced in the early **12th c.** at Peterborough Abbey, containing ***Cicero's*** translation with constellations depicted as animal or human figures infilled with text from ***Hyginus***.
+5. **Venice MS Lat. VIII 22**: A **12th c.**. manuscript held at the Biblioteca Nazionale Marciana in Venice, known for its *detailed astronomical* cycles. 
+
+Key Characteristics of the Manuscripts
+
+1. **Illuminations**: These manuscripts are *the most frequently illustrated text from antiquity*. They typically feature a celestial map, personifications of the sun, moon, and planets, and the 48 classical constellations.
+2. **Scientific Utility**: While beautiful, the star positions in early medieval manuscripts like the Leiden Aratea were often decorative rather than scientifically accurate, as the artists *prioritized mythological imagery over precise astronomical coordinates*. 
+
+---
+
 ## Manetho Aegyptica
 
-The Aegyptiaca (History of Egypt), written by the priest Manetho in the 3rd c. BC, is a lost work; ***no complete original** or contemporary **medieval manuscript exists**. Instead, the text survives **only in fragments and summaries** (epitomes) quoted by later authors. 
+The Aegyptiaca (History of Egypt), written by the priest Manetho in the 3rd c. BC, is a lost work; ***no complete original*** or contemporary **medieval manuscript exists**. Instead, the text survives **only in fragments and summaries** (epitomes) quoted by later authors. 
 
 The most significant manuscript transmissions from the medieval period that **preserve these fragments** are:
 
