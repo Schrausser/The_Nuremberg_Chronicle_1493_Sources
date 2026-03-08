@@ -114,14 +114,15 @@ Because these books were often *condemned by the Church* and included on lists o
 
 7. ***The Lesser Key of Solomon (Lemegeton)***: ***A 17th c***. compilation of *magical* texts, including the *Ars Goetia*, which claims to detail 72 demons *Solomon* supposedly summoned. 
 
-**Table 1**.Comparison Overview.
+**Table 1**. Comparison Overview.
 ~~~
-Feature 	Wisdom of Solomon	Testament of Solomon
-Date 1st-2nd c. BC 1st-5th c. AD
-Status	Deuterocanonical/Apocryphal; considered Scripture by Catholic and Orthodox churches.	Pseudepigraphal; rejected as uninspired by almost all mainstream Jewish and Christian groups.
+Feature 		Wisdom of Solomon																							Testament of Solomon
+
+Date 			1st-2nd c. BC 																								1st-5th c. AD
+Status			Deuterocanonical/Apocryphal; considered Scripture by Catholic and Orthodox churches.						Pseudepigraphal; rejected as uninspired by almost all mainstream Jewish and Christian groups.
 Primary Theme	Philosophical and theological; focuses on righteousness, immortality, and the personification of Wisdom.	Magical and legendary; focuses on demonology, magic, and the building of the First Temple.
-Key Narrative	A call to kings to pursue wisdom, ending with a retelling of the Exodus.	Solomon uses a magical ring from Archangel Michael to enslave demons to build the Temple.
-Language	Written in Classical Greek, likely in Alexandria.	Written in Koine Greek; contains Christian and astrological influences.
+Key Narrative	A call to kings to pursue wisdom, ending with a retelling of the Exodus.									Solomon uses a magical ring from Archangel Michael to enslave demons to build the Temple.
+Language		Written in Classical Greek, likely in Alexandria.															Written in Koine Greek; contains Christian and astrological influences.
 ~~~
 
 [^1]: Written by Solomon b. Buyāʿā  Solomon ben Buya'a wirkte um das Jahr 920 n. Chr. in Tiberias. Tiberias war zu dieser Zeit ein bedeutendes Zentrum jüdischer Gelehrsamkeit und insbesondere für die Entwicklung der masoretischen Tradition bekannt. Ben Buya’a war ein Meisterschreiber (Sofer), dessen Aufgabe es war, den Tanach mit größter Sorgfalt abzuschreiben. Ben Buya’a war für die Abschrift des Textes des Codex von Aleppo verantwortlich.  
