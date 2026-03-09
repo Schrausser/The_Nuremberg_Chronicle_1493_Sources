@@ -59,13 +59,13 @@ While not Egyptian in origin, **early Greek and Roman travelers** provided conte
 
 **Table 1**. Comparison of the Two Rulers
 ~~~
-Feature 	Echnaton (Akhenaten)	Ramses II (The Great)
+Feature 			Echnaton (Akhenaten)							Ramses II (The Great)
 
-Dynasty	18th Dynasty (c. 1353–1336 BC)	19th Dynasty (c. 1279–1213 BC)
-Religious Focus	Monotheistic revolution; worshipped only Aton	Traditional polytheism; restored and expanded temples for Amun, Ra, and Ptah
-Capital City	Amarna (Akhetaten) — built from scratch	Pi-Ramesse — a massive metropolis in the Delta
-Foreign Policy	Largely isolationist; lost territory in Syria	Expansionist; fought the Hethites and signed the world's first peace treaty
-Legacy	Name erased from history as a "heretic"	Celebrated for 3,000 years as the model pharaoh
+Dynasty				18th Dynasty (c. 1353–1336 BC)					19th Dynasty (c. 1279–1213 BC)
+Religious Focus		Monotheistic revolution; worshipped only Aton	Traditional polytheism; restored and expanded temples for Amun, Ra, and Ptah
+Capital City		Amarna (Akhetaten) — built from scratch			Pi-Ramesse — a massive metropolis in the Delta
+Foreign Policy		Largely isolationist; lost territory in Syria	Expansionist; fought the Hethites and signed the world's first peace treaty
+Legacy				Name erased from history as a "heretic"			Celebrated for 3000 years as the model pharaoh
 ~~~
 
 ### Historical Connection
