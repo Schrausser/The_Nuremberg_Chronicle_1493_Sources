@@ -1,3 +1,36 @@
+## Moses (c. 1526–1406 BC / c. 1391–1271 BC)
+
+Estimating the dates of *Moses* is a complex task because he is **primarily a figure of the Bible** and **Abrahamic tradition**, with no direct archaeological evidence confirming his historical existence. Consequently, **several different timelines exist** based on religious tradition or scholarly interpretation. 
+
+### Traditional and Religious Dates
+
+1. **Rabbinic Judaism**: Calculates *Moses'* life as **1391–1271 BC**.
+
+- *Specific Calendar Dates*: Jewish tradition often cites his birth and death on the **7th of Adar**.
+
+3. **Early Church Figures**:
+- ***St. Jerome***: Suggested a birth year of *1592 BC* (**c. 1592–1472 BC**).
+- ***James Ussher***: Suggested a birth year of *1571 BC* (**c. 1571–1451**). 
+
+### Scholarly and Archaeological Models
+
+Most **debates center on the date of the Exodus**, which determines Moses' lifespan based on the biblical account that he was 80 at the time and died at 120. 
+
+
+1. ***Early Date (15th c. BC)*** (**c. 1446 BC**):
+- Based on a literal reading of ***1 Kings 6:1***, which places the ***Exodus 480 years before*** the construction of ***Solomon's Temple***.
+- *Estimated lifespan*: **c. 1526–1406 BC**.
+- *Associated Pharaohs*: Often linked to ***Thutmose III*** or ***Amenhotep II***.
+
+2. ***Late Date (13th c. BC)*** (**c. 1290–1250 BC**):
+- Supported by the ***mention of the city Rameses*** in the Bible **and archaeological evidence*** of city destructions in Canaan.
+- *Estimated lifespan*: Late 14th-13th c. BC (**1391–1271 BC**).
+- *Associated Pharaoh*: Generally identified as ***Ramesses II*** (The Great).
+
+3. **Modern Historical View**: Many contemporary scholars view *Moses* as a ***legendary figure*** rather than a historical one, suggesting the ***stories were composed*** much later, around the **6th c. BC** during the **Babylonian exile**. 
+
+---
+
 ## Solomon (991-932 BC)
 
 King Solomon was the **third king of the United Kingdom of Israel**, his timeline spans the ***Golden Age*** of a ***united Israel***, traditionally dated from 991 BC to 931 BC. 
