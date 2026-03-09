@@ -51,6 +51,34 @@ While not Egyptian in origin, **early Greek and Roman travelers** provided conte
 
 ---
 
+# Ramses II vs. Echnaton (Akhenaten) (c. 1353 - 1213 BC)
+
+---
+
+*Ramses II and Echnaton* (*Akhenaten*) were two of the most influential pharaohs of the **New Kingdom**, yet they represent opposite extremes of Egyptian kingship. While ***Echnaton*** was a **revolutionary heretic** who nearly collapsed the traditional order, ***Ramses II*** was the quintessential **restorer** and Great builder who brought the empire to its peak. 
+
+**Table 1**. Comparison of the Two Rulers
+~~~
+Feature 	Echnaton (Akhenaten)	Ramses II (The Great)
+
+Dynasty	18th Dynasty (c. 1353–1336 BC)	19th Dynasty (c. 1279–1213 BC)
+Religious Focus	Monotheistic revolution; worshipped only Aton	Traditional polytheism; restored and expanded temples for Amun, Ra, and Ptah
+Capital City	Amarna (Akhetaten) — built from scratch	Pi-Ramesse — a massive metropolis in the Delta
+Foreign Policy	Largely isolationist; lost territory in Syria	Expansionist; fought the Hethites and signed the world's first peace treaty
+Legacy	Name erased from history as a "heretic"	Celebrated for 3,000 years as the model pharaoh
+~~~
+
+### Historical Connection
+
+***Ramses II*** was part of the movement to ***systematically erase *Echnaton's* memory***. He used the stone blocks from *Echnaton's* dismantled temples to build his own monuments and excluded *Echnaton's* name from official king lists like the one at Abydos. 
+
+1. **Echnaton's Radicalism**: He replaced the entire Egyptian pantheon with the ***sun-disk Aton*** and moved the capital to the desert. His reign caused social and political turmoil that the 19th Dynasty, including Ramses II, sought to fix by returning to tradition.
+2. **Ramses' Restoration**: Ramses II focused on *gigantomania*, building Abu Simbel and the Ramesseum to project absolute power and divine favor. He positioned himself as the ultimate defender of *Maat* (*cosmic order*), which *Echnaton* was accused of destroying.
+
+<br>
+
+---
+
 # Berber or Amazigh calendar
 
 ---
@@ -681,7 +709,7 @@ Traditional accounts list dozens of Milesian monarchs. Some of the most signific
 4. ***Conaire Mór***: Represented as a supreme type of royal splendor whose reign ended in tragedy at Da Derga's Hostel due to the breaking of sacred taboos (geise).
 5. ***Niall of the Nine Hostages***: A historical-mythological figure (reigned c. 4th/5th century AD) from whom the powerful Uí Néill dynasties claimed descent. 
 
-**Table 1**. Traditional Chronology.
+**Table 2**. Traditional Chronology.
 ~~~
 King(s) 			AFM Date (Annals of the Four Masters)	FFE Date (Foras Feasa ar Éirinn)
 
@@ -986,3 +1014,5 @@ Summary of Outcomes (146 BC)
 The **primary location** associated with ancient Greek **philosophers** is **Athens**, which served as the intellectual heart of the Greek world. However, early thinkers—known as the **Pre-Socratics**—**originated** from various city-states across the Mediterranean, including **Ionia** (modern-day Turkey), southern **Italy**, and **Sicily**. 
 
 ---
+
+
