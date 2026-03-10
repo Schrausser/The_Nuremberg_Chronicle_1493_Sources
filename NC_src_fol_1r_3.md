@@ -1,9 +1,83 @@
-
+# NC_src_fol_1r_3.md
 ---
 
 # Chaldean
 
 ---
+
+## Jonethes
+
+In the works of Giovanni Pico della Mirandola, ***Jonethes the Chaldean*** (also spelled Jonithus or Ionitus) is a ***legendary figure*** cited as *a source of ancient wisdom*, particularly regarding the foundations of astronomy and magic.
+
+### Role in Pico's Philosophy
+
+*Pico della Mirandola* frequently referenced *obscure* or *semi-mythical* figures to support his ***Syncretism***—the idea that *all philosophical and religious traditions share a single, underlying truth*. 
+
+1. **Ancient Sage**: Pico identifies *Jonethes* alongside figures like ***Anchelos and Simeon the Elder*** as *Chaldeans* who possessed secret, divine ***knowledge***.
+2. **Symbol of Continuity**: By citing *Jonethes*, Pico aimed to ***bridge the gap*** between ***Neo-Platonism, Christian Cabala, and ancient Babylonian (Chaldean) mysticism***.
+3. **The Fourth Son of Noah**: In broader ***Renaissance literature***, *Jonethes* was often described as the fourth son of Noah, born after the Flood, who supposedly received the gift of wisdom and ***founded the study of the stars***. 
+
+### Context of Mention
+
+Pico mentions Jonethes in his famous *Oration on the Dignity of Man* and his 900 theses (Conclusiones). He uses these *Chaldean* authorities to validate his theories on: 
+
+1. *Natural phenomena*: Distinguishing it from demonic work and defining it as the *practical part of natural science*.
+2. *Celestial Influence*: Exploring how the *stars affect human affairs* without infringing on free will. 
+
+### Fourth son of Noah
+
+While the Bible explicitly names only three sons—*Shem, Ham, and Japheth*—various religious, mythological, and historical traditions identify a *fourth son* of Noah by different names and roles. 
+
+#### Prominent Traditional Figures
+
+1. ***Yoniton (or Ionitus)*** - **Syriac/Christian Apocrypha**: In the 6th c.  Syriac text ***The Cave of Treasures*** and the later ***Apocalypse of Pseudo-Methodius***, a fourth son named *Yoniton (or Ionitus)* is born to *Noah* after the Flood. He is described as a wise figure who ***invented astronomy*** and served as a ***teacher to Nimrod***.
+2. ***Yam (or Kan'an)*** - **Islamic Tradition**: According to the Quran, Noah had a fourth son who was a disbeliever. During the Great Flood, he refused to board the Ark, opting instead to seek refuge on a mountain, where he subsequently drowned.
+3. ***Sceaf (or Sceafa)*** - **Anglo-Saxon Tradition**: Some medieval English chronicles, such as those documenting the House of Wessex, claim *Sceaf* was a fourth son born to *Noah* while aboard the Ark. 
+4. ***Bith*** - Irish Mythology: In the ***Annals of the Four Masters***( Annála Ríoghachta Éireann or Annals of the Kingdom of Ireland), 1636, *Bith* is identified as a son of *Noah* who was denied entry to the Ark. He attempted to escape the Deluge by sailing to Ireland with a small group of followers but perished in the flood.
+
+---
+
+## Anchelos
+
+In his famous 1486 work *Oration on the Dignity of Man*, *Giovanni Pico della Mirandola* references ***Anchelos the Chaldean*** as an ancient authority to *support* his philosophical arguments *regarding human potential and the soul*. 
+
+### Identity and Context
+
+Anchelos (sometimes spelled Angelos) is one of several figures Pico identifies as a *Chaldean* sage. 
+
+1. **Chaldean Sources**: Pico claimed to have found *Chaldean books* in Perugia that contained secret mysteries and interpretations of Chaldean philosophy.
+2. **Ancient Wisdom**: Along with other figures like *Ionethes* and *Zoroaster*, *Anchelos* is cited to *prove that ancient, non-Christian traditions* held truths compatible with his own *syncretic* philosophy.
+3. **Historical Reality**: *Modern scholars often* view these *Chaldean* figures as either *pseudonymous* or as *part of* the ***Chaldean Oracles***, a set of Greek hexametric texts from the **2nd c.** that Pico *believed were much older*. 
+
+### Notable Philosophical Quote
+
+Pico specifically quotes Anchelos to illustrate the soul's ability to transcend its current state:
+
+1. **In the Eternals**: *Pico* cites *Anchelos* as saying becadmin—meaning *in the eternals*—to describe *where the soul resides* when it has successfully *ascended* through philosophical and spiritual purification.
+2. **Angelic Emulation**: This reference supports *Pico’s* broader argument that humans are not fixed in nature; rather, *by following the Chaldean curriculum* of moral science and dialectic, a person can *elevate* themselves to an angelic or *divine state*. 
+
+---
+
+## Simeon bar Yochai  (c. 90–160 AD)
+
+In the writings of the Renaissance philosopher *Giovanni Pico della Mirandola*, *Symeon antiquus* (often referred to in scholarship as *Simeon the Ancient*) is a figure cited as a primary authority for *Jewish and Kabbalistic wisdom*. 
+
+### Historical Context
+
+Scholars *generally identify* this figure with the *historical* ***Simeon bar Yochai***, the **2nd c.** rabbi traditionally credited as the *author* of the ***Zohar***, the *foundational work of Jewish Kabbalah*. By referring to him as *antiquus* (the ancient), *Pico* emphasizes the antiquity and *supposed authority* of the *Kabbalistic* tradition ***he was introducing to*** *the Christian West*. 
+
+
+### Role in Pico's Philosophy
+
+*Pico* identifies *Symeon antiquus* as a ***key source*** in *several of his major works*, most notably his ***900 Conclusions*** and the ***Heptaplus***. 
+
+1. **Source of Wisdom**: Pico presents him alongside other figures like *Ionethes and Anchelos* as ancient teachers of secret or mystical knowledge.
+2. **Kabbalistic Link**: In his encounter with Jewish mysticism, *Pico* used translations provided by *Flavius Mithridates*, who attributed certain texts to this *Symeon antiquus*.
+3. **Biblical Interpretation**: *Pico* frequently cites him to *support* his own allegorical and mystical *interpretations* of the Old Testament, *particularly* the ***Book of Genesis***. 
+
+
+
+<br>
 
 ---
 
@@ -11,72 +85,117 @@
 
 ---
 
-## Eleazar of Worms (c. 1176–1238)
+## Rabbi Eliazar (c. 40–120 AD) 
 
-Eleazar of Worms (c. 1176–1238), also known as Eleazar ben Judah, was a seminal medieval German rabbi, theologian, and the last major figure of the Hasidei Ashkenaz (German Pietists) movement. He is widely remembered as the "Rokeach" (the Perfumer), a title derived from his influential halakhic-ethical work, Sefer ha-Rokeach. 
+ cited in Latin scholarly or Kabbalistic texts, notably by Renaissance humanist *Giovanni Pico della Mirandola* in his *900 Conclusions* (c.f. pico, 1601, p. 116). 
 
-Biography and Family Tragedy
+1. ***Rabbi Eliazar***: Generally refers to ***Eliezer ben Hurcanus*** (also known as *Rabbi Eliezer the Great*), a prominent 1st c. sage and traditional *author of* the mystical work ***Pirkei De-Rabbi Eliezer***.
+2. ***Rabbi Moyses de Aegypto***: The Latinized name for ***Moses Maimonides (Rambam)***, the preeminent medieval Jewish philosopher and jurist who lived in Egypt and *authored the Guide* for the ***Perplexed*** and the ***Mishneh Torah***.
+3. ***Rabbi Iodam***: A Latinization of Rabbi Yohanan (likely *Yohanan ben Zakkai* or *Yohanan ha-Sandlar*). In the context of Pico della Mirandola's Latin translations, *Rabbi Iodam* is frequently associated with the *transmission of Kabbalistic secrets* and ancient rabbinic lore. 
 
-Born into the prominent Kalonymus family of Mainz, Eleazar was a disciple of Rabbi Judah the Pious, who initiated him into the study of Kabbalah and Jewish law. 
+*Rabbi Eliezer ben Hurcanus* (also spelled Hyrcanus; c. 40–120 AD) was one of the most prominent Jewish sages (Tannaim) of the 1st-2nd c.. He was a leading *disciple* of *Rabban Yochanan ben Zakkai* and a primary *teacher* of *Rabbi Akiva*. 
 
-Jewish Encyclopedia
+Known as *Eliezer ha-Gadol (the Great)*, he is one of the most frequently cited figures in the *Mishnah*. His life and legacy are defined by a fierce commitment to tradition and a dramatic, controversial excommunication from the rabbinic community. 
 
-Life in Worms: He served as a rabbi and judge in Worms, where he was a central communal authority and a signatory to the Takkanot SHUM (regulations for the communities of Speyer, Worms, and Mainz).
-1196 Tragedy: During the Third Crusade, two intruders broke into his home and murdered his wife, Dulcea, and their two daughters, Belat and Hannah. His wife had been a hardworking businesswoman who supported his full-time studies. Eleazar himself was severely wounded but survived to continue his prolific writing. 
+### Life Events & Characteristics
+
+1. **From Humble Beginnings**: Eliezer grew up in a wealthy family but was initially uneducated. At age 28, he left his father's farm against his wishes to study Torah in Jerusalem under Rabban *Yochanan ben Zakkai*, enduring extreme poverty during his studies.
+2. **The Plastered Cistern*: His teacher praised him as a *plastered cistern that loses not a drop*, referring to his incredible memory and refusal to teach anything he had not heard directly from his masters.
+3. **Conservative Approach**: He was deeply conservative and often sided with the school of *Shammai*, which favored strict adherence to tradition over new interpretations.
+4. **Arrest for Heresy**: Talmudic accounts mention he was once arrested by *Roman authorities* on suspicion of being a Christian (Minut), though he was later released. 
+
+### The Oven of Akhnai & Excommunication 
+
+The most famous episode of his life involved a dispute over the ritual purity of an *Akhnai oven*: 
+
+1. **Miraculous Proofs**: To prove his stance, *Eliezer invoked miracles*—uprooting a carob tree, making a stream flow backward, and causing the walls of the study hall to lean.
+2. **The Heavenly Voice**: A *Bat Kol* (heavenly voice) finally intervened, declaring that the law was according to *Eliezer*.
+3. **The Sages' Rebuttal**: Rabbi *Joshua ben Hananiah* famously rejected these signs, quoting the Torah: "It is not in heaven" (Deuteronomy 30:12). He argued that since the Torah was given to humans, legal matters must be decided by a majority vote of scholars, not miracles.
+4. **Isolation**: Because *Eliezer* refused to accept the majority's decision, he was *excommunicated (cherem)* and lived the remainder of his life in isolation. 
+
+### Literary Contributions
+
+While he is a central figure in the Mishnah, the ***Pirkei De-Rabbi Eliezer***—an **8th c.** midrashic work—is traditionally attributed to him, though modern scholars consider it **pseudepigraphical**.
 
 
-Major Literary Works
+### c.f. also Eleazar of Worms (c. 1176–1238) 
 
-Eleazar was an exceptionally prolific author, writing on subjects ranging from law and ethics to mysticism and science. 
+Eleazar of Worms (c. 1176–1238), also known as *Eleazar ben Judah*, was a seminal medieval German rabbi, theologian, and the *last major figure* of the *Hasidei Ashkenaz (German Pietists)* movement. He is widely remembered as the *Rokeach (the Perfumer)*, a title derived from his *influential halakhic-ethical* work, ***Sefer ha-Rokeach***. 
 
+#### Biography and Family Tragedy
 
-Sefer ha-Rokeach: His most famous work, this halakhic guide for the common reader covers Jewish law, ethics, and rituals. Its title is a play on his name: the gematria (numerical value) of "Rokeach" (308) is equal to that of "Eleazar".
-Sodei Razayya: A major five-part collection of esoteric-mystical works, including Sod ha-Merkavah (Secrets of the Chariot) and Hokhmat ha-Nefesh (Wisdom of the Soul).
-Moreh Chatta’im: A influential work on penance and the confession of sin, reflecting the movement's focus on asceticism and repentance.
-Piyutim: He composed over 50 liturgical poems and dirges, many of which are still found in Ashkenazic prayer books. 
+Born into the prominent ***Kalonymus family*** of Mainz, *Eleazar* was a disciple of *Rabbi Judah the Pious*, who initiated him into the study of *Kabbalah* and Jewish law. 
 
-Mysticism and Theology
-Eleazar’s thought bridged the gap between early Merkavah mysticism and later Kabbalistic developments. 
+#### Jewish Encyclopedia
 
-The Kavod (Divine Glory): He developed the concept of the Kavod as a knowable emanation of the otherwise unknowable and transcendent God.
-Letter Mysticism: He made extensive use of gematria (numerical values), notarikon (acronyms), and temurah (letter permutations) to uncover hidden meanings in the Torah.
-Asceticism and Joy: While his ethical teachings emphasized severe penance (such as Teshuvat HaMishkal, or penance proportionate to the sin), he also championed serving God with inner joy and selfless love. 
+1. **Life in Worms**: He served as a rabbi and judge in Worms, where he was a central communal authority and a signatory to the *Takkanot SHUM* (regulations for the communities of Speyer, Worms, and Mainz).
+2. **1196 Tragedy**: During the *Third Crusade*, two ***intruders*** broke into his home and ***murdered*** his wife, *Dulcea*, and their two daughters, *Belat and Hannah*. His wife had been a hardworking businesswoman who supported his full-time studies. *Eleazar* himself was *severely wounded* but survived to continue his prolific writing. 
 
-8. ***Neonius***: A less common name in this specific context, sometimes associated with early Christian theological or philosophical lineages mentioned in medieval Latin texts.
+#### Major Literary Works
+
+*Eleazar* was an exceptionally prolific author, writing on subjects ranging from law and ethics to mysticism and science. 
+
+1. ***Sefer ha-Rokeach***: His most famous work, this halakhic guide for the common reader covers Jewish law, ethics, and rituals. Its title is a play on his name: the *gematria* (numerical value) of *Rokeach* (308) is equal to that of *Eleazar*.
+2. ***Sodei Razayya***: A major five-part collection of esoteric-mystical works, including ***Sod ha-Merkavah*** (*Secrets of the Chariot*) and ***Hokhmat ha-Nefesh*** (*Wisdom of the Soul*).
+3. ***Moreh Chatta’im***: A influential work on penance and the confession of sin, reflecting the movement's focus on *asceticism* and repentance.
+4. ***Piyutim***: He composed over 50 liturgical poems and dirges, many of which are still found in *Ashkenazic* prayer books. 
+
+#### Mysticism and Theology
+
+Eleazar’s thought bridged the gap between *early Merkavah* mysticism and *later Kabbalistic* developments. 
+
+1. **The Kavod (Divine Glory)**: He developed the concept of the *Kavod as a knowable emanation* of the otherwise unknowable and *transcendent God*.
+2. **Letter Mysticism**: He made extensive use of *gematria* (numerical values), *notarikon* (acronyms), and *temurah* (letter permutations) to *uncover hidden meanings* in the Torah.
+3. **Asceticism and Joy**: While his ethical teachings emphasized severe penance (such as *Teshuvat HaMishkal*, or penance proportionate to the sin), he also championed serving God with inner joy and selfless love. 
+
+---
+
+## Aba Hebraeus Rabi. (Pico, 1601, p. b3)
+
+---
+
+## Neonias Rabbi (Pico, 1601,  p. b4)
 
 ---
 
 ## Isaac Israeli ben Solomon (c. 832 – 932)
 
-Isaac Israeli ben Solomon (c. 832 – 932), also known as Isaac Israeli the Elder, Isaac Philosophus or Isaac Judaeus, was a pioneering Jewish physician and philosopher in North Africa. He is widely recognized as the father of medieval Jewish Neoplatonism and was one of the first Jewish thinkers to integrate Greek philosophy into Jewish metaphysics. 
+Context of *Isaac Philosophus* in Pico's Work
+In his scholarship, Pico relied heavily on diverse cultural texts: 
 
-Key Biography
+1. **Source Identification**: Modern research indicates that the *Isaac Philosophus* mentioned in his *Kabbalistic and astrological notes* is likely ***Abraham ben Isaac of Narbonne***, a 12th c. French rabbi.
+2. **Attribution Errors**: It is noted by scholars that ***Pico*** or his contemporaries *sometimes* ***conflated different figures*** or used these titles to lend ancient authority to their arguments. 
 
-Origin: Born in Egypt, he later moved to Kairouan (modern-day Tunisia).
-Career: He served as the court physician to the Fatimid caliph, 'Ubayd Allah al-Mahdi.
-Legacy: He lived for over 100 years, never married, and reportedly claimed his books would keep his memory alive better than children. 
+*Isaac Israeli ben Solomon* (c. 832 – 932), also known as Isaac Israeli the Elder, ***Isaac Philosophus*** or Isaac Judaeus, was a *pioneering Jewish physician and philosopher* in North Africa. He is widely recognized as the ***father of medieval Jewish Neoplatonism*** and was one of the first Jewish thinkers to *integrate Greek philosophy into Jewish metaphysics*. 
 
-Medical Contributions
+### Biography
 
-Israeli was a renowned medical authority whose works were used as standard textbooks in European universities until the 17th century. 
+1. **Origin**: Born in Egypt, he later moved to Kairouan (modern-day Tunisia).
+2. **Career**: He served as the court physician to the Fatimid caliph, 'Ubayd Allah al-Mahdi.
+3. **Legacy**: He lived for over 100 years, never married, and reportedly claimed his books would keep his memory alive better than children. 
 
-Major Works: His "Book of Fevers" (Kitab al-Hummayat) was considered one of the most valuable medical texts of its era.
-Other Works: He wrote influential treatises on urine (De urinis) and dietetics (De diaetis).
-Translation: Many of his works were translated into Latin by Constantine of Carthage in the 11th century. 
+### Medical Contributions
 
-Philosophical Impact
-As a philosopher, he focused on Neoplatonic themes, particularly the concept of emanation. 
+Israeli was a renowned *medical authority* whose works were *used* as standard textbooks in *European* universities *until the 17th c*. 
 
-Synthesis: He harmonized the Jewish belief in creation ex nihilo (creation out of nothing) with Neoplatonic emanation, suggesting God created the first matter by will, from which all else emanated.
-Definitions: His Book of Definitions (Kitab al-Hudud) explored concepts like soul, intellect, and nature.
-Critique: While highly respected by Christian scholars, he was famously dismissed by Maimonides as being "merely a physician" and not a true philosopher. 
-5. Ysaac (Isaac) and Aba: Likely references to traditional biblical figures or later rabbinic commentators. 
+1. **Major Works**: His ***Book of Fevers"*** (*Kitab al-Hummayat*) was considered one of the most valuable medical texts of its era.
+2. **Other Works**: He wrote influential treatises on *urine (De urinis)* and *dietetics (De diaetis)*.
+3. **Translation**: Many of his works were translated into Latin by ***Constantine of Carthage*** in the **11th c.** 
+
+### Philosophical Impact
+
+As a philosopher, he focused on *Neoplatonic* themes, particularly the concept of emanation. 
+
+1. **Synthesis**: He harmonized the Jewish belief in *creation ex nihilo* (creation out of nothing) with *Neoplatonic emanation*, suggesting *God created the first matter* by will, from which *all else emanated*.
+2. **Definitions**: His ***Book of Definitions*** (Kitab al-Hudud) explored concepts like *soul, intellect,* and *nature*.
+3. **Critique**: While highly respected by Christian scholars, he was famously dismissed by *Maimonides* as being *merely a physician* and not a *true philosopher*. 
+
 
 ---
 
-## Flavius Josephus ()
+## Flavius Josephus
 
-The 1st-century Romano-Jewish historian.
+The 1st c. Romano-Jewish historian.
 
 ---
 
@@ -141,6 +260,8 @@ Philosophy: In Megillat ha-Megalleh (Scroll of the Revealer), he explored the in
 Titles: He was often called Ha-Nasi ("the Prince" or "the Leader"), indicating his high standing within the Jewish community, and Savasorda, a corruption of the Arabic ṣāḥib al-shurṭah ("head of the guard"), suggesting he held a civic office in Barcelona. 
 
 https://blog.nli.org.il/en/abraham-and-plato-barcelona/
+
+---
 
 
 

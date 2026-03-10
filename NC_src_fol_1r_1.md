@@ -1,3 +1,8 @@
+
+# NC_src_fol_1r_1.md
+
+---
+
 ## Moses (c. 1526–1406 BC / c. 1391–1271 BC)
 
 Estimating the dates of *Moses* is a complex task because he is **primarily a figure of the Bible** and **Abrahamic tradition**, with no direct archaeological evidence confirming his historical existence. Consequently, **several different timelines exist** based on religious tradition or scholarly interpretation. 
