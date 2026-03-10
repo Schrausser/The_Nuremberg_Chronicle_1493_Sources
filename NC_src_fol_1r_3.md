@@ -205,59 +205,59 @@ The 1st c. Romano-Jewish historian.
 
 ## Gersonides (1288–1344)
 
-A famous philosopher and mathematician.Gersonides (1288–1344), also known as Levi ben Gershom or by his Hebrew acronym Ralbag, was a pioneering French Jewish philosopher, astronomer, mathematician, and biblical commentator. He is widely regarded as one of the most original and technical thinkers of the medieval period, often pushing the boundaries of traditional Jewish thought through his rigorous commitment to reason. 
+A famous philosopher and mathematician. Gersonides (1288–1344), also known as *Levi ben Gershom* or by his Hebrew acronym *Ralbag*, was a pioneering French Jewish philosopher, astronomer, mathematician, and biblical commentator. He is widely regarded as one of the most original and technical thinkers of the medieval period, often pushing the boundaries of traditional Jewish thought through his rigorous commitment to reason. 
 
-Major Contributions and Works
+### Major Contributions and Works
 
-1. The Wars of the Lord (Sefer Milhamot Ha-Shem): His philosophical magnum opus, completed in 1329, which systematically addresses six major theological and scientific questions, including the immortality of the soul and the creation of the world.
-2. Astronomy and Science: Gersonides was a highly influential astronomer who criticized the Ptolemaic system based on his own precise observations. He invented the Jacob's Staff (Bacullus Jacobi), an instrument used to measure the angular distance between celestial bodies.
-3. Biblical Exegesis: He wrote extensive commentaries on most of the Hebrew Bible, including the Pentateuch, Job, and Song of Songs, often interpreting the text through a philosophical and rationalist lens.
-4. Mathematics and Logic: He made significant advances in combinatorics and induction, and wrote Ma'aseh Hoshev (The Work of a Counter) on arithmetical operations. 
+1. ***The Wars of the Lord (Sefer Milhamot Ha-Shem)***: His philosophical magnum opus, completed in 1329, which systematically addresses six major theological and scientific questions, including the immortality of the soul and the creation of the world.
+2. **Astronomy and Science**: Gersonides was a highly influential astronomer who criticized the Ptolemaic system based on his own precise observations. He invented the *Jacob's Staff* (Bacullus Jacobi), an instrument used to measure the angular distance between celestial bodies.
+3. **Biblical Exegesis**: He wrote extensive commentaries on most of the Hebrew Bible, including the Pentateuch, Job, and Song of Songs, often interpreting the text through a philosophical and rationalist lens.
+4. **Mathematics and Logic**: He made significant advances in *combinatorics* and induction, and wrote ***Ma'aseh Hoshev*** (*The Work of a Counter*) on arithmetical operations. 
 
-Key Philosophical Views
+### Philosophical Views
 
-Gersonides' thought was heavily influenced by Aristotle (via Averroes) and Maimonides, but he often arrived at more radical conclusions: 
+*Gersonides'* thought was heavily influenced by *Aristotle* (via *Averroes*) and *Maimonides*, but he often arrived at more radical conclusions: 
 
-1. Divine Omniscience: In a highly controversial move, he argued that God knows particulars only as members of a species, not as individuals, to preserve human free will.
-2. Creation: He rejected creation ex nihilo (out of nothing), favoring a modified Platonic view that God formed the world from a pre-existent, formless matter.
-3. Immortality of the Soul: He posited that only the "acquired intellect"—the knowledge of eternal truths a person gains during their life—is immortal. 
+1. **Divine Omniscience**: In a highly controversial move, he argued that God knows particulars only as members of a species, not as individuals, to preserve human free will.
+2. **Creation**: He rejected creation ex nihilo (out of nothing), favoring a modified *Platonic* view that God formed the world from a pre-existent, formless matter.
+3. **Immortality of the Soul**: He posited that only the *acquired intellect*—the knowledge of eternal truths a person *gains during their life*—is immortal. 
 
 ---
 
 ## Saadia Gaon (882–942 AD)
 
-A prominent 10th-century Jewish philosopher.Saadia Gaon (882–942 AD) was a monumental figure in Jewish history, serving as a rabbi, philosopher, and the leader of the Sura Academy in Babylonia. Known for integrating Jewish tradition with rationalist philosophy, he is often called the "father of scientific biblical exegesis" and was the first to systematically present Judaism as a rational body of beliefs. 
+A prominent 10th c. Jewish philosopher. Saadia Gaon (882–942 AD) was a *monumental figure* in Jewish history, serving as a rabbi, philosopher, and the leader of the Sura Academy in Babylonia. Known for integrating Jewish tradition with rationalist philosophy, he is often called the *father of scientific biblical exegesis* and was the first to systematically present Judaism as a rational body of beliefs. 
 
-Key Contributions and Works
+### Key Contributions and Works
 
-1. The Book of Beliefs and Opinions: His magnum opus (Emunot ve-De'ot), which harmonised Torah teachings with the Mu'tazilite Kalām school of Islamic philosophy.
-2. Tafsir (Bible Translation): He produced the first major Arabic translation of the Torah, making the text accessible to the Arabic-speaking Jewish world.
-3. Hebrew Linguistics: He wrote the Agron, the first Hebrew dictionary and grammar book, providing a foundation for future Hebrew lexicography.
-4. Siddur: He compiled the earliest surviving complete prayer book, which included his own liturgical poems and commentary. 
+1. **The Book of Beliefs and Opinions**: His *magnum opus* (***Emunot ve-De'ot***), which *harmonised* Torah teachings with the *Mu'tazilite Kalām* school of Islamic philosophy.
+2. **Tafsir (Bible Translation)**: He produced the first major Arabic translation of the Torah, making the text accessible to the Arabic-speaking Jewish world.
+3. **Hebrew Linguistics**: He wrote the *Agron*, the first Hebrew dictionary and grammar book, providing a foundation for future Hebrew lexicography.
+4. **Siddur**: He compiled the earliest surviving complete prayer book, which included his own liturgical poems and commentary. 
 
-Leadership and Controversies
+### Leadership and Controversies
 
-1. Anti-Karaite Polemics: Saadia was a fierce defender of Rabbinic Judaism, writing extensively to counter the Karaite sect, which rejected the Oral Torah (Talmud).
-2. Calendar Dispute: In 921 AD, he famously intervened in a major calendar dispute against Aaron ben Meir of Israel, ensuring the Babylonian authority over Jewish timekeeping remained dominant.
-3. Political Conflict: His tenure as Gaon was marked by a sharp rift with the Exilarch (political leader) David ben Zakkai, leading to a period of exile in Baghdad where he focused on his writings.
+1. **Anti-Karaite Polemics**: *Saadia* was a fierce defender of Rabbinic Judaism, writing extensively to counter the Karaite sect, which rejected the Oral Torah (Talmud).
+2. **Calendar Dispute**: In 921 AD, he famously intervened in a major calendar dispute against *Aaron ben Meir of Israel*, ensuring the Babylonian authority over Jewish timekeeping remained dominant.
+3. **Political Conflict**: His tenure as Gaon was marked by a sharp rift with the Exilarch (political leader) *David ben Zakkai*, leading to a period of exile in Baghdad where he focused on his writings.
 
 ---
 
 ## Abraham Bar Ḥiyya (c. 1065–1136)
 
-Abraham bar Ḥiyya (c. 1065–1136), also known as Savasorda, he is also frequently cited as Abraham Hispanus or Abraham Judaeus, was a Spanish Jewish mathematician, astronomer, and philosopher who served as a primary bridge between Islamic science and Christian Europe. Residing in Barcelona, he was the first scholar to write scientific and mathematical treatises in Hebrew, establishing a technical vocabulary for future generations. 
+Abraham bar Ḥiyya (c. 1065–1136), also known as *Savasorda*, he is also frequently cited as *Abraham Hispanus* or *Abraham Judaeus*, was a Spanish Jewish mathematician, astronomer, and philosopher who served as a primary bridge between Islamic science and Christian Europe. Residing in Barcelona, he was the first scholar to write scientific and mathematical treatises in Hebrew, establishing a technical vocabulary for future generations. 
 
-Scientific Contributions
+### Scientific Contributions
 
-Mathematics: His work Ḥibbur ha-Meshiḥah ve-ha-Tishboret (Treatise on Measurement and Calculation) provided the first complete solution to the general quadratic equation in Europe.
-Encyclopedia: He authored the first Hebrew encyclopedia of science, Yesodei ha-Tevunah u-Migdal ha-Emunah, covering geometry, arithmetic, optics, and music.
-Astronomy: He wrote Ṣurat ha-Arets (Form of the Earth), a non-technical exposition of astronomy, and compiled the "Jerusalem Tables" for astronomical calculations.
-Influence: His Latin translations, particularly the Liber Embadorum (1145), significantly influenced the work of the famous mathematician Leonardo Fibonacci. 
+1. **Mathematics**: His work ***Ḥibbur ha-Meshiḥah ve-ha-Tishboret*** (*Treatise on Measurement and Calculation*) provided the first complete solution to the general quadratic equation in Europe.
+2. **Encyclopedia**: He authored the first Hebrew encyclopedia of science, ***Yesodei ha-Tevunah u-Migdal ha-Emunah***, covering *geometry, arithmetic, optics*, and *music*.
+3. **Astronomy**: He wrote ***Ṣurat ha-Arets*** (*Form of the Earth*), a non-technical exposition of *astronomy*, and compiled the *Jerusalem Tables* for astronomical calculations.
+4. **Influence**: His Latin translations, particularly the ***Liber Embadorum*** (1145), significantly influenced the work of the famous mathematician *Leonardo Fibonacci*. 
 
-Philosophy and Leadership
+### Philosophy and Leadership
 
-Philosophy: In Megillat ha-Megalleh (Scroll of the Revealer), he explored the intersection of time, history, and Jewish theology, calculating messianic timelines based on a 6000-year framework of history.
-Titles: He was often called Ha-Nasi ("the Prince" or "the Leader"), indicating his high standing within the Jewish community, and Savasorda, a corruption of the Arabic ṣāḥib al-shurṭah ("head of the guard"), suggesting he held a civic office in Barcelona. 
+1. **Philosophy**: In ***Megillat ha-Megalleh*** (*Scroll of the Revealer*), he explored the intersection of time, history, and Jewish theology, calculating messianic timelines based on a 6000-year framework of history.
+2. **Titles**: He was often called *Ha-Nasi* (*the Prince* or *the Leader*), indicating his high standing within the Jewish community, and *Savasorda*, a corruption of the Arabic *ṣāḥib al-shurṭah* (head of the guard), suggesting he held a civic office in Barcelona. 
 
 https://blog.nli.org.il/en/abraham-and-plato-barcelona/
 
