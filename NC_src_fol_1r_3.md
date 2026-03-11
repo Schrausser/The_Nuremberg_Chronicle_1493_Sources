@@ -298,11 +298,11 @@ The work is written as a Socratic dialogue between three characters meeting in F
 
 **Table 1**. Comparison.
 ~~~
-Entity 	Context	Relevance
+Entity 				Context							Relevance
 
 Angelos (Anchelos)	Byzantine Dynasty / Theology	Refers to the Angelos imperial family or "angels" as divine messengers.
-Pythagoras	Greek Philosophy	Known for his mathematical theorems and the "Music of the Spheres" often linked to divine order.
-Noah	Biblical Figure	Viewed in some philosophical traditions as a "pre-Pythagorean" source of ancient wisdom or a symbol of rebirth.
+Pythagoras			Greek Philosophy				Known for his mathematical theorems and the "Music of the Spheres" often linked to divine order.
+Noah				Biblical Figure					Viewed in some philosophical traditions as a "pre-Pythagorean" source of ancient wisdom or a symbol of rebirth.
 ~~~
 
 ---
