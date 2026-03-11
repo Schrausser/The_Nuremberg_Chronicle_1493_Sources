@@ -38,7 +38,7 @@ While the Bible explicitly names only three sons—*Shem, Ham, and Japheth*—va
 ---
 
 [^1]: According to the Masoretic Text (the basis for most modern Bibles), ***Noah's Birth*** is calculated to have occurred in **2948 BC** (1056 years after creation).  
-[^2]: Modern Scholarly Views: Many *historians and archaeologists* view the story as an ***allegorical retelling*** of localized *Mesopotamian floods*, such as one *near Shuruppak* around **2900–2750 BC**.  
+[^2]: Modern Scholarly Views: Many *historians and archaeologists* view the story as an ***allegorical retelling*** of localized *Mesopotamian floods*, such as one *near Shuruppak* around **2900–2800 BC**.  
 [^3]: ***Nimrod*** and ***Enmerkar*** (**fl. c. 2750 BC**) are frequently identified as the same historical or legendary figure by scholars and theorists searching for the origins of the biblical *Nimrod*. *Enmerkar* was an ancient Sumerian king of *Uruk*, while *Nimrod* is described in the Book of Genesis as a *mighty hunter* and the *first king on Earth*.
 The identification of *Enmerkar* as *Nimrod* is primarily based on several *striking similarities* in their legendary accounts:
 (1) **Founder of the Same City**: Both are credited with the foundation or early rule of the city of ***Uruk*** (known as *Erech* in the Bible). (2) **The Hunter Epithet**: The name *Enmerkar* contains the suffix *-kar*, which in Sumerian means *hunter*. This directly parallels Nimrod's biblical title as a *mighty hunter before the Lord*. (3) **Tower of Babel Connection**: In the *Sumerian epic* ***Enmerkar and the Lord of Aratta***, *Enmerkar* is associated with the building of a **great temple or tower** and a *confusion of tongues*. This mirrors the biblical account of **Nimrod and the Tower of Babel**. (4) **Chronological Placement**: **Both figures** are placed in the immediate **post-Flood era** according to their respective traditions. 
@@ -156,11 +156,63 @@ Eleazar’s thought bridged the gap between *early Merkavah* mysticism and *late
 
 ---
 
-## Aba Hebraeus Rabi. (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217), p. b3)
+## Aba Hebraeus Rabi (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217), p. b3)
 
 ---
 
-## Neonias Rabbi (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217),  p. b4)
+## Yohanan ben Zakkai (1st c. AD)
+
+Ioannes
+
+Rabban Yohanan ben Zakkai (1st c. AD) was a pivotal Jewish sage whose leadership and pragmatic vision were instrumental in the survival and transformation of Judaism following the Roman destruction of the Second Temple in 70 AD. He is often cited as the father of Rabbinic Judaism, shifting the faith's focus from Temple-based sacrifice to the study of Torah and acts of loving-kindness. 
+
+### Historical Contributions
+
+1. **The Escape from Jerusalem**: During the Roman siege, *Ben Zakkai* famously escaped the city by feigning death and being carried out in a coffin by his disciples.
+2. **The Meeting with Vespasian**: Upon reaching the Roman camp, he predicted that the *general Vespasian* would become emperor (***see Flavius Josephus***). When this prediction came true, Vespasian granted him a request.
+*Give me Yavne and its Sages*: Instead of asking for the Temple to be spared, he requested permission to establish an academy in Yavne. This act ensured the continuity of Jewish scholarship and law outside of Jerusalem.
+3. **Founding Rabbinic Judaism**: At Yavne, he reconstituted the Sanhedrin and established numerous edicts (takanot) that allowed Jewish life to function without a central Temple. 
+
+
+### Theological Legacy
+
+1. **Redefining Atonement**: He famously taught that acts of loving-kindness (gemilut hasadim) could serve as atonement for sin in the absence of animal sacrifices.
+2. **Emphasis on Torah Study**: He believed the central purpose of human existence was the study of Torah, famously stating, *If you have studied much Torah, do not take credit for yourself, for this was the purpose for which you were created*.
+3. **Rational Interpretation**: *Ben Zakkai* is associated with a more rational and pragmatic approach to Jewish law, often engaging in debates with Sadducean and priestly authorities. 
+
+### Death and Memory
+
+1. **Burial**: His tomb is located in Tiberias, within the same burial compound as *Maimonides*.
+2. **Final Words**: On his deathbed, he wept over the weight of divine judgment, reflecting on the two paths before him—Paradise or Gehinnom—and his uncertainty regarding his fate. 
+
+
+### The Connection: Yohanan Alemanno
+
+The bridge between *Yohanan ben Zakkai* and *Pico* is *Yohanan Alemanno*, a Jewish scholar and Kabbalist who served as *Pico della Mirandola's* Hebrew teacher and advisor. 
+
+1. **Alemanno's Influence**: Alemanno was a prolific writer who introduced Pico to various forms of Jewish thought, including *astromagical* interpretations of Kabbalah.
+2. **Mystical Lineage**: Alemanno frequently drew upon the authority of ancient sages like *Yohanan ben Zakkai*, who is traditionally associated with the earliest layers of Jewish mysticism, specifically the *Merkavah (Chariot)* literature.
+3. **Renaissance Synthesis**: Through *Alemanno*, the rabbinic and mystical legacy established by *Zakkai* was transmitted to *Pico*, who then integrated these concepts into his *900 Theses* to argue for a universal human wisdom. 
+
+---
+
+## Nehunyah ben HaKanah (1st-2nd c. AD)
+
+Neonias Rabbi (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217),  p. b4)
+
+Nehunyah ben HaKanah was a prominent Tanna (rabbinic sage) of the 1st-2nd c. AD, recognized for his contributions to Jewish law, ethics, and early mystical thought. 
+
+### Contributions & Legacy
+
+1. **The "Ana B'Koach" Prayer**: He is traditionally credited with composing this powerful 42-line mystical prayer, which is structured around the 42-letter Name of God.
+2. **Early Mysticism (Kabbalah)**: Kabbalists regard him as *a founding figure in Jewish mysticism*. He is often cited as the author of the ***Sefer HaBahir*** (*Book of Illumination*), one of the earliest works of Kabbalah.
+2. **Prayer for the Study Hall**: The Mishnah (Berakhot 4:2) records his practice of reciting a short prayer upon entering and leaving the Beit Midrash (House of Study). He prayed that no errors should occur through him and gave thanks for his *portion* among those who study.
+3. **Ethical Teachings**: He is famous for the teaching in Pirkei Avot (3:5) that *whoever accepts upon himself the yoke of Torah, the yoke of government and worldly cares is removed from him*. 
+
+### Personal Characteristics
+
+1. **Humility and Longevity**: When asked how he lived so long, he attributed his longevity to never seeking honor at the expense of others and being generous with his money.
+2. **Scholarship**: He was a contemporary of *Yohanan ben Zakkai* and the teacher of the renowned *Rabbi Ishmael*. He was known for interpreting the entire Torah using the hermeneutic rule of *general and particular* (kelal ufrat). 
 
 ---
 
@@ -199,9 +251,31 @@ As a philosopher, he focused on *Neoplatonic* themes, particularly the concept o
 
 ---
 
-## Flavius Josephus
+## Flavius Josephus (c. 37–100 AD)
 
-The 1st c. Romano-Jewish historian.
+Flavius Josephus (born Yosef ben Matityahu, c. 37–100 AD) was a 1st-c. ***Romano-Jewish historian and military leader***. He is most famous for chronicling the ***Jewish-Roman War*** and providing some of the earliest extra-biblical mentions of *Jesus of Nazareth*. 
+
+### Historical Background and Works
+
+1. **Military Role**: During the Jewish revolt against Rome, he served as a military commander in Galilee before surrendering to the Roman *general Vespasian* in 67 AD.
+
+2. **Roman Patronage**: After predicting *Vespasian* would become emperor (***see Yohanan ben Zakkai***), he was freed and adopted the family name *Flavius*. He eventually moved to Rome, where he wrote under imperial patronage.
+
+3. **Major Writings**:
+
+- ***The Jewish War***: A detailed eyewitness account of the Jewish revolt (75–79 AD).
+- ***Antiquities of the Jews***: A history of the Jewish people from creation to his own time (c. 93/94 AD).
+- ***Against Apion***: A defense of Judaism against Hellenistic critics.
+- ***The Life of Flavius Josephus***: His autobiography. 
+
+### The Pico Connection
+
+1. **Intellectual Engagement**: Pico was deeply interested in Josephus's works, particularly as they provided a ***bridge between Jewish history and the classical world***.
+2. **Humanist Reception**: During the Renaissance, *Pico* and other humanists sought out authentic editions of *Josephus* to study Jewish antiquities and the historical context of early Christianity. 
+Significance and Controversy
+3. **Historical Reliability**: *Josephus* is a primary source for 1st c. Judea, though his work is often viewed through the lens of his political position as a Roman client.
+4. **The Testimonium Flavianum**: A passage in *Antiquities* (18.3.3) that refers to *Jesus as the Christ* has been the subject of intense debate for centuries regarding its authenticity.
+5. **The Josephus Problem**: In mathematics, a theoretical problem involving people standing in a circle is named after a legend where *Josephus* and his soldiers chose suicide over surrender. 
 
 ---
 
