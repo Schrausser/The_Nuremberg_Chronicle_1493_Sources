@@ -7,14 +7,14 @@
 
 ## Jonethes
 
-In the works of Giovanni Pico della Mirandola, ***Jonethes the Chaldean*** (also spelled Jonithus or Ionitus) is a ***legendary figure*** cited as *a source of ancient wisdom*, particularly regarding the foundations of astronomy and magic.
+In the works of Giovanni Pico della Mirandola, ***Jonethes the Chaldean*** (also spelled Jonithus or Ionitus) is a ***legendary figure*** cited as *a source of ancient wisdom*, particularly regarding the foundations of astronomy.
 
 ### Role in Pico's Philosophy
 
 *Pico della Mirandola* frequently referenced *obscure* or *semi-mythical* figures to support his ***Syncretism***—the idea that *all philosophical and religious traditions share a single, underlying truth*. 
 
 1. **Ancient Sage**: Pico identifies *Jonethes* alongside figures like ***Anchelos and Simeon the Elder*** as *Chaldeans* who possessed secret, divine ***knowledge***.
-2. **Symbol of Continuity**: By citing *Jonethes*, Pico aimed to ***bridge the gap*** between ***Neo-Platonism, Christian Cabala, and ancient Babylonian (Chaldean) mysticism***.
+2. **Symbol of Continuity**: By citing *Jonethes*, Pico aimed to ***bridge the gap*** between ***Neo-Platonism, Christian Cabala, and ancient Babylonian (Chaldean) mysticism***.  
 3. **The Fourth Son of Noah**: In broader ***Renaissance literature***, *Jonethes* was often described as the fourth son of Noah, born after the Flood, who supposedly received the gift of wisdom and ***founded the study of the stars***. 
 
 ### Context of Mention
@@ -26,16 +26,22 @@ Pico mentions Jonethes in his famous *Oration on the Dignity of Man* and his 900
 
 ### Fourth son of Noah
 
-While the Bible explicitly names only three sons—*Shem, Ham, and Japheth*—various religious, mythological, and historical traditions identify a *fourth son* of Noah by different names and roles. 
+While the Bible explicitly names only three sons—*Shem, Ham, and Japheth*—various religious, mythological, and historical traditions identify a *fourth son* of Noah[^1] by different names and roles. 
 
 #### Prominent Traditional Figures
 
-1. ***Yoniton (or Ionitus)*** - **Syriac/Christian Apocrypha**: In the 6th c.  Syriac text ***The Cave of Treasures*** and the later ***Apocalypse of Pseudo-Methodius***, a fourth son named *Yoniton (or Ionitus)* is born to *Noah* after the Flood. He is described as a wise figure who ***invented astronomy*** and served as a ***teacher to Nimrod***.
+1. ***Yoniton (or Ionitus)*** - **Syriac/Christian Apocrypha**: In the 6th c.  Syriac text ***The Cave of Treasures*** and the later ***Apocalypse of Pseudo-Methodius***, a fourth son named *Yoniton (or Ionitus)* is born to *Noah* after the Flood[^2]. He is described as a wise figure who ***invented astronomy*** and served as a ***teacher to Nimrod***[^3].
 2. ***Yam (or Kan'an)*** - **Islamic Tradition**: According to the Quran, Noah had a fourth son who was a disbeliever. During the Great Flood, he refused to board the Ark, opting instead to seek refuge on a mountain, where he subsequently drowned.
 3. ***Sceaf (or Sceafa)*** - **Anglo-Saxon Tradition**: Some medieval English chronicles, such as those documenting the House of Wessex, claim *Sceaf* was a fourth son born to *Noah* while aboard the Ark. 
 4. ***Bith*** - Irish Mythology: In the ***Annals of the Four Masters***( Annála Ríoghachta Éireann or Annals of the Kingdom of Ireland), 1636, *Bith* is identified as a son of *Noah* who was denied entry to the Ark. He attempted to escape the Deluge by sailing to Ireland with a small group of followers but perished in the flood.
 
 ---
+
+[^1]: According to the Masoretic Text (the basis for most modern Bibles), ***Noah's Birth*** is calculated to have occurred in **2948 BC** (1056 years after creation).  
+[^2]: Modern Scholarly Views: Many *historians and archaeologists* view the story as an ***allegorical retelling*** of localized *Mesopotamian floods*, such as one *near Shuruppak* around **2900–2800 BC**.  
+[^3]: ***Nimrod*** and ***Enmerkar*** (**fl. c. 2750 BC**) are frequently identified as the same historical or legendary figure by scholars and theorists searching for the origins of the biblical *Nimrod*. *Enmerkar* was an ancient Sumerian king of *Uruk*, while *Nimrod* is described in the Book of Genesis as a *mighty hunter* and the *first king on Earth*.
+The identification of *Enmerkar* as *Nimrod* is primarily based on several *striking similarities* in their legendary accounts:
+(1) **Founder of the Same City**: Both are credited with the foundation or early rule of the city of ***Uruk*** (known as *Erech* in the Bible). (2) **The Hunter Epithet**: The name *Enmerkar* contains the suffix *-kar*, which in Sumerian means *hunter*. This directly parallels Nimrod's biblical title as a *mighty hunter before the Lord*. (3) **Tower of Babel Connection**: In the *Sumerian epic* ***Enmerkar and the Lord of Aratta***, *Enmerkar* is associated with the building of a **great temple or tower** and a *confusion of tongues*. This mirrors the biblical account of **Nimrod and the Tower of Babel**. (4) **Chronological Placement**: **Both figures** are placed in the immediate **post-Flood era** according to their respective traditions. 
 
 ## Anchelos
 
@@ -100,7 +106,7 @@ Known as *Eliezer ha-Gadol (the Great)*, he is one of the most frequently cited 
 ### Life Events & Characteristics
 
 1. **From Humble Beginnings**: Eliezer grew up in a wealthy family but was initially uneducated. At age 28, he left his father's farm against his wishes to study Torah in Jerusalem under Rabban *Yochanan ben Zakkai*, enduring extreme poverty during his studies.
-2. **The Plastered Cistern*: His teacher praised him as a *plastered cistern that loses not a drop*, referring to his incredible memory and refusal to teach anything he had not heard directly from his masters.
+2. **The Plastered Cistern**: His teacher praised him as a *plastered cistern that loses not a drop*, referring to his incredible memory and refusal to teach anything he had not heard directly from his masters.
 3. **Conservative Approach**: He was deeply conservative and often sided with the school of *Shammai*, which favored strict adherence to tradition over new interpretations.
 4. **Arrest for Heresy**: Talmudic accounts mention he was once arrested by *Roman authorities* on suspicion of being a Christian (Minut), though he was later released. 
 
@@ -265,13 +271,13 @@ https://blog.nli.org.il/en/abraham-and-plato-barcelona/
 
 ## Anchelos, Pythagoras and Noah
 
-These three names frequently appear together in scholarly discussions concerning Byzantine history, ancient philosophy, and esoteric traditions. 
+These three names frequently appear together in scholarly discussions concerning Byzantine history, ancient philosophy and esoteric traditions. 
 
 ### Historical and Contextual Links
 
 1. **Byzantine Dynasty (Angelos/Anchelos)**: In the context of Byzantine history, *Anchelos* often refers to the ***Angelos dynasty (1185–1204)***, a powerful noble family that produced several emperors, such as *Alexios III Angelos*. The term *Angelos* is also the Greek word for *messenger* or *angel*, a concept that surfaces *in Kabbalistic and Renaissance* texts alongside mathematical figures.
 2. **Pythagoras and Biblical Figures**: Scholars ***often compare*** the Greek philosopher ***Pythagoras*** *with* biblical figures like ***Noah*** to explore the *Perennial Philosophy*—the idea that a single, universal truth was shared across ancient cultures. Some Renaissance and medieval texts even suggest that *Pythagoras derived his wisdom from the lineage of Noah* or that both figures represented the *beginning of new world cycles*.
-3. **Esotericism and Kabbalah**: In works like ***Johannes Reuchlin's De Arte Cabalistica***, names like *Noah* (whose name in Hebrew can be reversed to mean *grace*) are discussed in the same breath as ***Pythagorean mathematics*** and ***angelic hierarchy*** (*angelos*) to explain the *hidden structures of the universe*. 
+3. **Esotericism and Kabbalah**: In works like ***Johannes Reuchlin's De Arte Cabalistica***, names like ***Noah*** (whose name in Hebrew can be reversed to mean *grace*) are discussed in the same breath as ***Pythagorean mathematics*** and ***angelic hierarchy*** (*angelos*) to explain the *hidden structures of the universe*. 
 
 ### De Arte Cabalistica
 
@@ -304,6 +310,34 @@ Angelos (Anchelos)	Byzantine Dynasty / Theology	Refers to the Angelos imperial f
 Pythagoras			Greek Philosophy				Known for his mathematical theorems and the "Music of the Spheres" often linked to divine order.
 Noah				Biblical Figure					Viewed in some philosophical traditions as a "pre-Pythagorean" source of ancient wisdom or a symbol of rebirth.
 ~~~
+
+---
+
+## The Shuruppak flood (2900–2750 BC)
+
+The Shuruppak flood refers to both a mythological event in ancient Mesopotamian literature and a *physical flood layer* discovered by archaeologists at the site of Tell Fara in modern-day Iraq. 
+
+### Archaeological Evidence
+
+Excavations at Shuruppak in 1931 by *Eric Schmidt* uncovered a distinct layer of clean, water-laid clay—a flood stratum—that separated two different periods of human habitation. 
+
+1. **Dating**: This flood layer is generally dated to approximately **2900–2750 BC**, occurring at the end of the *Jemdet Nasr* period and the beginning of the *Early Dynastic I* period.
+2. **Nature**: Unlike a global *deluge*, scholars believe this was a localized, catastrophic river flood caused by a river avulsion (the river changing its course) or a massive storm in the Tigris-Euphrates valley.
+3. **Comparison**: Similar flood deposits have been found at other Sumerian sites like Kish, Uruk, and Ur, though they do not all date to the exact same year, suggesting *a series of major regional disasters* rather than a single event. 
+
+### Mythological Significance
+
+In Sumerian and Akkadian tradition, Shuruppak is famously known as the home of the *Flood Hero*. 
+
+1. **The Hero**: Depending on the text, he is named *Ziusudra* (Sumerian), *Atrahasis* (Akkadian), or *Utnapishtim* (in the Epic of Gilgamesh).
+2. **The Narrative**: The *gods decided to destroy humanity with a flood*, but the god *Enki* (Ea) *warned* the King of Shuruppak (*Ziusudra/Utnapishtim*) through a reed wall. He was instructed to tear down his house and ***build a massive boat*** to save his family, craftsmen, and animals.
+3. **Connection to Noah**: This story is ***widely considered*** the ***precursor to the Biblical story of Noah***. The Sumerian King List explicitly mentions that after the flood *swept over* the land, kingship *descended from heaven again* in the city of Kish. 
+
+### Historical Context
+
+1. **Pre-Flood City**: Shuruppak was one of the five *antediluvian* (pre-flood) cities listed in Sumerian myths.
+2. **Decline**: While the city was *re-inhabited* after the flood and grew to its greatest extent around 2600 BC, it eventually declined as the *Euphrates' course shifted away* from the city.
+3. **Literary Legacy**: The ***Instructions of Shuruppak*** is *one of the* ***oldest known pieces of literature***, containing wisdom supposedly handed down from the king of the city to his son *Ziusudra* before the deluge. 
 
 ---
 
