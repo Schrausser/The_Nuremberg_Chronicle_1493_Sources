@@ -5,7 +5,7 @@
 
 ---
 
-## Jonethes
+## 27. Jonethes: Ionitus (c. 2800 BC)
 
 In the works of Giovanni Pico della Mirandola, ***Jonethes the Chaldean*** (also spelled Jonithus or Ionitus) is a ***legendary figure*** cited as *a source of ancient wisdom*, particularly regarding the foundations of astronomy.
 
@@ -43,7 +43,7 @@ While the Bible explicitly names only three sons—*Shem, Ham, and Japheth*—va
 The identification of *Enmerkar* as *Nimrod* is primarily based on several *striking similarities* in their legendary accounts:
 (1) **Founder of the Same City**: Both are credited with the foundation or early rule of the city of ***Uruk*** (known as *Erech* in the Bible). (2) **The Hunter Epithet**: The name *Enmerkar* contains the suffix *-kar*, which in Sumerian means *hunter*. This directly parallels Nimrod's biblical title as a *mighty hunter before the Lord*. (3) **Tower of Babel Connection**: In the *Sumerian epic* ***Enmerkar and the Lord of Aratta***, *Enmerkar* is associated with the building of a **great temple or tower** and a *confusion of tongues*. This mirrors the biblical account of **Nimrod and the Tower of Babel**. (4) **Chronological Placement**: **Both figures** are placed in the immediate **post-Flood era** according to their respective traditions. 
 
-## Anchelos
+## 28. Anchelos
 
 In his famous 1486 work *Oration on the Dignity of Man*, *Giovanni Pico della Mirandola* references ***Anchelos the Chaldean*** as an ancient authority to *support* his philosophical arguments *regarding human potential and the soul*. 
 
@@ -64,7 +64,7 @@ Pico specifically quotes Anchelos to illustrate the soul's ability to transcend 
 
 ---
 
-## Simeon bar Yochai  (c. 90–160 AD)
+## 29: Symeon antiquus: Simeon bar Yochai  (c. 90–160 AD)
 
 In the writings of the Renaissance philosopher *Giovanni Pico della Mirandola*, *Symeon antiquus* (often referred to in scholarship as *Simeon the Ancient*) is a figure cited as a primary authority for *Jewish and Kabbalistic wisdom*. 
 
@@ -81,8 +81,6 @@ Scholars *generally identify* this figure with the *historical* ***Simeon bar Yo
 2. **Kabbalistic Link**: In his encounter with Jewish mysticism, *Pico* used translations provided by *Flavius Mithridates*, who attributed certain texts to this *Symeon antiquus*.
 3. **Biblical Interpretation**: *Pico* frequently cites him to *support* his own allegorical and mystical *interpretations* of the Old Testament, *particularly* the ***Book of Genesis***. 
 
-
-
 <br>
 
 ---
@@ -91,7 +89,7 @@ Scholars *generally identify* this figure with the *historical* ***Simeon bar Yo
 
 ---
 
-## Rabbi Eliazar (c. 40–120 AD) 
+## 30. Eleazarus: Rabbi Eliazar ben Hurcanus (c. 40–120 AD) 
 
  cited in Latin scholarly or Kabbalistic texts, notably by Renaissance humanist *Giovanni Pico della Mirandola* in his *900 Conclusions* (c.f. Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217), p. 116). 
 
@@ -156,21 +154,17 @@ Eleazar’s thought bridged the gap between *early Merkavah* mysticism and *late
 
 ---
 
-## Aba Hebraeus Rabi (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217), p. b3)
+## 31. Aba: Abba Saul (2nd c. AD)
 
-Ambiguous, possibly:
+Aba Hebraeus Rabi (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217), p. b3)
 
-***Abba Saul*** (also known as *Abba Shaul*) was a prominent Tanna (Rabbinic sage) who lived in the mid 2nd c. AD
+Most likely *Abba Saul* (also known as *Abba Shaul*) was a prominent Tanna (Rabbinic sage) who lived in the mid 2nd c. AD
 
 **The Pronunciation of the Divine Name**: *Pico* refers to *Abba Saul’s* famous prohibition regarding the *Tetragrammaton* (the four-letter name of God). *Abba Saul* taught in the *Mishnah* (Sanhedrin 10:1) that anyone who pronounces the Divine Name according to its letters has no portion in the World to Come. *Pico* and other Renaissance thinkers used such rabbinic restrictions to explore the *hidden* or *mystical* nature of God's name.
 
-
-
 ---
 
-## Yohanan ben Zakkai (1st c. AD)
-
-Ioannes
+## 32. Iohannes: Yohanan ben Zakkai (1st c. AD)
 
 Rabban Yohanan ben Zakkai (1st c. AD) was a pivotal Jewish sage whose leadership and pragmatic vision were instrumental in the survival and transformation of Judaism following the Roman destruction of the Second Temple in 70 AD. He is often cited as the father of Rabbinic Judaism, shifting the faith's focus from Temple-based sacrifice to the study of Torah and acts of loving-kindness. 
 
@@ -204,7 +198,7 @@ The bridge between *Yohanan ben Zakkai* and *Pico* is *Yohanan Alemanno*, a Jewi
 
 ---
 
-## Nehunyah ben HaKanah (1st-2nd c. AD)
+## 33. Neonius: Nehunyah ben HaKanah (1st-2nd c. AD)
 
 Neonias Rabbi (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217),  p. b4)
 
@@ -224,7 +218,7 @@ Nehunyah ben HaKanah was a prominent Tanna (rabbinic sage) of the 1st-2nd c. AD,
 
 ---
 
-## Isaac Israeli ben Solomon (c. 832 – 932)
+## 34. Isaac: Isaac Israeli ben Solomon (c. 832 – 932)
 
 Context of *Isaac Philosophus* in Pico's Work
 In his scholarship, Pico relied heavily on diverse cultural texts: 
@@ -259,9 +253,9 @@ As a philosopher, he focused on *Neoplatonic* themes, particularly the concept o
 
 ---
 
-## Flavius Josephus (c. 37–100 AD)
+## 35. Ioseph: Flavius Josephus (c. 37–100 AD)
 
-Flavius Josephus (born Yosef ben Matityahu, c. 37–100 AD) was a 1st-c. ***Romano-Jewish historian and military leader***. He is most famous for chronicling the ***Jewish-Roman War*** and providing some of the earliest extra-biblical mentions of *Jesus of Nazareth*. 
+Flavius Josephus (born *Yosef ben Matityahu*, c. 37–100 AD) was a 1st-c. ***Romano-Jewish historian and military leader***. He is most famous for chronicling the ***Jewish-Roman War*** and providing some of the earliest extra-biblical mentions of *Jesus of Nazareth*. 
 
 ### Historical Background and Works
 
@@ -291,7 +285,7 @@ Significance and Controversy
 
 ---
 
-## Gersonides (1288–1344)
+## 36.  Gersonides: Gersonides (1288–1344)
 
 A famous philosopher and mathematician. Gersonides (1288–1344), also known as *Levi ben Gershom* or by his Hebrew acronym *Ralbag*, was a pioneering French Jewish philosopher, astronomer, mathematician, and biblical commentator. He is widely regarded as one of the most original and technical thinkers of the medieval period, often pushing the boundaries of traditional Jewish thought through his rigorous commitment to reason. 
 
@@ -312,7 +306,7 @@ A famous philosopher and mathematician. Gersonides (1288–1344), also known as 
 
 ---
 
-## Saadia Gaon (882–942 AD)
+## 37. Sadias: Saadia Gaon (882–942 AD)
 
 A prominent 10th c. Jewish philosopher. Saadia Gaon (882–942 AD) was a *monumental figure* in Jewish history, serving as a rabbi, philosopher, and the leader of the Sura Academy in Babylonia. Known for integrating Jewish tradition with rationalist philosophy, he is often called the *father of scientific biblical exegesis* and was the first to systematically present Judaism as a rational body of beliefs. 
 
@@ -331,7 +325,7 @@ A prominent 10th c. Jewish philosopher. Saadia Gaon (882–942 AD) was a *monume
 
 ---
 
-## Abraham Bar Ḥiyya (c. 1065–1136)
+## 38. Abraam: Abraham Bar Ḥiyya (c. 1065–1136)
 
 Abraham bar Ḥiyya (c. 1065–1136), also known as *Savasorda*, he is also frequently cited as *Abraham Hispanus* or *Abraham Judaeus*, was a Spanish Jewish mathematician, astronomer, and philosopher who served as a primary bridge between Islamic science and Christian Europe. Residing in Barcelona, he was the first scholar to write scientific and mathematical treatises in Hebrew, establishing a technical vocabulary for future generations. 
 

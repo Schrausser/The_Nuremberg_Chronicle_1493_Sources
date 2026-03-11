@@ -3,7 +3,7 @@
 
 ---
 
-## 3. Moses (c. 1526–1406 BC / c. 1391–1271 BC)
+## 3. Moyses: Moses (c. 1526–1406 BC / c. 1391–1271 BC)
 
 Estimating the dates of *Moses* is a complex task because he is **primarily a figure of the Bible** and **Abrahamic tradition**, with no direct archaeological evidence confirming his historical existence. Consequently, **several different timelines exist** based on religious tradition or scholarly interpretation. 
 
@@ -36,7 +36,7 @@ Most **debates center on the date of the Exodus**, which determines Moses' lifes
 
 ---
 
-## 4. Solomon (991-932 BC)
+## 4. Salomon: King Solomon (991-932 BC)
 
 King Solomon was the **third king of the United Kingdom of Israel**, his timeline spans the ***Golden Age*** of a ***united Israel***, traditionally dated from 991 BC to 931 BC. 
 Known as the **son of King David** and Bathsheba, he is celebrated across Jewish, Christian, and Islamic traditions for his legendary ***wisdom***, immense ***wealth***, and the construction of the **First Temple** in Jerusalem. 
@@ -168,7 +168,7 @@ Language		Written in Classical Greek, likely in Alexandria.															Writte
 
 ---
 
-## 8. Pythagoras (c. 570-510)
+## 8. Pythagoras: Pythagoras of Samos (c. 570-510)
 
 Pythagoras von Samos (; * um 570 v. Chr. auf Samos; + nach 510 v. Chr. in Metapont in der Basilicata) war ein antiker griechischer Philosoph (Vorsokratiker), Mathematiker und Gründer einer einflussreichen **religiös-philosophischen** Bewegung.
 travelled to *Croton* in southern Italy around 530 BC, where he founded a school.
@@ -204,7 +204,7 @@ The *succession* eventually moved underground as the original schools were suppr
 
 ---
 
-## 2. Anaxagoras (c. 499-428 BC)
+## 2. Anaxagoras: Anaxagoras (c. 499-428 BC)
 
 Anaxagoras (; * um 499 v. Chr., wahrscheinlich in Klazomenai; + 428 v. Chr., wahrscheinlich in Lampsakos) war ein griechischer Philosoph (Vorsokratiker) aus Klazomenai in Kleinasien. Sein nur in *Fragmenten* und **hauptsächlich von Aristoteles überliefertes** philosophisches Denken wird als Zusammenführung der Ansätze *Heraklits* und der *Eleaten* gedeutet. Mit *Anaxagoras* gelangte die *ionische Aufklärung* nach Athen, denn dort verbrachte er die wichtigsten Jahrzehnte seines Lebens und stand dem leitenden Staatsmann *Perikles* als philosophischer Lehrer und Berater nahe. Auch der Tragödiendichter *Euripides* () ließ sich von ihm in das philosophische Denken und Forschen einführen. Als Mathematiker beschäftigte er sich hauptsächlich mit der *Quadratur des Kreises*.
 
@@ -234,7 +234,7 @@ While some modern scholars view the *teacher-pupil* relationship as a later biog
 
 ---
 
-## 1. Euripides (c. 484-406 BC)
+## 1. Euripides Tragicus: Euripides (c. 484-406 BC)
 
  was the last of the **three great tragic dramatists** of classical Athens, following **Aeschylus** and **Sophocles**. He is celebrated for his *psychological realism*, complex female characters, and a skeptical approach to traditional Greek mythology that made his work feel more *modern* than that of his predecessors. 
 
@@ -260,7 +260,7 @@ Life and Legacy
 Euripides was born on the island of Salamis. Although he was less successful than his rivals during his lifetime—winning only five first prizes in competitions—his popularity surged after his death. He spent his final years in the court of King *Archelaus of Macedonia*, where he died in 406 BC. His influence is seen throughout Western literature, from the New Comedy of the Hellenistic period to the works of *Shakespeare*, *Ibsen*, and *Shaw*. 
 
 ---
-## 10. Plato (c. 427-347 BC)
+## 10. Plato: Plato (c. 427-347 BC)
 
 Plato’s philosophy was not a solitary invention but a synthesis of several major Greek intellectual traditions. He systematically integrated the ethical focus of his teacher, *Socrates*, with the *metaphysical theories* of the *Pre-Socratics*. 
 
@@ -284,7 +284,7 @@ Plato (c. 427-347 BC) was born into an aristocratic Athenian family during the d
 
 ---
 
-## 7. Hermippus of Smyrna (c. 289-204 BC)
+## 7. Hermippus: Hermippus of Smyrna (c. 289-204 BC)
 
 Hermippus of Smyrna (Greek: Ἕρμιππος ὁ Σμυρναῖος) was a highly influential Greek grammarian and ***Peripatetic biographer*** who flourished during the 3rd c. BC, he was a disciple of the poet and scholar *Callimachus* and worked extensively in the *Library of Alexandria*. While his exact birth and death dates are not definitively known, scholars generally place his life and activity within the following chronological framework: 
 
@@ -370,7 +370,7 @@ The earliest medieval witnesses to *Hermippus's* work are actually manuscripts o
 
 ---
 
-## 6. Philo of Alexandria (c. 20 BC – 50 AD)
+## 6. Philon: Philo of Alexandria (c. 20 BC – 50 AD)
 
 Philo of Alexandria (c. 20 BC – 50 AD), also known as **Philo Judaeus**, was a prominent **Hellenistic Jewish philosopher** who lived in the Roman province of Egypt. He is famous for pioneering the ***allegorical interpretation of Hebrew Scripture to harmonize*** it with Greek philosophy, particularly ***Platonism and Stoicism***. 
 
@@ -466,33 +466,32 @@ Philo’s medieval manuscripts are housed in several major research libraries, m
 
 ---
 
-## 5. Luke the Evangelist (c. 3 AD - 87 AD)
+## 5. Lucas: Luke the Evangelist (c. 3 AD - 87 AD)
 
 The primary date associated with Luke the Evangelist is his feast day on 18 October. Historically, the 1st c. physician and author is believed to have lived to the age of 84. 
 
-Key Biographical Dates
+### Key Biographical Dates
 
 1. **Birth**: Estimated between 1 AD -16 AD in Antioch, Roman Syria.
 2. **Ministry**: Joined the *Apostle Paul* in Troas around 51 AD and remained a loyal companion through *Paul's* final imprisonment in Rome until his death in approximately 67 AD.
 3. **Death**: Traditionally dated between 74 AD - 100 AD. Ancient accounts state he died in Boeotia, Greece. 
 
-
-Writing Dates (Luke–Acts)
+### Writing Dates (Luke–Acts)
 
 Scholars and tradition offer varying timelines for the composition of the Gospel of Luke and the Acts of the Apostles: 
 
-1. Traditional View: Some traditions suggest he wrote his Gospel as early as 60 AD at the request of other Christians.
-2. Early Church Tradition: Often ascribes the two-volume work to approximately 75 AD.
-3. Modern Scholarly Consensus: Most contemporary scholars date the composition to 80–90 AD, citing the author's apparent knowledge of the destruction of Jerusalem (70 AD). 
+1. **Traditional View**: Some traditions suggest he wrote his Gospel as early as 60 AD at the request of other Christians.
+2. **Early Church Tradition**: Often ascribes the two-volume work to approximately 75 AD.
+3. **Modern Scholarly Consensus**: Most contemporary scholars date the composition to 80–90 AD, citing the author's apparent knowledge of the destruction of Jerusalem (70 AD). 
 
-Relic Translations
+### Relic Translations
 
-1. 357 AD: His relics were famously transferred from Thebes to Constantinople by order of Emperor Constantius.
-2. Modern Day: His primary shrine and relics are now located in the Abbey of Santa Giustina in Padua, Italy. 
+1. **357 AD**: His relics were famously transferred from Thebes to Constantinople by order of Emperor Constantius.
+2. **Modern Day**: His primary shrine and relics are now located in the Abbey of Santa Giustina in Padua, Italy. 
 
 ---
 
-## 9. Numenius of Apamea (2nd c. AD)
+## 9. Numenius: Numenius of Apamea (2nd c. AD)
 
 Numenius of Apamea (fl. late 2nd c. AD) was a Syrian-Greek philosopher and a pivotal *Middle Platonist* and *Neopythagorean* philosopher whose life is mostly dated through his influence on later thinkers in the transition from Middle Platonism to Neoplatonism. He is best known for his attempt to trace the origins of Platonic thought back to the *ancient wisdom* of the East, **famously** referring to **Plato as an Atticizing Moses** (*or Moses speaking pure Greek*). Numenius of Apamea was 
 
@@ -582,7 +581,7 @@ To study Numenius today, researchers use modern critical editions that have comp
 4. **The Prometheus Trust**: Offers modern editions of these fragments for students of the Platonic tradition. 
 
 ---
-## Hermippus, Philo and Lucas
+## Hermippus, Philon and Lucas
 
 The names *Hermippus, Philo, and Lucas* (Luke) are frequently cited together in **Renaissance** and early modern **philosophical texts** to establish the **antiquity** and divine **origin of Mosaic** wisdom. 
 
@@ -612,32 +611,31 @@ Scholars often analyze *Hermippus of Smyrna* (3rd c. BC) alongside the later Jew
 
 ---
 
-## 11. Saint Jerome (c. 342–347 – 420 AD)
+## 11. Hieronymus: Saint Jerome (c. 342–347 – 420 AD)
 
 Saint Jerome (c. 342–347 – 420 AD) was an early Christian priest, theologian, and historian. He is most famous for ***translating the Bible into Latin***, a version known as the ***Vulgate***, which became the standard text of the Roman Catholic Church for over a millennium. 
 
-Key Facts & Legacy
+#### Facts & Legacy
 
-1. The Vulgate: Commissioned by Pope Damasus I in 382 AD, Jerome’s translation of the Old Testament was unique because it was based directly on the Hebrew text rather than the Greek Septuagint.
-2. Doctor of the Church: Due to his immense scholarship and prolific writings, he is recognized as one of the four original Doctors of the Church in the Latin tradition.
-3. Patronage: He is the patron saint of librarians, translators, students, and archaeologists.
-4. Temperament: Known for a sharp, often sarcastic tongue and a hot temper, Jerome was a fierce debater who frequently clashed with contemporaries like St. Augustine. 
-
-
-Life & Monasticism
-
-1. Early Life: Born in Stridon (modern-day Croatia/Slovenia). He lived a worldly life in Rome before undergoing a spiritual conversion following a fever-induced dream where he was accused of being a "Ciceronian" rather than a Christian.
-2. Asceticism: He spent four years as a hermit in the Syrian desert of Chalcis to master Hebrew and penance.
-3. Bethlehem: After leaving Rome following the death of Pope Damasus, he settled in Bethlehem in 386 AD. There, he founded a monastery and worked in a cave near the Church of the Nativity until his death. 
+1. ***The Vulgate***: Commissioned by *Pope Damasus I* in 382 AD, *Jerome’s* translation of the Old Testament was unique because it was based *directly on the Hebrew text* rather than the Greek Septuagint.
+2. **Doctor of the Church**: Due to his immense scholarship and prolific writings, he is recognized as *one of the four original Doctors* of the Church in the Latin tradition.
+3. **Patronage**: He is the patron saint of librarians, translators, students, and archaeologists.
+4. **Temperament**: Known for a sharp, often sarcastic tongue and a hot temper, *Jerome* was a fierce debater who frequently clashed with contemporaries like *St. Augustine*. 
 
 
-Common Iconography
+#### Life & Monasticism
 
-In art, St. Jerome is typically depicted in one of three ways:
+1. **Early Life**: Born in Stridon (modern-day Croatia/Slovenia). He lived a worldly life in Rome before undergoing a spiritual conversion following a fever-induced dream where he was accused of being a "Ciceronian" rather than a Christian.
+2. **Asceticism**: He spent four years as a hermit in the Syrian desert of Chalcis to master Hebrew and penance.
+3. **Bethlehem**: After leaving Rome following the death of Pope Damasus, he settled in Bethlehem in 386 AD. There, he founded a monastery and worked in a cave near the Church of the Nativity until his death. 
 
-1. As a Scholar: In a study surrounded by books and writing materials, often wearing the red robes and hat of a Cardinal (though the office did not exist in his time).
-2. With a Lion: According to legend, he tamed a lion by removing a thorn from its paw; the lion thereafter became his loyal companion.
-3. As a Penitent: In the desert, emaciated and beating his breast with a stone while contemplating a crucifix. 
+#### Common Iconography
+
+In art, *St. Jerome* is typically depicted in one of three ways:
+
+1. **As a Scholar**: In a study surrounded by books and writing materials, often wearing the red robes and hat of a Cardinal (though the office did not exist in his time).
+2. **With a Lion**: According to legend, he tamed a lion by removing a thorn from its paw; the lion thereafter became his loyal companion.
+3. **As a Penitent**: In the desert, emaciated and beating his breast with a stone while contemplating a crucifix. 
 
 ---
 
