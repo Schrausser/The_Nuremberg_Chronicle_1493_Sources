@@ -8,7 +8,7 @@
 ---
 
 
-## Saint Ambrose (c. 339–397)
+## 12. Saint Ambrose (c. 339–397)
 
 Saint Ambrose (Aurelius Ambrosius) (c. 339–397) was the influential ***Bishop of Milan***, a prominent theologian, and one of the four original Doctors of the Church. Originally a high-ranking Roman governor, he was unexpectedly elected bishop by popular acclamation in 374 despite being an unbaptized layman at the time. 
 
@@ -32,7 +32,7 @@ Saint Ambrose (Aurelius Ambrosius) (c. 339–397) was the influential ***Bishop 
 
 ---
 
-## St. Augustinus (354–430 AD)
+## 13. St. Augustinus (354–430 AD)
 
 St. Augustinus (354–430 AD), commonly known as *Augustine of Hippo*, was a North African theologian and philosopher whose writings significantly influenced Western Christianity and philosophy. 
 
@@ -56,7 +56,7 @@ The name "St. Augustinus" is widely used by various institutions and locations:
 
 ---
 
-## Strabo (c. 64 BC – 24 AD)
+## 14. Strabo (c. 64 BC – 24 AD)
 
 Strabo (c. 64/63 BC – AD 24) was a prolific Greek geographer, historian, and philosopher during the transition from the Roman Republic to the Empire. He is most famous for his monumental 17-volume work, Geographica (Geography), which remains one of the most important sources for understanding the ancient world's layout, cultures, and scientific knowledge during the reign of Augustus. 
 
@@ -84,7 +84,7 @@ Strabo (c. 64/63 BC – AD 24) was a prolific Greek geographer, historian, and p
 
 ---
 
-## Beda (c. 672 – 735)
+## 15. Beda (c. 672 – 735)
 
 Beda Venerabilis (English: Bede the Venerable; c. 672/3 – 26 May 735) was an *Anglo-Saxon monk*, historian, and scholar widely regarded as the ***Father of English History***. Based at the twin monasteries of Wearmouth and Jarrow in the Kingdom of Northumbria, he was the most influential scholar of the Early Middle Ages. 
 
@@ -101,7 +101,7 @@ Bede's remains are housed in Durham Cathedral, having been moved there from Jarr
 
 ---
 
-## Saint Remigius (c. 437 – 533)
+## 16. Saint Remigius (c. 437 – 533)
 
 Remigius of Reims (c. 437 – 13 January 533), also known as Saint Remi or Saint Rémy, was the Bishop of Reims for over 70 years and is revered as the *Apostle of the Franks*. He is most famous for converting and *baptising Clovis I*, King of the Franks, on Christmas Day in 496, a landmark event that led to the *Christianisation of the Frankish people* and the establishment of Catholicism in medieval Europe. 
 
@@ -130,7 +130,7 @@ While many works attributed to him are considered apocryphal, four of his letter
 
 ---
 
-## Saint Giles (c. 650 – 710)
+## 17. Saint Giles (c. 650 – 710)
 
 Saint Giles (c. 650 – c. 710), also known as *Giles the Hermit*, was a widely venerated medieval saint and abbot who lived in the lower Rhône region of southern France. He is primarily celebrated as the patron saint of the physically disabled, beggars, and outcasts, and he is one of the *Fourteen Holy Helpers* invoked for protection against various diseases. 
 
@@ -143,7 +143,7 @@ Saint Giles (c. 650 – c. 710), also known as *Giles the Hermit*, was a widely 
 
 ---
 
-## Albertus Magnus (c. 1200–1280)
+## 18. Albertus Magnus (c. 1200–1280)
 
 Albertus Magnus (c. 1200–1280), also known as *Albert the Great*, was a German Dominican friar and *polymath* who became one of the most influential thinkers of the Middle Ages. Renowned for his *vast knowledge* across theology, philosophy, and the natural sciences, he was the only scholar of his era to be bestowed the title *the Great* (Magnus) *during his own lifetime*. 
 
@@ -169,11 +169,11 @@ Albertus Magnus (c. 1200–1280), also known as *Albert the Great*, was a German
 
 ---
 
-## Philo of Alexandria (c. 20 BC – 50 AD)
+## 19. Philo of Alexandria (c. 20 BC – 50 AD)
 
 ---
 
-## Orígenes (c. 185–254 AD)
+## 20. Orígenes (c. 185–254 AD)
 
 Orígenes (Origen of Alexandria, c. 185–254 AD) was an early Christian scholar, ascetic, and one of the most prolific and influential theologians of the early Church. Based in Alexandria and later Caesarea, he is best known for his massive scholarly output, particularly in biblical exegesis and philosophical theology. 
 
@@ -187,7 +187,7 @@ Orígenes (Origen of Alexandria, c. 185–254 AD) was an early Christian scholar
 
 ---
 
-## Saint Basil (330–379 AD)
+## 21. Saint Basil (330–379 AD)
 
 Saint Basil the Great (330–379 AD), a 4th c. bishop and theologian who is a pivotal figure in Christian history. He is widely honored as a *Doctor of the Church* in the West and one of the *Three Holy Hierarchs* in Eastern Christianity. 
 
@@ -205,7 +205,7 @@ Saint Basil the Great (330–379 AD), a 4th c. bishop and theologian who is a pi
 
 ---
 
-## Theodoret of Cyrus (c. 393 – c. 458/466)
+## 22. Theodoret of Cyrus (c. 393 – c. 458/466)
 
 *Theodori_t_us* (s. Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217), p. 2, p. 26, p. 281)
 
@@ -277,7 +277,7 @@ Thierry of Chartres Theodoricus Chartrensis (died c. 1150/1155) was a prominent 
 
 ---
 
-## Apollinarius of Laodicea (c. 310–390 AD)
+## 23. Apollinarius of Laodicea (c. 310–390 AD)
 
 Apollinarius of Laodicea (c. 310–390 AD), also known as Apollinaris the Younger, was a prominent bishop and theologian in Syria during the 4th c.. While he was a staunch ***defender of the Nicene Creed*** against Arianism, he is primarily remembered for the christological **doctrine that bears his name**—***Apollinarianism***—which was *later condemned as heretical*. 
 
@@ -301,7 +301,7 @@ Despite his condemnation, his writings continued to circulate, often under the p
 
 ---
 
-## Didymus the Blind (c. 313–398 AD)
+## 24. Didymus the Blind (c. 313–398 AD)
 
 Didymus the Blind (c. 313–398 AD) was a renowned Christian theologian and the *last great head of the Catechetical School of Alexandria*. Despite losing his sight at the age of four or five—before he had even learned to read—he became one of the most learned scholars of his era. 
 
@@ -330,7 +330,7 @@ He is also credited with an influential treatise *On the Holy Spirit*, which *su
 
 ---
 
-## Gennadius I of Constantinople (c. 400-471 AD)
+## 25. Gennadius I of Constantinople (c. 400-471 AD)
 
 Saint Gennadius I (died 17 November 471) served as the Patriarch of Constantinople from 458 until his death. He is revered as a saint in the Eastern Orthodox Church and is remembered as a learned theologian, a strict disciplinarian, and a defender of Orthodoxy. 
 
@@ -382,7 +382,7 @@ Gennadius was a prolific writer whose work provides the sole biographical record
 
 ---
 
-## John Chrysostom (c. 347–407)
+## 26. John Chrysostom (c. 347–407)
 
 John Chrysostom (c. 347–407) was an influential Early Church Father, Archbishop of Constantinople, and one of the most prolific writers and preachers in Christian history. His surname, meaning *golden-mouthed* in Greek, was given to him posthumously in the 6th c. to honor his exceptional eloquence in public speaking. 
 

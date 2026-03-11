@@ -3,7 +3,7 @@
 
 ---
 
-## Moses (c. 1526–1406 BC / c. 1391–1271 BC)
+## 3. Moses (c. 1526–1406 BC / c. 1391–1271 BC)
 
 Estimating the dates of *Moses* is a complex task because he is **primarily a figure of the Bible** and **Abrahamic tradition**, with no direct archaeological evidence confirming his historical existence. Consequently, **several different timelines exist** based on religious tradition or scholarly interpretation. 
 
@@ -36,7 +36,7 @@ Most **debates center on the date of the Exodus**, which determines Moses' lifes
 
 ---
 
-## Solomon (991-932 BC)
+## 4. Solomon (991-932 BC)
 
 King Solomon was the **third king of the United Kingdom of Israel**, his timeline spans the ***Golden Age*** of a ***united Israel***, traditionally dated from 991 BC to 931 BC. 
 Known as the **son of King David** and Bathsheba, he is celebrated across Jewish, Christian, and Islamic traditions for his legendary ***wisdom***, immense ***wealth***, and the construction of the **First Temple** in Jerusalem. 
@@ -168,7 +168,7 @@ Language		Written in Classical Greek, likely in Alexandria.															Writte
 
 ---
 
-## Pythagoras (c. 570-510)
+## 8. Pythagoras (c. 570-510)
 
 Pythagoras von Samos (; * um 570 v. Chr. auf Samos; + nach 510 v. Chr. in Metapont in der Basilicata) war ein antiker griechischer Philosoph (Vorsokratiker), Mathematiker und Gründer einer einflussreichen **religiös-philosophischen** Bewegung.
 travelled to *Croton* in southern Italy around 530 BC, where he founded a school.
@@ -204,7 +204,7 @@ The *succession* eventually moved underground as the original schools were suppr
 
 ---
 
-## Anaxagoras (c. 499-428 BC)
+## 2. Anaxagoras (c. 499-428 BC)
 
 Anaxagoras (; * um 499 v. Chr., wahrscheinlich in Klazomenai; + 428 v. Chr., wahrscheinlich in Lampsakos) war ein griechischer Philosoph (Vorsokratiker) aus Klazomenai in Kleinasien. Sein nur in *Fragmenten* und **hauptsächlich von Aristoteles überliefertes** philosophisches Denken wird als Zusammenführung der Ansätze *Heraklits* und der *Eleaten* gedeutet. Mit *Anaxagoras* gelangte die *ionische Aufklärung* nach Athen, denn dort verbrachte er die wichtigsten Jahrzehnte seines Lebens und stand dem leitenden Staatsmann *Perikles* als philosophischer Lehrer und Berater nahe. Auch der Tragödiendichter *Euripides* () ließ sich von ihm in das philosophische Denken und Forschen einführen. Als Mathematiker beschäftigte er sich hauptsächlich mit der *Quadratur des Kreises*.
 
@@ -234,7 +234,7 @@ While some modern scholars view the *teacher-pupil* relationship as a later biog
 
 ---
 
-## Euripides (c. 484-406 BC)
+## 1. Euripides (c. 484-406 BC)
 
  was the last of the **three great tragic dramatists** of classical Athens, following **Aeschylus** and **Sophocles**. He is celebrated for his *psychological realism*, complex female characters, and a skeptical approach to traditional Greek mythology that made his work feel more *modern* than that of his predecessors. 
 
@@ -260,7 +260,7 @@ Life and Legacy
 Euripides was born on the island of Salamis. Although he was less successful than his rivals during his lifetime—winning only five first prizes in competitions—his popularity surged after his death. He spent his final years in the court of King *Archelaus of Macedonia*, where he died in 406 BC. His influence is seen throughout Western literature, from the New Comedy of the Hellenistic period to the works of *Shakespeare*, *Ibsen*, and *Shaw*. 
 
 ---
-## Plato (c. 427-347 BC)
+## 10. Plato (c. 427-347 BC)
 
 Plato’s philosophy was not a solitary invention but a synthesis of several major Greek intellectual traditions. He systematically integrated the ethical focus of his teacher, *Socrates*, with the *metaphysical theories* of the *Pre-Socratics*. 
 
@@ -284,7 +284,7 @@ Plato (c. 427-347 BC) was born into an aristocratic Athenian family during the d
 
 ---
 
-## Hermippus of Smyrna (c. 289-204 BC)
+## 7. Hermippus of Smyrna (c. 289-204 BC)
 
 Hermippus of Smyrna (Greek: Ἕρμιππος ὁ Σμυρναῖος) was a highly influential Greek grammarian and ***Peripatetic biographer*** who flourished during the 3rd c. BC, he was a disciple of the poet and scholar *Callimachus* and worked extensively in the *Library of Alexandria*. While his exact birth and death dates are not definitively known, scholars generally place his life and activity within the following chronological framework: 
 
@@ -370,7 +370,7 @@ The earliest medieval witnesses to *Hermippus's* work are actually manuscripts o
 
 ---
 
-## Philo of Alexandria (c. 20 BC – 50 AD)
+## 6. Philo of Alexandria (c. 20 BC – 50 AD)
 
 Philo of Alexandria (c. 20 BC – 50 AD), also known as **Philo Judaeus**, was a prominent **Hellenistic Jewish philosopher** who lived in the Roman province of Egypt. He is famous for pioneering the ***allegorical interpretation of Hebrew Scripture to harmonize*** it with Greek philosophy, particularly ***Platonism and Stoicism***. 
 
@@ -464,14 +464,9 @@ Philo’s medieval manuscripts are housed in several major research libraries, m
 3. **Bibliothèque nationale de France**: Houses *early papyri* and medieval codices central to establishing critical editions of Philo’s text.
 4. **Vatican Library & Heidelberg**: Digitized through the Polonsky Foundation Greek Manuscripts Project.
 
->philo of alexandria timeline
->philo of alexandria surviving original manuscripts
->philo of alexandria earliest medieval manuscripts
->philo of alexandria medieval manuscripts
-
 ---
 
-## Luke the Evangelist (c. 3 AD - 87 AD)
+## 5. Luke the Evangelist (c. 3 AD - 87 AD)
 
 The primary date associated with Luke the Evangelist is his feast day on 18 October. Historically, the 1st c. physician and author is believed to have lived to the age of 84. 
 
@@ -497,9 +492,9 @@ Relic Translations
 
 ---
 
-## Numenius of Apamea (2nd c. AD)
+## 9. Numenius of Apamea (2nd c. AD)
 
-Numenius of Apamea (fl. late 2nd c. AD) was a Syrian-Greek philosopher and a pivotal *Middle Platonist* and *Neopythagorean* philosopher whose life is mostly dated through his influence on later thinkers in the transition from Middle Platonism to Neoplatonism. He is best known for his attempt to trace the origins of Platonic thought back to the *ancient wisdom* of the East, **famously** referring to **Plato as an Atticizing Moses** (*or "Moses speaking pure Greek*). Numenius of Apamea was 
+Numenius of Apamea (fl. late 2nd c. AD) was a Syrian-Greek philosopher and a pivotal *Middle Platonist* and *Neopythagorean* philosopher whose life is mostly dated through his influence on later thinkers in the transition from Middle Platonism to Neoplatonism. He is best known for his attempt to trace the origins of Platonic thought back to the *ancient wisdom* of the East, **famously** referring to **Plato as an Atticizing Moses** (*or Moses speaking pure Greek*). Numenius of Apamea was 
 
 
 #### Chronological Context
@@ -617,7 +612,7 @@ Scholars often analyze *Hermippus of Smyrna* (3rd c. BC) alongside the later Jew
 
 ---
 
-## Saint Jerome (c. 342–347 – 420 AD)
+## 11. Saint Jerome (c. 342–347 – 420 AD)
 
 Saint Jerome (c. 342–347 – 420 AD) was an early Christian priest, theologian, and historian. He is most famous for ***translating the Bible into Latin***, a version known as the ***Vulgate***, which became the standard text of the Roman Catholic Church for over a millennium. 
 
@@ -645,4 +640,5 @@ In art, St. Jerome is typically depicted in one of three ways:
 3. As a Penitent: In the desert, emaciated and beating his breast with a stone while contemplating a crucifix. 
 
 ---
+
 

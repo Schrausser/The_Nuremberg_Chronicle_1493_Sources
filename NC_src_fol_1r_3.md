@@ -158,6 +158,14 @@ Eleazar’s thought bridged the gap between *early Merkavah* mysticism and *late
 
 ## Aba Hebraeus Rabi (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217), p. b3)
 
+Ambiguous, possibly:
+
+***Abba Saul*** (also known as *Abba Shaul*) was a prominent Tanna (Rabbinic sage) who lived in the mid 2nd c. AD
+
+**The Pronunciation of the Divine Name**: *Pico* refers to *Abba Saul’s* famous prohibition regarding the *Tetragrammaton* (the four-letter name of God). *Abba Saul* taught in the *Mishnah* (Sanhedrin 10:1) that anyone who pronounces the Divine Name according to its letters has no portion in the World to Come. *Pico* and other Renaissance thinkers used such rabbinic restrictions to explore the *hidden* or *mystical* nature of God's name.
+
+
+
 ---
 
 ## Yohanan ben Zakkai (1st c. AD)
