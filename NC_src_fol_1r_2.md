@@ -75,7 +75,7 @@ Strabo (c. 64/63 BC – AD 24) was a prolific Greek geographer, historian, and p
 
 ---
 
-## 15. Beda: Bede the Venerable (c. 672 – 735)
+## 15. Beda: Saint Bede the Venerable (c. 672 – 735)
 
 Beda Venerabilis (English: Bede the Venerable; c. 672/3 – 26 May 735) was an *Anglo-Saxon monk*, historian, and scholar widely regarded as the ***Father of English History***. Based at the twin monasteries of Wearmouth and Jarrow in the Kingdom of Northumbria, he was the most influential scholar of the Early Middle Ages. 
 
@@ -134,7 +134,7 @@ Saint Giles (c. 650 – c. 710), also known as *Giles the Hermit*, was a widely 
 
 ---
 
-## 18. Albertus: Albertus Magnus (c. 1200–1280)
+## 18. Albertus: Saint Albertus Magnus (c. 1200–1280)
 
 Albertus Magnus (c. 1200–1280), also known as *Albert the Great*, was a German Dominican friar and *polymath* who became one of the most influential thinkers of the Middle Ages. Renowned for his *vast knowledge* across theology, philosophy, and the natural sciences, he was the only scholar of his era to be bestowed the title *the Great* (Magnus) *during his own lifetime*. 
 
@@ -292,7 +292,7 @@ Despite his condemnation, his writings continued to circulate, often under the p
 
 ---
 
-## 24. Dydimus: Didymus the Blind (c. 313–398 AD)
+## 24. Dydimus: Saint Didymus the Blind (c. 313–398 AD)
 
 Didymus the Blind (c. 313–398 AD) was a renowned Christian theologian and the *last great head of the Catechetical School of Alexandria*. Despite losing his sight at the age of four or five—before he had even learned to read—he became one of the most learned scholars of his era. 
 
@@ -373,7 +373,7 @@ Gennadius was a prolific writer whose work provides the sole biographical record
 
 ---
 
-## 26. Crisostomus: John Chrysostom (c. 347–407)
+## 26. Crisostomus: Saint Chrysostom of Constantinople (c. 347–407)
 
 John Chrysostom (c. 347–407) was an influential Early Church Father, Archbishop of Constantinople, and one of the most prolific writers and preachers in Christian history. His surname, meaning *golden-mouthed* in Greek, was given to him posthumously in the 6th c. to honor his exceptional eloquence in public speaking. 
 
