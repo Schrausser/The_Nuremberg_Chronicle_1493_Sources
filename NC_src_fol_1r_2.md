@@ -330,11 +330,55 @@ He is also credited with an influential treatise *On the Holy Spirit*, which *su
 
 ---
 
-## Gernadius
+## Gennadius I of Constantinople (c. 400-471 AD)
 
-Gennadius of Marseilles 
-or possibly Gennadius I of Constantinople
-c.f. also Saint Gervadius
+Saint Gennadius I (died 17 November 471) served as the Patriarch of Constantinople from 458 until his death. He is revered as a saint in the Eastern Orthodox Church and is remembered as a learned theologian, a strict disciplinarian, and a defender of Orthodoxy. 
+
+### Historical Details
+
+1. **Patriarchate**: He ascended the throne in 458 during the reign of Emperor *Leo I the Great*, succeeding *Patriarch Anatolius*.
+2. **Theological Stance**: Gennadius followed the Antiochene school of literal biblical exegesis. He was a critic of *Cyril of Alexandria's* anathemas, though he eventually reconciled with him.
+Major Reforms:
+3. **Anti-Simony**: He convened a synod in 459 to issue an encyclical against simony (the buying and selling of church offices).
+4. **Clerical Standards**: He required all candidates for the clergy to know the Psalter by heart and be able to interpret it.
+5. **Notable Interactions**: He ordained St. Daniel the Stylite to the priesthood and appointed *St. Marcian* as the oeconomus (steward) of the Great Church. 
+
+### Miracles and Legends
+
+*Gennadius* was renowned for his *power of prayer* during his lifetime: 
+
+1. **The Unruly Lector**: Legend says a cleric named *Charisius* was living an immoral life. After Gennadius's warnings failed, he prayed to St. Eleutherius to either correct the man or "cut him off." The cleric was found dead the next morning.
+2. **The Painter's Hand**: He is said to have healed an artist whose hand withered after he attempted to paint *Jesus Christ* in the likeness of the pagan god *Jupiter (Zeus)*. 
+
+### Commemoration
+
+1. **Feast Days**: November 17 (Eastern Orthodox) and August 25 (Roman Martyrology/some Greek calendars).
+2. **Writings**: Though ***most are lost***, fragments of his *commentaries on Genesis, Exodus, Daniel*, and the *Pauline Epistles (specifically Romans)* survive. 
+
+
+### c.f. also Gennadius of Marseilles (c. 410 - 496 AD)
+
+Gennadius of Massilia (died c. 496 AD) was a prominent 5th c. Christian priest, monk, and historian based in Massilia (modern-day *Marseille*, France). He is primarily remembered as a meticulous biographer of early Church figures and a key theological scholar of his era. 
+
+#### Works and Contributions
+
+Gennadius was a prolific writer whose work provides the sole biographical record for many early Christian authors. 
+
+1. ***De Viris Illustribus (On Famous Men)***: His most famous contribution is a continuation of *St. Jerome’s* work of the same name. Written between 467 and 480 AD, it contains roughly 91 to 100 biographies of theological writers from the late 4th-5th c.
+2. ***Adversus Omnes Haereses (Against All Heresies)***: A massive eight-volume work refuting various theological errors.
+3. **Theological Polemics**: He wrote specific treatises against prominent contemporary movements, including:
+- Five books against Nestorius.
+- Ten books against Eutyches.
+- Three books against Pelagius.
+4. ***Epistola de Fide***: A *Letter of Faith* sent to Pope *Gelasius I*, outlining his personal doctrinal stances. 
+
+#### Historical Significance
+
+1. **Theological Learning**: *Gennadius* was exceptionally well-read in both Greek and Latin, making him one of the most learned figures of the late 5th c.
+2. **Patristic Source**: His biographies are considered the first "patrology" or dictionary of Christian biography, serving as an essential reference for church history.
+3. **Semi-Pelagianism**: Historically, *Gennadius* is often associated with the Semi-Pelagian party in Southern Gaul, which sought a middle ground in the debates over grace and free will. 
+
+(NC *Ge_r_nadius* c.f. also *Saint Gervadius*)
 
 ---
 
