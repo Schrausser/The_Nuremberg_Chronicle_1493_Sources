@@ -87,7 +87,7 @@ Scholars *generally identify* this figure with the *historical* ***Simeon bar Yo
 
 ## Rabbi Eliazar (c. 40–120 AD) 
 
- cited in Latin scholarly or Kabbalistic texts, notably by Renaissance humanist *Giovanni Pico della Mirandola* in his *900 Conclusions* (c.f. pico, 1601, p. 116). 
+ cited in Latin scholarly or Kabbalistic texts, notably by Renaissance humanist *Giovanni Pico della Mirandola* in his *900 Conclusions* (c.f. Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217), p. 116). 
 
 1. ***Rabbi Eliazar***: Generally refers to ***Eliezer ben Hurcanus*** (also known as *Rabbi Eliezer the Great*), a prominent 1st c. sage and traditional *author of* the mystical work ***Pirkei De-Rabbi Eliezer***.
 2. ***Rabbi Moyses de Aegypto***: The Latinized name for ***Moses Maimonides (Rambam)***, the preeminent medieval Jewish philosopher and jurist who lived in Egypt and *authored the Guide* for the ***Perplexed*** and the ***Mishneh Torah***.
@@ -150,11 +150,11 @@ Eleazar’s thought bridged the gap between *early Merkavah* mysticism and *late
 
 ---
 
-## Aba Hebraeus Rabi. (Pico, 1601, p. b3)
+## Aba Hebraeus Rabi. (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217), p. b3)
 
 ---
 
-## Neonias Rabbi (Pico, 1601,  p. b4)
+## Neonias Rabbi (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217),  p. b4)
 
 ---
 
@@ -262,6 +262,58 @@ Abraham bar Ḥiyya (c. 1065–1136), also known as *Savasorda*, he is also freq
 https://blog.nli.org.il/en/abraham-and-plato-barcelona/
 
 ---
+
+## Anchelos, Pythagoras and Noah
+
+These three names frequently appear together in scholarly discussions concerning Byzantine history, ancient philosophy, and esoteric traditions. 
+
+### Historical and Contextual Links
+
+1. **Byzantine Dynasty (Angelos/Anchelos)**: In the context of Byzantine history, *Anchelos* often refers to the ***Angelos dynasty (1185–1204)***, a powerful noble family that produced several emperors, such as *Alexios III Angelos*. The term *Angelos* is also the Greek word for *messenger* or *angel*, a concept that surfaces *in Kabbalistic and Renaissance* texts alongside mathematical figures.
+2. **Pythagoras and Biblical Figures**: Scholars ***often compare*** the Greek philosopher ***Pythagoras*** *with* biblical figures like ***Noah*** to explore the *Perennial Philosophy*—the idea that a single, universal truth was shared across ancient cultures. Some Renaissance and medieval texts even suggest that *Pythagoras derived his wisdom from the lineage of Noah* or that both figures represented the *beginning of new world cycles*.
+3. **Esotericism and Kabbalah**: In works like ***Johannes Reuchlin's De Arte Cabalistica***, names like *Noah* (whose name in Hebrew can be reversed to mean *grace*) are discussed in the same breath as ***Pythagorean mathematics*** and ***angelic hierarchy*** (*angelos*) to explain the *hidden structures of the universe*. 
+
+### De Arte Cabalistica
+
+*De Arte Cabalistica (On the Art of Kabbalah)*, published in [1517](https://www.digitale-sammlungen.de/de/view/bsb00017488), is the seminal work of German humanist *Johannes Reuchlin* and a foundational text of *Christian Kabbalah*. Dedicated to *Pope Leo X*, it was the first comprehensive treatment of Jewish mysticism by a non-Jewish scholar in the West. 
+
+#### Core Objectives
+
+1. **Theosophic Defence**: Reuchlin argued that Kabbalah could be used to defend Christianity and *reconcile faith with science*.
+2. **Ancient Wisdom**: He aimed to *restore ancient wisdom* by demonstrating that *Kabbalistic doctrines* were *compatible* with *Christian theology*.
+3. **Conversion Tool**: He believed a methodical exposition of these doctrines could serve as an argumentative *tool to convert Jewish people to Christianity*. 
+
+#### Structural Layout
+
+The work is written as a Socratic dialogue between three characters meeting in Frankfurt: Simon (a Jewish Kabbalist), Philolaus (a Pythagorean philosopher), and Marranus (a Muslim traveler). It is divided into three books: 
+
+1. ***Book I***: Focuses on Jewish mysticism and messianism.
+2. ***Book II***: Explores the relationship between the *Pythagorean system* and *Kabbalah*, positing that ***Pythagoras derived his philosophy from Kabbalistic sources***.
+3. ***Book III***: Details *practical Kabbalah* and its application to the mysteries of faith. 
+
+#### Historical Impact
+
+1. **The Battle of the Books**: Reuchlin's deep interest in Hebrew texts led him to defend Jewish literature against destruction by *Johannes Pfefferkorn*, a conflict that became *a defining moment for Renaissance humanism*.
+2. **Intellectual Legacy**: The text influenced later Western esotericism and provided a template for how Christian scholars could engage with Hebrew scholarship without rejecting the original religious context entirely. 
+
+**Table 1**. Comparison.
+~~~
+Entity 	Context	Relevance
+
+Angelos (Anchelos)	Byzantine Dynasty / Theology	Refers to the Angelos imperial family or "angels" as divine messengers.
+Pythagoras	Greek Philosophy	Known for his mathematical theorems and the "Music of the Spheres" often linked to divine order.
+Noah	Biblical Figure	Viewed in some philosophical traditions as a "pre-Pythagorean" source of ancient wisdom or a symbol of rebirth.
+~~~
+
+---
+
+<br>
+
+## References
+
+Mirandola, G., & Mirandola, G. F. (1601). *Ioannis Pici, Mirandulae Concordiaeque comitis, theologorum & philosophorum, sine controversia, principis viri, sive linguarum, sive rerum, & humanarum, & divinarum cognitionem spectes, doctrina & ingenio admirando: Item, tomo secundo Ioannis Francisci Pici Principis, ex eadem illustri prosapia oriundi ... opera quae extant omnia: non tam literatis viris utilia, quam necessaria, in unum corpus redacta: quorum Elenchi post vitam authoris habentur : accesserunt etiam rerum & verborum memorabilium, atque scriptorum, quorum sententiae & opiniones quacunque de re allegantur & citantur, duo indices locupletissimi. Editio ultima, superioribus multo correctior & locupletior*. Basileae: per Sebastianum Henricpetri. [https://doi.org/10.3931/e-rara-61217](https://doi.org/10.3931/e-rara-61217)
+
+Reuchlin, J. (1517). *De Arte Cabalistica Libri Tres: Leoni X. Dicati*. Hagenau: apud Thomam Anshelmum Mense Martio. M.D.XVII. [https://www.digitale-sammlungen.de/de/view/bsb00017488](https://www.digitale-sammlungen.de/de/view/bsb00017488)
 
 
 

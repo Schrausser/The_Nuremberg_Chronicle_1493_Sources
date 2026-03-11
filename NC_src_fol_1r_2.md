@@ -207,7 +207,7 @@ Saint Basil the Great (330–379 AD), a 4th c. bishop and theologian who is a pi
 
 ## Theodoret of Cyrus (c. 393 – c. 458/466)
 
-Theodori_t_us (s. Pico, 1601, p. 2, p. 26, p. 281)
+*Theodori_t_us* (s. Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217), p. 2, p. 26, p. 281)
 
 Theodoret of Cyrus (c. 393 – c. 458 AD) was a prominent theologian, biblical commentator, and bishop of Cyrrhus (Cyrus) in Syria. A leading figure of the School of Antioch, he is celebrated for his *grammatical-historical* approach to Scripture and his role in the 5th c. Christological controversies. 
 
@@ -411,6 +411,13 @@ John Chrysostom (c. 347–407) was an influential Early Church Father, Archbisho
 3. **Polemical Writings**: His series of homilies titled *Adversus Judaeos* (Against the Jews) has been criticized for its harsh language. Modern scholars often debate whether these should be viewed through the lens of ancient rhetorical conventions (psogos) or as a foundation for later anti-Semitism. 
 
 ---
+
+
+<br>
+
+## References
+
+Mirandola, G., & Mirandola, G. F. (1601). *Ioannis Pici, Mirandulae Concordiaeque comitis, theologorum & philosophorum, sine controversia, principis viri, sive linguarum, sive rerum, & humanarum, & divinarum cognitionem spectes, doctrina & ingenio admirando: Item, tomo secundo Ioannis Francisci Pici Principis, ex eadem illustri prosapia oriundi ... opera quae extant omnia: non tam literatis viris utilia, quam necessaria, in unum corpus redacta: quorum Elenchi post vitam authoris habentur : accesserunt etiam rerum & verborum memorabilium, atque scriptorum, quorum sententiae & opiniones quacunque de re allegantur & citantur, duo indices locupletissimi. Editio ultima, superioribus multo correctior & locupletior*. Basileae: per Sebastianum Henricpetri. [https://doi.org/10.3931/e-rara-61217](https://doi.org/10.3931/e-rara-61217)
 
 
 
