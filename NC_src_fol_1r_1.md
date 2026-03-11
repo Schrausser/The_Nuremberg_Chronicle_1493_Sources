@@ -466,7 +466,7 @@ Philo’s medieval manuscripts are housed in several major research libraries, m
 
 ---
 
-## 5. Lucas: Luke the Evangelist (c. 3 AD - 87 AD)
+## 5. Lucas: Saint Luke the Evangelist (c. 3 AD - 87 AD)
 
 The primary date associated with Luke the Evangelist is his feast day on 18 October. Historically, the 1st c. physician and author is believed to have lived to the age of 84. 
 
