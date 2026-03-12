@@ -43,14 +43,14 @@ The timeline of Ezekiel's life and ministry is marked by precise dates, centerin
 Ezekiel's ministry is often divided into three phases based on the fall of Jerusalem: 
 
 ~~~
-Date 	Key Event	Scripture Reference
+Date BC		Event																							Reference Ezekiel
 
-593 BC	Initial Call: Ezekiel receives his first vision by the River Chebar at age 30.	Ezekiel 1–3
-592 BC	Vision of the abominations in the Temple and the departure of God's glory.	Ezekiel 8–11
-588 BC	Final Siege of Jerusalem begins; Ezekiel's wife dies.	Ezekiel 24
-586 BC	Fall of Jerusalem: The city and Temple are destroyed. Ezekiel shifts from judgment to hope.	Ezekiel 33
-573 BC	Second Temple Vision: Detailed plans for a restored Temple and land.	Ezekiel 40–48
-571 BC	Final Dated Prophecy: An oracle regarding the conquest of Egypt.	Ezekiel 29:17
+593			Initial Call: Ezekiel receives his first vision by the River Chebar at age 30.					1–3
+592			Vision of the abominations in the Temple and the departure of God's glory.						8–11
+588			Final Siege of Jerusalem begins; Ezekiel's wife dies.											24
+586			Fall of Jerusalem: The city and Temple are destroyed. Ezekiel shifts from judgment to hope.		33
+573			Second Temple Vision: u plans for a restored Temple and land.									40–48
+571			Final Dated Prophecy: An oracle regarding the conquest of Egypt.								29:17
 
 ### Historical Context
 
