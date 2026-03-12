@@ -215,7 +215,6 @@ The 1908 text ***The Kybalion*** outlines seven key principles that define moder
 6. **Cause and Effect**: Every action has a corresponding cause and effect, eliminating chance.
 7. **Gender**: Masculine and feminine principles are present in all things, guiding creation. 
 
---
 ---
 
 ## Elias (9th c. BC)
