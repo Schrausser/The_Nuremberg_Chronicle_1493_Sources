@@ -260,6 +260,7 @@ Life and Legacy
 Euripides was born on the island of Salamis. Although he was less successful than his rivals during his lifetime—winning only five first prizes in competitions—his popularity surged after his death. He spent his final years in the court of King *Archelaus of Macedonia*, where he died in 406 BC. His influence is seen throughout Western literature, from the New Comedy of the Hellenistic period to the works of *Shakespeare*, *Ibsen*, and *Shaw*. 
 
 ---
+
 ## 10. Plato: Plato (c. 427-347 BC)
 
 Plato’s philosophy was not a solitary invention but a synthesis of several major Greek intellectual traditions. He systematically integrated the ethical focus of his teacher, *Socrates*, with the *metaphysical theories* of the *Pre-Socratics*. 
@@ -611,9 +612,9 @@ Scholars often analyze *Hermippus of Smyrna* (3rd c. BC) alongside the later Jew
 
 ---
 
-## 11. Hieronymus: Saint Jerome (c. 342–347 – 420 AD)
+## 11. Hieronymus: Saint Jerome (c. 342 – 420 AD)
 
-Saint Jerome (c. 342–347 – 420 AD) was an early Christian priest, theologian, and historian. He is most famous for ***translating the Bible into Latin***, a version known as the ***Vulgate***, which became the standard text of the Roman Catholic Church for over a millennium. 
+Saint Jerome (c. 342-347 – 420 AD) was an early Christian priest, theologian, and historian. He is most famous for ***translating the Bible into Latin***, a version known as the ***Vulgate***, which became the standard text of the Roman Catholic Church for over a millennium. 
 
 #### Facts & Legacy
 
