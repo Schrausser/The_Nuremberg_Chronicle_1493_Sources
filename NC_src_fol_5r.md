@@ -201,7 +201,7 @@ The 1908 text ***The Kybalion*** outlines seven key principles that define moder
 6. **Cause and Effect**: Every action has a corresponding cause and effect, eliminating chance.
 7. **Gender**: Masculine and feminine principles are present in all things, guiding creation. 
 
---
+---
 
 ## Enoch (3332–2967 BC)
 
@@ -227,7 +227,7 @@ Legacy in Other Traditions
 
 1. **Islam**: He is widely identified with the **Prophet Idris**, described in the Quran as a *man of truth* raised to a high station.
 2.  **Mysticism**: In *Jewish Kabbalah* and *Merkabah* mysticism, Enoch is sometimes believed to have been transformed into the ***archangel Metatron*** after his ascension.
-3. **Latter-day Saints**: In LDS theology, Enoch is a major prophet who led the city of Zion to such righteousness that the entire city was *taken up* to heaven. 
+3. **Latter-day Saints**: In LDS theology, Enoch is a major prophet who led the city of Zion to such righteousness that the entire city was *taken up* to heaven.
 
 ---
 
