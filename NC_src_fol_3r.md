@@ -51,6 +51,7 @@ Date BC		Event																							Reference Ezekiel
 586			Fall of Jerusalem: The city and Temple are destroyed. Ezekiel shifts from judgment to hope.		33
 573			Second Temple Vision: u plans for a restored Temple and land.									40–48
 571			Final Dated Prophecy: An oracle regarding the conquest of Egypt.								29:17
+~~~
 
 ### Historical Context
 
