@@ -242,6 +242,30 @@ Israeli was a renowned *medical authority* whose works were *used* as standard t
 2. **Other Works**: He wrote influential treatises on *urine (De urinis)* and *dietetics (De diaetis)*.
 3. **Translation**: Many of his works were translated into Latin by ***Constantine of Carthage*** in the **11th c.** 
 
+
+While  primarily celebrated as a pioneering Neoplatonic philosopher and physician, he also incorporated astronomy and cosmology into his worldview as part of the ***seven sciences***. 
+
+His astronomical contributions are characterized by a blend of *Aristotelian physics* and *Neoplatonic emanation*: 
+
+1. **Cosmological Structure**
+
+- ***The Four Elements***: Israeli adopted the *Aristotelian model* where the motion of the heavenly spheres generates the four elements: *fire, air, water, and earth*.
+- ***Celestial Motion***: ***He taught that the friction and heat created by the movement of the celestial spheres*** *brought the element of fire into existence*, which subsequently ***cooled to form the other elements***. 
+
+2. **Neoplatonic Emanation**
+
+- ***Source of the Universe***: He was the first to ***synthesize** the *Jewish doctrine* of **creation ex nihilo** with the *Neoplatonic idea of emanation*.
+- ***Ontological Hierarchy***: In his view, God created a *first matter* through *divine will*, from which the higher and lower worlds—including the stars and planets—emanated in a *structured hierarchy*. 
+
+3. **Terminology and Influence**
+
+- ***Scientific Vocabulary***: Israeli utilized astronomical terminology *largely derived from* the Arab philosopher ***al-Kindi***.
+- ***Internal Senses***: He **linked** the **celestial order to** human **psychology**, suggesting the *soul could ascend* through these cosmic levels to achieve communion with the Divine. 
+
+4. **Distinction from Isaac Israeli the Younger**
+
+It is important not to confuse him with ***Isaac Israeli ben Joseph** (d. 1322), also known as ***the Younger***, who was a dedicated Spanish astronomer and author of the influential *astronomical work* ***Yesod Olam*** (*The Foundation of the World*). 
+
 ### Philosophical Impact
 
 As a philosopher, he focused on *Neoplatonic* themes, particularly the concept of emanation. 
