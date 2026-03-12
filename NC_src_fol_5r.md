@@ -45,12 +45,12 @@ Scholars like *Marsilio Ficino* (who translated the ***Corpus Hermeticum*** in 1
 
 **Table 1**. Summary of Major Works.
 ~~~
-Text Category 	Estimated Date of Composition	Themes
+Text Category 			Estimated Date of Composition		Themes
 
-Technical Hermetica	3rd c. BC – 1st c. AD	Astrology, Alchemy, Magic
-Corpus Hermeticum	100 – 300 AD	Theology, Gnosis, Divine Mind
-The Asclepius	2nd – 3rd c. AD	Prophecy, Theurgy, Divine Laws
-Emerald Tablet	c. 8th c. AD (Arabic source)	Alchemy, "As above, so below"
+Technical Hermetica		3rd c. BC – 1st c. AD				Astrology, Alchemy, Magic
+Corpus Hermeticum		100 – 300 AD						Theology, Gnosis, Divine Mind
+The Asclepius			2nd – 3rd c. AD						Prophecy, Theurgy, Divine Laws
+Emerald Tablet			c. 8th c. AD (Arabic source)		Alchemy, "As above, so below"
 ~~~
 
 ### Aspects of Hermes Trismegistos
