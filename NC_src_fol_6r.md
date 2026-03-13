@@ -95,11 +95,11 @@ Both systems use a *triad of triads* (nine total orders), but they *disagree* on
 
 **Table 1.**
 ~~~
-Hierarchy (Sphere) 	Dionysius' Order	Gregory's Order
+Hierarchy (Sphere) 	Dionysius' Order						Gregory's Order
 
-First (Highest)	Seraphim, Cherubim, Thrones	Seraphim, Cherubim, Thrones
-Second (Middle)	Dominions, Virtues, Powers	Dominions, Powers, Virtues
-Third (Lowest)	Principalities, Archangels, Angels	Principalities, Archangels, Angels*
+First (Highest)		Seraphim, Cherubim, Thrones				Seraphim, Cherubim, Thrones
+Second (Middle)		Dominions, Virtues, Powers				Dominions, Powers, Virtues
+Third (Lowest)		Principalities, Archangels, Angels		Principalities, Archangels, Angels*
 ~~~
 *) Some sources indicate Gregory places Principalities in the third hierarchy, while others note minor variations in how these middle ranks are grouped compared to Dionysius. 
 
