@@ -1,4 +1,4 @@
-![figure.\label{Plato}](plato_fol_lxxiiiv.jpg)
+![figure.\label{Bibliotheca}](bibliotheca_fol_xciiv.jpg)
 
 # The Nuremberg Chronicle 1493: Sources
 
