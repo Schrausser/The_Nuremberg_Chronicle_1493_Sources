@@ -2,7 +2,7 @@
 
 # The Nuremberg Chronicle 1493: Sources
 
-Literature sources for the *Nuremberg Chronicle*, fol. Ir to  VIIr , in *Latin*,  `Fol_1r_Lat`-`Fol_7r_Lat` (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)), *Early New High German*, ENHG, `Fol_1r_ENHG`-`Fol_7r_ENHG` (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.).
+Literature sources for the *Nuremberg Chronicle*, fol. Ir to  VIIr , in *Latin* (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)) and *Early New High German*, ENHG, (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.).
 
 On *original* sources see Diels ([1906](https://archive.org/details/diefragmentederv01diel)), Janko ([2002](http://www.jstor.org/stable/20191519)) and Benaissa et al. ([2025](https://oxyrhynchus.web.ox.ac.uk/publications)).
 
