@@ -24,12 +24,11 @@ fol.	Name
 77		Yosef ben Matityahu
 78		Aristotle
 78		Epicurus
-82		Strabo
 85		Philo of Alexandria
 89		Marcus Tullius Cicero
 92		Quintus Horatius Flaccus
+92		Strabo
 93		Publius Ovidius Naso
-94		Strabo (2)
 97		Philo of Alexandria (2)
 107		Saint Matthew the Evangelist
 108		Saint Luke the Evangelist
