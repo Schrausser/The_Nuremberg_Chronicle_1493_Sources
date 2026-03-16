@@ -62,10 +62,10 @@ Ment.	Ref.
 1r		192v	Isaac Israeli ben Solomon
 1r		214r	Saint Albert the Great
 ~~~
-¹)  
-²)  
-³)  
-⁴)  
+¹) mentioned from Pico, uncertain.  
+²) (strikingly) anachronistic.  
+³) double mention.   
+⁴) Dionysius the Areopagite.  
 
 On *original* sources see Diels ([1906](https://archive.org/details/diefragmentederv01diel)), Janko ([2002](http://www.jstor.org/stable/20191519)) and Benaissa et al. ([2025](https://oxyrhynchus.web.ox.ac.uk/publications)).
 
