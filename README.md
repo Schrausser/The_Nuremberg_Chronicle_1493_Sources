@@ -4,52 +4,68 @@
 
 Literature sources for the *Nuremberg Chronicle*, fol. Ir to  VIIr , in *Latin* (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)) and *Early New High German*, ENHG, (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.).
 
-**Table 1.** Lat.
+**Table 1.** Sort.
 ~~~
-fol.	Name
-
-10		Enoch
-11		"Archa Noe"
-14		Yoniton or Ionitus
-24		Lisania, Jupiter I
-29		Moses
-46		King Solomon
-61		Pythagoras of Samos
-61		Ezekiel
-71		Anaxagoras
-73		Plato
-74		Hermippus of Smyrna
-74		Plotinus
-77		The Septuagint
-77		Yosef ben Matityahu
-78		Aristotle
-78		Epicurus
-85		Philo of Alexandria
-89		Marcus Tullius Cicero
-92		Quintus Horatius Flaccus
-92		Strabo
-93		Publius Ovidius Naso
-97		Philo of Alexandria (2)
-107		Saint Matthew the Evangelist
-108		Saint Luke the Evangelist
-109		Pseudo-Dionysius the Areopagite
-117		Origen of Alexandria
-133		Saint Basil the Great
-134		Saint Ambrose of Milan
-134		Apollinarius of Laodicea
-135		Saint Jerome
-135		Saint Didymus the Blind
-135		Saint Chrysostom of Constantinople
-136		Saint Augustinus of Hippo
-140		Saint Remigius of Reims
-141		Saint Gennadius I of Constantinople
-148		Saint Gregory the Great
-151		Saint Isidore of Seville
-158		Saint Bede the Venerable
-161		Saint Giles the Hermit
-192		Isaac Israeli ben Solomon
-214		Saint Albert the Great
+Fol./Blat		Name
+Ment.	Ref.
+	
+1r		1r		Euripides¹
+1r		1r		Numenius of Apamea¹
+1r		1r		Theodoret of Cyrus¹
+1r		1r		Rabbi Simeon bar Yochai, Rashbi¹
+1r		1r		Rabbi Eliazar ben Hurcanus¹
+1r		1r		Abba Saul, The Tanna¹
+1r		1r		Rabban Yohanan ben Zakkai¹
+1r		1r		Rabbi Nehunyah ben HaKanah¹
+1r		1r		Rabbi Levi ben Gershom, Ralbag¹
+1r		1r		Rabbi Saadia Gaon¹
+1r		1r		Abraham Bar Ḥiyya, Savasorda¹
+5r		10		Enoch¹³
+1r		11r		"Archa Noe"¹
+1r		14v		Yoniton or Ionitus¹
+1r		24v		Lisania, Jupiter I¹
+1r		29v		Moses
+1r		46v		King Solomon
+1r		61v		Pythagoras of Samos²
+3r		61v		Ezekiel
+1r		71r		Anaxagoras
+1r		73v		Plato
+1r		74v		Hermippus of Smyrna¹
+4v		74v		Plotinus²
+2r		77r		The Septuagint²
+1r		77r		Yosef ben Matityahu¹²
+2r		78r		Aristotle
+2r		78r		Epicurus
+1r		85r		Philo of Alexandria²³
+4r		89r		Marcus Tullius Cicero
+4r		92v		Quintus Horatius Flaccus
+2r		93v		Publius Ovidius Naso
+1r		94r		Strabo
+1r		97r		Philo of Alexandria³
+6r		107r	Saint Matthew the Evangelist
+1r		108r	Saint Luke the Evangelist
+6r		109v	Pseudo-Dionysius the Areopagite⁴
+1r		117v	Origen of Alexandria
+1r		133r	Saint Basil the Great
+1r		134v	Saint Ambrose of Milan
+1r		134v	Apollinarius of Laodicea
+1r		135r	Saint Jerome
+1r		135r	Saint Chrysostom of Constantinople
+1r		135v	Saint Didymus the Blind
+1r		136r	Saint Augustinus of Hippo
+1r		140v	Saint Remigius of Reims
+1r		141v	Saint Gennadius I of Constantinople
+6r		148r	Saint Gregory the Great
+6r		151v	Saint Isidore of Seville
+1r		158v	Saint Bede the Venerable
+1r		161v	Saint Giles the Hermit
+1r		192v	Isaac Israeli ben Solomon
+1r		214r	Saint Albert the Great
 ~~~
+¹)  
+²)  
+³)  
+⁴)  
 
 On *original* sources see Diels ([1906](https://archive.org/details/diefragmentederv01diel)), Janko ([2002](http://www.jstor.org/stable/20191519)) and Benaissa et al. ([2025](https://oxyrhynchus.web.ox.ac.uk/publications)).
 
