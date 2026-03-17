@@ -15,7 +15,7 @@ s. `NC_src_fol_4r.md`
 
 ---
 
-## 3. Mercurius: Hermes Trismegistos (Thot, c. 6000–3150 BC / Enoch, 3332–2967 BC)
+## 3. Mercurius: Hermes Trismegistos (Thoth, c. 6000–3150 BC / Enoch, c. 3332–2967 BC)
 
 Hermes Trismegistos (Greek for *Thrice-Greatest Hermes*) is a **legendary figure** from the **Hellenistic period**, created through the syncretic **blending of** the Greek god **Hermes** and the Egyptian god **Thoth**. He is revered as the ***mythical founder of Hermeticism***, a philosophical and religious tradition that significantly influenced Western alchemy and astrology. 
 

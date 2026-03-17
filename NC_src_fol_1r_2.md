@@ -164,7 +164,7 @@ Albertus Magnus (c. 1200–1280), also known as *Albert the Great*, was a German
 
 ---
 
-## 20. Orígenes: Origen of Alexandria (c. 185–254 AD)
+## 20. Origenes: Origen of Alexandria (c. 185–254 AD)
 
 Orígenes (Origen of Alexandria, c. 185–254 AD) was an early Christian scholar, ascetic, and one of the most prolific and influential theologians of the early Church. Based in Alexandria and later Caesarea, he is best known for his massive scholarly output, particularly in biblical exegesis and philosophical theology. 
 

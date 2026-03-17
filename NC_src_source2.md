@@ -81,7 +81,7 @@ Papyrus was the world's primary writing surface for nearly 4000 years, essential
 
 1. **c. 3000-2900 BC**: **Invention** in Ancient Egypt. The earliest known blank roll was found in a tomb at Saqqara.
 2. **c. 2560-2550 BC**: The oldest known written papyrus, the Diary of Merer, records the construction of the Great Pyramid of Giza.
-3. **c. 1600-1550 BC**: Notable medical texts like the Edwin Smith Surgical Papyrus and the Ebers Papyrus are composed.
+3. **c. 1600-1550 BC**: Notable medical texts like the *Edwin Smith Surgical* Papyrus and the *Ebers* Papyrus are composed.
 4. **c. 332-30 BC**: The Ptolemaic Period sees papyrus widely adopted by the Greeks for literature and administration.
 5. **2nd c. AD**: **Parchment** (animal skin) **begins** to emerge as a durable but expensive rival.
 6. **8th-10th c. AD**: The **Arab world introduces** the Chinese method of making pulp **paper**, which is cheaper and more durable than papyrus.

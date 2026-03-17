@@ -31,7 +31,7 @@ The dating of his works is primarily based on internal textual clues and their e
 The timeline of his literary output includes four major treatises and ten letters: 
 
 1. ***The Divine Names***: Exploring the names of God in scripture.
-2. ***The Celestial Hierarchy***: Defining the ***nine orders of angels***.
+2. ***The Celestial Hierarchy*** (*De Coelesti Hierarchia*): Defining the ***nine orders of angels***.
 3. ***The Ecclesiastical Hierarchy***: Relating the earthly church rituals to divine reality.
 4. ***The Mystical Theology***: Establishing the *Way of Negation* (apophatic theology). 
 
@@ -146,7 +146,7 @@ Isidore of Seville (c. 560 – 636 AD) was a Spanish scholar, theologian, and ar
 
 *Isidore* is often called the ***last scholar of the ancient world*** because he collected and synthesised classical Greco-Roman traditions with Christian doctrine ***before much*** of that knowledge was ***lost to the Dark Ages***. His writings on kingship also influenced the development of European representative government. 
 
-Isidore of Seville (c. 560–636) played a key role in transmitting the history and legendary ***origins of the Septuagint***(the Greek translation of the Hebrew Bible) ***to the medieval West***. His accounts, found *primarily* in his encyclopedic masterpiece *Etymologiae*, helped standardise the narrative of how this version was created. 
+Isidore of Seville (c. 560–636) played a key role in transmitting the history and legendary ***origins of the Septuagint*** (the Greek translation of the Hebrew Bible) ***to the medieval West***. His accounts, found *primarily* in his encyclopedic masterpiece *Etymologiae*, helped standardise the narrative of how this version was created. 
 
 Isidore's History of the Septuagint
 

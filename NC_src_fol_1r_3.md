@@ -66,11 +66,11 @@ Pico specifically quotes Anchelos to illustrate the soul's ability to transcend 
 
 ## 29: Symeon antiquus: Simeon bar Yochai  (c. 90–160 AD)
 
-In the writings of the Renaissance philosopher *Giovanni Pico della Mirandola*, *Symeon antiquus* (often referred to in scholarship as *Simeon the Ancient*) is a figure cited as a primary authority for *Jewish and Kabbalistic wisdom*. 
+In the writings of the Renaissance philosopher *Giovanni Pico della Mirandola*, *Symeon antiquus* (often referred to in scholarship as *Simeon the Ancient*) is a figure cited as a primary authority for *Jewish and Kabbalistic wisdom*. An 8th-c. pseudonymous attribution of divine revelations to Shimon by the angel ***Metatron***[^1] is also known, called ***The Secrets of Rabbi Simon ben Yohai***, a Jewish apocalypse, which presents itself as a record of the divine visions of the 2nd-c. rabbi, Simon ben Yohai. Scholarly opinion about the date of its composition is divided. Some say that it must date from the time of the crusades, others that it was composed in the mid-8th c.
 
 ### Historical Context
 
-Scholars *generally identify* this figure with the *historical* ***Simeon bar Yochai***, the **2nd c.** rabbi traditionally credited as the *author* of the ***Zohar***, the *foundational work of Jewish Kabbalah*. By referring to him as *antiquus* (the ancient), *Pico* emphasizes the antiquity and *supposed authority* of the *Kabbalistic* tradition ***he was introducing to*** *the Christian West*. 
+Scholars *generally identify* this figure with the *historical* ***Simeon bar Yochai***, the **2nd c.** rabbi traditionally credited as the *author* of the ***Zohar***, the *foundational work of Jewish Kabbalah*. However, most modern scholars attribute the Zohar's publication and likely authorship to the 13th-c. Spanish kabbalist ***Moses de León***. While de León claimed he was merely copying an ancient manuscript written by the 2nd-century sage y*Simeon ben Yohai*, modern scholarship—pioneered by *Gershom Scholem*—largely identifies him as the actual author. He likely attributed it to an ancient source to grant the work greater authority. By referring to him as *antiquus* (the ancient), *Pico* emphasizes the antiquity and *supposed authority* of the *Kabbalistic* tradition ***he was introducing to*** *the Christian West*. 
 
 
 ### Role in Pico's Philosophy
@@ -80,6 +80,34 @@ Scholars *generally identify* this figure with the *historical* ***Simeon bar Yo
 1. **Source of Wisdom**: Pico presents him alongside other figures like *Ionethes and Anchelos* as ancient teachers of secret or mystical knowledge.
 2. **Kabbalistic Link**: In his encounter with Jewish mysticism, *Pico* used translations provided by *Flavius Mithridates*, who attributed certain texts to this *Symeon antiquus*.
 3. **Biblical Interpretation**: *Pico* frequently cites him to *support* his own allegorical and mystical *interpretations* of the Old Testament, *particularly* the ***Book of Genesis***. 
+
+### c.f. Moses de León (c. 1240–1305)
+
+Moses de León (c. 1240–1305) was a Spanish rabbi and Kabbalist most famous for producing the Zohar (The Book of Splendour), the foundational text of Jewish mysticism. 
+
+#### The Mystery of the Zohar
+
+While de León claimed he was merely copying an ancient manuscript written by the 2nd-c. sage *Simeon ben Yohai*, modern scholarship—pioneered by Gershom Scholem—largely identifies him as the actual author. He likely attributed it to an ancient source to grant the work greater authority. 
+
+#### Key Facts and Life
+
+1. **Background**: Born in León (or Guadalajara), Spain, as Moshe ben Shem-Tov.
+2. **Career**: He spent most of his life as an itinerant scholar in Guadalajara and Valladolid before settling in Ávila.
+3. **Philosophy**: His work was a mystical response to the rationalism of philosophers like *Maimonides*, aiming to provide a deeper, esoteric meaning to the Torah.
+4. **Death**: He died in Arévalo in 1305 while returning home from a trip. After his death, his ***widow*** reportedly ***admitted that no ancient manuscript of the Zohar ever existed***. 
+
+#### Major Works
+
+Beyond the Zohar, he authored several Hebrew texts that often serve as keys to understanding the Zohar's complex themes: 
+
+1. ***Sefer ha-Rimon (Book of the Pomegranate)***: A mystical explanation of the commandments.
+2. ***Ha-Nefesh ha-Hakhamah (The Wise Soul)***: A discussion on the soul's destiny, resurrection, and reincarnation.
+3. ***Shoshan Edut (Lily of Testimony)***: Mentioned as his first work, dealing with the mysteries of faith.
+
+---
+
+[^1]: Jewish mysticism: *Metatron, King of the Angels* alongside *Sandalphon* two angels who were first a mortal human, the prophets ***Enoch*** and ***Elijah***.
+
 
 <br>
 

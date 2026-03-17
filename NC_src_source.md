@@ -1,5 +1,32 @@
 ---
 
+# Corpus Christianorum
+
+---
+
+Corpus Christianorum (CC) is a major scholarly project dedicated to producing modern, critical editions of Christian texts from Late Antiquity through the Middle Ages. It was founded in 1948 by the Belgian Benedictine monk Dom Eligius Dekkers at St. Peter's Abbey in Steenbrugge, with the support of Brepols Publishers. 
+The project was originally intended as a contemporary successor to Jacques-Paul Migne's 19th-century Patrologia, aiming to replace its outdated texts with high-quality critical editions based on the best available manuscripts. 
+Main Series
+The collection is divided into several primary series, including:
+Series Latina (CCSL): Focuses on the works of Latin Christian authors from the 2nd to the 8th centuries.
+Series Graeca (CCSG): Dedicated to the Greek Christian literature of the same period.
+Continuatio Mediaevalis (CCCM): Extends the coverage to medieval Latin writers from the Carolingian period to the end of the Middle Ages.
+Series Apocryphorum (CCSA): Focuses on Christian apocryphal literature.
+Conciliorum Oecumenicorum Generaliumque Decreta (CCCOGD): Contains the decrees of ecumenical and general councils. 
+
+Corpus Christianorum
+ +9
+Additional Resources
+Claves & Subsidia: Reference works and tools (like the Clavis Patrum Latinorum) that help scholars navigate patristic and medieval literature.
+In Translation (CCT): Provides modern language translations (English, French, etc.) of the texts published in the main series for broader accessibility.
+Scholars Version (CCSV): Practical editions designed for classroom use and individual study. 
+
+Corpus Christianorum
+ +5
+The project remains active, with new volumes regularly added to its various series. You can find more information on the official [Corpus Christianorum](https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.corpuschristianorum.org/&ved=2ahUKEwin1tTj-Z6TAxVY0AIHHUg-N00Qy_kOegQICBAB&opi=89978449&cd&psig=AOvVaw0qYZ0-UDvcLTzrf97r4_eh&ust=1773562625821000) website. 
+
+---
+
 # Diels-Kranz
 
 ---
@@ -311,7 +338,7 @@ Because ancient papyrus is fragile, the earliest complete versions of the epics 
 
 ## Thales
 
-**No original manuscripts written by Thales of Miletus (c. 624–546 BCE) survive today**, and it is uncertain whether he ever produced any written works. Instead, his teachings and life are known through the writings of later authors, **preserved in medieval copies**. 
+**No original manuscripts written by Thales of Miletus (c. 624–546 BC) survive today**, and it is uncertain whether he ever produced any written works. Instead, his teachings and life are known through the writings of later authors, **preserved in medieval copies**. 
 
 There are **no surviving original writings** authored by Thales of Miletus. Everything known about his life and philosophy is derived from later *doxographical* accounts—compilations of his opinions and achievements *written by subsequent thinkers*. 
 
@@ -745,6 +772,50 @@ Modern Preservation
 Most historical research today relies on the critical edition established by ***J. L. Heiberg (1883–1888)***, who **synthesized** the **Vatican manuscript** with various **papyri fragments** to reconstruct a text as close to *Euclid's* **original as possible**. 
 
 ---
+
+## Pliny the Elder (23–79 AD)
+
+Pliny the Elder (**Gaius Plinius Secundus**, AD 23–79) was a Roman author, naturalist, and military commander best known for writing the ***Naturalis Historia*** (Natural History), the ***world's earliest surviving general encyclopedia***. 
+
+## Life and Career
+
+Born in Novum Comum (modern-day Como, Italy) to a wealthy equestrian family, Pliny balanced a distinguished political and military career with obsessive scholarly pursuits. 
+
+1. **Military Service**: He served as a cavalry commander in Germany, where he became a close friend of the future Emperor *Vespasian* and his son *Titus*.
+2. **Public Office**: Under the Flavian dynasty, he held several high-ranking procuratorships (governorships) in provinces like Africa, Hispania, and Gaul.
+3. **Study Habits**: Known for his tireless work ethic, he reportedly studied or dictated extracts even while bathing or traveling in a sedan chair, famously claiming that *no book was so bad that he could not find something of use in it*. 
+
+### The Natural History
+
+Completed around 77 AD and dedicated to *Titus*, this 37-book work was *intended to cover* the ***entirety of human knowledge***. 
+
+1. **Scope**: It encompasses astronomy, geography, anthropology, zoology, botany, medicine, and mineralogy.
+2. **Importance**: It remains a critical source for understanding 1st c. Roman life, technology (like gold mining), and art history.
+3. **Legacy**: Though modern science has debunked many of its fables—such as the claim that elephants fear mice—it served as the ***primary scientific authority*** throughout the ***Middle Ages***. 
+
+### Death at Vesuvius
+
+Pliny died on August 24 or 25, 79 AD, during the eruption of Mount Vesuvius. At the time, he was the commander of the imperial fleet at Misenum. 
+
+1. **Rescue Mission**: Upon seeing the unusual cloud, he sailed across the Bay of Naples to investigate the phenomenon and rescue stranded friends, including a woman named Rectina.
+2. **Last Moments**: After landing at Stabiae, he was trapped by unfavorable winds. He famously told his nervous helmsman, *Fortune favors the bold*. He is believed to have died from asphyxiation by toxic volcanic gases or a heart attack.
+3. **Primary Source**: Detailed accounts of his life and death survive primarily *through the letters* of his ***nephew and adopted son, Pliny the Younger***. 
+
+---
+
+## Pliny the Younger (c. 61 – 113 AD)
+
+Pliny the Younger (**Gaius Plinius** ***Caecilius*** **Secundus**, c. 61 – 113 AD) was a prominent Roman lawyer, author, and magistrate. He is most famous today for his extensive collection of letters (*Epistulae*), which provide an invaluable eyewitness account of life in the Roman Empire during the 1st c. AD. 
+
+### Historical Legacy
+
+1. **Vesuvius Witness**: Pliny provided the ***only surviving eyewitness account*** of the eruption of Mount Vesuvius in 79 AD. His detailed descriptions of the mushroom-shaped cloud led modern volcanologists to name such events *Plinian eruptions*.
+2. **Correspondence with Trajan**: His tenth book of letters contains official correspondence with Emperor *Trajan*. These letters are critical for understanding Roman provincial administration and early Roman *attitudes toward Christians*.
+3. **Career**: He rose through the cursus honorum (the Roman political career ladder), serving as a senator, consul, and finally the imperial governor of Bithynia et Pontus.
+4. **Personal Life**: Adopted by his ***uncle, Pliny the Elder***, he inherited a vast estate and a deep devotion to study. He was a patron of the arts and a friend to other literary giants like *Tacitus* and *Suetonius*. 
+
+---
+
 
 ## References
 

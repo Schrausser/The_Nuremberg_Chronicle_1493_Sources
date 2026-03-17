@@ -86,7 +86,7 @@ Epicureans lived by a basic guideline to cure the *diseases of the soul* and att
 3. What is good is easy to get (Basic needs are simple to satisfy).
 4. What is terrible is easy to endure (Pain is either brief or manageable). 
 
-###Life and Legacy
+### Life and Legacy
 
 Epicurus established his **school**, ***The Garden*** (***Ho Kepos***), in Athens around 306 BC. It was revolutionary for its time, welcoming women and slaves as equal members of the community. Although a prolific writer of over 300 works, only a few letters and collections of aphorisms (like the Principal Doctrines) survived Christian suppression during the Middle Ages. 
 His ideas were *rediscovered* in the 15th century and profoundly influenced Enlightenment thinkers like *Thomas Jefferson*, who famously identified as an *Epicurean*. 
@@ -128,6 +128,24 @@ The *Epicurean paradox* is a version of the problem of evil. Lactantius attribut
 
 The **Garden of Epicurus** (Ho Kêpos) was a philosophical school and commune founded by *Epicurus* in Athens around 306 BC. *Unlike the public spaces* used by other schools—such as **Plato’s Academy** or **Aristotle’s Lyceum**—the Garden was a *private* residence and retreat that became the heart of *Epicurean* life and thought. 
 
+Epicurus was a prolific author of roughly 300 treatises, but almost all of his original work has been lost. His ***primary surviving*** text concerning atomism is the ***Letter to Herodotus***. 
+
+### Primary Surviving Work: Letter to Herodotus 
+
+The *Letter to Herodotus* serves as a concise *summary of Epicurus'* physical and metaphysical *doctrines*. It is the ***most direct source for his atomistic*** *theories*, covering: 
+
+1. **The Nature of Matter and Void**: Establishing that the universe consists only of atoms and empty space.
+2. **Atomic Properties**: Detailing how atoms have size, shape, and weight but lack secondary qualities like color.
+3. **The Concept of Minima**: Proposing that while atoms are physically indivisible, they are composed of *minimal parts* that represent a lower limit to theoretical divisibility. 
+
+### Other Significant Sources
+
+Because so much of his writing is lost, scholars rely on these major secondary and fragmentary sources: 
+
+1. ***On Nature (Peri Phuseos)***: This ***was*** *Epicurus' massive 37-volume masterwork* on physics. While ***largely lost***, charred papyrus fragments from this work were recovered from the *Villa of the Papyri* in Herculaneum.
+2. ***De Rerum Natura (On the Nature of Things)***: A long Latin poem by the Roman follower ***Lucretius***. It is considered a faithful and more detailed exposition of *Epicurus'* lost physical works, including the famous concept of the *atomic swerve* (clinamen) used to explain free will.
+3. **Diogenes Laertius**: His third-century work, *Lives and Opinions of Eminent Philosophers*, preserved the ***three surviving letters of Epicurus*** (to ***Herodotus***, ***Pythocles***, and ***Menoeceus***) *and* his Principal *Doctrines*. 
+
 ---
 
 ## 5. Hiero / Ieronimus: Saint Jerome (c. 342 – 420 AD)
@@ -136,7 +154,7 @@ s. `NC_src_fol_1r_1.md`
 
 ---
 
-## 6. Septinge[n]ta / die .lxx. auslege[r]: 
+## 6. Septinge[n]ta / die .lxx. auslege[r]: The Septuagint (3rd c. BC)
 
 The term *the 70 interpreters* most commonly refers to the ***Septuagint*** (often abbreviated as **LXX**), the ***oldest Greek translation of the Hebrew Bible***. 
 
