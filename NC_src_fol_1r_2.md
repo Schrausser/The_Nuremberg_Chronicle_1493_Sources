@@ -39,8 +39,9 @@ St. Augustinus (354–430 AD), commonly known as *Augustine of Hippo*, was a Nor
 ### Facts and Legacy
 
 1. **Theologian and Philosopher**: He is considered one of the most important Church Fathers. His most famous works include 
-- ***Confessions***
-- ***The City of God***
+- ***Confessions*** (c. 397–400): A spiritual autobiography written as a prayer to God, detailing his journey from a restless youth to his conversion to Christianity.
+- ***The City of God*** (413–426): A massive 22-book defense of Christianity against paganism, written after the sack of Rome in 410, which outlines the history of humanity through two symbolic cities: the City of God and the City of Man.
+- ***On the Trinity*** (399–419): A profound theological treatise where he explores the nature of the Triune God using *psychological analogies* from the human mind (memory, understanding and will).
 
 2. **Core Teachings**: He developed influential doctrines on original sin (the belief that humans are born with sin and need God's grace for salvation) and the Augustinian Rule, which governs monastic life.
 3. **Famous Quote**: Often associated with the phrase: "Love, and do what thou wilt" (Liebe – und dann tu, was du willst!). 
@@ -152,6 +153,42 @@ Albertus Magnus (c. 1200–1280), also known as *Albert the Great*, was a German
 2. **Patron Saint**: In 1941, Pope Pius XII named him the patron saint of natural scientists.
 3. **Feast Day**: His feast day is celebrated on November 15, the anniversary of his death in Cologne. 
 
+Saint Albertus Magnus (c. 1200–1280), known as the **Doctor Universalis**, was a prolific Dominican scholar who authored approximately **38 volumes of work covering nearly every branch of knowledge known in the 13th c.** His primary achievement was making the entire body of **Aristotelian philosophy accessible** to the Latin West, often interpreting it to **harmonize with Christian doctrine**. 
+
+### Natural Sciences
+
+Albert was a pioneer of empirical observation, famously stating that *the aim of natural science is not simply to accept the statements of others, but to investigate the causes that are at work in nature*. 
+
+1. ***De animalibus*** (On Animals): A massive 26-book encyclopedia on zoology, incorporating his own observations on subjects like falconry and embryology.
+2. ***De mineralibus*** (On Minerals): A systematic study of minerals and metals; he is credited with the *discovery of the element arsenic*.
+3. ***De vegetabilibus*** (On Vegetables and Plants): A major botanical work where he emphasized that *experiment is the only safe guide* in such studies.
+4. ***De natura locorum*** (On the Nature of Places): A work on geography that included evidence for the sphericity of the Earth. 
+
+### Philosophy and Logic
+
+His philosophical works consist largely of paraphrases and commentaries on *Aristotle's corpus*, which he organized according to the Aristotelian scheme of sciences. 
+
+1. ***Physica*** (Physics): A 20-year project encompassing natural science, logic, mathematics, and metaphysics.
+2. ***Metaphysicorum*** (Metaphysics): Discussions on the nature of being and reality.
+3. ***Ethicorum & Politocorum***: Commentaries on Aristotle's Ethics and Politics, exploring human virtues and social structures.
+4. ***Super Ethica***: A later work further developing his ideals on friendship and moral goodness. 
+
+#### Theology and Spirituality
+
+While heavily focused on philosophy, Albert held high-ranking ecclesiastical positions and wrote extensively on sacred subjects. 
+
+1. ***Summa Theologiae***: A major theological synthesis, though left unfinished at his death.
+2. ***Commentary on the Sentences***: A three-volume commentary on the Books of the Sentences by *Peter Lombard*.
+3. ***De adherendo Deo*** (On Cleaving to God): A widely read spiritual treatise on mystical union with God.
+4. ***Paradisus Animae*** (The Paradise of the Soul): A treatise on the 42 virtues required to reach heaven. 
+
+#### Works of Disputed Authenticity 
+
+Because of his reputation for vast knowledge, many later ***alchemical and occult*** texts were **falsely attributed** to him, such as: 
+
+- ***Secreta Alberti*** (Secrets of Albert): A book of *secrets* regarding the virtues of herbs and stones.
+- ***Egyptian Secrets***: A 18th c. grimoire of folk magic and healing. 
+
 <br>
 
 ---
@@ -175,6 +212,28 @@ Orígenes (Origen of Alexandria, c. 185–254 AD) was an early Christian scholar
 3. **Allegorical Interpretation**: *Origen* is considered the ***father of the allegorical method*** of scriptural interpretation, proposing a ***threefold sense*** of Scripture: ***literal, moral, and spiritual/mystical***.
 4. **Controversies**: His teachings on the *pre-existence of souls* and *apokatastasis* (the ultimate reconciliation of all beings, including Satan, with God) led to posthumous *condemnation* as a heretic in the 6th c.
 5. **Asceticism**: Legend (recorded by *Eusebius*) suggests he took the biblical eunuchs for the kingdom of heaven literally and castrated himself in his youth to avoid scandal while teaching women. 
+
+Origen of Alexandria (c. 185–254 AD) was one of the most prolific writers of antiquity, with his output estimated by ancient historians to be between ***2000 and 6000 works***. While the vast majority of his writings were lost or destroyed following his later condemnation as a heretic, several foundational works remain, often in Latin translations by *Rufinus* or *Jerome*. 
+
+### Major Theological and Apologetic Works
+
+1. ***On First Principles (De Principiis)***: This is considered the first systematic exposition of Christian theology. Written in the 220s, it covers the nature of God, the Trinity, the creation of the world, free will, and the interpretation of Scripture. Most of it survives only in a Latin translation by *Rufinus*.
+2. ***Against Celsus (Contra Celsum)***: His most significant work of apologetics, written around 248 AD. It is a point-by-point rebuttal of the pagan philosopher *Celsus’s* attacks on Christianity and remains entirely preserved in the original Greek.
+3. ***On Prayer (De Oratione)***: A systematic treatise on the necessity and nature of prayer, including a detailed exegesis of the Lord's Prayer.
+4. ***Exhortation to Martyrdom***: Written during the persecution of *Maximinus*, this work encourages Christians to remain faithful in the face of suffering. 
+
+### Biblical Scholarship and Exegesis
+
+1. ***The Hexapla***: A massive critical edition of the Old Testament that placed six different versions in parallel columns—the original Hebrew, a Greek transliteration, and four Greek translations. Only fragments of this monumental work remain.
+2. **Commentaries**: Origen wrote extensive, systematic commentaries on most books of the Bible. Notable surviving fragments include portions of his commentaries on the Gospel of *Matthew*, the Gospel of *John*, and the ***Song of Songs***.
+3. **Homilies**: Over 200 of his sermons (homilies) have survived, covering books like *Genesis*, *Exodus*, *Leviticus*, and *Luke*. A significant set of 29 lost homilies on the Psalms was rediscovered as recently as 2012 in the Bavarian State Library.
+4. **Scholia**: Short exegetical notes on difficult biblical passages, most of which have perished. 
+
+### Lost or Fragmentary Works
+
+Stromateis (Miscellanies): Ten books attempting to reconcile Christian doctrine with philosophy; only tiny fragments exist.
+On the Resurrection: A treatise that was largely lost but whose ideas were influential and controversial.
+Letters: While he wrote thousands of letters, only a few are preserved, including one to Julius Africanus and another to Gregory Thaumaturgus. 
 
 ---
 
@@ -283,7 +342,7 @@ Apollinarius sought to preserve the *unity of Christ* and his absolute deity. Hi
 ### Life and Major Contributions
 
 1. **Anti-Arian Alliance**: He was a close friend and ally of *Athanasius of Alexandria* and was initially highly regarded by *Basil the Great* for his defense of Christ's divinity.
-2. **Literary Work**: When the *Emperor Julian the Apostate forbade Christians from teaching classical literature* in 362 AD, *Apollinarius* and his father (*Apollinaris the Elder*) rewrote much of the ***Bible into classical Greek forms***, such as *Homeric epics* and *Platonic dialogues*, to ensure Christian students could still study the classics.
+2. **Literary Work**: When the *Emperor Julian the Apostate forbade Christians from teaching classical literature* in 362 AD, *Apollinarius* and his father (*Apollinaris the Elder*) rewrote much of the ***Bible into classical Greek forms***, such as *Homeric epics* and *Platonic dialogues*, to ensure Christian students could still study the classics.To bypass Emperor Julian's ban on Christians teaching the classics, Apollinarius and his father rewrote much of the Bible into classical Greek forms, including the ***Old Testament as Homeric poetry*** and the ***New Testament as Platonic dialogues***.
 3. **Excommunication**: He faced *several excommunications* throughout his life, both by Arian opponents and eventually by the orthodox Church as his specific christological views became public. 
 
 ### Legacy
@@ -319,6 +378,32 @@ For a long time, only fragments of his commentaries were known. This changed sig
 
 He is also credited with an influential treatise *On the Holy Spirit*, which *survives* in a Latin translation by *Jerome*. 
 
+While many of his works were lost after being condemned at the Second Council of Constantinople in 553 AD—largely due to his defense of *Origen*—major discoveries in 1941 at Tura, Egypt, recovered several previously missing texts. 
+
+### Surviving Theological Treatises
+
+1. ***On the Holy Spirit***(De Spiritu Sancto): Preserved in a Latin translation by St. Jerome. It is a critical defense of the divinity of the Holy Spirit against Macedonian teachings.
+2. ***On the Trinity*** (De Trinitate): A large work in three books that remains mostly complete, defending Nicene orthodoxy.
+3. ***Against the Manichaeans***: A treatise refuting Manichaean dualism.
+4. ***Against Arius and Sabellius***: Traditionally attributed to Gregory of Nyssa, recent scholarship suggests Didymus may be the author. 
+
+### Major Biblical Commentaries
+
+Didymus is said to have written commentaries on almost every book of the Bible. The most significant surviving examples (many found at Tura) include: 
+
+1. ***Commentary on Genesis***: Shows his use of both literal and allegorical interpretation.
+2. ***Commentary on Zechariah***: One of the most complete of his surviving Old Testament commentaries.
+3. ***Commentary on the Psalms***: Found in the Tura papyri; some sections are lecture notes taken verbatim by his students.
+4. ***Commentary on Job***: Provides deep theological reflections on suffering.
+5. ***Commentary on Ecclesiastes***: Recovered as part of the Tura discovery.
+6. ***Commentary on the Catholic Epistles***: Known primarily through a Latin translation. 
+
+### Lost or Fragmentary Works
+
+1. ***Commentaries on the Gospels***: Known through fragments in various catenae (collections of patristic quotes).
+2. ***Commentary on Origen’s De Principiis***: Mentioned by his pupil Rufinus but now lost.
+3. ***Commentary on 1 Timothy and 1 Peter***: Notable for discussing *universal salvation* or apocatastasis. 
+
 ---
 
 ## 25. Ge[r]nadius: Saint Gennadius I of Constantinople (c. 400-471 AD)
@@ -345,6 +430,21 @@ Major Reforms:
 
 1. **Feast Days**: November 17 (Eastern Orthodox) and August 25 (Roman Martyrology/some Greek calendars).
 2. **Writings**: Though ***most are lost***, fragments of his *commentaries on Genesis, Exodus, Daniel*, and the *Pauline Epistles (specifically Romans)* survive. 
+
+### Principal Surviving Fragments
+
+Most of his extant work consists of brief explanatory remarks on specific biblical texts: 
+
+1. **New Testament Commentaries**: Fragments exist for the Letter to the Romans (considered his most significant surviving exegetical work), as well as 1 and 2 Corinthians, Galatians, and Hebrews.
+2. **Old Testament Commentaries**: Scholarly fragments have been preserved for *Genesis, Exodus*, and the *Psalms*.
+3. **Encyclical Against Simony** (459 AD): This is his most famous official document, issued after a local council to condemn the practice of buying or selling church offices. 
+
+### Lost or Disputed Works
+
+1. **Commentary on Daniel**: Historical accounts by contemporaries like Gennadius of Marseilles suggest he wrote a comprehensive commentary on the entire Book of Daniel, though it has not survived.
+2. **Polemical Writings**: In his early life, he wrote against the Twelve Anathemas of Cyril of Alexandria during the Nestorian controversy, though he later reconciled with Cyril.
+3. **Homilies**: While he was known to have produced a *great number* of homilies, they are largely lost.
+4. **Commendation of Pope Leo's Tome**: He wrote a support of Pope Leo I’s letter to Patriarch Flavian, which became a standard for the Council of Chalcedon. 
 
 
 ### c.f. also Gennadius of Marseilles (c. 410 - 496 AD)
@@ -400,6 +500,40 @@ John Chrysostom (c. 347–407) was an influential Early Church Father, Archbisho
 1. **Honors**: He is recognized as a *Doctor of the Church* in the Catholic Church and one of the *Three Holy Hierarchs* in Eastern Orthodoxy. He is the patron saint of preachers, orators, and lecturers.
 2. **Feast Days**: September 13 in Western Christianity; November 13 and January 27 (translation of relics) in Eastern Christianity.
 3. **Polemical Writings**: His series of homilies titled *Adversus Judaeos* (Against the Jews) has been criticized for its harsh language. Modern scholars often debate whether these should be viewed through the lens of ancient rhetorical conventions (psogos) or as a foundation for later anti-Semitism. 
+
+1. Major Homilies and Commentaries
+Chrysostom is most famous for his expository sermons, which favored a literal, historical interpretation of the Bible over allegorical methods. 
+
+New Testament Commentaries: He wrote extensive homilies on nearly the entire New Testament, including:
+The Gospel of Matthew (90 homilies).
+The Gospel of John (88 homilies).
+The Acts of the Apostles (55 homilies).
+All Epistles of Saint Paul: His commentaries on Romans and 1 & 2 Corinthians are particularly noted for their depth.
+Old Testament Commentaries:
+On Genesis: A series of 67 homilies.
+On the Psalms: Covering 59 specific psalms.
+Themed Homily Groups:
+On the Statues: 21 famous sermons delivered in 387 AD to calm the citizens of Antioch after they rioted against Emperor Theodosius I.
+Against the Jews (Adversus Judaeos): Eight homilies intended to prevent Christians from adopting Jewish customs.
+On the Incomprehensible Nature of God: 12 homilies directed against Arianism (specifically the Anomoeans).
+Paschal Homily: Traditionally read at every Orthodox Pascha (Easter) service. 
+
+2. Treatises (Opuscula)
+Most of his topical treatises date from his early career in Antioch. 
+
+www.newadvent.org
+On the Priesthood (De Sacerdotio): His most influential work, detailing the immense spiritual responsibilities and moral standards of the clergy.
+Against Those Who Oppose the Monastic Life: A defense of monasticism written while he was a deacon.
+On Vainglory and the Education of Children: Practical advice for parents on raising children in a virtuous Christian manner.
+On Virginity: An early work exploring the ascetic life.
+Instructions to Catechumens: Baptismal instructions that provide insight into early church rites. 
+
+3. Letters
+Letters to Olympias: 17 extant letters written during his final exile to the deaconess Olympias, offering spiritual encouragement and personal reflection.
+General Correspondence: Over 240 letters survive from his period of exile (404–407 AD) to various friends and supporters. 
+
+4. Liturgical Legacy
+Divine Liturgy of Saint John Chrysostom: While scholars debate his direct authorship, he is credited with revising and harmonizing the prayers and rubrics of this service, which remains the primary Eucharistic liturgy used in the Eastern Orthodox and Eastern Catholic Churches today. 
 
 ---
 

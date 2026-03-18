@@ -266,7 +266,7 @@ In his scholarship, Pico relied heavily on diverse cultural texts:
 
 Israeli was a renowned *medical authority* whose works were *used* as standard textbooks in *European* universities *until the 17th c*. 
 
-1. **Major Works**: His ***Book of Fevers"*** (*Kitab al-Hummayat*) was considered one of the most valuable medical texts of its era.
+1. **Major Works**: His ***Book of Fevers*** (*Kitab al-Hummayat*) was considered one of the most valuable medical texts of its era.
 2. **Other Works**: He wrote influential treatises on *urine (De urinis)* and *dietetics (De diaetis)*.
 3. **Translation**: Many of his works were translated into Latin by ***Constantine of Carthage*** in the **11th c.** 
 
@@ -282,7 +282,7 @@ His astronomical contributions are characterized by a blend of *Aristotelian phy
 
 2. **Neoplatonic Emanation**
 
-- ***Source of the Universe***: He was the first to ***synthesize** the *Jewish doctrine* of **creation ex nihilo** with the *Neoplatonic idea of emanation*.
+- ***Source of the Universe***: He was the first to ***synthesize*** the *Jewish doctrine* of **creation ex nihilo** with the *Neoplatonic idea of emanation*.
 - ***Ontological Hierarchy***: In his view, God created a *first matter* through *divine will*, from which the higher and lower worlds—including the stars and planets—emanated in a *structured hierarchy*. 
 
 3. **Terminology and Influence**
@@ -292,7 +292,7 @@ His astronomical contributions are characterized by a blend of *Aristotelian phy
 
 4. **Distinction from Isaac Israeli the Younger**
 
-It is important not to confuse him with ***Isaac Israeli ben Joseph** (d. 1322), also known as ***the Younger***, who was a dedicated Spanish astronomer and author of the influential *astronomical work* ***Yesod Olam*** (*The Foundation of the World*). 
+It is important not to confuse him with ***Isaac Israeli ben Joseph*** (d. 1322), also known as ***the Younger***, who was a dedicated Spanish astronomer and author of the influential *astronomical work* ***Yesod Olam*** (*The Foundation of the World*). 
 
 ### Philosophical Impact
 
@@ -302,6 +302,25 @@ As a philosopher, he focused on *Neoplatonic* themes, particularly the concept o
 2. **Definitions**: His ***Book of Definitions*** (Kitab al-Hudud) explored concepts like *soul, intellect,* and *nature*.
 3. **Critique**: While highly respected by Christian scholars, he was famously dismissed by *Maimonides* as being *merely a physician* and not a *true philosopher*. 
 
+Isaac Israeli ben Solomon (c. 832–932), also known as Isaac Judaeus, was a seminal Egyptian-born Jewish physician and philosopher whose works bridged Greek Neoplatonism with medieval Jewish and Islamic thought. His treatises were so highly regarded that they were translated into Latin in 1087 by Constantine the African and became core textbooks at European universities like Salerno for centuries. 
+
+### Medical Treatises
+
+Israeli is often considered the first physician to write about tracheotomy in Arabic. His primary medical works include: 
+
+1. ***The Book on Fevers*** (Kitab al-Hummayat): A comprehensive five-part study on various types of fevers based on *Hippocratic* and *Galenic* traditions.
+2. ***The Book on Urine*** (Kitab al-Baul): A standard reference for centuries that detailed what the scent, color, and viscosity of urine revealed about a patient's health.
+3. ***The Book of Foodstuffs and Drugs*** (Kitab al-Adwiyah): An extensive work on dietetics and pharmacology.
+4. ***Guide for Physicians*** (Musar ha-Rofe'im): A collection of 50 ethical and professional maxims for practicing doctors. 
+
+### Philosophical Works
+
+As a *father of medieval Jewish Neoplatonism*, his philosophy focused on the emanation of the soul and its return to the divine. 
+
+1. ***The Book of Definitions*** (Kitab al-Hudud): His most famous philosophical text, providing 56-57 definitions of concepts like *wisdom, intellect, love, and time*.
+2. ***The Book of Substances*** (Kitab al-Jawahir): A work exploring metaphysics and the nature of universal substances.
+3. ***Book on Spirit and Soul*** (Sefer ha-Ruah ve-ha-Nefesh): A treatise combining *Neoplatonist psychology* with Jewish scripture to discuss the nature of the *soul* and its rewards.
+4. ***Book of the Elements*** (Kitab al-Istuqussat): A study of the four Aristotelian elements (earth, air, fire, water) and their role in the material world. 
 
 ---
 
