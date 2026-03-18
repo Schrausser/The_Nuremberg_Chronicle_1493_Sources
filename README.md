@@ -62,7 +62,7 @@ ment	ref
 1r		192v	Isaac Israeli ben Solomon			51
 1r		214r	Saint Albert the Great				52
 ~~~
-¹) mentioned from Pico (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217)), uncertain.  
+¹) mentioned from *Heptaplus* (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217)), uncertain.  
 ²) (strikingly) anachronistic.  
 ³) double mention.   
 ⁴) Dionysius the Areopagite.  
