@@ -62,7 +62,7 @@ ment	ref
 1r		192v	Isaac Israeli ben Solomon			51
 1r		214r	Saint Albert the Great				52
 ~~~
-¹) Mentioned from *Heptaplus* (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217)).  
+¹) Mentioned from the *Heptaplus* (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217)).  
 ²) Anachronistic.  
 ³) Double mention.   
 ⁴) Dionysius the Areopagite.  
@@ -79,7 +79,7 @@ Diels, H. (1906). *Die Fragmente der Vorsokratiker: Griechisch und Deutsch*. 2
 
 Janko, R. (2002). The Derveni Papyrus: An Interim Text. *Zeitschrift Für Papyrologie Und Epigraphik, 141*, 1–62. [http://www.jstor.org/stable/20191519](http://www.jstor.org/stable/20191519).
 
-Mirandola, G., & Mirandola, G. F. (1601). *Ioannis Pici, Mirandulae Concordiaeque comitis, theologorum & philosophorum, sine controversia, principis viri, sive linguarum, sive rerum, & humanarum, & divinarum cognitionem spectes, doctrina & ingenio admirando: Item, tomo secundo Ioannis Francisci Pici Principis, ex eadem illustri prosapia oriundi ... opera quae extant omnia: non tam literatis viris utilia, quam necessaria, in unum corpus redacta: quorum Elenchi post vitam authoris habentur : accesserunt etiam rerum & verborum memorabilium, atque scriptorum, quorum sententiae & opiniones quacunque de re allegantur & citantur, duo indices locupletissimi*. Editio ultima, superioribus multo correctior & locupletior. Basileae: per Sebastianum Henricpetri. [https://doi.org/10.3931/e-rara-61217](https://doi.org/10.3931/e-rara-61217)
+Mirandola, G., & Mirandola, G. F. (1601). *Ioannis Pici, Mirandulae  ... opera quae extant omnia ...* Basileae: per Sebastianum Henricpetri. [https://doi.org/10.3931/e-rara-61217](https://doi.org/10.3931/e-rara-61217)
 
 Plato. (1588). *Divini Platonis Opera Omnia*. Edited by Ficino, M., & Conrado, S. Lugduni: apud Joannem Lertout. [https://doi.org/10.3931/e-rara-24349](https://doi.org/10.3931/e-rara-24349)
 
