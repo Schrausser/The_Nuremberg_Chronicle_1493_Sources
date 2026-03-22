@@ -43,6 +43,25 @@ To clarify the confusion between the author and his pseudonym:
 1. ***Dionysius of the 1st c.***: The real biblical figure mentioned in Acts, believed to have died between 117 and 138 AD.
 2. ***Pseudo-Dionysius***: The unknown author of the Corpus Areopagiticum, generally dated by modern scholars to roughly 485–518 AD.
 
+While often confused in medieval history, these are three distinct figures—a 1st c. AD biblical convert, a 3rd c. AD French martyr, and a c. 500 AD mystical theologian. 
+
+**Table**. Quick Comparison.
+~~~
+Feature 	Dionysius the Areopagite	Denis of France (St. Denis)	Pseudo-Dionysius
+Era	1st Century	3rd Century (d. c. 250–258)	c. 500 (Early 6th Century)
+Location	Athens, Greece	Paris, France	Likely Syria
+Identity	Member of the Athenian judicial council (Areopagus).	First Bishop of Paris and missionary to Gaul.	Anonymous Neoplatonist author.
+Claim to Fame	Converted by St. Paul (Acts 17:34).	Martyred by beheading; legendary "cephalophore" who carried his own head.	Author of the Corpus Dionysiacum, influential mystical texts.
+Key Distinctions
+Dionysius the Areopagite: The original figure mentioned in the New Testament who became the first Bishop of Athens. His name was later used as a pseudonym by the 6th-century author.
+Denis of France: A missionary sent from Rome to Gaul (modern France). He was beheaded on Montmartre and is the patron saint of France.
+Pseudo-Dionysius: An unknown writer (likely a Syrian monk) who wrote under the name of the 1st-century Athenian to gain apostolic authority. His works, such as The Divine Names and The Celestial Hierarchy, deeply influenced medieval theology and figures like Thomas Aquinas. 
+~~~
+
+### The History of Confusion
+
+The conflation of these three began in the 9th c. AD. ***Hilduin***, the Abbot of Saint-Denis, wrote a biography (*Areopagitica*) that claimed Denis of Paris was the same person as the 1st c. AD Areopagite. This *holy error* aimed to give the French monarchy and the Abbey of Saint-Denis direct apostolic lineage. It wasn't until Renaissance humanists like Lorenzo Valla and Erasmus questioned the texts in the 15th c. that the identities began to be separated by scholars
+
 ---
 
 ## 2. Gregorius: Saint Gregory the Great (c. 540–604 AD)
