@@ -2,6 +2,13 @@
 
 # The Nuremberg Chronicle 1493: Sources
 
+>"**A**Lbertus der gross genant auß schwaben land [...] der lere also gross gewest das nymant vber ine noch ime zegleichen was. [...] hat vil iar zu Coeln vnd zu Parys die heilligen schrift vnd die philozophey geleret [...]", (Schedel & Alt, [1496](https://doi.org/10.3931/e-rara-69075), fol. CCXIIIIr).
+
+>"Albertus Magnus, a native of [...] Swabia [...] no one excelled him or could be compared to him [...] spending many years in Cologne and Paris, teaching the Holy Scriptures and philosophy. [...]", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 591).
+
+>Albertus Magnus, ein Schwabe, dem niemand ebenbürtig war oder mit dem man sich vergleichen konnte, verbrachte viele Jahre in Köln und Paris, wo er die Heilige Schrift und Philosophie lehrte.
+
+
 Literature sources for the *Nuremberg Chronicle*, fol. Ir to  VIIr , in *Latin* (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)) and *Early New High German*, ENHG (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.).
 
 **Table 1.** Pages containing first mentions *ment* of persons *name* (fol. Ir to VIr), sorted according to the corresponding reference pages *ref* of the following text.
@@ -67,21 +74,44 @@ ment	ref
 ³) Double mention.   
 ⁴) Dionysius the Areopagite.  
 
+The main sources for the *preface* up to the *fall of man* (fol. Ir to  VIIr) are the *Heptaplus* and *Oratio de hominis dignitate* (Mirandola & Mirandola, [1601]()), *Genesis*, the first book of moses (Jiménez de Cisneros, [1517]()), the *Supplementum Chronicarum* (Foresti, [1492]()), the *Metamorphoses* (Ovidius, [1515]()),  *De Legibus* (Cicero & Cicero, [1496]()),  the *Historia Naturalis* (Plinius Secundus, [1250]()),  *De Caelesti Hierarchia* (Dionysius, [1350]()) and  the *Chronica Majora* (Isidorus, []()).
+
+See further *Genealogiae deorum gentilium* (Boccaccio, [1360]()), Plato's *Timaeus* (Plato, [1588](https://doi.org/10.3931/e-rara-24349)), Aristotle's *Metaphsics* (Aristoteles & Theophrastus, [1608]()), ..., the *Odes* of  Horacius (Horace, [1868]()), the *Enneads* of Plotinus ([]()),  *Homiliae in Evangelia* of Gregory the Great ([]()) and *The Gospel of Matthew* (Jiménez de Cisneros, [1517]()).
+
 On *original* sources see Diels ([1906](https://archive.org/details/diefragmentederv01diel)), Janko ([2002](http://www.jstor.org/stable/20191519)) and Benaissa et al. ([2025](https://oxyrhynchus.web.ox.ac.uk/publications)).
 
-See further Plato ([1588](https://doi.org/10.3931/e-rara-24349)). 
 
 ## References
 
+Aristoteles, & Theophrastus. (1608). *Aristotelis Stagiritae Metaphysicorum libri XIIII. Theophrasti Metaphysicorum liber: quorum omnium recognitionem et additamentum versa pagina ostendit*. Genevae: apud Jacobum Stoer. [https://doi.org/10.3931/e-rara-56887](https://doi.org/10.3931/e-rara-56887)
+
 Benaissa, A., Henry, W. B., & et al., ed. (2025). *The Oxyrhynchus Papyri*. Vol. LXXXVIII. Graeco-Roman Memoirs. London: Egypt Exploration Society. [https://oxyrhynchus.web.ox.ac.uk/publications](https://oxyrhynchus.web.ox.ac.uk/publications)
+
+Boccaccio, G. (1360). *Genealogiae deorum gentilium libri XV*. Pal. lat. 938. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Pal.lat.938](https://digi.vatlib.it/view/MSS_Pal.lat.938)
+
+Cicero, M. T., & Cicero, Q. (1496). *M.T. Ciceronis de Natura Deorum Libri Tres* ... Impræssum Venetiis: per Symonem Papiensem dictum Biuilaqua. [https://doi.org/10.3931/e-rara-89116](https://doi.org/10.3931/e-rara-89116)
 
 Diels, H. (1906). *Die Fragmente der Vorsokratiker: Griechisch und Deutsch*. 2nd ed. Vol. 1. Berlin: Weidmannsche Buchhandlung. [https://archive.org/details/diefragmentederv01diel](https://archive.org/details/diefragmentederv01diel)
 
-Janko, R. (2002). The Derveni Papyrus: An Interim Text. *Zeitschrift Für Papyrologie Und Epigraphik, 141*, 1–62. [http://www.jstor.org/stable/20191519](http://www.jstor.org/stable/20191519).
+Dionysius. (1350). *De Caelesti Hierarchia*. MS Gr 2. Oxford, Magdalen College: Oxford Digital Library. [https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)
+
+Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. [https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover)
+
+Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. [https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)
+
+Horace. (1868). *Q. Horatii Flacci Opera Omnia*. Oxoni et Londini: J. Parker et Soc. [https://google.cat/books?id=A28VAAAAYAAJ](https://google.cat/books?id=A28VAAAAYAAJ)
+
+Janko, R. (2002). The Derveni Papyrus: An Interim Text. *Zeitschrift Für Papyrologie Und Epigraphik, 141*, 1–62. [http://www.jstor.org/stable/20191519](http://www.jstor.org/stable/20191519)
+
+Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. [https://doi.org/10.3931/e-rara-46695](https://doi.org/10.3931/e-rara-46695)
 
 Mirandola, G., & Mirandola, G. F. (1601). *Ioannis Pici, Mirandulae  ... opera quae extant omnia ...* Basileae: per Sebastianum Henricpetri. [https://doi.org/10.3931/e-rara-61217](https://doi.org/10.3931/e-rara-61217)
 
-Plato. (1588). *Divini Platonis Opera Omnia*. Edited by Ficino, M., & Conrado, S. Lugduni: apud Joannem Lertout. [https://doi.org/10.3931/e-rara-24349](https://doi.org/10.3931/e-rara-24349)
+Ovidius, N. P. (1515). *P. Ovidii Metamorphoseon Libri XV: ; in Fronte Denique Operis Vita Ovidii Ex Ipsius Operibus [Ab Aldo m.] : Index Fabularum, Et Caeterorum, Quae in Hoc Libro Continentur, Secundum Ordinem Alphabeti*. Argentorati: ex aedibus Matthiae Schurerii. [https://doi.org/10.3931/e-rara-35248](https://doi.org/10.3931/e-rara-35248)
+
+Plato. (1588). In Timæum. In *Divini Platonis Opera Omnia*, edited by Ficino, M., Conrado, S. Lugduni: apud Joannem Lertout. [https://doi.org/10.3931/e-rara-24349](https://doi.org/10.3931/e-rara-24349)
+
+Plinius Secundus, G. (1250). *Plinius Secundus Major, Historia Naturalis. Liber Trigesimus Septimus Manu Recentiore Suppletus Est*. Latin 6797. Paris: Bibliothèque nationale de France. [https://gallica.bnf.fr/ark:/12148/btv1b550140045/](https://gallica.bnf.fr/ark:/12148/btv1b550140045/)
 
 Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
 
