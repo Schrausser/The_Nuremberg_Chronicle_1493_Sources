@@ -74,7 +74,7 @@ ment	ref
 ³) Double mention.   
 ⁴) Dionysius the Areopagite.  
 
-The main sources for the *preface* up to the *fall of man* (fol. Ir to  VIIr) are the *Heptaplus* and *Oratio de hominis dignitate* (Mirandola & Mirandola, [1601]()), *Genesis*, the first book of moses (Jiménez de Cisneros, [1517]()), the *Supplementum Chronicarum* (Foresti, [1492]()), the *Metamorphoses* (Ovidius, [1515]()),  *De Legibus* (Cicero & Cicero, [1496]()),  the *Historia Naturalis* (Plinius Secundus, [1250]()),  *De Caelesti Hierarchia* (Dionysius, [1350]()) and  the *Chronica Majora* (Isidorus, []()).
+The main sources for the *preface* up to the *fall of man* (fol. Ir to  VIIr) are the *Heptaplus* and *Oratio de hominis dignitate* (Mirandola & Mirandola, [1601]()), *Genesis*, the first book of Moses (Jiménez de Cisneros, [1517]()), the *Supplementum Chronicarum* (Foresti, [1492]()), the *Metamorphoses* (Ovidius, [1515]()),  *De Legibus* (Cicero & Cicero, [1496]()),  the *Historia Naturalis* (Plinius Secundus, [1250]()),  *De Caelesti Hierarchia* (Dionysius, [1350]()) and  the *Chronica Majora* (Isidorus, []()).
 
 See further *Genealogiae deorum gentilium* (Boccaccio, [1360]()), Plato's *Timaeus* (Plato, [1588](https://doi.org/10.3931/e-rara-24349)), Aristotle's *Metaphsics* (Aristoteles & Theophrastus, [1608]()), ..., the *Odes* of  Horacius (Horace, [1868]()), the *Enneads* of Plotinus ([]()),  *Homiliae in Evangelia* of Gregory the Great ([]()) and *The Gospel of Matthew* (Jiménez de Cisneros, [1517]()).
 
