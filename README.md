@@ -74,9 +74,9 @@ ment	ref
 ³) Double mention.   
 ⁴) Dionysius the Areopagite.  
 
-The main sources for the *preface* up to the *fall of man* (fol. Ir to  VIIr) are the *Heptaplus* and *Oratio de hominis dignitate* (Mirandola & Mirandola, [1601]()), *Genesis*, the first book of Moses (Jiménez de Cisneros, [1517]()), the *Supplementum Chronicarum* (Foresti, [1492]()), the *Metamorphoses* (Ovidius, [1515]()),  *De Legibus* (Cicero & Cicero, [1496]()),  the *Historia Naturalis* (Plinius Secundus, [1250]()),  *De Caelesti Hierarchia* (Dionysius, [1350]()) and  the *Chronica Majora* (Isidorus, []()).
+The main sources for the *preface* up to the *fall of man* (fol. Ir to  VIIr) are the *Heptaplus* and *Oratio de hominis dignitate* (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217)), *Genesis*, the first book of Moses (Jiménez de Cisneros, [1517](https://doi.org/10.3931/e-rara-46695)), the *Supplementum Chronicarum* (Foresti, [1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover)), the *Metamorphoses* of Ovid ([1515](https://doi.org/10.3931/e-rara-35248)),  *De Legibus* (Cicero & Cicero, [1496](https://doi.org/10.3931/e-rara-89116)),  the *Historia Naturalis* (Plinius Secundus, [1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/)),  *De Caelesti Hierarchia* (Dionysius, [1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)) and  the *Chronica Majora* (De Seville, [1802](https://books.google.com/books?id=wb8Z_vlSyJwC)).
 
-See further *Genealogiae deorum gentilium* (Boccaccio, [1360]()), Plato's *Timaeus* (Plato, [1588](https://doi.org/10.3931/e-rara-24349)), Aristotle's *Metaphsics* (Aristoteles & Theophrastus, [1608]()), ..., the *Odes* of  Horacius (Horace, [1868]()), the *Enneads* of Plotinus ([]()),  *Homiliae in Evangelia* of Gregory the Great ([]()) and *The Gospel of Matthew* (Jiménez de Cisneros, [1517]()).
+See further *Genealogiae deorum gentilium* (Boccaccio, [1360](https://digi.vatlib.it/view/MSS_Pal.lat.938)), Plato's *Timaeus* (Plato, [1588](https://doi.org/10.3931/e-rara-24349)), Aristotle's *Metaphsics* (Aristoteles & Theophrastus, [1608](https://doi.org/10.3931/e-rara-56887)), the *Odes* of  Horace ([1868](https://google.cat/books?id=A28VAAAAYAAJ)), the *Enneads* of Plotinus ([1580](https://doi.org/10.3931/e-rara-120889)),  *Homiliae in Evangelia* of Gregory the Great (Étaix, [1999](https://books.google.com/books?id=r4ERnwEACAAJ)) and *The Gospel of Matthew* (Jiménez de Cisneros, [1517](https://doi.org/10.3931/e-rara-46695)).
 
 On *original* sources see Diels ([1906](https://archive.org/details/diefragmentederv01diel)), Janko ([2002](http://www.jstor.org/stable/20191519)) and Benaissa et al. ([2025](https://oxyrhynchus.web.ox.ac.uk/publications)).
 
@@ -91,9 +91,13 @@ Boccaccio, G. (1360). *Genealogiae deorum gentilium libri XV*. Pal. lat. 938. Va
 
 Cicero, M. T., & Cicero, Q. (1496). *M.T. Ciceronis de Natura Deorum Libri Tres* ... Impræssum Venetiis: per Symonem Papiensem dictum Biuilaqua. [https://doi.org/10.3931/e-rara-89116](https://doi.org/10.3931/e-rara-89116)
 
+De Seville, I. (1802). *S. Isidori Hispalensis Episcopi Hispaniarum Doctoris Opera Omnia*. Edited by Arevalo, F. Romae: Apvd Antonivm Fvlgonivm. [https://books.google.com/books?id=wb8Z_vlSyJwC](https://books.google.com/books?id=wb8Z_vlSyJwC)
+
 Diels, H. (1906). *Die Fragmente der Vorsokratiker: Griechisch und Deutsch*. 2nd ed. Vol. 1. Berlin: Weidmannsche Buchhandlung. [https://archive.org/details/diefragmentederv01diel](https://archive.org/details/diefragmentederv01diel)
 
 Dionysius. (1350). *De Caelesti Hierarchia*. MS Gr 2. Oxford, Magdalen College: Oxford Digital Library. [https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)
+
+Étaix, R. (1999). *Gregorius Magnus, Homiliae in Evangelia*. Corpus Christianorum Series Latina. Vol. 141. Turnhout: Brepols. [https://books.google.com/books?id=r4ERnwEACAAJ](https://books.google.com/books?id=r4ERnwEACAAJ)
 
 Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. [https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover)
 
@@ -112,6 +116,8 @@ Ovidius, N. P. (1515). *P. Ovidii Metamorphoseon Libri XV: ; in Fronte Denique O
 Plato. (1588). In Timæum. In *Divini Platonis Opera Omnia*, edited by Ficino, M., Conrado, S. Lugduni: apud Joannem Lertout. [https://doi.org/10.3931/e-rara-24349](https://doi.org/10.3931/e-rara-24349)
 
 Plinius Secundus, G. (1250). *Plinius Secundus Major, Historia Naturalis. Liber Trigesimus Septimus Manu Recentiore Suppletus Est*. Latin 6797. Paris: Bibliothèque nationale de France. [https://gallica.bnf.fr/ark:/12148/btv1b550140045/](https://gallica.bnf.fr/ark:/12148/btv1b550140045/)
+
+Plotinus. (1580). *Plotini Platonicorum facile coryphaei Operum philosophicorum omnium libri LIV in sex Enneades distributi*. Edited by Ficinus, M. Basileae: Ad Perneam Lecythum. [https://doi.org/10.3931/e-rara-120889](https://doi.org/10.3931/e-rara-120889)
 
 Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
 
