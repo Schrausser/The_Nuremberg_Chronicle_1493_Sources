@@ -47,16 +47,19 @@ While often confused in medieval history, these are three distinct figures—a 1
 
 **Table**. Quick Comparison.
 ~~~
-Feature 	Dionysius the Areopagite	Denis of France (St. Denis)	Pseudo-Dionysius
-Era	1st Century	3rd Century (d. c. 250–258)	c. 500 (Early 6th Century)
-Location	Athens, Greece	Paris, France	Likely Syria
-Identity	Member of the Athenian judicial council (Areopagus).	First Bishop of Paris and missionary to Gaul.	Anonymous Neoplatonist author.
-Claim to Fame	Converted by St. Paul (Acts 17:34).	Martyred by beheading; legendary "cephalophore" who carried his own head.	Author of the Corpus Dionysiacum, influential mystical texts.
-Key Distinctions
-Dionysius the Areopagite: The original figure mentioned in the New Testament who became the first Bishop of Athens. His name was later used as a pseudonym by the 6th-century author.
-Denis of France: A missionary sent from Rome to Gaul (modern France). He was beheaded on Montmartre and is the patron saint of France.
-Pseudo-Dionysius: An unknown writer (likely a Syrian monk) who wrote under the name of the 1st-century Athenian to gain apostolic authority. His works, such as The Divine Names and The Celestial Hierarchy, deeply influenced medieval theology and figures like Thomas Aquinas. 
+Feature 		Dionysius the Areopagite								Denis of France (St. Denis)													Pseudo-Dionysius
+
+Era				1st Century												3rd Century (d. c. 250–258)													c. 500 (Early 6th Century)
+Location		Athens, Greece											Paris, France																Likely Syria
+Identity		Member of the Athenian judicial council (Areopagus).	First Bishop of Paris and missionary to Gaul.								Anonymous Neoplatonist author.
+Claim to Fame	Converted by St. Paul (Acts 17:34).						Martyred by beheading; legendary "cephalophore" who carried his own head.	Author of the Corpus Dionysiacum, influential mystical texts.
 ~~~
+
+### Distinctions
+
+1. ***Dionysius the Areopagite***: The original figure mentioned in the New Testament who became the first Bishop of Athens. His name was later used as a pseudonym by the 6th c. AD author.
+2. ***Denis of France***: A missionary sent from Rome to Gaul (modern France). He was beheaded on Montmartre and is the patron saint of France.
+3. ***Pseudo-Dionysius***: An unknown writer (likely a Syrian monk) who wrote under the name of the 1st c. AD Athenian to gain apostolic authority. His works, such as The Divine Names and The Celestial Hierarchy, deeply influenced medieval theology and figures like *Thomas Aquinas*. 
 
 ### The History of Confusion
 
