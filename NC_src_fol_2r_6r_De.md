@@ -31,7 +31,7 @@
 
 ## Horaz
 
->Horaz (Horacius), ein hochgelobter Dichter, wurde in Venusia als Sohn eines Freigelassenen geboren. Er war kleinwüchsig und in den freien Künsten bewandert. Später wurde er der angesehenste Mann Athens. Er freundete sich mit Marcus Brutus an, der Cäsar ermordete und ihn zum Militärtribun gegen Antonius und Augustus ernannte. Nach Brutus' Niederlage floh Horaz jedoch vor dem Unglück. Augustus begnadigte ihn später auf Betreiben des Maecenas. Nach seiner Freilassung widmete er sich der Dichtung und verfasste die Oden, die Ars Poetica (Die Kunst der Dichtung) und die Episteln. [Die deutsche Ausgabe der Ars Poetica führt keine spezifischen Werke von Horaz auf, sondern stellt lediglich fest: „Er verfasste zahlreiche Gedichte.“] Nachdem er durch seine herausragenden Kenntnisse großen Reichtum erlangt hatte, starb er in Rom und machte Augustus zu seinem Erben. Er starb im Alter von 63 Jahren und wurde neben Maecenas beigesetzt.
+>Horaz (Horacius), ein hochgelobter Dichter, wurde in Venusia als Sohn eines Freigelassenen geboren. Er war kleinwüchsig und in den freien Künsten bewandert. Später wurde er der angesehenste Mann Athens. Er freundete sich mit Marcus Brutus an, der Cäsar ermordete und ihn zum Militärtribun gegen Antonius und Augustus ernannte. Nach Brutus' Niederlage floh Horaz jedoch vor dem Unglück. Augustus begnadigte ihn später auf Betreiben des Maecenas. Nach seiner Freilassung widmete er sich der Dichtung und verfasste die Oden, die Ars Poetica (Die Kunst der Dichtung) und die Episteln. Nachdem er durch seine herausragenden Kenntnisse großen Reichtum erlangt hatte, starb er in Rom und machte Augustus zu seinem Erben. Er starb im Alter von 63 Jahren und wurde neben Maecenas beigesetzt.
 
 # Fol./Blat 4v
 
