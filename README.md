@@ -32,7 +32,7 @@ ment	ref
 1r		14v		Yoniton or Ionitus¹					14
 1r		24v		Lisania, Jupiter I¹					15
 1r		29v		Moses								16
-1r		46v		King Solomon						17
+1r		46v		King Solomon the Wise				17
 1r		61v		Pythagoras of Samos²				18
 3r		61v		Ezekiel								19
 1r		71r		Anaxagoras							20
