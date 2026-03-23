@@ -9,7 +9,7 @@
 >Albertus Magnus, ein Schwabe, dem niemand ebenbürtig war oder mit dem man sich vergleichen konnte, verbrachte viele Jahre in Köln und Paris, wo er die Heilige Schrift und Philosophie lehrte.
 
 
-Literature sources and references (s. Tab. 1) for the *Nuremberg Chronicle*, fol. Ir to VIIr, in *Latin* (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)) and *Early New High German*, ENHG (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.).
+Literature sources and references (s. Tab. 1) for the *Nuremberg Chronicle*, fol. Ir to VIIr (`NC_src_fol_1r_*`, `NC_src_fol_2r_6r_*`), in *Latin* (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)), *Early New High German*, ENHG (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.) and .
 
 **Table 1.** Pages containing first mentions *ment* of persons *name* (fol. Ir to VIr), sorted according to the corresponding reference pages *ref* of the following text.
 ~~~
@@ -128,6 +128,6 @@ Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit fi
 
 ———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. [https://doi.org/10.3931/e-rara-69075](https://doi.org/10.3931/e-rara-69075)
 
-[^1]: c.f. fol. CCLXXVv to CCLXXVIIr.
+[^1]: c.f. fol. CCLXXVv to CCLXXVIIr.(`NC_src_fol_275v_277r_*`).
 
 
