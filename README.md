@@ -115,7 +115,7 @@ Mirandola, G., & Mirandola, G. F. (1601). *Ioannis Pici, Mirandulae  ... opera q
 
 Ovidius, N. P. (1515). *P. Ovidii Metamorphoseon Libri XV: ; in Fronte Denique Operis Vita Ovidii Ex Ipsius Operibus [Ab Aldo m.] : Index Fabularum, Et Caeterorum, Quae in Hoc Libro Continentur, Secundum Ordinem Alphabeti*. Argentorati: ex aedibus Matthiae Schurerii. [https://doi.org/10.3931/e-rara-35248](https://doi.org/10.3931/e-rara-35248)
 
-Plato. (1588). In Timæum. In *Divini Platonis Opera Omnia*, edited by Ficino, M., Conrado, S. Lugduni: apud Joannem Lertout. [https://doi.org/10.3931/e-rara-24349](https://doi.org/10.3931/e-rara-24349)
+Plato. (1588). *Divini Platonis Opera Omnia*, edited by Ficino, M., Conrado, S. Lugduni: apud Joannem Lertout. [https://doi.org/10.3931/e-rara-24349](https://doi.org/10.3931/e-rara-24349)
 
 Plinius Secundus, G. (1250). *Plinius Secundus Major, Historia Naturalis. Liber Trigesimus Septimus Manu Recentiore Suppletus Est*. Latin 6797. Paris: Bibliothèque nationale de France. [https://gallica.bnf.fr/ark:/12148/btv1b550140045/](https://gallica.bnf.fr/ark:/12148/btv1b550140045/)
 
