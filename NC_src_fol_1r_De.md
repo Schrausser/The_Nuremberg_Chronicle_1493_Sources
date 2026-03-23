@@ -112,31 +112,3 @@ Als Noah und seine Söhne, seine Frau und die Frauen seiner Söhne die Arche ver
 ## Jupiter
 
 >Jupiter, der Erste am Himmel, auch Diei Filius genannt, und auch Lysania, genoss zu jener Zeit in Arkadien hohes Ansehen. Aufgrund seiner Tugend erhielt er den berühmten Namen Jupiter. Er führte seine Abstammung auf den Sohn Hebers, Jerari, zurück. Da er ein Mann von großer Weisheit war und beobachtete, dass die Atten unkultiviert lebten und sich fast wie Tiere verhielten, gab er ihnen Gesetze und legte ihnen eine Formel für ein rechtschaffenes Leben und gutes Benehmen fest. Nachdem es ihm gelungen war, sie zu guten Sitten zu bekehren, ermahnte er sie, Götter zu verehren und Altäre, Tempel und Priester einzusetzen. Er lehrte sie die Institution der rechtmäßigen Ehe, während sie zuvor alle Frauen gemeinsam hatten; und viele andere nützliche Dinge lernten sie von ihm.  Als die Waldbewohner dies beobachteten und sich darüber wunderten, hielten sie ihn für einen Gott und nannten ihn Jupiter, da er dem Planeten Jupiter ähnelte, der (wie die Astronomen sagten) von Natur aus warm und feucht, tugendhaft und geduldig und aufgrund seiner Geduld furchtlos in Gefahr ist. Aufgrund dieser Eigenschaften wurde er dem Planeten ebenbürtig erachtet und nach ihm benannt. Man sagt, er sei kein irdisches, sondern ein himmlisches Wesen. Die Alten schrieben ihm viele Kinder zu, darunter Minerva, Apis, Sol, Diana, Merkur und sieben weitere.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
