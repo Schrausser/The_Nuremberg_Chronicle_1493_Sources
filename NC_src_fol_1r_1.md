@@ -600,16 +600,14 @@ In the Gospel of Luke and Acts of the Apostles, Solomon is used to establish the
 
 ### Summary of Comparison
 
-**Table.**
-Feature 	Philo (Alexandrian View)	St. Luke (Gospel View)
+**Table 3**.
 ~~~
-Focus	Philosophical 
- (Wisdom)	Historical and Messianic fulfillment
-Solomon's Role	The archetypal wise ruler	A predecessor surpassed by Jesus
-Method	Allegorical interpretation	Salvation history (Heilsgeschichte)
-~~~
+Feature 		Philo (Alexandrian View)	St. Luke (Gospel View)
 
----
+Focus			Philosophical (Wisdom)		Historical and Messianic fulfillment
+Solomon's Role	The archetypal wise ruler	A predecessor surpassed by Jesus
+Method			Allegorical interpretation	Salvation history (Heilsgeschichte)
+~~~
 
 ## 9. Numenius: Numenius of Apamea (2nd c. AD)
 
