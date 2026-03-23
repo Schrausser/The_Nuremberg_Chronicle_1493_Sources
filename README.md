@@ -2,7 +2,7 @@
 
 # The Nuremberg Chronicle 1493: Sources
 
->"**A**Lbertus der gross genant auß schwaben land [...] der lere also gross gewest das nymant vber ine noch ime zegleichen was. [...] hat vil iar zu Coeln vnd zu Parys die heilligen schrift vnd die philozophey geleret [...]", (Schedel & Alt, [1496](https://doi.org/10.3931/e-rara-69075), fol. CCXIIIIr).
+>"**A**Lbertus der gross genant auß schwaben land [...] der lere also gross gewest das nymant vber ine noch ime zegleichen was. [...] hat vil iar zu Co[e]ln vn[d] zu Parys die heilligen schrift vnd die philozophey geleret [...]", (Schedel & Alt, [1496](https://doi.org/10.3931/e-rara-69075), fol. CCXIIIIr).
 
 >"Albertus Magnus, a native of [...] Swabia [...] no one excelled him or could be compared to him [...] spending many years in Cologne and Paris, teaching the Holy Scriptures and philosophy. [...]", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 591).
 
