@@ -112,17 +112,3 @@ In disem iar der sintflus hat sich dz erst alter von adam bis auff die sintflus 
 ## Iupiter, Blat XXIIIIv
 
 >**I**upiter der erst des himels. vnd (als sie sagen) des tags ein sun. sunst aigentlich **Lysania** genant. ward zu disen zeiten in archadia in grossem werde gehalten. vnd im vmb seiner syttlichen tugent willen diser hohberuembt namen *iupiter* gegeben. diser het seinen vrspung auß den suenen **heber**. nemlich **ierari**. vnd nach dem er ein man fast grosser synnreichigkeit was vnd wol mercket. das das attisch volck daselbst grob wern. vnd schier vihischer weyse lebten. do gab er ine gesetz vnd form zuegtigs lebens vnd menschlichs wesens. vnd als er sie zu menschlichen sytten gepracht hett. do vermanet er sie goetter zu eren. altar. tempel vnd briester zestiften. vnd leret sie eelich gemahelschafft fuerzenemen vnd zehalten. die doch dauor die weiber gemain hetten. vnd er zaiget ine auch sunst vil andere nuetzpare ding. Als nw das grob waldfolck solchs von im mercket vnd sich des also verwunderet do maynten sie ine einen got sein. vnd hießen ine iupiter. vnd machten in pald zu irm konig. vnd diser name *lupiter* ist ime von ine gegeben wordin von gleichfoermiger wuerkung wegen des planeten lupiters. der dann (als die sternseher sagen) von natur warm. feuecht messig. sytsam gedultig. vnd in ferlichkeiten nach der gedult kuenmueetig ist. also nach ermessung diss menschen sytten ward er als gleichfoermig dem planeten iupiter geschetzt vnd also nach ime zugenambt. vnd sie sagten das er nit ein irdischer sunder himlischer mensch wer. die alten haben ime vil kinder zugeschriben. als **mineruam**: **apium solem**: **dianam**: **mercurium**: vnd siben andere.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
