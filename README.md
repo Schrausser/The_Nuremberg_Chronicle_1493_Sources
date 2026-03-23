@@ -9,7 +9,7 @@
 >Albertus Magnus, ein Schwabe, dem niemand ebenbürtig war oder mit dem man sich vergleichen konnte, verbrachte viele Jahre in Köln und Paris, wo er die Heilige Schrift und Philosophie lehrte.
 
 
-Literature sources and references (s. Tab. 1) for the *Nuremberg Chronicle*, fol. Ir to VIIr (`NC_src_fol_1r_*`, `NC_src_fol_2r_6r_*`), in *Latin* (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)), *Early New High German*, ENHG (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.) and from the *English* translation by Hadavas ([2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)). See given [transcriptions](https://github.com/Schrausser/The_Nuremberg_Chronicle_1493_Transcriptions) and [tables](https://github.com/Schrausser/The_Nuremberg_Chronicle_1493_Tables).
+Literature sources and references (s. Tab. 1) for the *Nuremberg Chronicle*, fol. Ir to VIIr (`NC_src_fol_1r_*`, `NC_src_fol_2r_6r_*`) in *Early New High German*, ENHG (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.) and from the *English* translation by Hadavas ([2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)). See given [transcriptions](https://github.com/Schrausser/The_Nuremberg_Chronicle_1493_Transcriptions) and [tables](https://github.com/Schrausser/The_Nuremberg_Chronicle_1493_Tables).
 
 **Table 1.** Pages containing first mentions *ment* of persons *name* (fol. Ir to VIr), sorted according to the corresponding reference pages *ref* of the following text.
 ~~~
@@ -120,8 +120,6 @@ Plato. (1588). *Divini Platonis Opera Omnia*, edited by Ficino, M., Conrado, S. 
 Plinius Secundus, G. (1250). *Plinius Secundus Major, Historia Naturalis. Liber Trigesimus Septimus Manu Recentiore Suppletus Est*. Latin 6797. Paris: Bibliothèque nationale de France. [https://gallica.bnf.fr/ark:/12148/btv1b550140045/](https://gallica.bnf.fr/ark:/12148/btv1b550140045/)
 
 Plotinus. (1580). *Plotini Platonicorum facile coryphaei Operum philosophicorum omnium libri LIV in sex Enneades distributi*. Edited by Ficinus, M. Basileae: Ad Perneam Lecythum. [https://doi.org/10.3931/e-rara-120889](https://doi.org/10.3931/e-rara-120889)
-
-Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
 
 Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger.
 [https://web.archive.org/web/20161003154613](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
