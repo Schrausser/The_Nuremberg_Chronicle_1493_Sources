@@ -9,7 +9,7 @@
 >Albertus Magnus, ein Schwabe, dem niemand ebenbürtig war oder mit dem man sich vergleichen konnte, verbrachte viele Jahre in Köln und Paris, wo er die Heilige Schrift und Philosophie lehrte.
 
 
-Literature sources and references (s. Tab. 1) for the *Nuremberg Chronicle*, fol. Ir to  VIIr, in *Latin* (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)) and *Early New High German*, ENHG (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.).
+Literature sources and references (s. Tab. 1) for the *Nuremberg Chronicle*, fol. Ir to VIIr, in *Latin* (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)) and *Early New High German*, ENHG (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.).
 
 **Table 1.** Pages containing first mentions *ment* of persons *name* (fol. Ir to VIr), sorted according to the corresponding reference pages *ref* of the following text.
 ~~~
@@ -74,7 +74,7 @@ ment	ref
 ³) Double mention.   
 ⁴) Dionysius the Areopagite.  
 
-The main sources for the *preface* up to the *fall of man* (fol. Ir to  VIIr) are the *Heptaplus* and *Oratio de hominis dignitate* (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217)), *Genesis*, the first book of Moses (Jiménez de Cisneros, [1517](https://doi.org/10.3931/e-rara-46695)), the *Supplementum Chronicarum* (Foresti, [1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover)), the *Metamorphoses* of Ovid ([1515](https://doi.org/10.3931/e-rara-35248)),  *De Legibus* (Cicero & Cicero, [1496](https://doi.org/10.3931/e-rara-89116)),  the *Historia Naturalis* (Plinius Secundus, [1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/)),  *De Caelesti Hierarchia* (Dionysius, [1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)) and  the *Chronica Majora* (De Seville, [1802](https://books.google.com/books?id=wb8Z_vlSyJwC)).
+The main sources for the *preface* up to the *fall of man* (fol. Ir to  VIIr) are the *Heptaplus* and *Oratio de hominis dignitate* (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217)), *Genesis*, the first book of Moses (Jiménez de Cisneros, [1517](https://doi.org/10.3931/e-rara-46695)), the *Supplementum Chronicarum* (Foresti, [1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover)), the *Metamorphoses* of Ovid ([1515](https://doi.org/10.3931/e-rara-35248)),  *De Legibus* (Cicero & Cicero, [1496](https://doi.org/10.3931/e-rara-89116)),  the *Historia Naturalis* (Plinius Secundus, [1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/); c.f. De Beauvais, [1964](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20612)),  *De Caelesti Hierarchia* (Dionysius, [1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)) and  the *Chronica Majora* (De Seville, [1802](https://books.google.com/books?id=wb8Z_vlSyJwC)).
 
 See further *Genealogiae deorum gentilium* (Boccaccio, [1360](https://digi.vatlib.it/view/MSS_Pal.lat.938)), Plato's *Timaeus* (Plato, [1588](https://doi.org/10.3931/e-rara-24349)), Aristotle's *Metaphsics* (Aristoteles & Theophrastus, [1608](https://doi.org/10.3931/e-rara-56887)), the *Odes* of  Horace ([1868](https://google.cat/books?id=A28VAAAAYAAJ)), the *Enneads* of Plotinus ([1580](https://doi.org/10.3931/e-rara-120889)),  *Homiliae in Evangelia* of Gregory the Great (Étaix, [1999](https://books.google.com/books?id=r4ERnwEACAAJ)) and *The Gospel of Matthew* (Jiménez de Cisneros, [1517](https://doi.org/10.3931/e-rara-46695)).
 
@@ -90,6 +90,8 @@ Benaissa, A., Henry, W. B., & et al., ed. (2025). *The Oxyrhynchus Papyri*. Vol
 Boccaccio, G. (1360). *Genealogiae deorum gentilium libri XV*. Pal. lat. 938. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Pal.lat.938](https://digi.vatlib.it/view/MSS_Pal.lat.938)
 
 Cicero, M. T., & Cicero, Q. (1496). *M.T. Ciceronis de Natura Deorum Libri Tres* ... Impræssum Venetiis: per Symonem Papiensem dictum Biuilaqua. [https://doi.org/10.3931/e-rara-89116](https://doi.org/10.3931/e-rara-89116)
+
+De Beauvais, V. (1964). *Speculum maius*. Graz[^1]: Akad. Druck- u. Verl.-Anst. [https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20612](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20612)
 
 De Seville, I. (1802). *S. Isidori Hispalensis Episcopi Hispaniarum Doctoris Opera Omnia*. Edited by Arevalo, F. Romae: Apvd Antonivm Fvlgonivm. [https://books.google.com/books?id=wb8Z_vlSyJwC](https://books.google.com/books?id=wb8Z_vlSyJwC)
 
@@ -125,5 +127,7 @@ Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit fi
 [https://web.archive.org/web/20161003154613](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
 
 ———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. [https://doi.org/10.3931/e-rara-69075](https://doi.org/10.3931/e-rara-69075)
+
+[^1]: c.f. fol. CCLXXVv to CCLXXVIIr.
 
 
