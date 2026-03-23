@@ -11,6 +11,8 @@
 
 Literature sources and references (s. Tab. 1) for the *Nuremberg Chronicle*, fol. Ir to VIIr (`NC_src_fol_1r_*`, `NC_src_fol_2r_6r_*`) in *Early New High German*, ENHG (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.) and from the *English* translation by Hadavas ([2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)). See given [transcriptions](https://github.com/Schrausser/The_Nuremberg_Chronicle_1493_Transcriptions) and [tables](https://github.com/Schrausser/The_Nuremberg_Chronicle_1493_Tables).
 
+Especially since the *Early New High German* text is very difficult to understand compared to *modern High German*, as a profound knowledge of *German* (as a mother tongue) as well as knowledge of *various dialects* is required, a *German* translation is also provided.
+
 **Table 1.** Pages containing first mentions *ment* of persons *name* (fol. Ir to VIr), sorted according to the corresponding reference pages *ref* of the following text.
 ~~~
 Fol/Blat		name									nr
