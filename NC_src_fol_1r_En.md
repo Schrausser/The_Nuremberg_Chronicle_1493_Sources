@@ -148,32 +148,4 @@ Now as Noah and his sons, and his wife and the wives of his sons had gone out of
 [^29]: He was not called Dieus Filius (the Son of Heaven) but Diespiter, of which Jupiter (more correctly Jup-piter) was a contraction; originally identical with divum (heaven) and pater (father). Jupiter literally means "the heavenly father." The German translation "sun of the day," is clearly incorrect.  
 [^30]: A corruption of Lycaeus, a certain local deity, referred to in a subsequent note (on Jupiter), being known to the Greeks as Zeus Lycaeus.  
 [^31]: Heber was a descendant of Shem (one of the three sons of Noah) and the father of Peleg (the ancestor of Abraham) and Joktan (the ancestor of the thirteen tribes of Joktanite Arabs). One of these thirteen sons was Jerah, and no doubt it is his stock to whom the chronicler refers as "Jerari." The chronicler’s claim that the supreme Greek deity traces his origin along Semitic lines is wrong. The Greeks traced their ancestry through Javan, one of the sons of Japheth, representing the Aryan branch of the human race. On a previous page the chronicler himself stated that of Javan came the Greeks and the Ionians (Folio XVI recto). See also Genesis 11:26.  
-[^32]: Jupiter, so called by the Romans, and the Zeus of the Greeks, was originally an elemental divinity. Being the lord of heaven (Diespiter), he was worshipped as the god of rain, storms, thunder and lightning, as well as the prince of light. The Greek Zeus was the greatest of the Olympian gods. When he and his brothers distributed the government of the world among themselves by lot, Poseidon (Neptune) obtained the sea, Hades (Pluto) the lower world, and Zeus (Jupiter) the heavens and the upper regions; but the earth became common to all. According to Homer, Zeus dwelt on Mt. Olympus, in Thessaly, which was believed to penetrate heaven itself with its lofty summit. He is called the father of gods and men, the most high and powerful among the immortals, and whom all others obey. Such was the Olympian Zeus. But mythology originally and at various places created such a god: (1) The Arcadian Zeus, who according to legend was born in Arcadia, either on Mt. Parrhasium, or on Mt. Lycaeus. Lycaon, a son of Pelasgus (heroic ancestor of the Pelasgians, the earliest inhabitants of Greece), erected a temple to Zeus Lycaeus on the mountain of that name, and instituted the festival of Lycea in his honor; (2) the Dodonaean Zeus, who possessed the most ancient oracle in Greece, at Dodona in Epirus, from which he derived his name. He was a prophetic god; (3) the Cretan Zeus, of whom Hesiod gives an account. He calls Zeus the son of Cronos and Rhea. Cronos was in the habit of swallowing his children immediately after birth, but when Rhea was about to bear Zeus, she applied to Ouranus ("Heaven") and Gaia ("Earth") for advice as to how the child might be saved. They sent her to Lyctos in Crete, requesting her to bring up her child there. Accordingly she concealed the infant in a cave of Mt. Aegaeon, and gave Cronos a stone wrapped up in cloth, which he swallowed in belief that it was his son. There Zeus was brought up on the milk of the goat Amalthea, and the honey provided by the bees of the mountain; (4) the National Hellenic Zeus, whose temple was at Olympia in Ellis. Here also Zeus was regarded as the father and king of gods and men. In the course of time the local divinities became united in the minds of the people into one great national divinity, which is apparently not the one whom the chronicler had in mind in this narrative What he says refers to a local one, not Roman, as his use of the name Jupiter instead of Zeus might indicate—the Arcadian god; for he gives him the alias, ‘Lysania,’ a corruption of ‘Lycaeus.’ It was this god who was surnamed Lycaeus.  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[^32]: Jupiter, so called by the Romans, and the Zeus of the Greeks, was originally an elemental divinity. Being the lord of heaven (Diespiter), he was worshipped as the god of rain, storms, thunder and lightning, as well as the prince of light. The Greek Zeus was the greatest of the Olympian gods. When he and his brothers distributed the government of the world among themselves by lot, Poseidon (Neptune) obtained the sea, Hades (Pluto) the lower world, and Zeus (Jupiter) the heavens and the upper regions; but the earth became common to all. According to Homer, Zeus dwelt on Mt. Olympus, in Thessaly, which was believed to penetrate heaven itself with its lofty summit. He is called the father of gods and men, the most high and powerful among the immortals, and whom all others obey. Such was the Olympian Zeus. But mythology originally and at various places created such a god: (1) The Arcadian Zeus, who according to legend was born in Arcadia, either on Mt. Parrhasium, or on Mt. Lycaeus. Lycaon, a son of Pelasgus (heroic ancestor of the Pelasgians, the earliest inhabitants of Greece), erected a temple to Zeus Lycaeus on the mountain of that name, and instituted the festival of Lycea in his honor; (2) the Dodonaean Zeus, who possessed the most ancient oracle in Greece, at Dodona in Epirus, from which he derived his name. He was a prophetic god; (3) the Cretan Zeus, of whom Hesiod gives an account. He calls Zeus the son of Cronos and Rhea. Cronos was in the habit of swallowing his children immediately after birth, but when Rhea was about to bear Zeus, she applied to Ouranus ("Heaven") and Gaia ("Earth") for advice as to how the child might be saved. They sent her to Lyctos in Crete, requesting her to bring up her child there. Accordingly she concealed the infant in a cave of Mt. Aegaeon, and gave Cronos a stone wrapped up in cloth, which he swallowed in belief that it was his son. There Zeus was brought up on the milk of the goat Amalthea, and the honey provided by the bees of the mountain; (4) the National Hellenic Zeus, whose temple was at Olympia in Ellis. Here also Zeus was regarded as the father and king of gods and men. In the course of time the local divinities became united in the minds of the people into one great national divinity, which is apparently not the one whom the chronicler had in mind in this narrative What he says refers to a local one, not Roman, as his use of the name Jupiter instead of Zeus might indicate—the Arcadian god; for he gives him the alias, ‘Lysania,’ a corruption of ‘Lycaeus.’ It was this god who was surnamed Lycaeus.
