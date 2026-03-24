@@ -6,7 +6,7 @@
 
 >"Albertus Magnus, a native of [...] Swabia [...] no one excelled him or could be compared to him [...] spending many years in Cologne and Paris, teaching the Holy Scriptures and philosophy. [...]", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 591).
 
->Albertus Magnus, ein Schwabe, dem niemand ebenbürtig war oder mit dem man sich vergleichen konnte, verbrachte viele Jahre in Köln und Paris, wo er die Heilige Schrift und Philosophie lehrte.
+>Albertus Magnus, ein Schwabe, dem niemand ebenbürtig war oder gleich kam, verbrachte viele Jahre in Köln und Paris, wo er die Heilige Schrift und Philosophie lehrte.
 
 
 Literature sources and references (s. Tab. 1) for the *Nuremberg Chronicle*, fol. Ir to VIIr (`NC_src_fol_1r_*`, `NC_src_fol_2r_6r_*`) in *Early New High German*, ENHG (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.) and from the *English* translation by Hadavas ([2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)). See given [transcriptions](https://github.com/Schrausser/The_Nuremberg_Chronicle_1493_Transcriptions) and [tables](https://github.com/Schrausser/The_Nuremberg_Chronicle_1493_Tables).
