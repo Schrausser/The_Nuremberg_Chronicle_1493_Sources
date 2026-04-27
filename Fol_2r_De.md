@@ -40,12 +40,12 @@ So schwebte der Geist des Herrn (als Werkzeug göttlicher Kunst) über den Wasse
 [^15]: vgl. Lactantius ([1497](https://books.google.com/books?id=qGsnghsi3uUC), Buch II 8.8), er argumentierte gegen antike griechische Philosophien, die behaupteten, Gott habe die Welt aus *bereits existierender* Materie erschaffen.  
 [^16]:  Da die zitierten christlichen Autoren fast ausschließlich aus der Zeit vor dem 6. Jahrhundert stammen, muss in diesem Fall davon ausgegangen werden, dass die *Sarazenen* aus dem 4. Jahrhundert gemeint sind, nomadische Stämme der syrisch-arabischen Wüste und es sich daher nicht um einen Bezug zum *Islam* handeln dürfte. Vielmehr scheint es sich auf die *weichenstellenden* Ereignisse um 378 n. Chr. zu beziehen, im Zusammenhang mit der verheerenden Niederlage des Weströmischen Reiches gegen die Goten bei Adrianopel und der Beteiligung der *Sarazenen* unter *Mavia* (*Mawiyya*), einer arabischen Herrscherin, die kurz zuvor im südlichen Syrien einen Aufstand gegen das Römische Reich angeführt und anschließend <ins>*die Seiten gewechselt hatte*</ins>. Interessanterweise fällt auch die Geschichte vom *Heiligen* ***Moses*** *dem Bischof der Araber* in diesen Kontext - nicht zu verwechseln mit dem gleichnamigen ***Moses*** *dem Schwarzen*, einem <ins>bekehrten Verbrecher</ins>, der zur selben Zeit in der selben Region agierte (ebenfalls bekannt unter den Namen *Moses der Starke*, *Moses der Abessinier*, *Moses der Inder*, weiters *Abba Moses der Räuber*, *Moses Murin* oder *Moses der Äthiopier* etc.).  
 [^17]: 'indolis' und 'einpildung'.  
-[^18]: 'verkerung', *Pervertierung*.  
+[^18]: 'verkerung', pervertierung.  
 [^19]: 'ex bono p[er] se malu[m] effectu[m]' und 'vo[m] gůtten zum ubel getretten'.   
 [^20]: 'greci diabolu[m] appelant: nos crimi[n]atore[m] vocam[us]'.  
 [^21]: aus dem 'Heptaplus' (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217), Buch 1, Kapitel 1).  
 [^22]: 'septinge[n]ta', 700 vs. 'die .lxx. auslege[r]'.  
-[^23]: 'i[n]co[m]posita' und 'vnzesamen gefügt', bezieht sich auf die lateinischen Übersetzungen des hebräischen 'tohu wa-bohu' (formlos und leer) aus Genesis 1,2.  
+[^23]: 'i[n]co[m]posita' und 'vnzesamen gefügt', bezieht sich auf die lateinischen Übersetzungen des hebräischen 'tohu wa-bohu' (formlos und leer) aus Genesis 1,2 (vgl. Jiménez de Cisneros, [1517](https://doi.org/10.3931/e-rara-46695)).  
 [^24]: '[con]fusio[n]e' und 'zestrewlichkeit'.  
 [^25]: 'i[d est]'.  
 [^26]: 'materia[m] trino dime[n]su' und 'materi mit driueltiger ermessung'.  
@@ -55,6 +55,8 @@ So schwebte der Geist des Herrn (als Werkzeug göttlicher Kunst) über den Wasse
 [^30]: aus dem 'Heptaplus' (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217)), in der klassischen und mittelalterlichen Zahlentheorie ist 6 die erste *vollkommene Zahl*, weil sie gleich der Summe ihrer echten Teiler ist (1+2+3=6).
 
 ## References
+
+Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. [https://doi.org/10.3931/e-rara-46695](https://doi.org/10.3931/e-rara-46695)
 
 Lactantius, L.C.F. (1497). *Divinae Institutiones*. Venetiis: Simon Bevilaqua. [https://books.google.com/books?id=qGsnghsi3uUC](https://books.google.com/books?id=qGsnghsi3uUC)
 
