@@ -41,13 +41,27 @@ Immo se tota [et] sua om[n]ia agnoscu[n]t.[^22]
 [^10]: 'nimi[orum] ad cibos' und 'als etlich zu speysung', wohl die tierischen *Produkte* wie Eier oder Milch.  
 [^11]: 'v[er]o ad vestime[n]tu[m]' und 'ettlich zebeklaidung', wie Wolle etc.  
 [^12]: 'vt i[n] excole[n]da terra iuuarent. vn[de] dicta sunt iume[n]ta.'  
-[^13]: aus Isidor von Sevillas 'Etymologies' (Buch XII, 1.7).  
+[^13]: aus den 'Etymologiae' (De Seville, [1802](https://books.google.com/books?id=wb8Z_vlSyJwC), Buch XII, 1.7).  
 [^14]: 'imaginis sue forma[m]' und 'zu form oder gestalt seiner pildnus'.  
 [^15]: 'ho[mo]' und  'mensche[n]'  
 [^16]: 'humo' und  'lette[n] oder kloße der erde[n]'.  
 [^17]: spiegelt eine gängige mittelalterliche etymologische Vorstellung wider, die *Homo* mit *Humus* in Verbindung bringt.  
-[^18]: vgl. Lactantius in seinen 'Instituta Divina'.  
-[^19]: 'Dieses Lebewesen(!) das wir Mensch nennen: vorsichtig, flink, vielfältig, scharf im Gedächtnis, voll Vernunft und Rat; in klarer Art und Eigenschaft allein von dem höchsten Gott geboren. Denn es hat an allen Geschlechtern und Naturen der beseelten Geschöpfe teil, [besonders aber] an der Vernunft und dem Verstand, was allen anderen Geschöpfen fehlt', Cicero 'De Legibus' (Buch I, Abschnitt 22), bespricht den  Menschen als in einzigartiger Weise mit Vernunft begabt, welche ihn mit dem *Göttlichen* verbinde.  
+[^18]: vgl. die 'Divinae Institutiones' (Lactantius, [1497](https://books.google.com/books?id=qGsnghsi3uUC)).  
+[^19]: 'Dieses Lebewesen(!) das wir Mensch nennen: vorsichtig, flink, vielfältig, scharf im Gedächtnis, voll Vernunft und Rat; in klarer Art und Eigenschaft allein von dem höchsten Gott geboren. Denn es hat an allen Geschlechtern und Naturen der beseelten Geschöpfe teil, [besonders aber] an der Vernunft und dem Verstand, was allen anderen Geschöpfen fehlt', 'De Legibus' (Cicero & Cicero, [1496](https://doi.org/10.3931/e-rara-89116), Buch I, Abschnitt 22), bespricht den  Menschen als in einzigartiger Weise mit Vernunft begabt, welche ihn mit dem *Göttlichen* verbinde.  
 [^20]: 'machi[n]a' und  'paw'.  
-[^21]: Aus Ficino 'De Vita Coelitus Comparanda'.  
-[^22]: 'O Asklepios, der Mensch ist ein großes Wunder. Durch diesen außergewöhnlichen Namen kann sich das menschliche Dasein rühmen: Denn es ist geschehen, dass kein Geschöpf es verschmäht, ihm zu dienen. Erde und Elemente stehen ihm zur Seite; die Tiere sind bereit für ihn und dienen ihm. Für ihn kämpfen die Himmel; für ihn bringen Engel Heil. Es sollte niemanden verwundern, dass er von allen geliebt wird, in dem alles etwas Eigenes findet; ja, alles und alles Eigene erkennen sie in ihm', aus dem 'Asklepios' (Abschnitt 6), einem hermetischen Text, Hermes Trismegistos zugeschrieben, auch zitiert in Picos 'Oratio de hominis dignitate'.
+[^21]: vgl. 'De Vita Coelitus Comparanda' (Ficinus, [1497](https://doi.org/10.3931/e-rara-68641)).  
+[^22]: 'O Asklepios, der Mensch ist ein großes Wunder. Durch diesen außergewöhnlichen Namen kann sich das menschliche Dasein rühmen: Denn es ist geschehen, dass kein Geschöpf es verschmäht, ihm zu dienen. Erde und Elemente stehen ihm zur Seite; die Tiere sind bereit für ihn und dienen ihm. Für ihn kämpfen die Himmel; für ihn bringen Engel Heil. Es sollte niemanden verwundern, dass er von allen geliebt wird, in dem alles etwas Eigenes findet; ja, alles und alles Eigene erkennen sie in ihm', aus dem 'Asklepios', einem hermetischen Text (vgl. Trismegistu, [1471](https://gdz.sub.uni-goettingen.de/id/PPN858183994)), auch zitiert in Picos 'Oratio de hominis dignitate' (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217)).
+
+## References
+
+Cicero, M. T., & Cicero, Q. (1496). *M.T. Ciceronis de Natura Deorum Libri Tres* ... Impræssum Venetiis: per Symonem Papiensem dictum Biuilaqua. [https://doi.org/10.3931/e-rara-89116](https://doi.org/10.3931/e-rara-89116)
+
+De Seville, I. (1802). *S. Isidori Hispalensis Episcopi Hispaniarum Doctoris Opera Omnia*. Edited by Arevalo, F. Romae: Apvd Antonivm Fvlgonivm. [https://books.google.com/books?id=wb8Z_vlSyJwC](https://books.google.com/books?id=wb8Z_vlSyJwC)
+
+Ficinus, M. (1497). *De Triplici Vita*. Basel: Johann Amerbach. [https://doi.org/10.3931/e-rara-68641](https://doi.org/10.3931/e-rara-68641)
+
+Lactantius, L.C.F. (1497). *Divinae Institutiones*. Venetiis: Simon Bevilaqua. [https://books.google.com/books?id=qGsnghsi3uUC](https://books.google.com/books?id=qGsnghsi3uUC)
+
+Mirandola, G., & Mirandola, G. F. (1601). *Ioannis Pici, Mirandulae  ... opera quae extant omnia ...* Basileae: per Sebastianum Henricpetri. [https://doi.org/10.3931/e-rara-61217](https://doi.org/10.3931/e-rara-61217)
+
+Trismegistu, H. (1471). *Mercurii Trismegisti Liber de Potestate Et Sapientia Dei e Graeco in Latinum Traductus a Marsilio Ficino Pimander Incipit*. Edited by Ficinus, M. Treviso. [https://gdz.sub.uni-goettingen.de/id/PPN858183994](https://gdz.sub.uni-goettingen.de/id/PPN858183994)
