@@ -25,30 +25,30 @@ Gott, der oberste Schöpfer aller Dinge, schuf somit am sechsten Tag der Welt, a
 [^1]: 'SUmma bonitas' und 'DIe höhst gůthait'.  
 [^2]: 'i[n]tellige[n]do amaret' und 'versteende liebhet'.  
 [^3]: 'beata' und 'selig'.  
-[^4]: von Petrus Lombardus 'Sententiarum libri quattuor' (Buch II, Kapitel 4). Diese Formulierung bezieht sich auf eine theologische Aussage, die oft auch dem heiligen Augustinus zugeschrieben wird und den Zweck der *vernünftigen Seele* erklärt: 'Fecit *Deus* rationalem creaturam ut summum bonum intelligeret, intelligendo amaret, amando possideret, possidendo frueretur.'  
+[^4]: vom 'Sententiarum' (Petrus, [1484](https://doi.org/10.3931/e-rara-18241), Buch II, Kapitel 4). Diese Formulierung bezieht sich auf eine theologische Aussage, die oft auch dem heiligen Augustinus zugeschrieben wird und den Zweck der *vernünftigen Seele* erklärt: 'Fecit *Deus* rationalem creaturam ut summum bonum intelligeret, intelligendo amaret, amando possideret, possidendo frueretur.'  
 [^5]: 'aut[em]' und 'Aber'.  
 [^6]: 'spiraculum vite' und 'geystung des lebens'.  
 [^7]: 'inspirauit' und 'eingeystet'.  
-[^8]: charakteristisch für Peter von Poitiers' 'Compendium historiae in genealogia Christi'.  
+[^8]: charakteristisch für das 'Compendium historiae in genealogia Christi' (Poitiers, [1499](https://libwww.freelibrary.org/digital/item/22446)).    
 [^9]: 'a[n]i[m]am' und 'sel'.  
 [^10]: 'ymaginem' und 'pildnus'.  
 [^11]: 'gratuitis' und 'gnadenreichen dingen'.  
 [^12]: 'si[mi]litudinem' und 'gleichnuß'.  
 [^13]: 'gra[tia]' und 'gnad'.  
-[^14]: 'Als er also zuerst den Mann nach seinem Ebenbild geschaffen hatte, schuf er auch die Frau nach dem Bild des Mannes selbst, damit die beiden Geschlechter, vereint, Nachkommen zeugen und die ganze Erde mit einer Vielzahl füllen könnten', aus Lactantius 'Divine Institutes' (Buch 2, Kapitel 10).  
-[^15]: 'Nachdem Gott die Lebewesen der Erde und die Vögel erschaffen hatte, brachte er sie zu Adam, damit dieser sie sähe. Da sich für Adam keine Gehilfin fand, die ihm glich, ließ der Herr Adam in einen tiefen Schlaf fallen, nahm eine seiner Rippen, füllte sie mit Fleisch und formte daraus eine Frau. Als Adam sie sah, sprach er: Dies ist nun Bein von meinem Bein; sie soll *Issa* heißen, was auf Lateinisch als Frau übersetzt wird, weil sie vom Mann genommen wurde', Hebräisch *Ishah* (Frau) von *Ish* (Mann), 'Vulgata', Genesis 2:19-23.  
+[^14]: 'Als er also zuerst den Mann nach seinem Ebenbild geschaffen hatte, schuf er auch die Frau nach dem Bild des Mannes selbst, damit die beiden Geschlechter, vereint, Nachkommen zeugen und die ganze Erde mit einer Vielzahl füllen könnten', aus den 'Divine Institutes' (Lactantius, [1497](https://books.google.com/books?id=qGsnghsi3uUC), Buch 2, Kapitel 10).  
+[^15]: 'Nachdem Gott die Lebewesen der Erde und die Vögel erschaffen hatte, brachte er sie zu Adam, damit dieser sie sähe. Da sich für Adam keine Gehilfin fand, die ihm glich, ließ der Herr Adam in einen tiefen Schlaf fallen, nahm eine seiner Rippen, füllte sie mit Fleisch und formte daraus eine Frau. Als Adam sie sah, sprach er: Dies ist nun Bein von meinem Bein; sie soll *Issa* heißen, was auf Lateinisch als Frau übersetzt wird, weil sie vom Mann genommen wurde', Hebräisch *Ishah* (Frau) von *Ish* (Mann), 'Vulgata', Genesis 2,19-23 (vgl. Jiménez de Cisneros, [1517](https://doi.org/10.3931/e-rara-46695)).  
 [^16]: 'costa' und 'ripp', Hebräisch *tsela* (Seite).  
 [^17]: 'capite' und 'haubt'.  
 [^18]: 'latere' und 'seyten'.  
 [^19]: 'p[ro]baret[ur]' und 'zu bewerung'.  
-[^20]: von Petrus Lombardus 'Sententiarum libri quattuor' (Buch IV), ein gängiges Motiv in der mittelalterlichen Scholastik, siehe Thomas von Aquin oder Hugo von St. Viktor.  
+[^20]: vom 'Sententiarum' (Petrus, [1484](https://doi.org/10.3931/e-rara-18241), Buch IV), ein gängiges Motiv in der mittelalterlichen Scholastik, siehe Thomas von Aquin ([1489](https://doi.org/10.3931/e-rara-15170)) oder Hugo von St. Viktor ([1951](https://archive.org/details/hugh-of-st.-victor-roy-j.-deferrari-on-the-sacraments-of-the-christian-faith-de-/mode/1up), Buch I, Teil VI, Kapitel XXXV).  
 [^21]: 'nobilitate' und 'adel'.  
 [^22]: 'virtute' und 'tugend'.  
 [^23]: 'vnusq[ui]sq[ue]' und 'ein yder'.  
 [^24]: 'gra[tia]m' und 'gnad'.  
 [^25]: 'inferiori loco' und 'vndern stat'.  
 [^26]: 'melior inuenit[ur] p[ro]' und 'besser gefunden für'.  
-[^27]: vom heiligen Ambrosius 'De Paradiso' (4.24), ein gängiges theologisches Argument hinsichtlich des Verhältnisses zwischen dem Herkunftsort eines Menschen und seinem moralischen Charakter.  
+[^27]: aus 'De Paradiso' (Ambrosius, [1897](https://books.google.com/books?id=L1DbnAAACAAJ), 4.24), ein gängiges theologisches Argument hinsichtlich des Verhältnisses zwischen dem Herkunftsort eines Menschen und seinem moralischen Charakter.  
 [^28]: in der mittelalterlichen Theologie traditionell sowohl als Tag der Weltschöpfung als auch als Tag der Kreuzigung angesehen.  
 [^29]: 'p[ro]thoplastu[m]', ein latinisierter griechischer Begriff (protoplast).  
 [^30]: vom hebräischen Wort *adamah* (Erde/Boden).  
@@ -56,7 +56,21 @@ Gott, der oberste Schöpfer aller Dinge, schuf somit am sechsten Tag der Welt, a
 [^32]: 'fine[m]' und 'ein end'.  
 [^33]: 'possessore[m]' und 'besitzer'.  
 
+## References
 
+Ambrosius, A. (1897). *Opera: Exameron. De Paradiso. De Cain Et Abel. De Noe. De Abraham. De Isaac. De Bono Mortis*. Edited by Faller, O., & Schenkl, K. Corpus Scriptorum Ecclesiasticorum Latinorum. Hoelder-Pichler-Tempsky. [https://books.google.com/books?id=L1DbnAAACAAJ](https://books.google.com/books?id=L1DbnAAACAAJ)
+
+Hugh of St. Victor. (1951). *On the Sacraments of the Christian Faith (de Sacramentis)*. Edited by Deferrari, R J. Cambridge, Massachusetts: The Mediaeval Academy Of America. [https://archive.org/details/hugh-of-st.-victor-roy-j.-deferrari-on-the-sacraments-of-the-christian-faith-de-/mode/1up](https://archive.org/details/hugh-of-st.-victor-roy-j.-deferrari-on-the-sacraments-of-the-christian-faith-de-/mode/1up)
+
+Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. [https://doi.org/10.3931/e-rara-46695](https://doi.org/10.3931/e-rara-46695)
+
+Lactantius, L.C.F. (1497). *Divinae Institutiones*. Venetiis: Simon Bevilaqua. [https://books.google.com/books?id=qGsnghsi3uUC](https://books.google.com/books?id=qGsnghsi3uUC)
+
+Petrus. (1484). *Sententiarum Libri IV*. Basel. [https://doi.org/10.3931/e-rara-18241](https://doi.org/10.3931/e-rara-18241)
+
+Poitiers P. (1499). *Compendium Historiae in Genealogia Christi*. Philadelphia, PA: Free Library of Philadelphia. [https://libwww.freelibrary.org/digital/item/22446](https://libwww.freelibrary.org/digital/item/22446)
+
+Thomas. (1485). *Summa Theologica: Partes 1-3*. Basel: Michael Wenssler. [https://doi.org/10.3931/e-rara-15170](https://doi.org/10.3931/e-rara-15170)
 
 
 
