@@ -17,7 +17,7 @@ Auch Eva soll in Nöten leben und unter Schmerzen Kinder gebären; sie, die der 
 [^3]:  'Und er sprach zur Schlange: Verflucht seist du unter allen Tieren und allem Getier der Erde. Auf deiner Brust sollst du kriechen und Erde fressen dein Leben lang.
 Zur Frau sprach er: Ich will dir viel Elend und viele Schwangerschaften geben; mit Schmerzen sollst du Kinder gebären, und du sollst unter der Gewalt deines Mannes sein, und er soll über dich herrschen.
 Und zu Adam sprach er: Verflucht sei die Erde in deiner Arbeit. Mit Mühsal sollst du dich von ihr ernähren; Dornen und Disteln soll sie dir tragen; im Schweiße deines Angesichts sollst du dein Brot essen, bis du zurückkehrst zu der Erde, von der du genommen bist.
-Und als Gott ihnen Kleider aus Fellen gemacht hatte, verstieß er sie aus dem Paradies und stellte Cherubim mit flammendem Schwert davor, den Weg zum Baum des Lebens zu bewachen.', Genesis 3:14-24.  
+Und als Gott ihnen Kleider aus Fellen gemacht hatte, verstieß er sie aus dem Paradies und stellte Cherubim mit flammendem Schwert davor, den Weg zum Baum des Lebens zu bewachen.', Genesis 3,14-24 (vgl. Jiménez de Cisneros, [1517](https://doi.org/10.3931/e-rara-46695)).    
 [^4]: 'imprecationem' und 'aufsatzung'.  
 [^5]: 'voluptat[is]' und 'wolusts'.  
 [^6]: 'terram maledictionis' und 'ertreich der verfluchung'.  
@@ -27,6 +27,10 @@ Und als Gott ihnen Kleider aus Fellen gemacht hatte, verstieß er sie aus dem Pa
 [^10]: 'sente[n]tiam suam' und 'in irn willen'.  
 [^11]: 'peri[z]omatibus folioru[m]' und 'koste[n] pletter'.  
 [^12]: 'exul' und 'enlend'.  
+
+## References
+
+Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. [https://doi.org/10.3931/e-rara-46695](https://doi.org/10.3931/e-rara-46695)
 
 
 

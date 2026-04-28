@@ -14,7 +14,7 @@ Eve too is to live in distress and bear children in pain; she whom the Lord has 
 
 [^1]: 'p[ro]thopare[n]tes' and 'ersten eltern'.  
 [^2]: 'suggerente diabolo' and 'durch eingebung des teüfels'.  
-[^3]:  'And he said to the serpent, Cursed are you more than every beast of the earth; on your breast you shall crawl, and you shall eat dust all the days of your life. To the woman he said, I will give you much affliction and many pregnancies; in pain you shall bear children, and you shall be subject to your husband, and he shall rule over you. And to Adam he said, Cursed is the ground in which you labored; through painful toil you shall eat food from it; thorns and thistles it shall produce for you; by the sweat of your brow you shall eat your food until you return to the ground from which you were taken. And when God had made them garments of skin, he drove them out of Paradise and placed cherubim with a flaming sword before them to guard the way to the tree of life.', Genesis 3:14-24.  
+[^3]:  'And he said to the serpent, Cursed are you more than every beast of the earth; on your breast you shall crawl, and you shall eat dust all the days of your life. To the woman he said, I will give you much affliction and many pregnancies; in pain you shall bear children, and you shall be subject to your husband, and he shall rule over you. And to Adam he said, Cursed is the ground in which you labored; through painful toil you shall eat food from it; thorns and thistles it shall produce for you; by the sweat of your brow you shall eat your food until you return to the ground from which you were taken. And when God had made them garments of skin, he drove them out of Paradise and placed cherubim with a flaming sword before them to guard the way to the tree of life.', Genesis 3:14-24 (vgl. Jiménez de Cisneros, [1517](https://doi.org/10.3931/e-rara-46695)).   
 [^4]: 'voluptat[is]' and 'wolusts'.  
 [^5]: 'terram maledictionis' and 'ertreich der verfluchung'.  
 [^6]: 'imprecationem' and 'aufsatzung'.  
@@ -24,6 +24,10 @@ Eve too is to live in distress and bear children in pain; she whom the Lord has 
 [^10]: 'sente[n]tiam suam' and 'in irn willen'.  
 [^11]: 'peri[z]omatibus folioru[m]' and 'koste[n] pletter'.  
 [^12]: 'exul' and 'enlend'.  
+
+## References
+
+Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. [https://doi.org/10.3931/e-rara-46695](https://doi.org/10.3931/e-rara-46695)
 
 
 
