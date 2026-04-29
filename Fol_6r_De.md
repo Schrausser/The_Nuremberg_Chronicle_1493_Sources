@@ -73,7 +73,7 @@ Dies sind nun die Lebensalter des Menschen: Das (I) erste ist die *frühe Kindhe
 [^20]: 'detrusi' und 'verstössen'.  
 [^21]: findet sich insbesondere im Handbuch der christlichen Lehre, dem 'Elucidarium', ein häufiger theologischer Bezug auf das *atmosphärische Gefängnis*, in dem gefallene Engel bis zum Jüngsten Gericht verweilen, vgl. Epheser oder 2 Petrus 2,4 'da Gott die Engel, die gesündigt hatten, nicht verschonte, sondern sie in die <ins>*Hölle*</ins> stieß und sie in *finstere Ketten* legte, [...]'. Man Beachten hier besonders die '*finsteren Ketten*', welche die vollständige Gefangenschaft und *Trennung von* <ins>*Gottes Licht*</ins> symbolisieren.  
 [^22]: 'tempestates' und 'ungestümigkeit'.  
-[^23]: vgl. Francesco Maria Guazzos 'Compendium Maleficarum'.  
+[^23]: vgl. Francesco Maria Guazzo ([1608](https://archive.org/details/compendiummalefi00guaz/page/n2/mode/1up)).  
 [^24]: 'orbes' und 'umbkrais'.  
 [^25]: 'excellit' und 'ubertrifft'.  
 [^26]: 'ipse deus' und 'der got'.  
@@ -81,7 +81,7 @@ Dies sind nun die Lebensalter des Menschen: Das (I) erste ist die *frühe Kindhe
 [^28]: 'super om[n]ia' und 'über alle'.  
 [^29]: 'predictorum' und 'vorgenante[n]'.  
 [^30]: 'miliaria. hec sunt stadia .cxxvi.', ergibt 15625 Meilen × 126 = 1968750 Stadien, das ergibt bei *attischen* Stadien, 0.18498 × 1968750 = 364179.375 km Entfernung von der Erde zum Mond. Bei aktueller *maximaler* Entfernung (*Apogäum*) von 406740 km also eine Differenz von - 42560.625 km, bei *minimaler* Entfernung (*Perigäum*) von 356410 km eine Differenz von + 7769.375 km. Dies entspricht jedoch der Entfernung des Mond vor etwa *800 Millionen* Jahren (*Tonium im Neoproterozoikum*, 363000 bis 367000 km).  
-[^31]: '... vt q[ui]dam dixerunt [et] male ...', von Pseudo-Dionysius Areopagita definiert, ob der Begriff Hierarchie auf die Heilige Dreifaltigkeit angewendet werden kann.  
+[^31]: '... vt q[ui]dam dixerunt [et] male ...', von Pseudo-Dionysius Areopagita ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)) definiert, ob der Begriff Hierarchie auf die Heilige Dreifaltigkeit angewendet werden kann.  
 [^32]: '[con]siderant' und 'betrachten'.  
 [^33]: 'bonitate[m]' und 'guttheit'.  
 [^34]: 'virtute[m]' und 'kraft'.  
@@ -89,7 +89,7 @@ Dies sind nun die Lebensalter des Menschen: Das (I) erste ist die *frühe Kindhe
 [^36]: 'charitas' und 'lib'.  
 [^37]: 'sedet' und 'sitzt'.  
 [^38]: 'equitas' und 'gleicheit'.  
-[^39]: von Pseudo-Dionysius Areopagita, oft auch dem heiligen Gregor dem Großen zugeschrieben, auch adaptiert von Meister Eckhart, widerspiegelt seine trinitarische Theologie, in welcher er die verschiedene Arten der *Gotteswahrnehmung* mit den drei *Personen* der Dreifaltigkeit in Einklang bringt.  
+[^39]: von Pseudo-Dionysius Areopagita ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)), oft auch dem heiligen Gregor dem Großen zugeschrieben (vgl. Étaix, [1999](https://books.google.com/books?id=r4ERnwEACAAJ)), auch adaptiert von Meister Eckhart ([1936](http://www.eckhart.de/opus.htm)), widerspiegelt seine trinitarische Theologie, in welcher er die verschiedene Arten der *Gotteswahrnehmung* mit den drei *Personen* der Dreifaltigkeit in Einklang bringt.  
 [^40]: 'dominat[i]ones' und 'herschengel'.  
 [^41]: 'principatus' und 'fürstengel'.  
 [^42]: 'potestates' und 'gewaltengel', besser *Fähigkeit*, *Können*.    
@@ -107,11 +107,11 @@ Dies sind nun die Lebensalter des Menschen: Das (I) erste ist die *frühe Kindhe
 [^54]: 'Hec dicta sunt s[ecundu]m Gregoriu[m]', in mittelalterlichen Handschriften üblich, kennzeichnete die vorhergehende Passage als zitiert vom Werk Papst Gregors I.  
 [^55]: 'trinitas p[er]sonarum diuinarum' und 'trinitet der gottliche[n] person'.  
 [^56]: 'vt patet'.  
-[^57]: Thomas von Aquin führte dies in Werken wie der 'Summa Theologica' weiter aus und folgte der dionysischen Struktur. Dass jede Hierarchie die *Trinität göttlicher Personen* widerspiegelt, ist ein zentrales Thema der mittelalterlichen Scholastik.  
-[^58]: vom Heiligen Augustinus populär gemachtes christliches Geschichtsverständnis. In 'De civitate Dei', legte er die Grundlage für diesen chronologischen Rahmen, während des Niederganges des West Römischen Imperiums, als eine umfassende christliche Interpretation von *Menschheitsgeschichte* und dem Verhältnis zwischen der *geistlichen und weltlichen* Welt.  
+[^57]: Thomas von Aquin ([1485](https://doi.org/10.3931/e-rara-15170)) führte dies in Werken wie der 'Summa Theologica' weiter aus und folgte der dionysischen Struktur. Dass jede Hierarchie die *Trinität göttlicher Personen* widerspiegelt, ist ein zentrales Thema der mittelalterlichen Scholastik.  
+[^58]: vom Heiligen Augustinus ([1489](https://doi.org/10.3931/e-rara-12425)) populär gemachtes christliches Geschichtsverständnis. In 'De civitate Dei', legte er die Grundlage für diesen chronologischen Rahmen, während des Niederganges des West Römischen Imperiums, als eine umfassende christliche Interpretation von *Menschheitsgeschichte* und dem Verhältnis zwischen der *geistlichen und weltlichen* Welt.  
 [^59]: 'hebraicam veritate[m]' und 'nach hebreyscher warheit', bezog sich auf den *ursprünglichen* hebräischen Text der Bibel, im Gegensatz zur griechischen *Septuaginta*.  
 [^60]: '.i656.' vs. '.im.vc. lvi.', 1656 vs. 1556.  
-[^61]: charakteristisch für Isidor von Sevilla oder Beda, diese brachten die unterschiedlichen Zeitabläufe in Einklang.  
+[^61]: charakteristisch für Isidor von Sevilla ([1802](https://books.google.com/books?id=wb8Z_vlSyJwC)) oder Beda ([1125](http://archivesetmanuscrits.bnf.fr/ark:/12148/cc76825p)), diese brachten die unterschiedlichen Zeitabläufe in Einklang.  
 [^62]: 'matusale mortuus' und 'matusaleh gestorben', ein häufiges chronologisches Problem in der mittelalterlichen Forschung, ob Methusalem die Sintflut überlebt hatte.  
 [^63]: 'S[e]c[un]da' und 'Das andre'.  
 [^64]: '292' vs. '.ijc.lxxxij.', 292 vs 282.  
@@ -119,15 +119,37 @@ Dies sind nun die Lebensalter des Menschen: Das (I) erste ist die *frühe Kindhe
 [^66]: 'transmigrat[i]o[n]is babilonis' und 'übergang babilonis'.  
 [^67]: 'terminum' und 'zil'.  
 [^68]: 'senectus' und 'das alt'.  
-[^69]: 'hora nouissima' und 'letzt stu[n]d', bekannt als erster Satz von Bernhard von Clunys 'De Contemptu Mundi', in dem er die Verderbnis der Welt und das Herannahen des Endes beschreibt.  
+[^69]: 'hora nouissima' und 'letzt stu[n]d', bekannt als erster Satz des  'De Contemptu Mundi' von Bernhard von Cluny ([1864](https://books.google.com/books?id=pAM_lfiF7EUC)), in dem er die Verderbnis der Welt und das Herannahen des Endes beschreibt.  
 [^70]: 'quiescentium' und 'die nw ruen'.  
 [^71]: 'resurgentium' und 'auffersteenden'.  
-[^72]: 'gratia misterij' und 'aus verborgener bedeütnus', die historischen Aufzeichnungen hatten zwar 17 Generationen im vierten Zeitalter, das Matthäusevangelium (Matthäus 1,17) teilt jedoch die Genealogie Jesu absichtlich in drei Gruppen zu je 14 ein. Dieses dient weniger zur *historisch korrekten* Darstellung, sondern ist vielmehr eine *mystische* Symbolisierung im Rahmen der *hermeneutischen* Technik der *Gematria* (wobei Buchstaben des Alphabets numerische Werte zugeordnet werden). Bemerkenswert ist hier jedoch, dass Matthäus offensichtlich mehrere Namen aus den historischen Aufzeichnungen *weggelassen* hat, um die Zählung in drei Gruppen von je 14 unterteilen zu *können*.  
+[^72]: 'gratia misterij' und 'aus verborgener bedeütnus', die historischen Aufzeichnungen hatten zwar 17 Generationen im vierten Zeitalter, das Matthäusevangelium (vgl. Jiménez de Cisneros, [1517](https://doi.org/10.3931/e-rara-46695), Matthäus 1,17) teilt jedoch die Genealogie Jesu absichtlich in drei Gruppen zu je 14 ein. Dieses dient weniger zur *historisch korrekten* Darstellung, sondern ist vielmehr eine *mystische* Symbolisierung im Rahmen der *hermeneutischen* Technik der *Gematria* (wobei Buchstaben des Alphabets numerische Werte zugeordnet werden). Bemerkenswert ist hier jedoch, dass Matthäus offensichtlich mehrere Namen aus den historischen Aufzeichnungen *weggelassen* hat, um die Zählung in drei Gruppen von je 14 unterteilen zu *können*.  
 [^73]: 'infantia' und 'ungesprechheyt'.  
 [^74]: 'puericia' und 'kintheit'.  
 [^75]: 'adolesce[n]tia' und 'zeittigkeit'.  
 [^76]: 'iuue[n]t[us]' und 'iuge[n]t'.  
 [^77]: 'senect[us]' und 'altheit'.  
 [^78]: 'decrepita' und 'das verlebt'.  
+
+## References
+
+Augustinus, A. (1489). *De Civitate Dei*. Edited by Brant, S., Thomas, Nicolaus. Basel: Johannes Amerbach. [https://doi.org/10.3931/e-rara-12425](https://doi.org/10.3931/e-rara-12425)
+
+Beda. (1125). *Beda, de Natura Rerum, de Temporibus, etc*. Latin 16361. Paris: Bibliothèque nationale de France. Département des Manuscrits. [http://archivesetmanuscrits.bnf.fr/ark:/12148/cc76825p](http://archivesetmanuscrits.bnf.fr/ark:/12148/cc76825p)
+
+Bernard of Cluny. (1864). *De Contemptu Mundi*. Harvard University: J. T. Hayes. [https://books.google.com/books?id=pAM_lfiF7EUC](https://books.google.com/books?id=pAM_lfiF7EUC)
+
+De Seville, I. (1802). *S. Isidori Hispalensis Episcopi Hispaniarum Doctoris Opera Omnia*. Edited by Arevalo, F. Romae: Apvd Antonivm Fvlgonivm. [https://books.google.com/books?id=wb8Z_vlSyJwC](https://books.google.com/books?id=wb8Z_vlSyJwC)
+
+Dionysius. (1350). *De Caelesti Hierarchia*. MS Gr 2. Oxford, Magdalen College: Oxford Digital Library. [https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)
+
+Étaix, R. (1999). *Gregorius Magnus, Homiliae in Evangelia*. Corpus Christianorum Series Latina. Vol. 141. Turnhout: Brepols. [https://books.google.com/books?id=r4ERnwEACAAJ](https://books.google.com/books?id=r4ERnwEACAAJ)
+
+Guazzo, F. M. (1608). *Compendium Maleficarum in Tres Libros Distinctum Ex Pluribus Authoribus*. Mediolani: Apud Haeredes August. Tradati. [https://archive.org/details/compendiummalefi00guaz/page/n2/mode/1up](https://archive.org/details/compendiummalefi00guaz/page/n2/mode/1up)
+
+Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. [https://doi.org/10.3931/e-rara-46695](https://doi.org/10.3931/e-rara-46695)
+
+Meister Eckhart. (1936). *Die Lateinischen Werke*. Edited by Weiss Sturlese L. Stuttgart: Kohlhammer. [http://www.eckhart.de/opus.htm](http://www.eckhart.de/opus.htm)
+
+Thomas. (1485). *Summa Theologica: Partes 1-3*. Basel: Michael Wenssler. [https://doi.org/10.3931/e-rara-15170](https://doi.org/10.3931/e-rara-15170)
 
 

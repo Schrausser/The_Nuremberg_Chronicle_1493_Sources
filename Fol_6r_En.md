@@ -75,7 +75,7 @@ These are the ages of man: The (I) first is *early childhood*[^73], from birth t
 [^20]: 'caliginosum' and 'tunckeln'.  
 [^21]: found particularly in the handbook of Christian doctrine, the 'Elucidarium', a frequent theological reference to the *atmospheric prison* in which fallen angels remain until the Last Judgment, c.f. Ephesians or 2 Peter 2:4 'for God did not spare the angels who sinned, but cast them into <ins>*Hell*</ins> and put them in *chains of darkness*, [...]'. Note especially the '*chains of darkness*,' which symbolize complete captivity and *separation from* <ins>*God's light*</ins>.  
 [^22]: 'tempestates' and 'ungestümigkeit'.  
-[^23]: c.f. Francesco Maria Guazzo's 'Compendium Maleficarum'.  
+[^23]: c.f. Francesco Maria Guazzo ([1608](https://archive.org/details/compendiummalefi00guaz/page/n2/mode/1up)).  
 [^24]: 'orbes' and 'umbkrais'.  
 [^25]: 'excellit' and 'ubertrifft'.  
 [^26]: 'ipse deus' and 'der got'.  
@@ -83,7 +83,7 @@ These are the ages of man: The (I) first is *early childhood*[^73], from birth t
 [^28]: 'super om[n]ia' and 'über alle'.  
 [^29]: 'predictorum' and 'vorgenante[n]'.  
 [^30]: 'miliaria. hec sunt stadia .cxxvi.', this results in 15625 miles × 126 = 1968750 stadia, which, using *Attic* stadia, gives a distance of 0.18498 × 1968750 = 364179.375 km from the Earth to the Moon. With a current *maximum* distance (*apogee*) of 406740 km, the difference is -42560.625 km, and with a *minimal* distance (*perigee*) of 356410 km, the difference is +7769.375 km. However, this corresponds to the distance of the moon about *800 million* years ago (*Tonium* in the *Neoproterozoic* era, 363000 to 367000 km).  
-[^31]: '... vt q[ui]dam dixerunt [et] male ...', Pseudo-Dionysius the Areopagite defined whether the term hierarchy can be applied to the Holy Trinity.  
+[^31]: '... vt q[ui]dam dixerunt [et] male ...', Pseudo-Dionysius the Areopagite ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)) defined whether the term hierarchy can be applied to the Holy Trinity.  
 [^32]: '[con]siderant' and 'betrachten'.  
 [^33]: 'bonitate[m]' and 'guttheit'.  
 [^34]: 'virtute[m]' and 'kraft'.  
@@ -91,7 +91,7 @@ These are the ages of man: The (I) first is *early childhood*[^73], from birth t
 [^36]: 'charitas' and 'lib'.  
 [^37]: 'sedet' and 'sitzt'.  
 [^38]: 'equitas' and 'gleicheit'.  
-[^39]: by Pseudo-Dionysius the Areopagite, often also attributed to Saint Gregory the Great and also adapted by Meister Eckhart, reflects his Trinitarian theology, in which he harmonizes the different ways of *perceiving God* with the three *persons* of the Trinity.  
+[^39]: by Pseudo-Dionysius the Areopagite ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)), often also attributed to Saint Gregory the Great (c.f. Étaix, [1999](https://books.google.com/books?id=r4ERnwEACAAJ)), also adapted by Meister Eckhart ([1936](http://www.eckhart.de/opus.htm)), reflects his Trinitarian theology, in which he harmonizes the different ways of *perceiving God* with the three *persons* of the Trinity.  
 [^40]: 'dominat[i]ones' and 'herschengel'.  
 [^41]: 'principatus' and 'fürstengel'.  
 [^42]: 'potestates' and 'gewaltengel', better *ability*, *skill*.    
@@ -109,11 +109,11 @@ These are the ages of man: The (I) first is *early childhood*[^73], from birth t
 [^54]: 'Hec dicta sunt s[ecundu]m Gregoriu[m]', common phrase in medieval manuscripts, the preceding passage was marked as quoted from the work of Pope Gregory I.  
 [^55]: 'trinitas p[er]sonarum diuinarum' and 'trinitet der gottliche[n] person'.  
 [^56]: 'vt patet'.  
-[^57]: Thomas Aquinas elaborated on this in works such as the 'Summa Theologica' and followed the Dionysian structure. The idea that every hierarchy reflects the *Trinity of divine persons* is a central theme of medieval Scholasticism.  
-[^58]: The Christian understanding of history popularized by Saint Augustine. In 'De civitate Dei', he laid the foundation for this chronological framework during the decline of the Western Roman Empire as a comprehensive Christian interpretation of *human history* and the relationship between the *spiritual and secular* worlds.  
+[^57]: Thomas Aquinas ([1485](https://doi.org/10.3931/e-rara-15170)) elaborated on this in works such as the 'Summa Theologica' and followed the Dionysian structure. The idea that every hierarchy reflects the *Trinity of divine persons* is a central theme of medieval Scholasticism.  
+[^58]: The Christian understanding of history popularized by Saint Augustine ([1489](https://doi.org/10.3931/e-rara-12425)). In 'De civitate Dei', he laid the foundation for this chronological framework during the decline of the Western Roman Empire as a comprehensive Christian interpretation of *human history* and the relationship between the *spiritual and secular* worlds.  
 [^59]: 'hebraicam veritate[m]' und 'nach hebreyscher warheit', referred to the *original* Hebrew text of the Bible, as opposed to the Greek *Septuagint*.  
 [^60]: '.i656.' vs. '.im.vc. lvi.', 1656 vs. 1556.  
-[^61]: Characteristic of Isidore of Seville or Bede, they harmonized the different time periods.  
+[^61]: Characteristic of Isidore of Seville ([1802](https://books.google.com/books?id=wb8Z_vlSyJwC)) or Bede ([1125](http://archivesetmanuscrits.bnf.fr/ark:/12148/cc76825p)), they harmonized the different time periods.  
 [^62]: 'matusale mortuus' and 'matusaleh gestorben', a common chronological problem in medieval research: whether Methuselah survived the Flood.  
 [^63]: 'S[e]c[un]da' and 'Das andre'.  
 [^64]: '292' vs. '.ijc.lxxxij.', 292 vs 282.  
@@ -121,10 +121,10 @@ These are the ages of man: The (I) first is *early childhood*[^73], from birth t
 [^66]: 'transmigrat[i]o[n]is babilonis' and 'übergang babilonis'.  
 [^67]: 'terminum' and 'zil'.  
 [^68]: 'senectus' and 'das alt'.  
-[^69]: 'hora nouissima' and 'letzt stu[n]d', known as the first sentence of Bernard of Cluny's 'De Contemptu Mundi', in which he describes the corruption of the world and the approach of the end.  
+[^69]: 'hora nouissima' and 'letzt stu[n]d', known as the first sentence in 'De Contemptu Mundi' of Bernard of Cluny ([1864](https://books.google.com/books?id=pAM_lfiF7EUC)), in which he describes the corruption of the world and the approach of the end.  
 [^70]: 'quiescentium' and 'die nw ruen'.  
 [^71]: 'resurgentium' and 'auffersteenden'.  
-[^72]: 'gratia misterij' and 'aus verborgener bedeütnus', while historical records list 17 generations in the fourth age, the Gospel of Matthew (Matthew 1:17) deliberately divides Jesus' genealogy into three groups of 14 each. This serves less as a *historically accurate* representation than as a *mystical* symbolization within the *hermeneutic* technique of *gematria* (where letters of the alphabet are assigned numerical values). It is noteworthy, however, that Matthew apparently *omitted* several names from the historical records in order to *be able* to divide the count into three groups of 14 each.  
+[^72]: 'gratia misterij' and 'aus verborgener bedeütnus', while historical records list 17 generations in the fourth age, the Gospel of Matthew (c f. Jiménez de Cisneros, [1517](https://doi.org/10.3931/e-rara-46695), Matthew 1:17) deliberately divides Jesus' genealogy into three groups of 14 each. This serves less as a *historically accurate* representation than as a *mystical* symbolization within the *hermeneutic* technique of *gematria* (where letters of the alphabet are assigned numerical values). It is noteworthy, however, that Matthew apparently *omitted* several names from the historical records in order to *be able* to divide the count into three groups of 14 each.  
 [^73]: 'infantia' and 'ungesprechheyt'.  
 [^74]: 'puericia' and 'kintheit'.  
 [^75]: 'adolesce[n]tia' and 'zeittigkeit'.  
@@ -132,7 +132,27 @@ These are the ages of man: The (I) first is *early childhood*[^73], from birth t
 [^77]: 'senect[us]' and 'altheit'.  
 [^78]: 'decrepita' and 'das verlebt'.  
 
+## References
 
+Augustinus, A. (1489). *De Civitate Dei*. Edited by Brant, S., Thomas, Nicolaus. Basel: Johannes Amerbach. [https://doi.org/10.3931/e-rara-12425](https://doi.org/10.3931/e-rara-12425)
+
+Beda. (1125). *Beda, de Natura Rerum, de Temporibus, etc*. Latin 16361. Paris: Bibliothèque nationale de France. Département des Manuscrits. [http://archivesetmanuscrits.bnf.fr/ark:/12148/cc76825p](http://archivesetmanuscrits.bnf.fr/ark:/12148/cc76825p)
+
+Bernard of Cluny. (1864). *De Contemptu Mundi*. Harvard University: J. T. Hayes. [https://books.google.com/books?id=pAM_lfiF7EUC](https://books.google.com/books?id=pAM_lfiF7EUC)
+
+De Seville, I. (1802). *S. Isidori Hispalensis Episcopi Hispaniarum Doctoris Opera Omnia*. Edited by Arevalo, F. Romae: Apvd Antonivm Fvlgonivm. [https://books.google.com/books?id=wb8Z_vlSyJwC](https://books.google.com/books?id=wb8Z_vlSyJwC)
+
+Dionysius. (1350). *De Caelesti Hierarchia*. MS Gr 2. Oxford, Magdalen College: Oxford Digital Library. [https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)
+
+Étaix, R. (1999). *Gregorius Magnus, Homiliae in Evangelia*. Corpus Christianorum Series Latina. Vol. 141. Turnhout: Brepols. [https://books.google.com/books?id=r4ERnwEACAAJ](https://books.google.com/books?id=r4ERnwEACAAJ)
+
+Guazzo, F. M. (1608). *Compendium Maleficarum in Tres Libros Distinctum Ex Pluribus Authoribus*. Mediolani: Apud Haeredes August. Tradati. [https://archive.org/details/compendiummalefi00guaz/page/n2/mode/1up](https://archive.org/details/compendiummalefi00guaz/page/n2/mode/1up)
+
+Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. [https://doi.org/10.3931/e-rara-46695](https://doi.org/10.3931/e-rara-46695)
+
+Meister Eckhart. (1936). *Die Lateinischen Werke*. Edited by Weiss Sturlese L. Stuttgart: Kohlhammer. [http://www.eckhart.de/opus.htm](http://www.eckhart.de/opus.htm)
+
+Thomas. (1485). *Summa Theologica: Partes 1-3*. Basel: Michael Wenssler. [https://doi.org/10.3931/e-rara-15170](https://doi.org/10.3931/e-rara-15170)
 
 
 
