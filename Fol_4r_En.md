@@ -40,13 +40,19 @@ Maybe we will hear *this* **Horace**, but here was not the right place.
 [^13]: 'stellarum' und 'stern[n]'.  
 [^14]: 'distributa' und 'außgetailt'.  
 [^15]: 'ministeria' und 'dienstperkeiten'.  
-[^16]: Refers to *De Natura Deorum* (2.68), where it is suggested that the sun is called *sol* (solus) because it is the only one of its kind, or because it *appears* alone after it has obscured all the other stars.   
+[^16]: Refers to *De Natura Deorum* (Cicero & Cicero, [1496](https://doi.org/10.3931/e-rara-89116), 2.68), where it is suggested that the sun is called *sol* (solus) because it is the only one of its kind, or because it *appears* alone after it has obscured all the other stars.   
 [^17]: 'sideribus'.  
 [^18]: 'fulgore clarissimo' und 'allerklarste[m] schein'.  
 [^19]: 'humor' und 'feüchtigkeit' (to dispel the darkness).  
 [^20]: 'a[n]![m]alia'(sic) und 'geschöpff'.  
-[^21]: This reflects a classic philosophical debate of the Middle Ages: are celestial bodies merely physical components of the heaven, or do they possess their own *soul*? 
+[^21]: This reflects a classic philosophical debate of the Middle Ages: are celestial bodies merely physical components of the heaven, or do they possess their own *soul*?  
 [^22]: 'Genethliacis'.  
 [^23]: 'maculis'.  
 [^24]: 'siderali scie[n]tia'.  
-[^25]: 'Although they are beautiful and deserve recognition' is frequently used to describe the works of Horace, summarizing his famous principle from the *Ars Poetica*.
+[^25]: 'Although they are beautiful and deserve recognition' is frequently used to describe the works of Horace ([1868](https://google.cat/books?id=A28VAAAAYAAJ)), summarizing his famous principle from the *Ars Poetica*.
+
+## References
+
+Cicero, M. T., & Cicero, Q. (1496). *M.T. Ciceronis de Natura Deorum Libri Tres* ... Impræssum Venetiis: per Symonem Papiensem dictum Biuilaqua. [https://doi.org/10.3931/e-rara-89116](https://doi.org/10.3931/e-rara-89116)
+
+Horace. (1868). *Q. Horatii Flacci Opera Omnia*. Oxoni et Londini: J. Parker et Soc. [https://google.cat/books?id=A28VAAAAYAAJ](https://google.cat/books?id=A28VAAAAYAAJ)

@@ -40,7 +40,7 @@ Vielleicht werden wir *diesen* **Horaz** noch hören, aber jetzt war nicht der r
 [^13]: 'stellarum' und 'stern[n]'.  
 [^14]: 'ministeria' und 'dienstperkeiten'.  
 [^15]: 'distributa' und 'außgetailt'.  
-[^16]: bezieht sich auf *De Natura Deorum* (2.68), wo angedeutet wird, dass die Sonne *sol* (solus) genannt wird, weil sie die einzige ihrer Art ist, oder weil sie allein *erscheint*, nachdem sie alle anderen Sterne verdeckt hat.  
+[^16]: bezieht sich auf *De Natura Deorum* (Cicero & Cicero, [1496](https://doi.org/10.3931/e-rara-89116), 2.68), wo angedeutet wird, dass die Sonne *sol* (solus) genannt wird, weil sie die einzige ihrer Art ist, oder weil sie allein *erscheint*, nachdem sie alle anderen Sterne verdeckt hat.  
 [^17]: 'sideribus'.  
 [^18]: 'fulgore clarissimo' und 'allerklarste[m] schein'.  
 [^19]: 'humor' und 'feüchtigkeit' (um die Dunkelheit zu vertreiben).  
@@ -49,6 +49,12 @@ Vielleicht werden wir *diesen* **Horaz** noch hören, aber jetzt war nicht der r
 [^22]: 'Genethliacis'.  
 [^23]: 'maculis'.  
 [^24]: 'siderali scie[n]tia'.  
-[^25]: 'Obwohl sie schön sind und Anerkennung verdienen' wird häufig verwendet um die Werke von Horaz zu beschreiben, fasst sein berühmtes Prinzip aus der *Ars Poetica* zusammen.
+[^25]: 'Obwohl sie schön sind und Anerkennung verdienen' wird häufig verwendet um die Werke von Horaz ([1868](https://google.cat/books?id=A28VAAAAYAAJ)) zu beschreiben, fasst sein berühmtes Prinzip aus der *Ars Poetica* zusammen.
+
+## References
+
+Cicero, M. T., & Cicero, Q. (1496). *M.T. Ciceronis de Natura Deorum Libri Tres* ... Impræssum Venetiis: per Symonem Papiensem dictum Biuilaqua. [https://doi.org/10.3931/e-rara-89116](https://doi.org/10.3931/e-rara-89116)
+
+Horace. (1868). *Q. Horatii Flacci Opera Omnia*. Oxoni et Londini: J. Parker et Soc. [https://google.cat/books?id=A28VAAAAYAAJ](https://google.cat/books?id=A28VAAAAYAAJ)
 
 
