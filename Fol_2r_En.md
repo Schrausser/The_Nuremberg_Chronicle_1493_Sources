@@ -10,7 +10,7 @@ A *contemporary* English translation is presented from comparing the existing La
 
 By describing a divine *creation*, Moses exposes the three errors[^3] of **Plato**, **Aristotle** and **Epicurus**. Plato believed that (1) God, (2) the *Ideas*[^4] and Yle had existed from eternity and (3) that the world was fundamentally made from this Yle. The Greeks used the term *Yle* to refer to the first formless mass from which *everything was created*; the *visible* things formed from harmonizied elements. Or, the finest dust[^5] that glitters in sunlight, made from matter and form.[^6]
 
-(ad 3) Nevertheless[^7], God created the world without any available and pre-prepared material; for *he* is to be regarded as the most cunning[^8] and wisest Creator before he accomplished the work of the world. In himself was the source of perfect and accomplished goodness, so that[^7] goodness might flow forth from it like a *stream*[^10].[^11]
+(ad 3) Nevertheless[^7], God created the world without any available and pre-prepared material; for *he* is to be regarded as the most cunning[^8] and wisest Creator before he accomplished the work of the world. In himself was the source of perfect and accomplished goodness, so that[^9] goodness might flow forth from it like a *stream*[^10].[^11]
 
 (ad 2) Of all beings, he primordially created the *angels*[^12] from that which is *nothing* (***n[]***).[^13] Thus, *he* is powerful through *eternity* and, through the strength of this immense power (which is limitless and immeasurable[^14]), *equal* to the life of the Creator[^15].[^16] 
 Therefore, it may seem astonishing that, prior to the creation of the world, raw matter[^17] from *nothing* had to be prepared.[^18] 
@@ -25,7 +25,7 @@ Ovid also remembers this:
 Thus, the Spirit of the Lord (as an instrument of divine art) floated  over the waters, like the will of a master builder who organizes all that needs to be done. Through this, God's works are perfect and creation is expressed in the *number six*[^31], whose components are 1, 2 and 3, which rise to form a triangle[^32]. In his account of the six days, Moses dedicates the first day (i) to creation, the second and third days (ii) to order and design and (iii) the remaining days to the adornment of the world.[^33]
 
 [^1]: 'dan[n] sie begreüft durch sich selbs nichtzit'.  
-[^2]: from Lactantius ([1497](https://books.google.com/books?id=qGsnghsi3uUC), Buch 2, Kapitel 9/10).  
+[^2]: from Lactantius ([1497](https://books.google.com/books?id=qGsnghsi3uUC), Book 2, Chapter 9/10).  
 [^3]: Refers to the classical philosophical views on the creation and eternity of the universe that contradicted Genesis.    
 [^4]: 'ydeas' and 'die vorpildnus oder gestaltnus seiner geschöpff', ideas (Ydeas) are the eternal, perfect archetypes in Platonic thought.  
 [^5]: 'de athomis' and 'de[m] aller dynnisten staub'.  
@@ -34,7 +34,7 @@ Thus, the Spirit of the Lord (as an instrument of divine art) floated  over the 
 [^8]: 'prude[n]tissim[us]'.  
 [^9]: 'vt'.  
 [^10]: 'tam[que]m riu[us]' and 'als ein pach'.  
-[^11]: It serves as a Christian-Neoplatonic argument for creation from nothing (<ins>*creatio ex **nihilo***</ins>) and contrasts it with Greek philosophical views. It emphasizes that *God* acted not accidentally, but *consciously* ('excogitandum').(vgl. Trismegistu, [1471](https://gdz.sub.uni-goettingen.de/id/PPN858183994)).  
+[^11]: It serves as a Christian-Neoplatonic argument for creation from nothing (<ins>*creatio ex **nihilo***</ins>) and contrasts it with Greek philosophical views. It emphasizes that *God* acted not accidentally, but *consciously* ('excogitandum').(c.f. Trismegistu, [1471](https://gdz.sub.uni-goettingen.de/id/PPN858183994)).  
 [^12]: The intellectual world, s. fol. 1r 'quem theologi angelicum: philosophi: autem intellectualem vocant'.  
 [^13]: 'ex eo q[uo]d n[] e[st]' and 'auß de[n] das nicht ist'.  
 [^14]: 'q[uam] fine ac mo[do] caret' and  'die des ends vn[d] der maß mangelt'.  
