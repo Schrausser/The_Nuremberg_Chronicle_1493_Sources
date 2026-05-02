@@ -37,7 +37,7 @@ Moses gives a detailed account of the *three* worlds and how God ordered them. O
 [^6]: 'licebit' and 'gezime[n] wil'.  
 [^7]: Beginning of the first book of Diodorus Siculus' 'Bibliotheca historica', 1st c. BC (c.f. Diodorus, [1476](https://doi.org/10.3931/e-rara-68988), fol. 15v).  
 [^8]: 'nisi matura iam etate atingeret' and  'niemant dan der zeitigs alters wer', older than 15 years.  
-[^9] s. Boccaccio ([1360](https://digi.vatlib.it/view/MSS_Pal.lat.938)).  
+[^9]: s. Boccaccio ([1360](https://digi.vatlib.it/view/MSS_Pal.lat.938)).  
 [^10]: intellectual.  
 [^11]: from the 'Heptaplus' (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217), p. 1 ff.).  
 
