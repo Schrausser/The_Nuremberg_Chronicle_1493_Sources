@@ -44,7 +44,7 @@ Moses berichtet ausführlich von den *drei* Welten und so wie Gott diese geordne
 
 Boccaccio, G. (1360). *Genealogiae deorum gentilium libri XV*. Pal. lat. 938. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Pal.lat.938](https://digi.vatlib.it/view/MSS_Pal.lat.938)
 
-Diodorus. (1476). *Diodori Sicvli Historiarvm Priscarvm*. Edited by Tacitus Poggio Bracciolini G. F. Venetiis: per Andreā Iacobi Katharēsem Andrea Vendramino Duce fortunatissimo. [https://doi.org/10.3931/e-rara-68988](https://doi.org/10.3931/e-rara-68988)
+Diodorus. (1476). *Diodori Sicvli Historiarvm Priscarvm*. Edited by Poggio Bracciolini, G. F., & Tacitus, C. Venetiis: per Andreā Iacobi Katharēsem Andrea Vendramino Duce fortunatissimo. [https://doi.org/10.3931/e-rara-68988](https://doi.org/10.3931/e-rara-68988)
 
 ———. (1578). *Diodori Siculi Bibliothecae Historicae Libri XV: ... Nunc Iterum Latinè ... Recogniti, & ... Eduntur*. Edited by Grynaeus, J. J., Châteillon, J., Dictys, Dares, & Tryphiodorus. Basileae: ex officina Henricpetrina. [https://doi.org/10.3931/e-rara-35702](https://doi.org/10.3931/e-rara-35702)
 
