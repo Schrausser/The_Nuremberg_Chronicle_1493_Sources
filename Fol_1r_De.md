@@ -36,7 +36,7 @@ Moses berichtet ausführlich von den *drei* Welten und so wie Gott diese geordne
 [^6]: 'licebit' und 'gezime[n] wil'.  
 [^7]: Anfang des ersten Buches der 'Bibliotheca historica' des Diodorus Siculus, 1. Jahrhundert v. Chr. (vgl. Diodorus, [1476](https://doi.org/10.3931/e-rara-68988), fol. 15v).  
 [^8]: 'nisi matura iam etate atingeret' und  'niemant dan der zeitigs alters wer', älter als 15 Jahre.  
-[^9] s. Boccaccio ([1360](https://digi.vatlib.it/view/MSS_Pal.lat.938)).  
+[^9]: s. Boccaccio ([1360](https://digi.vatlib.it/view/MSS_Pal.lat.938)).  
 [^10]: intellektuelle.  
 [^11]: aus dem 'Heptaplus' (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217), p. 1 ff.).  
 
