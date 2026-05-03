@@ -32,28 +32,28 @@ Maybe we will hear *this* **Horace**, but here was not the right place.[^30]
 [^5]: 'animantibus'.  
 [^6]: 'siderum' und 'gestirns'.  
 [^7]: 'Celestium enim corporum' und 'himlischen leiplichen ding'.  
-[^7]: from the 'Hexameron' (Ambrosius, [1897](https://books.google.com/books?id=L1DbnAAACAAJ), Book 4, Chapter 1).  
-[^8]: 'mundi totius' und 'ga[n]tze[n] werlt'.   
-[^9]: 'vniuersi' und 'werlt'.  
-[^10]: 'siderum' und 'gestirns'.  
+[^8]: from the 'Hexameron' (Ambrosius, [1897](https://books.google.com/books?id=L1DbnAAACAAJ), Book 4, Chapter 1).  
+[^9]: 'mundi totius' und 'ga[n]tze[n] werlt'.   
+[^10]: 'vniuersi' und 'werlt'.  
+[^11]: 'siderum' und 'gestirns'.  
 [^12]: c.f. 'Heptaplus' (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217)).  
-[^11]: 'illuminatio' und 'erlewchtu[n]g'.  
-[^12]: 'vt lucerent in celo' und 'zu scheine[n] am[m] hymel'.  
-[^13]: 'stellarum' und 'stern[n]'.  
-[^14]: 'distributa' und 'außgetailt'.  
-[^15]: 'ministeria' und 'dienstperkeiten'.  
-[^16]: Refers to *De Natura Deorum* (Cicero & Cicero, [1496](https://doi.org/10.3931/e-rara-89116), 2.68), where it is suggested that the sun is called *sol* (solus) because it is the only one of its kind, or because it *appears* alone after it has obscured all the other stars.   
-[^17]: 'sideribus'.  
-[^18]: 'fulgore clarissimo' und 'allerklarste[m] schein'.  
-[^19]: 'humor' und 'feüchtigkeit' (to dispel the darkness).  
+[^13]: 'illuminatio' und 'erlewchtu[n]g'.  
+[^14]: 'vt lucerent in celo' und 'zu scheine[n] am[m] hymel'.  
+[^15]: 'stellarum' und 'stern[n]'.  
+[^16]: 'distributa' und 'außgetailt'.  
+[^17]: 'ministeria' und 'dienstperkeiten'.  
+[^18]: Refers to *De Natura Deorum* (Cicero & Cicero, [1496](https://doi.org/10.3931/e-rara-89116), 2.68), where it is suggested that the sun is called *sol* (solus) because it is the only one of its kind, or because it *appears* alone after it has obscured all the other stars.   
+[^19]: 'sideribus'.  
+[^20]: 'fulgore clarissimo' und 'allerklarste[m] schein'.  
+[^21]: 'humor' und 'feüchtigkeit' (to dispel the darkness).  
 [^22]: from the 'Speculum Naturale' (De Beauvais, [1964](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20612), Buch 1, Kapitel 75).  
-[^20]: 'a[n]![m]alia'(sic) und 'geschöpff'.  
-[^21]: This reflects a classic philosophical debate of the Middle Ages: are celestial bodies merely physical components of the heaven, or do they possess their own *soul*?  
-[^22]: 'Genethliacis'.  
-[^23]: 'maculis'.  
-[^24]: 'siderali scie[n]tia'.  
+[^23]: 'a[n]![m]alia'(sic) und 'geschöpff'.  
+[^24]: This reflects a classic philosophical debate of the Middle Ages: are celestial bodies merely physical components of the heaven, or do they possess their own *soul*?  
+[^25]: 'Genethliacis'.  
+[^26]: 'maculis'.  
+[^27]: 'siderali scie[n]tia'.  
 [^28]: from the 'Heptaplus' (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217)).  
-[^25]: 'Although they are beautiful and deserve recognition' is frequently used to describe the works of Horace ([1868](https://google.cat/books?id=A28VAAAAYAAJ)), summarizing his famous principle from the *Ars Poetica*.  
+[^29]: 'Although they are beautiful and deserve recognition' is frequently used to describe the works of Horace ([1868](https://google.cat/books?id=A28VAAAAYAAJ)), summarizing his famous principle from the *Ars Poetica*.  
 [^30]: 'sed nunc non erat hic locus', Horace ([1868](https://google.cat/books?id=A28VAAAAYAAJ), *Ars Poetica*, Lines 14–19).  
 
 ## References
