@@ -51,6 +51,10 @@ For better readability, the comments are presented as footnotes.
 
 >Strabo, a historian, geographer and philosopher, and also interpreter of Homeric majesty, was (as some say) a native of Crete and, as we discover by his works, highly renowned at this time. And as he was very highly educated and regarded as the most informed man in great things, he wrote, as evidence of his merit, 17 beautiful books on the geography of the world. In it the regions of the earth, which had been neglected or forgotten by reason of their antiquity, were carefully recorded and indicated. He very clearly placed before our eyes races, nations, history, mountains, and seas, and their location. He traced his maternal ancestry to the blood of Mithridates, the king.[^16]
 
+## Strabo, p. 472
+
+>Strabo, also a monk from Gaul, was a very eminent Gaul and a most diligent commentator. He was a disciple of the previously mentioned Rabanus, and was a teacher of no less importance during this time than his master. He commented very beautifully on the books of the Bible, and he wrote about the duties of the Church to the emperor Louis (Ludovicum), as well as many other things. 
+
 ## Bede, p. 449
 
 >Bede (Beda), an English priest and monk, whose surname is the Venerable, and who was very well versed in the Latin and Greek tongue to no mean extent, performed no small measure of labor for the Christian life in the Year of the Lord 692. At the age of thirty he was consecrated as a priest; and although he was born in the most remote corner of the earth, yet he was illustrious throughout the world; for he did not cease preaching, teaching and writing even in his old age. For 59 years he studied and wrote books, and was never found idle. Because of his courage and honorable life he was surnamed the Venerable. Being a highly educated man, he wrote many things of good Christian service. He died at the age of 72, full of good works. The learned men, Strabo and Haymus, were his brothers.[^17]

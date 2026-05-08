@@ -49,6 +49,10 @@
 
 >Strabo, Historiker, Geograph und Philosoph sowie Interpret der homerischen Epen, stammte (wie manche behaupten) aus Kreta und genoss, wie seine Werke belegen, zu seiner Zeit hohes Ansehen. Da er überaus gebildet war und als einer der belesensten Männer in bedeutenden Fragen galt, verfasste er als Beweis seines Wissens 17 prächtige Bücher über die Geographie der Welt. Darin wurden die Regionen der Erde, die aufgrund ihres hohen Alters vernachlässigt oder vergessen worden waren, sorgfältig erfasst und beschrieben. Er stellte uns Völker, Nationen, Geschichte, Gebirge und Meere sowie deren Lage anschaulich dar. Seine mütterliche Abstammung führte er auf das Blut des Königs Mithridates zurück.
 
+## Strabo
+
+>Strabo, ebenfalls ein gallischer Mönch, war ein hochangesehener Gallier und ein äußerst fleißiger Kommentator. Er war ein Schüler des bereits erwähnten Rabanus und zu dieser Zeit ein ebenso bedeutender Lehrer wie sein Meister. Er kommentierte die Bücher der Bibel auf wunderbare Weise und schrieb unter anderem über die Pflichten der Kirche gegenüber Kaiser Ludwig (Ludovicum).
+
 ## Beda
 
 >Beda, ein englischer Priester und Mönch, der den Beinamen „der Ehrwürdige“ trug und über ausgezeichnete Latein- und Griechischkenntnisse verfügte, leistete im Jahr 692 des Herrn einen bedeutenden Beitrag zum christlichen Leben. Mit dreißig Jahren wurde er zum Priester geweiht. Obwohl er in der entlegensten Gegend der Welt geboren wurde, genoss er weltweites Ansehen, denn er predigte, lehrte und schrieb bis ins hohe Alter unermüdlich. 59 Jahre lang studierte und verfasste er Bücher und war nie untätig. Aufgrund seines Mutes und seines ehrenhaften Lebens erhielt er den Beinamen „der Ehrwürdige“. Als hochgebildeter Mann verfasste er zahlreiche Schriften von christlichem Nutzen. Er starb im Alter von 72 Jahren, erfüllt von guten Taten. Die Gelehrten Strabo und Haymus waren seine Brüder.

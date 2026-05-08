@@ -48,6 +48,10 @@
 
 >**S**trabo der beschreiber der geschichten vnd gelegenhait der erden. auch ein naturlicher maister vnd außleger der geticht **Homeri** des poeten auß Creta oder Candia pirtig. ist (als ettliche sagen) zu disen zeiten hohberuembt gewesen als wir auß seinen buechern erfinden. vnd nach dem er fast hohgelert vnd in erkantnus großer ding der erfarnst gehalten wardt hat er vnder andernn anzaigungen seiner tugent. xvij. huebscher buecher von beschreibung der werlt gemacht. vnd darinn die vnderlaßnen oder versawmten oder auß alter vergeßnen oerter der werlt beym nagel angezaigt. vnd fleißigclich verzaihent. die voelcker. nacion. geschihten. berg. meer vnd ire riefier vnd gegent clerlich fuer vnsere awgen gesetzt. Er het seinen vrsprung auß mueterlicher linien von dem pluot **Mitridatis** des konigs.
 
+## Strabo, Blat CLXIXr
+
+>**S**Trabo auch ein closterman des benanten **rabani** iunger ist diser zeyt nit mynder dann derselb sein maister gewest. vnnd hat auch vil schoener schrifft gemacht vnnd begriffen.
+
 ## Beda, Blat CLVIIIv
 
 >**B**Eda en engellender briester vnd closterman des zunamens erwirdig genannt vnd lateinischer vnd kriechischer zungen nit wenig erfarn. hat im iar des herren vic.xcii. fuer das cristenlich wesen nit wenig gearbeitet. In dem .xxx. iar seins alters ward er zu briester geweihet. vnd wiewol er in eim eueßersten winckel der werlt geporn ist. so hat er doch die gantzen erden durchschinen. darumb dz er zeleren vnnd zepredigen bis in sein alter oder zeschrieben nit abgelaßen hat. also das er .lvix. iar zeleren vnnd buecher zemachen nye sewmlich gefunden worden ist. vnd vmb seiner tapfferheit vnd ersamen wesens willen ist er der erwirdig zugenambt worden. Er hat als ein hohgelert man vil guts nuetzlichs cristenlichs dings geschriben. vnd ist in dem .lxxxii. iar seins alters vol guter werck gestorben. ***Strabo*** vnnd **Haymo** die hohgelerten mann sind sein brueder gewesen.
