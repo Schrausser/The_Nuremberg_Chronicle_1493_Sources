@@ -49,25 +49,25 @@ ment	ref
 4r		89r		Marcus Tullius Cicero					29
 4r		92v		Quintus Horatius Flaccus				30
 2r		93v		Publius Ovidius Naso					31
-1r		94r		Strabo									32
-1r		97r		Philo of Alexandria³					33
-6r		107r	Saint Matthew the Evangelist			34
-1r		108r	Saint Luke the Evangelist				35
-6r		109v	Pseudo-Dionysius the Areopagite⁴		36
-1r		117v	Origen of Alexandria					37
-1r		133r	Saint Basil the Great					38
-1r		134v	Saint Ambrose of Milan					39
-1r		134v	Apollinarius of Laodicea				40
-1r		135r	Saint Jerome							41
-1r		135r	Saint Chrysostom of Constantinople		42
-1r		135v	Saint Didymus the Blind					43
-1r		136r	Saint Augustinus of Hippo				44
-1r		140v	Saint Remigius of Reims					45
-1r		141v	Saint Gennadius I of Constantinople		46
-6r		148r	Saint Gregory the Great					47
-6r		151v	Saint Isidore of Seville				48
-1r		158v	Saint Bede the Venerable				49
-1r		161v	Saint Giles the Hermit					50
+1r		97r		Philo of Alexandria³					32
+6r		107r	Saint Matthew the Evangelist			33
+1r		108r	Saint Luke the Evangelist				34
+6r		109v	Pseudo-Dionysius the Areopagite⁴		35
+1r		117v	Origen of Alexandria					36
+1r		133r	Saint Basil the Great					37
+1r		134v	Saint Ambrose of Milan					38
+1r		134v	Apollinarius of Laodicea				39
+1r		135r	Saint Jerome							40
+1r		135r	Saint Chrysostom of Constantinople		41
+1r		135v	Saint Didymus the Blind					42
+1r		136r	Saint Augustinus of Hippo				43
+1r		140v	Saint Remigius of Reims					44
+1r		141v	Saint Gennadius I of Constantinople		45
+6r		148r	Saint Gregory the Great					46
+6r		151v	Saint Isidore of Seville				47
+1r		158v	Saint Bede the Venerable				48
+1r		161v	Saint Giles the Hermit					49
+1r		169r	Walafrid Strabo							50
 1r		192v	Isaac Israeli ben Solomon				51
 1r		214r	Saint Albert the Great					52
 ~~~
@@ -85,7 +85,7 @@ On *original* sources see Diels ([1906](https://archive.org/details/diefragmente
 
 ## References
 
-Aristoteles, & Theophrastus. (1608). *Aristotelis Stagiritae Metaphysicorum libri XIIII. Theophrasti Metaphysicorum liber: quorum omnium recognitionem et additamentum versa pagina ostendit*. Genevae: apud Jacobum Stoer. [https://doi.org/10.3931/e-rara-56887](https://doi.org/10.3931/e-rara-56887)
+Aristoteles, & Theophrastus. (1608). *Aristotelis Stagiritae Metaphysicorum libri XIIII. Theophrasti Metaphysicorum liber: quorum omnium recognitionem et additamentum versa pagina ostendit*. Genevae: apud Jacobum Stoer. [https://doi.org/10.3931/e-rara	-56887](https://doi.org/10.3931/e-rara-56887)
 
 Benaissa, A., Henry, W. B., & et al., ed. (2025). *The Oxyrhynchus Papyri*. Vol. LXXXVIII. Graeco-Roman Memoirs. London: Egypt Exploration Society. [https://oxyrhynchus.web.ox.ac.uk/publications](https://oxyrhynchus.web.ox.ac.uk/publications)
 
