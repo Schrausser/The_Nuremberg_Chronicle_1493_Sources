@@ -41,16 +41,16 @@ Immo se tota [et] sua om[n]ia agnoscu[n]t.[^22]
 [^10]: 'nimi[orum] ad cibos' and 'als etlich zu speysung', probably animal *products* such as eggs or milk.  
 [^11]: 'v[er]o ad vestime[n]tu[m]' and 'ettlich zebeklaidung', like wool, etc.  
 [^12]: 'vt i[n] excole[n]da terra iuuarent. vn[de] dicta sunt iume[n]ta.'  
-[^13]: From St. Isidore of Seville's 'Etymologies' (Book XII, 1.7).  
+[^13]: From the 'Etymologies' (De Seville, [1802](https://books.google.com/books?id=wb8Z_vlSyJwC), Book XII, 1.7).  
 [^14]: 'imaginis sue forma[m]' and 'zu form oder gestalt seiner pildnus'.  
 [^15]: 'ho[mo]' and  'mensche[n]'  
 [^16]: 'humo' and  'lette[n] oder kloße der erde[n]'.  
 [^17]: reflects a common medieval etymological idea that associates *Homo* with *Humus*.  
-[^18]: c.f. the Christian apologist Lactantius in his 'Instituta Divina'.  
-[^19]: 'This living being(!) that we call human: cautious, agile, versatile, sharp in memory, full of reason and counsel; in its clear nature and attributes, born solely of the highest God. For it shares in all the races and natures of animate creatures, [but especially] in reason and understanding, which all other creatures lack.', Cicero 'De Legibus' (Book I, Section 22), discusses man as uniquely endowed with reason, which connects him with the *divine*.  
+[^18]: c.f. the 'Divinae Institutiones' (Lactantius, [1497](https://books.google.com/books?id=qGsnghsi3uUC)).   
+[^19]: 'This living being(!) that we call human: cautious, agile, versatile, sharp in memory, full of reason and counsel; in its clear nature and attributes, born solely of the highest God. For it shares in all the races and natures of animate creatures, [but especially] in reason and understanding, which all other creatures lack.', 'De Legibus' (Cicero & Cicero, [1496](https://doi.org/10.3931/e-rara-89116), Book I, Section 22), discusses man as uniquely endowed with reason, which connects him with the *divine*.  
 [^20]: 'machi[n]a' and  'paw'.  
-[^21]: From Ficino 'De Vita Coelitus Comparanda'.  
-[^22]: 'O Asclepius, man is a great wonder. Through this extraordinary name, human existence can boast: for it has come to pass that no creature disdains to serve him. Earth and elements stand by him; the animals are ready for him and serve him. For him the heavens fight; for him angels bring salvation. It should surprise no one that he is loved by all, in whom everything finds something of its own; indeed, everything and everything of its own recognizes in him', from the 'Asklepios' (section 6), a Hermetic text attributed to Hermes Trismegistus, also quoted in Pico's 'Oratio de hominis dignitate'.
+[^21]: From 'De Vita Coelitus Comparanda' (Ficinus, [1497](https://doi.org/10.3931/e-rara-68641)).    
+[^22]: 'O Asclepius, man is a great wonder. Through this extraordinary name, human existence can boast: for it has come to pass that no creature disdains to serve him. Earth and elements stand by him; the animals are ready for him and serve him. For him the heavens fight; for him angels bring salvation. It should surprise no one that he is loved by all, in whom everything finds something of its own; indeed, everything and everything of its own recognizes in him', from the 'Asklepios', a Hermetic text (vgl. Trismegistu, [1471](https://gdz.sub.uni-goettingen.de/id/PPN858183994)), also quoted in in Pico's 'Oratio de hominis dignitate' (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217)).  
 
 
 ## References
