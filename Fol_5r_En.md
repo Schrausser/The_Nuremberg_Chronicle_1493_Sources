@@ -51,3 +51,18 @@ Immo se tota [et] sua om[n]ia agnoscu[n]t.[^22]
 [^20]: 'machi[n]a' and  'paw'.  
 [^21]: From Ficino 'De Vita Coelitus Comparanda'.  
 [^22]: 'O Asclepius, man is a great wonder. Through this extraordinary name, human existence can boast: for it has come to pass that no creature disdains to serve him. Earth and elements stand by him; the animals are ready for him and serve him. For him the heavens fight; for him angels bring salvation. It should surprise no one that he is loved by all, in whom everything finds something of its own; indeed, everything and everything of its own recognizes in him', from the 'Asklepios' (section 6), a Hermetic text attributed to Hermes Trismegistus, also quoted in Pico's 'Oratio de hominis dignitate'.
+
+
+## References
+
+Cicero, M. T., & Cicero, Q. (1496). *M.T. Ciceronis de Natura Deorum Libri Tres* ... Impræssum Venetiis: per Symonem Papiensem dictum Biuilaqua. [https://doi.org/10.3931/e-rara-89116](https://doi.org/10.3931/e-rara-89116)
+
+De Seville, I. (1802). *S. Isidori Hispalensis Episcopi Hispaniarum Doctoris Opera Omnia*. Edited by Arevalo, F. Romae: Apvd Antonivm Fvlgonivm. [https://books.google.com/books?id=wb8Z_vlSyJwC](https://books.google.com/books?id=wb8Z_vlSyJwC)
+
+Ficinus, M. (1497). *De Triplici Vita*. Basel: Johann Amerbach. [https://doi.org/10.3931/e-rara-68641](https://doi.org/10.3931/e-rara-68641)
+
+Lactantius, L.C.F. (1497). *Divinae Institutiones*. Venetiis: Simon Bevilaqua. [https://books.google.com/books?id=qGsnghsi3uUC](https://books.google.com/books?id=qGsnghsi3uUC)
+
+Mirandola, G., & Mirandola, G. F. (1601). *Ioannis Pici, Mirandulae  ... opera quae extant omnia ...* Basileae: per Sebastianum Henricpetri. [https://doi.org/10.3931/e-rara-61217](https://doi.org/10.3931/e-rara-61217)
+
+Trismegistu, H. (1471). *Mercurii Trismegisti Liber de Potestate Et Sapientia Dei e Graeco in Latinum Traductus a Marsilio Ficino Pimander Incipit*. Edited by Ficinus, M. Treviso. [https://gdz.sub.uni-goettingen.de/id/PPN858183994](https://gdz.sub.uni-goettingen.de/id/PPN858183994)
