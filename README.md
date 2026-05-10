@@ -78,14 +78,24 @@ ment	ref
 
 The main sources for the *preface* up to the *fall of man* (fol. Ir to  VIIr) are the *Heptaplus* and *Oratio de hominis dignitate* (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217), p. 1 ff., p. 207 ff., res.), *Genesis*, the first book of Moses (Jiménez de Cisneros, [1517](https://doi.org/10.3931/e-rara-46695), fol. a ff.), the *Supplementum Chronicarum* (Foresti, [1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. a2r ff.), the *Divinae Institutiones* (Lactantius, [1497](https://books.google.com/books?id=qGsnghsi3uUC)), the *Metamorphoses* of Ovid ([1515](https://doi.org/10.3931/e-rara-35248), fol. 1r),  *De Legibus* (Cicero & Cicero, [1496](https://doi.org/10.3931/e-rara-89116), p. aaiii),  the *Historia Naturalis* (Plinius Secundus, [1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), fol. 22r; c.f. De Beauvais, [1964](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20612)),  *De Caelesti Hierarchia* (Dionysius, [1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)) and  the *Chronica Majora* (De Seville, [1802](https://books.google.com/books?id=wb8Z_vlSyJwC), p. 285).
 
-See further *Genealogiae deorum gentilium* (Boccaccio, [1360](https://digi.vatlib.it/view/MSS_Pal.lat.938)), Plato's *Timaeus* (Plato, [1588](https://doi.org/10.3931/e-rara-24349), p. 456 ff.), Aristotle's *Metaphysics* (Aristoteles & Theophrastus, [1608](https://doi.org/10.3931/e-rara-56887)), the *Ars Poetica* of  Horace ([1868](https://google.cat/books?id=A28VAAAAYAAJ)), the *Enneads* of Plotinus ([1580](https://doi.org/10.3931/e-rara-120889)),  *Homiliae in Evangelia* of Gregory the Great (Étaix, [1999](https://books.google.com/books?id=r4ERnwEACAAJ)) and *The Gospel of Matthew* (Jiménez de Cisneros, [1517](https://doi.org/10.3931/e-rara-46695)).
+See further *Genealogiae deorum gentilium* (Boccaccio, [1360](https://digi.vatlib.it/view/MSS_Pal.lat.938)), Plato's *Timaeus* (Plato, [1588](https://doi.org/10.3931/e-rara-24349), p. 456 ff.), Aristotle's *Metaphysics* (Aristoteles & Theophrastus, [1608](https://doi.org/10.3931/e-rara-56887)), the *Sententiarum* of Petrus Lombardus ([1484](https://doi.org/10.3931/e-rara-18241)), the *Imago Mundi* (Augustudunensis, [1532](https://archive.org/detail/DHonoriiAugustudunensisLibriSeptem/page/n6/mode/1up)), the works of Ambrosius ([1897](https://books.google.com/books?id=L1DbnAAACAAJ)), the *Ars Poetica* of  Horace ([1868](https://google.cat/books?id=A28VAAAAYAAJ)), the *Enneads* of Plotinus ([1580](https://doi.org/10.3931/e-rara-120889)),  *Homiliae in Evangelia* of Gregory the Great (Étaix, [1999](https://books.google.com/books?id=r4ERnwEACAAJ)) and *The Gospel of Matthew* (Jiménez de Cisneros, [1517](https://doi.org/10.3931/e-rara-46695)).
+
+See moreover the works of Trismegistu ([1471](https://gdz.sub.uni-goettingen.de/id/PPN858183994)), Thomas Aquinas ([1485](https://doi.org/10.3931/e-rara-15170)), Bacon ([1733](https://doi.org/10.3931/e-rara-16491)), Augustinus ([1961](https://mdz-nbn-resolving.de/details:bsb00046071)) and Jung ([2023](https://books.google.com/books?id=cX3VEAAAQBAJ)).
 
 On *original* sources see Diels ([1906](https://archive.org/details/diefragmentederv01diel)), Janko ([2002](http://www.jstor.org/stable/20191519)) and Benaissa et al. ([2025](https://oxyrhynchus.web.ox.ac.uk/publications)).
 
 
 ## References
 
+Ambrosius, A. (1897). *Opera: Exameron. De Paradiso. De Cain Et Abel. De Noe. De Abraham. De Isaac. De Bono Mortis*. Edited by Faller, O., & Schenkl, K. Corpus Scriptorum Ecclesiasticorum Latinorum. Hoelder-Pichler-Tempsky. [https://books.google.com/books?id=L1DbnAAACAAJ](https://books.google.com/books?id=L1DbnAAACAAJ)
+
 Aristoteles, & Theophrastus. (1608). *Aristotelis Stagiritae Metaphysicorum libri XIIII. Theophrasti Metaphysicorum liber: quorum omnium recognitionem et additamentum versa pagina ostendit*. Genevae: apud Jacobum Stoer. [https://doi.org/10.3931/e-rara	-56887](https://doi.org/10.3931/e-rara-56887)
+
+Augustinus, A. (1961). *Über Den Wortlaut Der Genesis DE GENESI AD LITTERAM LIBRI DUODECIM: Der Große Genesiskommentar in Zwölf Büchern Zum Erstenmal in Dt. Sprache von Carl Johann Perl*. Edited by Perl, C. J. Paderborn: Schöningh. [https://mdz-nbn-resolving.de/details:bsb00046071](https://mdz-nbn-resolving.de/details:bsb00046071)
+
+Augustudunensis, H. (1532). *D. Honorii Augustudunensis Presbyteri Libri Septem*. Basileae. [https://archive.org/detail/DHonoriiAugustudunensisLibriSeptem/page/n6/mode/1up](https://archive.org/detail/DHonoriiAugustudunensisLibriSeptem/page/n6/mode/1up)
+
+Bacon, R. (1733). *Fratris Rogeri Bacon ... opus maius ... ex MS. codice Dubliniensi*. Edited by Jebb, S. Cum aliis quibusdam collato, nunc primum edidit. Londini: typis Gulielmi Bowyer. [https://doi.org/10.3931/e-rara-16491](https://doi.org/10.3931/e-rara-16491)
 
 Benaissa, A., Henry, W. B., & et al., ed. (2025). *The Oxyrhynchus Papyri*. Vol. LXXXVIII. Graeco-Roman Memoirs. London: Egypt Exploration Society. [https://oxyrhynchus.web.ox.ac.uk/publications](https://oxyrhynchus.web.ox.ac.uk/publications)
 
@@ -113,11 +123,15 @@ Janko, R. (2002). The Derveni Papyrus: An Interim Text. *Zeitschrift Für Papy
 
 Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. [https://doi.org/10.3931/e-rara-46695](https://doi.org/10.3931/e-rara-46695)
 
+Jung, C. G. (2023). *Collected Works of C. G. Jung: The First Complete English Edition of the Works of C. G. Jung*. United Kingdom: Routledge. [https://books.google.com/books?id=cX3VEAAAQBAJ](https://books.google.com/books?id=cX3VEAAAQBAJ)
+
 Lactantius, L.C.F. (1497). *Divinae Institutiones*. Venetiis: Simon Bevilaqua. [https://books.google.com/books?id=qGsnghsi3uUC](https://books.google.com/books?id=qGsnghsi3uUC)
 
 Mirandola, G., & Mirandola, G. F. (1601). *Ioannis Pici, Mirandulae  ... opera quae extant omnia ...* Basileae: per Sebastianum Henricpetri. [https://doi.org/10.3931/e-rara-61217](https://doi.org/10.3931/e-rara-61217)
 
 Ovidius, N. P. (1515). *P. Ovidii Metamorphoseon Libri XV: ; in Fronte Denique Operis Vita Ovidii Ex Ipsius Operibus [Ab Aldo m.] : Index Fabularum, Et Caeterorum, Quae in Hoc Libro Continentur, Secundum Ordinem Alphabeti*. Argentorati: ex aedibus Matthiae Schurerii. [https://doi.org/10.3931/e-rara-35248](https://doi.org/10.3931/e-rara-35248)
+
+Petrus. (1484). *Sententiarum Libri IV*. Basel. [https://doi.org/10.3931/e-rara-18241](https://doi.org/10.3931/e-rara-18241)
 
 Plato. (1588). *Divini Platonis Opera Omnia*, edited by Ficino, M., Conrado, S. Lugduni: apud Joannem Lertout. [https://doi.org/10.3931/e-rara-24349](https://doi.org/10.3931/e-rara-24349)
 
@@ -129,6 +143,10 @@ Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit fi
 [https://web.archive.org/web/20161003154613](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
 
 ———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. [https://doi.org/10.3931/e-rara-69075](https://doi.org/10.3931/e-rara-69075)
+
+Thomas. (1485). *Summa Theologica: Partes 1-3*. Basel: Michael Wenssler. [https://doi.org/10.3931/e-rara-15170](https://doi.org/10.3931/e-rara-15170)
+
+Trismegistu, H. (1471). *Mercurii Trismegisti Liber de Potestate Et Sapientia Dei e Graeco in Latinum Traductus a Marsilio Ficino Pimander Incipit*. Edited by Ficinus, M. Treviso. [https://gdz.sub.uni-goettingen.de/id/PPN858183994](https://gdz.sub.uni-goettingen.de/id/PPN858183994)
 
 [^1]: c.f. fol. CCLXXVv to CCLXXVIIr (`NC_src_fol_275v_277r_*`).
 
