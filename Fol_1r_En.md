@@ -31,7 +31,7 @@ Moses gives a detailed account of the *three* worlds and how God ordered them. O
 
 [^1]: '**C**Um' and '**D**Ieweil', c.f. Diodorus ([1578](https://doi.org/10.3931/e-rara-35702), Book I, pp.5-6).    
 [^2]: 'prestantissimos' and 'fürnamste[n]'.  
-[^3]: 'generatione' and ' Geburt'.  
+[^3]: 'generatione' and 'Geburt'.  
 [^4]: 'priscis' and 'vordern'.  
 [^5]: 'remotis' and 'enthlegne[n]'.  
 [^6]: 'licebit' and 'gezime[n] wil'.  

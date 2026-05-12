@@ -30,7 +30,7 @@ Moses berichtet ausführlich von den *drei* Welten und so wie Gott diese geordne
 
 [^1]: '**C**Um' und '**D**Ieweil', vgl. Diodorus ([1578](https://doi.org/10.3931/e-rara-35702), Buch I, pp.5-6).    
 [^2]: 'prestantissimos' und 'fürnamste[n]'.  
-[^3]: 'generatione' und ' Geburt'.  
+[^3]: 'generatione' und 'Geburt'.  
 [^4]: 'priscis' und 'vordern'.  
 [^5]: 'remotis' und 'enthlegne[n]'.  
 [^6]: 'licebit' und 'gezime[n] wil'.  
