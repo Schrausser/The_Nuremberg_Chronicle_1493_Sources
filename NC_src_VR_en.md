@@ -18,7 +18,7 @@ The basic explanation is therefore obvious, since some form of (i) ***being*** i
 
 The ***origin*** itself, the ***nothingness***, in this analogy can be seen in the (ii) **linear time** *t={}*, in the common *time characteristic* of **R** and **VR**, or the common *timing*, which is *in concreto* very clearly shown on the *Third Day* in the explanations about the *waters*, with *springs* (**R**) <ins>*{and}*</ins> *lakes* (**VR**).
 
-It should be noted that the *Second* and *First* days, *Order* and *Creation*, taking place in **R**, are only indirectly recognized as a logical, recursive predecessor image in **VR** from *Day Three* onward, *Design* and further *Ornamentation*. This representation is thus continued retrospectively in the *Preface*:
+It should be noted that the *Second* and *First* days, *Order* and *Creation*, are taking place in **R**, are only indirectly recognized as a logical, recursive predecessor image in **VR** from *Day Three* onward, *Design* and further *Ornamentation*. This representation is thus continued retrospectively in the *Preface*:
 
 >"quam pleni [et] [con]summati boni fons i[n] ip[s]o erat: vt ab eo bono tam[que]m riu[us] ordieret[ur].", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. 2r).
 
@@ -46,7 +46,7 @@ The basic assumption of a virtual structure **VR** of *empiricism* is also all t
 
 If we assume that the Earth, and thus the empirical evidence we have, is virtual **VR**, then, viewed from the *outside*, this would only result in a logical *coordinate place* within the overall picture (**R**), the <ins>*mathematical point*</ins>. *In this way*, a *virtual*, yet geometrically *consistent* image would unfold from the *inside* and would necessarily result in *excessive* dimensions of the surrounding *starry sky* in relation to it.
 
-The clear assumptions of the descriptions for the creation (from **R**) are most clearly recognized in the model of the ***tetrahedron***, the *most basic* spatial geometric figure, a <ins>*spatial quadrilateral*</ins>, cf. Fig. 1.
+The clear assumptions of the descriptions for the creation (from **R**) are quite clearly recognized in the model of the ***tetrahedron***, the *most basic* spatial geometric figure, a <ins>*spatial quadrilateral*</ins>, cf. Fig. 1.
 
 >"Creatio re[rum] senario numero explicatur. Cuius partes. unu[m]: duo: tria sunt. que in trigonu[m] surga[n]t.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. 2r; vgl. Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217), *Heptaplus*).
 
@@ -67,7 +67,7 @@ Here, on the *Next Day*, the existence of a tenth sphere (the *Empyreum* or the 
 
 >Above the nine celestial spheres [...] it is assumed that the tenth heaven is unchanging, at rest and still, since it does not participate in any movement [...]. Here, Isaac interprets the tenth orbit as designated by Ezekiel through the sapphire in the form of a throne [...]
 
-See Ezekiel 1:4 and 1:26-28. s. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. vijr ff.), Berry ([1939](http://www.jstor.org/stable/3259859)), Idel ([1977](http://www.jstor.org/stable/751003), p. 291) und Bergren ([2017](http://www.jstor.org/stable/44505333)).
+See Ezekiel 1:4 and 1:26-28. s. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. vijr ff.), Berry ([1939](http://www.jstor.org/stable/3259859)), Idel ([1977](http://www.jstor.org/stable/751003), p. 291) and Bergren ([2017](http://www.jstor.org/stable/44505333)).
 
 Further references to the *spatial(!) quadrilateral* can be found in the Psalms through the *Civitas in quadro posita*:
 

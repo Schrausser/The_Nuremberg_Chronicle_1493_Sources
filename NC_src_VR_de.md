@@ -17,7 +17,9 @@ Man unterlässt auch hier legitimerweise weitere Beschreibungen der nichtfassbar
 
 Die grundlegende Erklärung liegt somit auf der Hand, da ein, wie auch immer geartetes (i)  <ins>***Sein***</ins>, **unabdingbar und zwangsläufig** ist, denn rein formal ausgedrückt muss ein *vollständiges* ***Nichts*** klarerweise auch ***sein***, ansonsten hätte man ein *nicht* ***Nichts*** und damit ohnedies *irgendein* basales ***Sein***. 
 
-Der ***Ursprung*** selbst, das ***Nichts***, in dieser Analogie ist in der (ii) **linearen Zeit** *t={}*, in der gemeinsamen *Zeitcharakteristik* von **R** und **VR**, oder dem gemeinsamen *Timing* zu erkennen, was *in concreto* am *Dritten Tag* sehr deutlich in den Ausführungen über die *Gewässer*, mit *Quellen* (**R**) <ins>*{und}*</ins> *Seen* (**VR**) dargestellt wird. Dabei ist zu beachten, dass der *Zweite* und *Erste Tag*, *Ordnung* und *Kreation* in **R** stattfindend, in **VR** ab *Tag Drei*, der *Gestaltung* und weiter *Zirde* nur indirekt quasi als logisches Vorgängerbild *rekursiv* erkannt werden.
+Der ***Ursprung*** selbst, das ***Nichts***, in dieser Analogie ist in der (ii) **linearen Zeit** *t={}*, in der gemeinsamen *Zeitcharakteristik* von **R** und **VR**, oder dem gemeinsamen *Timing* zu erkennen, was *in concreto* am *Dritten Tag* sehr deutlich in den Ausführungen über die *Gewässer*, mit *Quellen* (**R**) <ins>*{und}*</ins> *Seen* (**VR**) dargestellt wird. 
+
+Dabei ist zu beachten, dass der *Zweite* und *Erste Tag*, *Ordnung* und *Kreation* in **R** stattfindend, in **VR** ab *Tag Drei*, der *Gestaltung* und weiter *Zirde* nur indirekt quasi als logisches Vorgängerbild *rekursiv* erkannt werden.
 *Weitergeführt* wird diese Darstellung somit *rückwirkend* im *Vorwort*:
 
 >"quam pleni [et] [con]summati boni fons i[n] ip[s]o erat: vt ab eo bono tam[que]m riu[us] ordieret[ur].", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. 2r).
