@@ -10,7 +10,7 @@ A *contemporary* English translation is presented from comparing the existing La
 
 By describing a divine *creation*, Moses exposes the three errors[^3] of **Plato**, **Aristotle** and **Epicurus**. Plato believed that (1) God, (2) the *Ideas*[^4] and Yle had existed from eternity and (3) that the world was fundamentally made from this Yle. The Greeks used the term *Yle* to refer to the first formless mass from which *everything was created*; the *visible* things formed from harmonizied elements. Or, the finest dust[^5] that glitters in sunlight, made from matter and form.[^6]
 
-(ad 3) Nevertheless[^7], God created the world without any available and pre-prepared material; for *he* is to be regarded as the most cunning[^8] and wisest Creator before he accomplished the work of the world. In himself was the source of perfect and accomplished goodness, so that[^9] goodness might flow forth from it like a *stream*[^10].[^11]
+(ad 3) Nevertheless[^7], God created the world without any available and pre-prepared material; for *he* is to be regarded as the most cunning[^8] and wisest Creator <ins>*before*</ins> he accomplished the work of the world. In himself was the source of perfect and accomplished goodness, so that[^9] goodness might flow forth from it like a *stream*[^10].[^11]
 
 (ad 2) Of all beings, he primordially created the *angels*[^12] from that which is *nothing* (***n[]***).[^13] Thus, *he* is powerful through *eternity* and, through the strength of this immense power (which is limitless and immeasurable[^14]), *equal* to the life of the Creator[^15].[^16] 
 Therefore, it may seem astonishing that, prior to the creation of the world, raw matter[^17] from *nothing* had to be prepared.[^18] 
