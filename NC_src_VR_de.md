@@ -83,7 +83,7 @@ Inwieweit die geometrischen Modellannahmen auch weiter zu generalisieren sind, w
 [^1]: Die gesamte, sowohl direkt als auch indirekt erfahrbare Welt.  
 
 
-## References
+## Literatur
 
 
 Bergren, T. (2017). Plato’s "Myth of Er" and Ezekiel’s "Throne Vision": A Common Paradigm? *Numen, 64*(2/3), 153–82. [http://www.jstor.org/stable/44505333](http://www.jstor.org/stable/44505333)
