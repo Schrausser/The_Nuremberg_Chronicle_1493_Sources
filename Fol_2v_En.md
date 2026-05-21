@@ -61,7 +61,7 @@ Then God determined the other regions, the south and the north, in the same dime
 
 ## References
 
-Baluzius, S, ed. (1677). Capitvlaria Karoli Magni. In *Capitvlaria Regvm Francorvm*, 1:189. Parisiis: Muguet. [https://digital.ub.uni-paderborn.de/eab/content/zoom/1075337](https://digital.ub.uni-paderborn.de/eab/content/zoom/1075337)
+Baluzius, S., ed. (1677). Capitvlaria Karoli Magni. In *Capitvlaria Regvm Francorvm*, 1:189. Parisiis: Muguet. [https://digital.ub.uni-paderborn.de/eab/content/zoom/1075337](https://digital.ub.uni-paderborn.de/eab/content/zoom/1075337)
 
 Comestor, P. (1699). *Eruditissimi Viri Magistri Petri Comestoris Historia Scholastica: Opus Eximium Magnam Sacrae Scripturae Partem, Quae [Et] in Serie, [Et] in Glossis Crebro Diffusa Erat, Breviter Complectens*. Matriti: ex officina Antonij Gonçalez de Reyes ... : a costa de Francisco Sacédon ... [https://books.google.com/books?id=fKkLGynZVoYC](https://books.google.com/books?id=fKkLGynZVoYC)
 
