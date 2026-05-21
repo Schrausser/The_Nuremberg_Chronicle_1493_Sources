@@ -41,7 +41,7 @@ God, the supreme creator of all things, thus created on the sixth day of the wor
 [^17]: 'capite' and 'haubt'.  
 [^18]: 'latere' and 'seyten'.  
 [^19]: 'p[ro]baret[ur]' and 'zu bewerung'.  
-[^20]: from the 'Sententiarum' (Petrus, [1484](https://doi.org/10.3931/e-rara-18241), Book IV), a common motif in medieval scholasticism, see Thomas Aquinas ([1489](https://doi.org/10.3931/e-rara-15170)) or Hugh of St. Victor ([1951](https://archive.org/details/hugh-of-st.-victor-roy-j.-deferrari-on-the-sacraments-of-the-christian-faith-de-/mode/1up),).  
+[^20]: from the 'Sententiarum' (Petrus, [1484](https://doi.org/10.3931/e-rara-18241), Book IV), a common motif in medieval scholasticism, see Thomas Aquinas ([1489](https://doi.org/10.3931/e-rara-15170)) or Hugh of St. Victor ([1951](https://archive.org/details/hugh-of-st.-victor-roy-j.-deferrari-on-the-sacraments-of-the-christian-faith-de-/mode/1up)).  
 [^21]: 'nobilitate' and 'adel'.  
 [^22]: 'virtute' and 'tugend'.  
 [^23]: 'vnusq[ui]sq[ue]' and 'ein yder'.  

@@ -34,7 +34,7 @@ Thus, the Spirit of the Lord (as an instrument of divine art) floated  over the 
 [^8]: 'prude[n]tissim[us]'.  
 [^9]: 'vt'.  
 [^10]: 'tam[que]m riu[us]' and 'als ein pach'.  
-[^11]: It serves as a Christian-Neoplatonic argument for creation from nothing (<ins>*creatio ex **nihilo***</ins>) and contrasts it with Greek philosophical views. It emphasizes that *God* acted not accidentally, but *consciously* ('excogitandum').(c.f. Trismegistu, [1471](https://gdz.sub.uni-goettingen.de/id/PPN858183994)).  
+[^11]: It serves as a Christian-Neoplatonic argument for creation from nothing (<ins>*creatio ex **nihilo***</ins>) and contrasts it with Greek philosophical views. It emphasizes that *God* acted not accidentally, but *consciously*, 'excogitandum' (c.f. Trismegistu, [1471](https://gdz.sub.uni-goettingen.de/id/PPN858183994)).  
 [^12]: The intellectual world, s. fol. 1r 'quem theologi angelicum: philosophi: autem intellectualem vocant'.  
 [^13]: 'ex eo q[uo]d n[] e[st]' and 'auß de[n] das nicht ist'.  
 [^14]: 'q[uam] fine ac mo[do] caret' and  'die des ends vn[d] der maß mangelt'.  

@@ -33,7 +33,7 @@ So schwebte der Geist des Herrn (als Werkzeug göttlicher Kunst) über den Wasse
 [^8]: 'prude[n]tissim[us]'.  
 [^9]: 'vt'.  
 [^10]: 'tam[que]m riu[us]' und 'als ein pach'.  
-[^11]: Dient als christlich-neuplatonisches Argument für die Schöpfung aus dem Nichts (<ins>*creatio ex **nihilo***</ins>) und stellt sie griechischen philosophischen Ansichten gegenüber. Es betont, dass *Gott* nicht zufällig, sondern *bewusst* ('excogitandum') handelte (vgl. Trismegistu, [1471](https://gdz.sub.uni-goettingen.de/id/PPN858183994)).   
+[^11]: Dient als christlich-neuplatonisches Argument für die Schöpfung aus dem Nichts (<ins>*creatio ex **nihilo***</ins>) und stellt sie griechischen philosophischen Ansichten gegenüber. Es betont, dass *Gott* nicht zufällig, sondern *bewusst*, 'excogitandum' handelte (vgl. Trismegistu, [1471](https://gdz.sub.uni-goettingen.de/id/PPN858183994)).   
 [^12]: Die intellektuelle Welt, s. fol. 1r 'quem theologi angelicum: philosophi: autem intellectualem vocant'.  
 [^13]: 'ex eo q[uo]d n[] e[st]' und 'auß de[n] das nicht ist'.  
 [^14]: 'q[uam] fine ac mo[do] caret' und  'die des ends vn[d] der maß mangelt'.  
