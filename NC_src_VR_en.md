@@ -46,11 +46,11 @@ The basic assumption of a virtual structure **VR** of *empiricism* is also all t
 
 If we assume that the Earth, and thus the empirical evidence we have, is virtual **VR**, then, viewed from the *outside*, this would only result in a logical *coordinate place* within the overall picture (**R**), the <ins>*mathematical point*</ins>. *In this way*, a *virtual*, yet geometrically *consistent* image would unfold from the *inside* and would necessarily result in *excessive* dimensions of the surrounding *starry sky* in relation to it.
 
-The clear assumptions of the descriptions for the creation (from **R**) are quite clearly recognized in the model of the ***tetrahedron***, the *most basic* spatial geometric figure, a <ins>*spatial quadrilateral*</ins>, cf. Fig. 1.
+The clear assumptions of the descriptions for the creation (from **R**) are quite clearly recognized in the model of the ***tetrahedron***, the *most basic* spatial geometric figure, a <ins>*spatial quadrilateral*</ins>, c.f. Fig. 1.
 
 >"Creatio re[rum] senario numero explicatur. Cuius partes. unu[m]: duo: tria sunt. que in trigonu[m] surga[n]t.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. 2r; vgl. Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217), *Heptaplus*).
 
->creation is expressed in the number six, whose components are 1, 2 and 3, which rise to form a triangle.
+>[...] creation is expressed in the number six, whose components are 1, 2 and 3, which rise to form a triangle.
 
 **Figure 1**. *Days* and *parts* of the creation represented in the *tetrahedron*.
 ![figure.\label{Tetra}](tetra.jpg)
@@ -75,7 +75,9 @@ Further references to the *spatial(!) quadrilateral* can be found in the Psalms 
 
 >the Theologians place [...] a XII. HEAVEN, which is immobile, & which for this effect is named in the Apocalypse: Civitas in quadro posita, Cap.XXI..16. a City built in a <ins>square</ins>: [...] to designate its firmness & its state of eternal consistency. [...] Psalm XXXV.
 
-It would be worth considering to what extent the geometric model assumptions can be further generalized.
+In this context see furthermore, on the *First Day* the explanations regarding the *creation* of the (i) ***four cardinal directions***, on the *Second Day* the discussion of the (ii) ***axes of the sphere*** of the heavan and on the seventh day the presentation of the (iii) ***four wind gods***, the *Anemoi* (c.f. von Raumer, [1837](http://www.jstor.org/stable/41247444) and Thompson, [1918](http://www.jstor.org/stable/697189)).
+
+To what extent the geometric model assumptions can be further generalized would be worth considering.
 
 
 [^1]: The entire world, both directly and indirectly perceptible.
@@ -101,8 +103,11 @@ Petrus. (1484). *Sententiarum Libri IV*. Basel. [https://doi.org/10.3931/e-rara-
 
 Ptolemaeus, C. (1515). *Almagestum CL. Ptolemei Pheludiensis Alexandrini astronomorum principis: Opus ingens ac nobile omnes Caelorum motus continens.* Felicibus astris eat in lucem: Ductu Petri Liechtenstein Coloniensis Germani. Anno Virginei Partus, 1515, Die 10. Ia. Venetiis ex officina eiusdem litteraria. (Almagest of CL. Ptolemy Pheludiens, head of the Alexandrian astronomers: A great and noble work containing all the movements of the heavens...) [https://doi.org/10.3931/e-rara-206](https://doi.org/10.3931/e-rara-206)
 
-
 Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
 
+Thompson, D. W. (1918). The Greek Winds. *The Classical Review, 32*(3/4), 49–56.  [http://www.jstor.org/stable/697189](http://www.jstor.org/stable/697189)
+
 Toomer, G. J. (1984). *Ptolemy's Almagest*. Duckworth, London & Springer, New York. [https://doi.org/10.2307/631776](https://doi.org/10.2307/631776)
+
+von Raumer, K. (1837). Die Windrose der Griechen und Römer. *Rheinisches Museum Für Philologie, 5*, 497–521. [http://www.jstor.org/stable/41247444](http://www.jstor.org/stable/41247444) 
 

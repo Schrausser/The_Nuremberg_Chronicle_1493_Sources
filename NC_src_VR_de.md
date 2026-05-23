@@ -77,6 +77,8 @@ Weiteres findet man in den Psalmen durch die *Civitas in quadro posita* Hinweise
 
 >[...] die Theologen setzen [...] einen Himmel, der unbeweglich ist und deshalb in der Offenbarung so genannt wird: *Civitas in quadro posita*, Kap. XXI, 16. Eine Stadt, die auf einem <ins>Quadrat</ins> erbaut ist: [...] um ihre Festigkeit und ihren Zustand ewiger Beständigkeit zu bezeichnen. [...] Psalm XXXV.
 
+Siehe hierzu ferner am *Ersten Tag* die Ausführungen zur *Erschaffung* der (i) ***vier Himmelsrichtungen***, am *Andern Tag* die Erläuterung der (ii) ***Achsen der Sphäre*** des Himmels, sowie am siebenten Tag die Darstellung der (iii) ***vier Windgötter***, der *Anemoi* (vgl. von Raumer, [1837](http://www.jstor.org/stable/41247444) und Thompson, [1918](http://www.jstor.org/stable/697189)).
+
 Inwieweit die geometrischen Modellannahmen auch weiter zu generalisieren sind, wäre zu überlegen.
 
 
@@ -107,5 +109,8 @@ Ptolemaeus, C. (1515). *Almagestum CL. Ptolemei Pheludiensis Alexandrini astrono
 
 Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
 
+Thompson, D. W. (1918). The Greek Winds. *The Classical Review, 32*(3/4), 49–56.  [http://www.jstor.org/stable/697189](http://www.jstor.org/stable/697189)
+
 Toomer, G. J. (1984). *Ptolemy's Almagest*. Duckworth, London & Springer, New York. [https://doi.org/10.2307/631776](https://doi.org/10.2307/631776)
 
+von Raumer, K. (1837). Die Windrose der Griechen und Römer. *Rheinisches Museum Für Philologie, 5*, 497–521. [http://www.jstor.org/stable/41247444](http://www.jstor.org/stable/41247444) 
