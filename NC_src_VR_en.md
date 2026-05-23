@@ -75,7 +75,7 @@ Further references to the *spatial(!) quadrilateral* can be found in the Psalms 
 
 >the Theologians place [...] a XII. HEAVEN, which is immobile, & which for this effect is named in the Apocalypse: Civitas in quadro posita, Cap.XXI..16. a City built in a <ins>square</ins>: [...] to designate its firmness & its state of eternal consistency. [...] Psalm XXXV.
 
-In this context see furthermore, on the *First Day* the explanations regarding the *creation* of the (i) ***four cardinal directions***, on the *Second Day* the discussion of the (ii) ***axes of the sphere*** of the heavan and on the seventh day the presentation of the (iii) ***four wind gods***, the *Anemoi* (c.f. von Raumer, [1837](http://www.jstor.org/stable/41247444) and Thompson, [1918](http://www.jstor.org/stable/697189)).
+In this context see furthermore, on the *First Day* the explanations regarding the *creation* of the (i) ***four cardinal directions***, on the *Second Day* the discussion of the (ii) ***axes of the sphere*** of the heaven and on the seventh day the presentation of the (iii) ***four wind gods***, the *Anemoi* (c.f. von Raumer, [1837](http://www.jstor.org/stable/41247444) and Thompson, [1918](http://www.jstor.org/stable/697189)).
 
 To what extent the geometric model assumptions can be further generalized would be worth considering.
 
