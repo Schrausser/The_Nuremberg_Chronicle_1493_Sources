@@ -85,7 +85,7 @@ See further *Genealogiae deorum gentilium* (Boccaccio, [1360](https://digi.vatli
 See moreover the works of Trismegistu ([1471](https://gdz.sub.uni-goettingen.de/id/PPN858183994)), Thomas Aquinas ([1485](https://doi.org/10.3931/e-rara-15170)), Bacon ([1733](https://doi.org/10.3931/e-rara-16491)), Augustinus ([1961](https://mdz-nbn-resolving.de/details:bsb00046071)) and Jung ([2023](https://books.google.com/books?id=cX3VEAAAQBAJ)).
 
 
-On *original* sources see Diels ([1906](https://archive.org/details/diefragmentederv01diel)), Janko ([2002](http://www.jstor.org/stable/20191519)) and Benaissa et al. ([2025](https://oxyrhynchus.web.ox.ac.uk/publications)).
+On *original* sources see Diels ([1906](https://archive.org/details/diefragmentederv01diel)), Janko ([2002](http://www.jstor.org/stable/20191519)) and Benaissa et al. ([2025](https://oxyrhynchus.web.ox.ac.uk/publications)), for further discussion, see `NC_src_VR`.
 
 
 ## References
