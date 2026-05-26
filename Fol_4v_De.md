@@ -11,7 +11,7 @@ Crescite [et] multiplicamini [et] replete aquas maris: auesq[ue] multiplicentur 
 
 So schmückte Gott an diesem Tag die Luft und das Wasser mit Wesen, geflügelte gab er der Luft und schwimmende dem Wasser, die man *Kriechtiere*[^1] nennt, welche mit einer gewissen Ungestümtheit umhereilen. In der Tat findet man große Wale und Wasserlebewesen im Meer, von monströser Gestalt, größer als Landtiere aufgrund ihrer Fülle an Feuchtigkeit[^2].[^3] Man sagt, was immer in irgendeinem Teil der Natur entsteht, existiert auch im Meer.[^4]
 
-Nun zu folgenden Dingen, die hinsichtlich der Entstehung der Tiere offenkundig sind: *Nach* den (i) Pflanzen kommen jene (ii) Wesen, die fühlen und sich bewegen; obwohl selbst den Pflanzen die Pythagoreer einen stumpfen[^5] Sinn zuschreiben. Solche Lebewesen, die eindeutig Bewegung und Empfindung aufweisen, werden von **Moses** und im ***Timaios*** in fliegende Tiere, Wassertiere und Landtiere unterteilt.[^6]
+Nun zu folgenden Dingen, die hinsichtlich der Entstehung der Tiere offenkundig sind: *Nach* den (i) Pflanzen kommen jene (ii) Wesen, die fühlen und sich bewegen; obwohl die Pythagoreer selbst den Pflanzen  einen stumpfen[^5] Sinn zuschreiben. Solche Lebewesen, die eindeutig Bewegung und Empfindung aufweisen, werden von **Moses** und im ***Timaios*** in fliegende Tiere, Wassertiere und Landtiere unterteilt.[^6]
 
 Kommen wir <ins>nun</ins> zu *Moses*, der, nachdem er über die himmlischen Dingen gesprochen hatte, die irdischen Tiere in angemessener Reihenfolge erwähnte, die entweder im Wasser, auf der Erde oder in der Luft leben.[^7]
 
