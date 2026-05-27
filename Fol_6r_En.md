@@ -116,7 +116,7 @@ These are the ages of man: The (I) first is *early childhood*[^73], from birth t
 [^61]: Characteristic of Isidore of Seville ([1802](https://books.google.com/books?id=wb8Z_vlSyJwC)) or Bede ([1125](http://archivesetmanuscrits.bnf.fr/ark:/12148/cc76825p)), they harmonized the different time periods.  
 [^62]: 'matusale mortuus' and 'matusaleh gestorben', a common chronological problem in medieval research: whether Methuselah survived the Flood.  
 [^63]: 'S[e]c[un]da' and 'Das andre'.  
-[^64]: '292' vs. '.ijc.lxxxij.', 292 vs 282.  
+[^64]: '292' vs. '.ijc.lxxxij.', 292 vs. 282.  
 [^65]: 'inuenire no[n] potui' and 'nicht <ins>möge[n]</ins> finden'.  
 [^66]: 'transmigrat[i]o[n]is babilonis' and 'übergang babilonis'.  
 [^67]: 'terminum' and 'zil'.  

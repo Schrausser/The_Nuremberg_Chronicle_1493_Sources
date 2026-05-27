@@ -15,7 +15,7 @@ Furthermore, he decreed that *living beings*[^8] of every kind and shape, great 
 
 So far we have spoken of *three* worlds: the (i) *superheavenly*, the (ii) *celestial*, and the (iii) *sublunar*. Now we will consider (iv) *humankind* as part of a fourth world. Having arranged everything in a wondrous way, he decided to prepare an eternal kingdom for himself, creating countless souls in advance to whom he could grant immortality. He then created a likeness of himself, sentient and intelligent, formed in his own image[^14], to which nothing more perfectly resembles. Thus he formed humankind from the clay of the earth; hence the name *human*[^15], created from *earth*[^16].[^17]
 
-God, the creator of all things, created man, (which **Cicero** also recognized, although he possessed no heavenly scriptures) *this* man transmitted in the first book on the laws the same as the prophets, his words we have reproduced below:[^18]
+God, the creator of all things, created man, (which also **Cicero** recognized, although he possessed no heavenly scriptures) *this* man transmitted in the first book on the laws the same as the prophets, his words we have reproduced below:[^18]
 
 >Hoc a[n]i[m]al p[ro]uidu[m]: sagax: m[u]ltiplex: acutu[m]: memor: plenu[m] r[ati]o[n]is [et] [con]silij. que[m] vocam[us] homine[m]: p[re]clara q[ua]da[m] [con]dit[i]o[n]e generatu[m] e[ss]e a summo deo solu[m].  
 Est e[ni]m ex tot a[n]i[m]antiu[m] generib[us] at[que] natur[is]: p[ar]ticeps r[ati]o[n]is [et] cogitat[i]o[n]is. cu[m] cetera sint o[mn]ia exp[er]tia.[^19]
