@@ -80,7 +80,7 @@ Dies sind nun die Lebensalter des Menschen: Das (I) erste ist die *frühe Kindhe
 [^27]: 'in omnibus' und 'in allen'.  
 [^28]: 'super om[n]ia' und 'über alle'.  
 [^29]: 'predictorum' und 'vorgenante[n]'.  
-[^30]: 'miliaria. hec sunt stadia .cxxvi.', ergibt 15625 Meilen × 126 = 1968750 Stadien, das ergibt bei *attischen* Stadien, 0.18498 × 1968750 = 364179.375 km Entfernung von der Erde zum Mond. Bei aktueller *maximaler* Entfernung (*Apogäum*) von 406740 km also eine Differenz von - 42560.625 km, bei *minimaler* Entfernung (*Perigäum*) von 356410 km eine Differenz von + 7769.375 km. Dies entspricht jedoch der Entfernung des Mondes vor etwa *800 Millionen* Jahren (*Tonium im Neoproterozoikum*, 363000 bis 367000 km).  
+[^30]: 'miliaria. hec sunt stadia .cxxvi.', ergibt 15625 Meilen × 126 = 1968750 Stadien, das ergibt bei *attischen* Stadien, 0.18498 × 1968750 = 364179.375 km Entfernung von der Erde zum Mond. Bei aktueller *maximaler* Entfernung (*Apogäum*) von 406740 km also eine Differenz von - 42560.625 km, bei *minimaler* Entfernung (*Perigäum*) von 356410 km eine Differenz von + 7769.375 km. Dies *entspricht* jedoch der Entfernung des Mondes vor etwa *800 Millionen* Jahren (*Tonium im Neoproterozoikum*, 363000 bis 367000 km).  
 [^31]: '... vt q[ui]dam dixerunt [et] male ...', von Pseudo-Dionysius Areopagita ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)) definiert, ob der Begriff Hierarchie auf die Heilige Dreifaltigkeit angewendet werden kann.  
 [^32]: '[con]siderant' und 'betrachten'.  
 [^33]: 'bonitate[m]' und 'guttheit'.  

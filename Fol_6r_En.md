@@ -82,7 +82,7 @@ These are the ages of man: The (I) first is *early childhood*[^73], from birth t
 [^27]: 'in omnibus' and 'in allen'.  
 [^28]: 'super om[n]ia' and 'über alle'.  
 [^29]: 'predictorum' and 'vorgenante[n]'.  
-[^30]: 'miliaria. hec sunt stadia .cxxvi.', this results in 15625 miles × 126 = 1968750 stadia, which, using *Attic* stadia, gives a distance of 0.18498 × 1968750 = 364179.375 km from the Earth to the Moon. With a current *maximum* distance (*apogee*) of 406740 km, the difference is -42560.625 km, and with a *minimal* distance (*perigee*) of 356410 km, the difference is +7769.375 km. However, this corresponds to the distance of the moon about *800 million* years ago (*Tonium* in the *Neoproterozoic* era, 363000 to 367000 km).  
+[^30]: 'miliaria. hec sunt stadia .cxxvi.', this results in 15625 miles × 126 = 1968750 stadia, which, using *Attic* stadia, gives a distance of 0.18498 × 1968750 = 364179.375 km from the Earth to the Moon. With a current *maximum* distance (*apogee*) of 406740 km, the difference is -42560.625 km, and with a *minimal* distance (*perigee*) of 356410 km, the difference is +7769.375 km. However, this *corresponds* to the distance of the moon about *800 million* years ago (*Tonium* in the *Neoproterozoic* era, 363000 to 367000 km).  
 [^31]: '... vt q[ui]dam dixerunt [et] male ...', Pseudo-Dionysius the Areopagite ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)) defined whether the term hierarchy can be applied to the Holy Trinity.  
 [^32]: '[con]siderant' and 'betrachten'.  
 [^33]: 'bonitate[m]' and 'guttheit'.  
