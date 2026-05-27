@@ -38,6 +38,8 @@ Schließlich im *Ersten Zeitalter der Welt*:
 
 >Die *höchste Güte* will diese Güte auch anderen mitteilen [...]
 
+Im Zusammenhang mit dem *Diapason*, der ***universellen Harmonie*** innerhalb der *Astralebene* (vgl. Rackham, [1967](https://archive.org/details/naturalhistory01plinuoft/), S. 227 ff.), d. h. Pythagoras' Lehre von der <ins>*Musica universalis*</ins> (vgl. Plinius Secundus, [1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), Fol. 22r), siehe die schematische Darstellung der Illustrationen vom *Ersten Tag* bis zum *Vierten Tag*, wobei ein *weißer Kreis* einen ***Ton*** und ein *weißer Kreis zusammen mit einem roten Kreis* einen ***Halbton*** darstellt (vgl. [NC_tab_astro01](https://github.com/Schrausser/The_Nuremberg_Chronicle_1493_Tables/blob/main/NC_tab_astro01.md)).
+
 ## Zu mathematischem Punkt und Tetraeder
 
 Die Grundannahme einer virtuellen Struktur **VR** der *Empirie* wird auch in den Ausführungen zu den *Größenordnungen* im *Almagest* von Ptolemæus nur allzu deutlich:
@@ -71,13 +73,13 @@ Hier am *Andern Tag* als Existenz einer zehnten Sphäre (des *Empyreums* oder de
 
 Vgl. dazu Hesekiel 1,4 und 1,26-28, s. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. vijr ff.), Berry ([1939](http://www.jstor.org/stable/3259859)), Idel ([1977](http://www.jstor.org/stable/751003), p. 291) und Bergren ([2017](http://www.jstor.org/stable/44505333)).
 
-Weiteres findet man in den Psalmen durch die *Civitas in quadro posita* Hinweise auf das *räumliche(!) Viereck*:
+Weiteres findet man in den Psalmen durch die *Civitas in quadro posita* Hinweise auf das *räumliche(!) Viereck*, vgl. [NC_tab_cmp](https://github.com/Schrausser/The_Nuremberg_Chronicle_1493_Tables/blob/main/NC_tab_cmp.md):
 
 >" [...] les Théologiens placent [...] un XII. CIEL, qui est immobile, & qui pour cet efet est nommé dans l'Apocalypse: *Civitas in quadro posita*, Cap.XXI. v.16. une Ville batie en quarré: [...] pour désigner sa fermeté & son état de consistence éternelle. [...] Pseaume XXXV.", (De Vallemont, [1707](https://www.digitale-sammlungen.de/de/view/bsb10061168?page=5), p. 54).
 
 >[...] die Theologen setzen [...] einen Himmel, der unbeweglich ist und deshalb in der Offenbarung so genannt wird: *Civitas in quadro posita*, Kap. XXI, 16. Eine Stadt, die auf einem <ins>Quadrat</ins> erbaut ist: [...] um ihre Festigkeit und ihren Zustand ewiger Beständigkeit zu bezeichnen. [...] Psalm XXXV.
 
-Siehe hierzu ferner am *Ersten Tag* die Ausführungen zur *Erschaffung* der (i) ***vier Himmelsrichtungen***, am *Andern Tag* die Erläuterung der (ii) ***Achsen der Sphäre*** des Himmels, sowie am siebenten Tag die Darstellung der (iii) ***vier Windgötter***, der *Anemoi* (vgl. von Raumer, [1837](http://www.jstor.org/stable/41247444) und Thompson, [1918](http://www.jstor.org/stable/697189)).
+Siehe hierzu ferner am *Ersten Tag* die Ausführungen zur *Erschaffung* der (i) ***vier Himmelsrichtungen***, am *Andern Tag* die Erläuterung der (ii) ***Achsen der Sphäre*** des Himmels, sowie am siebenten Tag die Darstellung der (iii) ***vier Windgötter***, der *Anemoi*, s. [Tab_fol_5v](https://github.com/Schrausser/The_Nuremberg_Chronicle_1493_Tables/blob/main/Tab_fol_5v.md) (vgl. von Raumer, [1837](http://www.jstor.org/stable/41247444) und Thompson, [1918](http://www.jstor.org/stable/697189)).
 
 Inwieweit die geometrischen Modellannahmen auch weiter zu generalisieren sind, wäre zu überlegen.
 
@@ -104,8 +106,11 @@ Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaer
 
 Petrus. (1484). *Sententiarum Libri IV*. Basel. [https://doi.org/10.3931/e-rara-18241](https://doi.org/10.3931/e-rara-18241)
 
+Plinius Secundus, G. (1250). *Plinius Secundus Major, Historia Naturalis. Liber Trigesimus Septimus Manu Recentiore Suppletus Est*. Latin 6797. Paris: Bibliothèque nationale de France. [https://gallica.bnf.fr/ark:/12148/btv1b550140045/](https://gallica.bnf.fr/ark:/12148/btv1b550140045/)
+
 Ptolemaeus, C. (1515). *Almagestum CL. Ptolemei Pheludiensis Alexandrini astronomorum principis: Opus ingens ac nobile omnes Caelorum motus continens.* Felicibus astris eat in lucem: Ductu Petri Liechtenstein Coloniensis Germani. Anno Virginei Partus, 1515, Die 10. Ia. Venetiis ex officina eiusdem litteraria. (Almagest of CL. Ptolemy Pheludiens, head of the Alexandrian astronomers: A great and noble work containing all the movements of the heavens...) [https://doi.org/10.3931/e-rara-206](https://doi.org/10.3931/e-rara-206)
 
+Rackham, H. (1967). *Pliny Natural History in Ten Volumes*. Vol. 1. Cambridge, Massachusetts: Harvard University Press. [https://archive.org/details/naturalhistory01plinuoft/](https://archive.org/details/naturalhistory01plinuoft/)
 
 Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
 

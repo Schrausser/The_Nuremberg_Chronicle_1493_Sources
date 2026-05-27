@@ -32,9 +32,11 @@ Continuing in *Day One*:
 
 Finally, in the *First Age of the World*:
 
->"SUmma bonitas volens co[m]mu[n]icare suum bonu[m] [et] alijs [...]", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. 6v; vgl. Petrus, [1484](https://doi.org/10.3931/e-rara-18241), *Sententiarum*, II.4.).
+>"SUmma bonitas volens co[m]mu[n]icare suum bonu[m] [et] alijs [...]", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. 6v; c.f. Petrus, [1484](https://doi.org/10.3931/e-rara-18241), *Sententiarum*, II.4.).
 
 >The *supreme goodness* wishes to impart this goodness to others [...]
+
+In context with the *diapason*, the ***universal harmony*** within the *astral plane* (s. Rackham, [1967](https://archive.org/details/naturalhistory01plinuoft/), p. 227 ff.), i.e. Pythagoras' doctrine of <ins>*musica universalis*</ins> (c.f. Plinius Secundus, [1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), fol. 22r) see the schematic representation of the illustrations from the  *First Day* to the *Fourth Day*, where a *white circle* represents ***one tone*** and a *white circle together with a red circle* represents ***a half tone*** (c.f. [NC_tab_astro01](https://github.com/Schrausser/The_Nuremberg_Chronicle_1493_Tables/blob/main/NC_tab_astro01.md)). 
 
 ## On the mathematical point and the tetrahedron
 
@@ -42,13 +44,13 @@ The basic assumption of a virtual structure **VR** of *empiricism* is also all t
 
 >"MAius quo scitur q[ue] terra s[ecundu]m sensum qua[n]tu[m] ad spaciu[m] q[uo]d peruenit a centro totius ad orbe[m] stellaru[m] fixaru[m] sit sicut punctum [...] ", (Ptolemæus, [1515](https://doi.org/10.3931/e-rara-206), fol. 4r).
 
->" […] the earth has […] the ratio of a point to the distance of […] the fixed stars […]", (vgl. Toomer, [1984](https://doi.org/10.2307/631776), p. 43).
+>" […] the earth has […] the ratio of a point to the distance of […] the fixed stars […]", (c.f. Toomer, [1984](https://doi.org/10.2307/631776), p. 43).
 
 If we assume that the Earth, and thus the empirical evidence we have, is virtual **VR**, then, viewed from the *outside*, this would only result in a logical *coordinate place* within the overall picture (**R**), the <ins>*mathematical point*</ins>. *In this way*, a *virtual*, yet geometrically *consistent* image would unfold from the *inside* and would necessarily result in *excessive* dimensions of the surrounding *starry sky* in relation to it.
 
 The clear assumptions of the descriptions for the creation (from **R**) are quite clearly recognized in the model of the ***tetrahedron***, the *most basic* spatial geometric figure, a <ins>*spatial quadrilateral*</ins>, c.f. Fig. 1.
 
->"Creatio re[rum] senario numero explicatur. Cuius partes. unu[m]: duo: tria sunt. que in trigonu[m] surga[n]t.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. 2r; vgl. Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217), *Heptaplus*).
+>"Creatio re[rum] senario numero explicatur. Cuius partes. unu[m]: duo: tria sunt. que in trigonu[m] surga[n]t.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. 2r; c.f. Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217), *Heptaplus*).
 
 >[...] creation is expressed in the number six, whose components are 1, 2 and 3, which rise to form a triangle.
 
@@ -63,19 +65,19 @@ The assumed *real* world **R** (<ins>*ipse deus*</ins>!) can also easily be foun
 
 Here, on the *Next Day*, the existence of a tenth sphere (the *Empyreum* or the immobile <ins>*first intelligence*</ins>) beyond the traditional nine spheres is discussed:
 
->"Supra nouem celorum orbes [...] creditum est decimum celum fixum manens [et] quietum: quod motu nullo participet. [...] hic ysaac decimu[m] orbem ab Ezechiele designatum intelligit per zaphiru[m] in similitudine[m] throni", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. 3r; vgl. Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217), *Heptaplus*, II.1).
+>"Supra nouem celorum orbes [...] creditum est decimum celum fixum manens [et] quietum: quod motu nullo participet. [...] hic ysaac decimu[m] orbem ab Ezechiele designatum intelligit per zaphiru[m] in similitudine[m] throni", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. 3r; c.f. Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217), *Heptaplus*, II.1).
 
 >Above the nine celestial spheres [...] it is assumed that the tenth heaven is unchanging, at rest and still, since it does not participate in any movement [...]. Here, Isaac interprets the tenth orbit as designated by Ezekiel through the sapphire in the form of a throne [...]
 
 See Ezekiel 1:4 and 1:26-28. s. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. vijr ff.), Berry ([1939](http://www.jstor.org/stable/3259859)), Idel ([1977](http://www.jstor.org/stable/751003), p. 291) and Bergren ([2017](http://www.jstor.org/stable/44505333)).
 
-Further references to the *spatial(!) quadrilateral* can be found in the Psalms through the *Civitas in quadro posita*:
+Further references to the *spatial(!) quadrilateral* can be found in the Psalms through the *Civitas in quadro posita*, c.f. [NC_tab_cmp](https://github.com/Schrausser/The_Nuremberg_Chronicle_1493_Tables/blob/main/NC_tab_cmp.md):
 
 >" [...] les Théologiens placent [...] un XII. CIEL, qui est immobile, & qui pour cet efet est nommé dans l'Apocalypse: *Civitas in quadro posita*, Cap.XXI. v.16. une Ville batie en quarré: [...] pour désigner sa fermeté & son état de consistence éternelle. [...] Pseaume XXXV.", (De Vallemont, [1707](https://www.digitale-sammlungen.de/de/view/bsb10061168?page=5), p. 54).
 
 >the Theologians place [...] a XII. HEAVEN, which is immobile, & which for this effect is named in the Apocalypse: Civitas in quadro posita, Cap.XXI..16. a City built in a <ins>square</ins>: [...] to designate its firmness & its state of eternal consistency. [...] Psalm XXXV.
 
-In this context see furthermore, on the *First Day* the explanations regarding the *creation* of the (i) ***four cardinal directions***, on the *Second Day* the discussion of the (ii) ***axes of the sphere*** of the heaven and on the seventh day the presentation of the (iii) ***four wind gods***, the *Anemoi* (c.f. von Raumer, [1837](http://www.jstor.org/stable/41247444) and Thompson, [1918](http://www.jstor.org/stable/697189)).
+In this context see furthermore, on the *First Day* the explanations regarding the *creation* of the (i) ***four cardinal directions***, on the *Second Day* the discussion of the (ii) ***axes of the sphere*** of the heaven and on the seventh day the presentation of the (iii) ***four wind gods***, the *Anemoi*, s. [Tab_fol_5v](https://github.com/Schrausser/The_Nuremberg_Chronicle_1493_Tables/blob/main/Tab_fol_5v.md) (c.f. von Raumer, [1837](http://www.jstor.org/stable/41247444) and Thompson, [1918](http://www.jstor.org/stable/697189)).
 
 To what extent the geometric model assumptions can be further generalized would be worth considering.
 
@@ -101,7 +103,11 @@ Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaer
 
 Petrus. (1484). *Sententiarum Libri IV*. Basel. [https://doi.org/10.3931/e-rara-18241](https://doi.org/10.3931/e-rara-18241)
 
+Plinius Secundus, G. (1250). *Plinius Secundus Major, Historia Naturalis. Liber Trigesimus Septimus Manu Recentiore Suppletus Est*. Latin 6797. Paris: Bibliothèque nationale de France. [https://gallica.bnf.fr/ark:/12148/btv1b550140045/](https://gallica.bnf.fr/ark:/12148/btv1b550140045/)
+
 Ptolemaeus, C. (1515). *Almagestum CL. Ptolemei Pheludiensis Alexandrini astronomorum principis: Opus ingens ac nobile omnes Caelorum motus continens.* Felicibus astris eat in lucem: Ductu Petri Liechtenstein Coloniensis Germani. Anno Virginei Partus, 1515, Die 10. Ia. Venetiis ex officina eiusdem litteraria. (Almagest of CL. Ptolemy Pheludiens, head of the Alexandrian astronomers: A great and noble work containing all the movements of the heavens...) [https://doi.org/10.3931/e-rara-206](https://doi.org/10.3931/e-rara-206)
+
+Rackham, H. (1967). *Pliny Natural History in Ten Volumes*. Vol. 1. Cambridge, Massachusetts: Harvard University Press. [https://archive.org/details/naturalhistory01plinuoft/](https://archive.org/details/naturalhistory01plinuoft/)
 
 Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
 
