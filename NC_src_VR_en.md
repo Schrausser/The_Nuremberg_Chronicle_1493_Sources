@@ -18,7 +18,7 @@ The basic explanation is therefore obvious, since some form of (i) ***being*** i
 
 The ***origin*** itself, the ***nothingness***, in this analogy can be seen in the (ii) **linear time** *t={}*, in the common *time characteristic* of **R** and **VR**, or the common *timing*, which is *in concreto* very clearly shown on the *Third Day* in the explanations about the *waters*, with *springs* (**R**) <ins>*{and}*</ins> *lakes* (**VR**).
 
-It should be noted that the *Second* and *First* days, *Order* and *Creation*, are taking place in **R**, are only indirectly recognized as a logical, recursive predecessor image in **VR** from *Day Three* onward, *Design* and further *Ornamentation*. This representation is thus continued retrospectively in the *Preface*:
+It should be noted that the *Second* and *First* days, *Order* and *Creation*, taking place in **R**, are only indirectly recognized as a logical, recursive predecessor image in **VR** from *Day Three* onward, *Design* and further *Ornamentation*. This representation is thus continued retrospectively in the *Preface*:
 
 >"quam pleni [et] [con]summati boni fons i[n] ip[s]o erat: vt ab eo bono tam[que]m riu[us] ordieret[ur].", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. 2r).
 
