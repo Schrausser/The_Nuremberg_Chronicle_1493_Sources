@@ -66,11 +66,12 @@ While ***Hesiod*** views ***Chaos*** as the (1) *ultimate starting point* of rea
 ## Comparison
 
 ~~~
-Feature	Hesiodic Tradition	Orphic Tradition
-Cosmic Order	First entity to exist.	Child of Chronos (Time).
-Nature of Chaos	A gaping void, chasm, or empty nothingness.	Lower atmosphere or boundless mist.
+Feature				Hesiodic Tradition													Orphic Tradition
+
+Cosmic Order		First entity to exist.												Child of Chronos (Time).
+Nature of Chaos		A gaping void, chasm, or empty nothingness.							Lower atmosphere or boundless mist.
 Role in Creation	A passive backdrop from which other deities spontaneously emerge.	An active participant that helps form the Cosmic Egg.
-Primary Focus	Explaining the lineage of the Olympian gods and their power.	Mystical reincarnation, the soul and monistic unity.
+Primary Focus		Explaining the lineage of the Olympian gods and their power.		Mystical reincarnation, the soul and monistic unity.
 ~~~
 
 ## The *Hesiodic* Chaos
@@ -195,13 +196,13 @@ According to ***Hesiod's*** famous poem, the *Theogony* (the *birth of the gods*
 Direct Cosmic Comparison
 
 ~~~
-Primordial God 	Domain & Personification	 Origin Era	 Immediate Successors
+Primordial God 		Domain & Personification	Origin Era	 				Immediate Successors
 
-Chaos	 	 The Infinite Void	 The very beginning	 Nyx & Erebus
-Gaia	 	 The Earth & Ground	 Emerged alongside Chaos	 Uranus, Pontus, The Titans
-Uranus	 	 The Heavens & Sky	 Born from Gaia	 The 12 Original Titans
-Nyx	 	 Cosmic Night	 	 Born from Chaos 	Hemera & Aether
-Tartarus	 The Underworld Pit 	Emerged alongside Chaos	 Typhon (monstrous giant)
+Chaos	 		 	The Infinite Void	 		The very beginning	 		Nyx & Erebus
+Gaia	 	 		The Earth & Ground	 		Emerged alongside Chaos	 	Uranus, Pontus, The Titans
+Uranus	 	 		The Heavens & Sky	 		Born from Gaia	 			The 12 Original Titans
+Nyx	 		 		Cosmic Night	 	 		Born from Chaos 			Hemera & Aether
+Tartarus	 		The Underworld Pit 			Emerged alongside Chaos	 	Typhon (monstrous giant)
 ~~~
 
 Eventually, the primordial forces transitioned authority. 
@@ -241,15 +242,15 @@ The line of succession of the *primordial* *Greek* gods *differs* ***dramaticall
 
 Direct comparison of the two cosmic lineages:
 ~~~
-Generation / Stage	Standard Hesiodic Succession	Orphic Succession Traditions
+Generation / Stage	Standard Hesiodic Succession										Orphic Succession Traditions
 
-First Ruler	Chaos (The original void and nothingness)	Chronos (Time) and Ananke/Adrasteia (Necessity)
-Second Ruler	Ouranos (The Sky, son and husband of Gaia)	Phanes / Protogonos (The First-Born, hatched from the Cosmic Egg)
-Third Ruler	Kronos (The Titan of Time, who castrated Ouranos)	Nyx (Night, who received the scepter from Phanes)
-Fourth Ruler	Zeus (The Olympian King, who overthrew Kronos)	Ouranos (Sky, who inherited or took dominion later)
-Fifth Ruler	Zeus rules eternally (He prevents overthrow by swallowing Metis)	Kronos (Titan ruler, who binds Ouranos)
-Sixth Ruler	N/A	Zeus (Swallows Phanes to absorb all creation, then rules)
-Seventh Ruler	N/A	Dionysus / Zagreus (The ultimate heir to Zeus' throne)
+First Ruler			Chaos (The original void and nothingness)							Chronos (Time) and Ananke/Adrasteia (Necessity)
+Second Ruler		Ouranos (The Sky, son and husband of Gaia)							Phanes / Protogonos (The First-Born, hatched from the Cosmic Egg)
+Third Ruler			Kronos (The Titan of Time, who castrated Ouranos)					Nyx (Night, who received the scepter from Phanes)
+Fourth Ruler		Zeus (The Olympian King, who overthrew Kronos)						Ouranos (Sky, who inherited or took dominion later)
+Fifth Ruler			Zeus rules eternally (He prevents overthrow by swallowing Metis)	Kronos (Titan ruler, who binds Ouranos)
+Sixth Ruler			N/A																	Zeus (Swallows Phanes to absorb all creation, then rules)
+Seventh Ruler		N/A																	Dionysus / Zagreus (The ultimate heir to Zeus' throne)
 ~~~
 
 ## The Standard Tradition (*Hesiod's Theogony*)
@@ -287,12 +288,13 @@ The ***Orphic*** hymns present a highly *philosophical*, *spiritual* and *cyclic
 
 Core Comparison of Creation Traditions
 ~~~
-Feature	Genesis (Biblical)	Hesiodic (Theogony)	Orphic (Orphica)
-Primary Nature	Monotheistic	Polytheistic/Epic	Mystical/Esoteric
-Initial Starting State	A formless, watery deep/void (tohu va-bohu)	Chaos (a gaping, dark abyss)	Chronos (Time) and Ananke (Need)
-Mechanism of Creation	Spoken divine command ("Let there be...")	Spontaneous generation and sexual procreation	Splitting of a Cosmic Egg by Chronos
-First Creator Figure	Yahweh / Elohim	Chaos / Gaia / Eros	Phanes (also called Protogonos/Eros)
-Origin of Evil / Ills	Human disobedience and moral choice	Personified as divine offspring or resulting from cosmic conflict	Titanic dismemberment of Zagreus/Dionysus
+Feature					Genesis (Biblical)							Hesiodic (Theogony)													Orphic (Orphica)
+
+Primary Nature			Monotheistic								Polytheistic/Epic													Mystical/Esoteric
+Initial Starting State	A formless, watery deep/void (tohu va-bohu)	Chaos (a gaping, dark abyss)										Chronos (Time) and Ananke (Need)
+Mechanism of Creation	Spoken divine command ("Let there be...")	Spontaneous generation and sexual procreation						Splitting of a Cosmic Egg by Chronos
+First Creator Figure	Yahweh / Elohim								Chaos / Gaia / Eros													Phanes (also called Protogonos/Eros)
+Origin of Evil / Ills	Human disobedience and moral choice			Personified as divine offspring or resulting from cosmic conflict	Titanic dismemberment of Zagreus/Dionysus
 ~~~
 
 ## Genesis (The *Abrahamic* Account)
@@ -335,11 +337,11 @@ Origin of Evil / Ills	Human disobedience and moral choice	Personified as divine 
 
 Core Comparisons
 ~~~
-Feature	Yahweh / Elohim (Hebrew Tradition)	Greek Deities (Hellenic Tradition)
-Ontology	Transcendent Creator existing outside and above the physical universe.	Immanent, Part of Nature and born from primordial cosmic elements (Chaos, Gaia).
-Governance	Absolute Sovereign who commands all history and moral law alone.	Polytheistic Hierarchy where Zeus rules a feuding family of specialized departmental gods.
-Anthropomorphism	Spirit/Transcendent, though early texts use bodily metaphors (walking, speaking).	Deeply Humanized with physical bodies, flaws, marital strife and sexual reproduction.
-Covenant vs. Caprice	Relational & Ethical, binding Himself to historical promises and justice.	Capricious & Transactional, requiring ritual sacrifice to appease shifting moods.
+Feature					Yahweh / Elohim (Hebrew Tradition)													Greek Deities (Hellenic Tradition)
+Ontology				Transcendent Creator existing outside and above the physical universe.				Immanent, Part of Nature and born from primordial cosmic elements (Chaos, Gaia).
+Governance				Absolute Sovereign who commands all history and moral law alone.					Polytheistic Hierarchy where Zeus rules a feuding family of specialized departmental gods.
+Anthropomorphism		Spirit/Transcendent, though early texts use bodily metaphors (walking, speaking).	Deeply Humanized with physical bodies, flaws, marital strife and sexual reproduction.
+Covenant vs. Caprice	Relational & Ethical, binding Himself to historical promises and justice.			Capricious & Transactional, requiring ritual sacrifice to appease shifting moods.
 ~~~
 
 ## Historical and Mythological Context
@@ -368,11 +370,12 @@ Here is a direct comparison across the different traditions:
 
 Side-by-Side Comparison
 ~~~
-Tradition	Primary Divinity Concept	Origin of the Creator	Divine Council / Pantheon	Relationship to Matter
-Hebrew (Yahweh / Elohim)	Absolute Singular Creator	Uncreated; eternal existence ("I AM")	Subjugated "Sons of God" / angels	Sovereign over matter; creates by spoken word
-Hesiodic (Greek Epic)	Generational Pantheism	Born out of primordial Chaos	Feuding Olympian family hierarchy	Bound by the universe; subject to Fate (Moira)
-Orphic (Greek Mystery)	Mystical Monism	Hatched from the Primordial Cosmic Egg	Chronos/Phanes at top; cyclical rebirth	Matter is a prison; spark of divine hidden within
-Eastern (Mesopotamian/Canaanite)	Political Polytheism	Evolved from water chaos (Tiamat/Apsu)	Assembly of local gods (Elohim / Annunaki)	Gods shape the world out of pre-existing slain monsters
+Tradition							Primary Divinity Concept	Origin of the Creator					Divine Council / Pantheon					Relationship to Matter
+
+Hebrew (Yahweh / Elohim)			Absolute Singular Creator	Uncreated; eternal existence ("I AM")	Subjugated "Sons of God" / angels			Sovereign over matter; creates by spoken word
+Hesiodic (Greek Epic)				Generational Pantheism		Born out of primordial Chaos			Feuding Olympian family hierarchy			Bound by the universe; subject to Fate (Moira)
+Orphic (Greek Mystery)				Mystical Monism				Hatched from the Primordial Cosmic Egg	Chronos/Phanes at top; cyclical rebirth		Matter is a prison; spark of divine hidden within
+Eastern (Mesopotamian/Canaanite)	Political Polytheism		Evolved from water chaos (Tiamat/Apsu)	Assembly of local gods (Elohim / Annunaki)	Gods shape the world out of pre-existing slain monsters
 ~~~
 
 ## Conceptual Differences
