@@ -928,23 +928,6 @@ Key Conceptual Differences
 
 <br>
 
-# *Erebus*, *Orphic* vs. *Hesiodic*
-
-In *Greek* mythology, the primordial personification of darkness ***Erebus*** originates directly from ***Chaos*** in the ***Hesiodic*** *Theogony*, whereas in ***Orphism*** he is repositioned as a *secondary creation* born from ***Chronos*** (Time). 
-
-## *Hesiodic* vs. *Orphic Erebus*
-
-~~~
-Feature				Hesiodic Tradition														Orphic Tradition
-
-Parentage			Born directly from Chaos (the primeval void).							Born from Chronos (Time) alongside Aether and Chaos.
-Cosmogonic Order	First-generation primordial entity right at the start of existence.		Emerges later in the genealogy following primeval Time.
-Consort / Partner	Brother and husband to Nyx (Night).										Varies; sometimes associated with Night laying an egg in his depths (as seen in Aristophanes' Orphic-inspired parody).
-Primary Role		Father of Aether (Light) and Hemera (Day) with Nyx.						A cosmic element integrated into a mystical, philosophical reordering of creation.
-~~~
-
-<br>
-
 # *Aether*, *Orphic* vs. *Hesiodic*
 
 In *Greek* mythology, the *core difference* between the ***Orphic*** and ***Hesiodic*** conceptions of ***Aether*** (the primordial *god of* the **bright upper sky**) lies in his *parentage* and his cosmic *purpose*. While ***Hesiod*** presents a straightforward, physical model of the universe where light *naturally* emerges from darkness, the ***Orphic*** tradition views ***Aether*** as a *metaphysical force* born from *Time*, acting as a crucial component in a cyclical, mystical creation story. 
