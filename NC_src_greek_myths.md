@@ -2,7 +2,7 @@
 
 # Greek Creation Myths 3 Traditions (*Hesiod*, *Homer* and *Orphism*), Content
 
-Overview and *differences* between (1) ***Hesiodic*** mythology, the mainstream, standard *Greek* and the (2) ***Orphic*** Hymns,  fragmented poems from a secret, mystical mystery religion (also *parodied* in ***Aristophanes'*** *The Birds*).
+An *overview* of *differences* between (1) ***Hesiodic*** mythology, the mainstream, standard *Greek* and the (2) ***Orphic*** Hymns,  fragmented poems from a secret, mystical mystery religion (also *parodied* in ***Aristophanes'*** *The Birds*).
 
 NC. The *equivalence* with classical Greek mythology, especially the ***Orphic tradition***, but also with ***Hesiod's*** *Theogony* and further with ***Homer's*** *Illiad*, is obvious.
 
