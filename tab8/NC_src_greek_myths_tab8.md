@@ -24,12 +24,12 @@ While ***Hesiod*** became the foundational *mainstream* narrative, ***Homer*** h
 ## Comparison of the 3 Traditions
 
 ~~~
-Feature							Hesiod (Theogony)												Homer (The Iliad)											Orphism (Orphic Fragments)
+Feature				Hesiod (Theogony)							Homer (The Iliad)						Orphism (Orphic Fragments)
 
-First Being / Concept			Chaos (a yawning chasm or void)									Oceanus (primeval river) & Tethys (sea mother)				Chronos (unaging Time) & Phanes (light/creator)
-Mechanism of Creation			Spontaneous generation and sexual procreation					Continuous flow and generation from primordial waters		Incubation and hatching from a Cosmic/World Egg
-Nature of Humanity				Created by gods; progressively decays across 5 distinct Ages	Not explicitly defined in a grand cosmic origin narrative	Dualistic; divine soul (from Dionysus) trapped in a sinful body (from Titans)
-Primary Focus					Establishing the political legitimacy and eternal rule of Zeus	Heroic human actions; cosmic origins are background flavor	Mystical salvation, reincarnation and purifying the soul
+First Being / Concept		Chaos (a yawning chasm or void)						Oceanus (primeval river) & Tethys (sea mother)			Chronos (unaging Time) & Phanes (light/creator)
+Mechanism of Creation		Spontaneous generation and sexual procreation				Continuous flow and generation from primordial waters		Incubation and hatching from a Cosmic/World Egg
+Nature of Humanity		Created by gods; progressively decays across 5 distinct Ages		Not explicitly defined in a grand cosmic origin narrative	Dualistic; divine soul (from Dionysus) trapped in a sinful body (from Titans)
+Primary Focus			Establishing the political legitimacy and eternal rule of Zeus		Heroic human actions; cosmic origins are background flavor	Mystical salvation, reincarnation and purifying the soul
 ~~~
 
 ## The 3 Traditions Explained
@@ -67,10 +67,10 @@ While ***Hesiod*** views ***Chaos*** as the (1) *ultimate starting point* of rea
 ## Comparison
 
 ~~~
-Feature				Hesiodic Tradition													Orphic Tradition
+Feature			Hesiodic Tradition							Orphic Tradition
 
-Cosmic Order		First entity to exist.												Child of Chronos (Time).
-Nature of Chaos		A gaping void, chasm, or empty nothingness.							Lower atmosphere or boundless mist.
+Cosmic Order		First entity to exist.							Child of Chronos (Time).
+Nature of Chaos		A gaping void, chasm, or empty nothingness.				Lower atmosphere or boundless mist.
 Role in Creation	A passive backdrop from which other deities spontaneously emerge.	An active participant that helps form the Cosmic Egg.
 Primary Focus		Explaining the lineage of the Olympian gods and their power.		Mystical reincarnation, the soul and monistic unity.
 ~~~
@@ -197,13 +197,13 @@ According to ***Hesiod's*** famous poem, the *Theogony* (the *birth of the gods*
 Direct Cosmic Comparison
 
 ~~~
-Primordial God 		Domain & Personification	Origin Era	 				Immediate Successors
+Primordial God 		Domain & Personification	Origin Era	 		Immediate Successors
 
-Chaos	 		 	The Infinite Void	 		The very beginning	 		Nyx & Erebus
-Gaia	 	 		The Earth & Ground	 		Emerged alongside Chaos	 	Uranus, Pontus, The Titans
-Uranus	 	 		The Heavens & Sky	 		Born from Gaia	 			The 12 Original Titans
-Nyx	 		 		Cosmic Night	 	 		Born from Chaos 			Hemera & Aether
-Tartarus	 		The Underworld Pit 			Emerged alongside Chaos	 	Typhon (monstrous giant)
+Chaos	 		The Infinite Void	 	The very beginning	 	Nyx & Erebus
+Gaia	 	 	The Earth & Ground	 	Emerged alongside Chaos	 	Uranus, Pontus, The Titans
+Uranus	 	 	The Heavens & Sky	 	Born from Gaia	 		The 12 Original Titans
+Nyx	 		Cosmic Night	 	 	Born from Chaos 		Hemera & Aether
+Tartarus	 	The Underworld Pit 		Emerged alongside Chaos	 	Typhon (monstrous giant)
 ~~~
 
 Eventually, the primordial forces transitioned authority. 
@@ -243,14 +243,14 @@ The line of succession of the *primordial* *Greek* gods *differs* ***dramaticall
 
 Direct comparison of the two cosmic lineages:
 ~~~
-Generation / Stage	Standard Hesiodic Succession										Orphic Succession Traditions
+Generation / Stage	Standard Hesiodic Succession						Orphic Succession Traditions
 
-First Ruler			Chaos (The original void and nothingness)							Chronos (Time) and Ananke/Adrasteia (Necessity)
-Second Ruler		Ouranos (The Sky, son and husband of Gaia)							Phanes / Protogonos (The First-Born, hatched from the Cosmic Egg)
-Third Ruler			Kronos (The Titan of Time, who castrated Ouranos)					Nyx (Night, who received the scepter from Phanes)
-Fourth Ruler		Zeus (The Olympian King, who overthrew Kronos)						Ouranos (Sky, who inherited or took dominion later)
-Fifth Ruler			Zeus rules eternally (He prevents overthrow by swallowing Metis)	Kronos (Titan ruler, who binds Ouranos)
-Sixth Ruler			N/A																	Zeus (Swallows Phanes to absorb all creation, then rules)
+First Ruler		Chaos (The original void and nothingness)				Chronos (Time) and Ananke/Adrasteia (Necessity)
+Second Ruler		Ouranos (The Sky, son and husband of Gaia)				Phanes / Protogonos (The First-Born, hatched from the Cosmic Egg)
+Third Ruler		Kronos (The Titan of Time, who castrated Ouranos)			Nyx (Night, who received the scepter from Phanes)
+Fourth Ruler		Zeus (The Olympian King, who overthrew Kronos)				Ouranos (Sky, who inherited or took dominion later)
+Fifth Ruler		Zeus rules eternally (He prevents overthrow by swallowing Metis)	Kronos (Titan ruler, who binds Ouranos)
+Sixth Ruler		N/A																	Zeus (Swallows Phanes to absorb all creation, then rules)
 Seventh Ruler		N/A																	Dionysus / Zagreus (The ultimate heir to Zeus' throne)
 ~~~
 
@@ -338,11 +338,11 @@ Origin of Evil / Ills	Human disobedience and moral choice			Personified as divin
 
 Core Comparisons
 ~~~
-Feature					Yahweh / Elohim (Hebrew Tradition)													Greek Deities (Hellenic Tradition)
-Ontology				Transcendent Creator existing outside and above the physical universe.				Immanent, Part of Nature and born from primordial cosmic elements (Chaos, Gaia).
-Governance				Absolute Sovereign who commands all history and moral law alone.					Polytheistic Hierarchy where Zeus rules a feuding family of specialized departmental gods.
-Anthropomorphism		Spirit/Transcendent, though early texts use bodily metaphors (walking, speaking).	Deeply Humanized with physical bodies, flaws, marital strife and sexual reproduction.
-Covenant vs. Caprice	Relational & Ethical, binding Himself to historical promises and justice.			Capricious & Transactional, requiring ritual sacrifice to appease shifting moods.
+Feature			Yahweh / Elohim (Hebrew Tradition)							Greek Deities (Hellenic Tradition)
+Ontology		Transcendent Creator existing outside and above the physical universe.			Immanent, Part of Nature and born from primordial cosmic elements (Chaos, Gaia).
+Governance		Absolute Sovereign who commands all history and moral law alone.			Polytheistic Hierarchy where Zeus rules a feuding family of specialized departmental gods.
+Anthropomorphism	Spirit/Transcendent, though early texts use bodily metaphors (walking, speaking).	Deeply Humanized with physical bodies, flaws, marital strife and sexual reproduction.
+Covenant vs. Caprice	Relational & Ethical, binding Himself to historical promises and justice.		Capricious & Transactional, requiring ritual sacrifice to appease shifting moods.
 ~~~
 
 ## Historical and Mythological Context
@@ -371,12 +371,12 @@ Here is a direct comparison across the different traditions:
 
 Side-by-Side Comparison
 ~~~
-Tradition							Primary Divinity Concept	Origin of the Creator					Divine Council / Pantheon					Relationship to Matter
+Tradition				Primary Divinity Concept	Origin of the Creator				Divine Council / Pantheon					Relationship to Matter
 
-Hebrew (Yahweh / Elohim)			Absolute Singular Creator	Uncreated; eternal existence ("I AM")	Subjugated "Sons of God" / angels			Sovereign over matter; creates by spoken word
-Hesiodic (Greek Epic)				Generational Pantheism		Born out of primordial Chaos			Feuding Olympian family hierarchy			Bound by the universe; subject to Fate (Moira)
-Orphic (Greek Mystery)				Mystical Monism				Hatched from the Primordial Cosmic Egg	Chronos/Phanes at top; cyclical rebirth		Matter is a prison; spark of divine hidden within
-Eastern (Mesopotamian/Canaanite)	Political Polytheism		Evolved from water chaos (Tiamat/Apsu)	Assembly of local gods (Elohim / Annunaki)	Gods shape the world out of pre-existing slain monsters
+Hebrew (Yahweh / Elohim)		Absolute Singular Creator	Uncreated; eternal existence ("I AM")		Subjugated "Sons of God" / angels			Sovereign over matter; creates by spoken word
+Hesiodic (Greek Epic)			Generational Pantheism		Born out of primordial Chaos			Feuding Olympian family hierarchy			Bound by the universe; subject to Fate (Moira)
+Orphic (Greek Mystery)			Mystical Monism			Hatched from the Primordial Cosmic Egg		Chronos/Phanes at top; cyclical rebirth		Matter is a prison; spark of divine hidden within
+Eastern (Mesopotamian/Canaanite)	Political Polytheism		Evolved from water chaos (Tiamat/Apsu)		Assembly of local gods (Elohim / Annunaki)	Gods shape the world out of pre-existing slain monsters
 ~~~
 
 ## Conceptual Differences
@@ -430,13 +430,13 @@ Here is a direct breakdown of how these different worldviews explain existence.
 
 At a Glance: Conceptions of Reality
 ~~~
-Tradition / Worldview	Primary Source of Reality								Nature of the Divine / Ultimate										Order vs. Chaos
+Tradition / Worldview		Primary Source of Reality				Nature of the Divine / Ultimate						Order vs. Chaos
 
-Yahweh / Elohim			Created ex nihilo (out of nothing) by a single will.	Transcendent, personal, moral and outside of time/space.			Perfect order spoken into existence; chaos is subdued.
-Hesiodic & Homeric		Emerged out of primordial Chaos.						Immanent, plural (polytheistic), human-like, bound by Fate.			Order is violently won by a younger generation of gods.
-Orphic					Emerged from a cosmic egg (Chronos/Phanes).				Mystical, pantheistic, cyclical, focused on soul transmigration.	Dualistic split between the divine soul and material prison.
-Eastern Traditions		Eternal cycle or ultimate non-dual reality.				Immanent, impersonal (Brahman, Tao), or non-theistic (Sunyata).		Harmonious balance of opposites or illusion (Maya) to transcend.
-Modern Science			Big Bang singularity (~13.8 billion years ago).			Materialist, natural laws, no inherent conscious creator.			Localized order (entropy-driven) governed by physics and math.
+Yahweh / Elohim			Created ex nihilo (out of nothing) by a single will.	Transcendent, personal, moral and outside of time/space.		Perfect order spoken into existence; chaos is subdued.
+Hesiodic & Homeric		Emerged out of primordial Chaos.			Immanent, plural (polytheistic), human-like, bound by Fate.		Order is violently won by a younger generation of gods.
+Orphic				Emerged from a cosmic egg (Chronos/Phanes).		Mystical, pantheistic, cyclical, focused on soul transmigration.	Dualistic split between the divine soul and material prison.
+Eastern Traditions		Eternal cycle or ultimate non-dual reality.		Immanent, impersonal (Brahman, Tao), or non-theistic (Sunyata).		Harmonious balance of opposites or illusion (Maya) to transcend.
+Modern Science			Big Bang singularity (~13.8 billion years ago).		Materialist, natural laws, no inherent conscious creator.		Localized order (entropy-driven) governed by physics and math.
 ~~~
 
 ## The Core Differences
@@ -518,14 +518,14 @@ In the ***Orphic*** creation tradition, ***Ananke*** ruled the nascent universe 
 According to ***Orphic*** cosmogony, the supreme rule of the universe was passed down through generations, beginning with the forces hatched from the *cosmic egg* created by ***Ananke*** and ***Chronos***:
 
 ~~~
-Ruler Generation	Deity						Cosmic Role
+Ruler Generation	Deity				Cosmic Role
 
-1st Rulers			Chronos & Ananke			Time and Necessity (The Primordials)
-2nd Ruler			Phanes (Protogonos)			The First-Born God of Light and Creation
-3rd Ruler			Nyx							Night (Inherited power from Phanes)
-4th Ruler			Ouranos						The Sky / Heaven
-5th Ruler			Kronos						King of the Titans (Not to be confused with Chronos)
-6th Ruler			Zeus						King of the Olympian Gods
+1st Rulers		Chronos & Ananke		Time and Necessity (The Primordials)
+2nd Ruler		Phanes (Protogonos)		The First-Born God of Light and Creation
+3rd Ruler		Nyx				Night (Inherited power from Phanes)
+4th Ruler		Ouranos				The Sky / Heaven
+5th Ruler		Kronos				King of the Titans (Not to be confused with Chronos)
+6th Ruler		Zeus				King of the Olympian Gods
 ~~~
 
 ## Key Offspring who Enforced Her Will
@@ -746,10 +746,10 @@ The *primary difference* is that ***Phanes*** is the ultimate *creator deity* of
 ## Direct Comparison Overview
 
 ~~~
-Feature				Phanes													Aether													Eros (Primordial)
+Feature			Phanes								Aether								Eros (Primordial)
 
-Core Concept		Ultimate creation, life and the manifestation of light	The pure, bright upper air/heavenly mist				Attraction, desire and sexual generation
-Hesiodic Tradition	Does not exist in this version.							Son of Nyx (Night) and Erebus (Darkness).				Emerged independently as one of the first four beings.
+Core Concept		Ultimate creation, life and the manifestation of light		The pure, bright upper air/heavenly mist			Attraction, desire and sexual generation
+Hesiodic Tradition	Does not exist in this version.					Son of Nyx (Night) and Erebus (Darkness).			Emerged independently as one of the first four beings.
 Orphic Tradition	Hatched from the Cosmic Egg; creator of all gods.		Formed by Chronos (Time); surrounds the Cosmic Egg.		Syncretized/Identical to Phanes.
 Visual Depiction	Golden-winged, dual-sexed, wrapped in a serpent.		Gleaming cosmic light or a sky-spanning shroud.			A beautiful winged youth or an abstract cosmic force.
 ~~~
@@ -795,13 +795,13 @@ While popular culture *often fuses these* two figures into *Father Time*, classi
 
 Key Comparison
 ~~~
-Feature				Orphic Chronos (Χρόνος)																	Hesiodic Cronus (Κρόνος)
+Feature			Orphic Chronos (Χρόνος)									Hesiodic Cronus (Κρόνος)
 
-Nature				Primordial deity (Protogenos) of literal, eternal time.									Anthropomorphic Titan representing the harvest, cycles and kingly succession.
-Origins				Emerged from Earth (Gaia) and Water (Hydros) at the dawn of existence.					The youngest son of Uranus (Sky) and Gaia (Earth).
-Appearance			A bodiless or multi-headed serpent with wings and the heads of a man, bull and lion.	A humanoid king, traditionally depicted wielding a sickle or scythe.
-Role in Creation	Creates the Cosmic Egg, hatching Phanes (the ultimate creator of the cosmos).			Castrates his father Uranus to seize power; later swallowed his own children.
-Consort				Ananke, the primordial goddess of Necessity and Inevitability.							Rhea, his sister and fellow Titan.
+Nature			Primordial deity (Protogenos) of literal, eternal time.					Anthropomorphic Titan representing the harvest, cycles and kingly succession.
+Origins			Emerged from Earth (Gaia) and Water (Hydros) at the dawn of existence.			The youngest son of Uranus (Sky) and Gaia (Earth).
+Appearance		A bodiless or multi-headed serpent with wings and the heads of a man, bull and lion.	A humanoid king, traditionally depicted wielding a sickle or scythe.
+Role in Creation	Creates the Cosmic Egg, hatching Phanes (the ultimate creator of the cosmos).		Castrates his father Uranus to seize power; later swallowed his own children.
+Consort			Ananke, the primordial goddess of Necessity and Inevitability.				Rhea, his sister and fellow Titan.
 ~~~
 
 Detailed Breakdown
@@ -832,12 +832,12 @@ In *Greek* mythology, ***Ananke*** (the personification of inevitability, compul
 Here is a direct comparison of how the two traditions view her:
 
 ~~~
-Feature						Orphic Tradition																			Hesiodic Tradition
+Feature				Orphic Tradition										Hesiodic Tradition
 
-Status & Power				Supreme, primordial creator deity who rules the universe alongside Chronos.					Minor allegorical figure or abstract concept with no major cult or mythological role.
-Origin / Parentage			Self-born or emerged at the literal beginning of time from the primeval waters.				Born later in the genealogy, usually considered a daughter of Chronos or emerging after the initial creation.
+Status & Power			Supreme, primordial creator deity who rules the universe alongside Chronos.			Minor allegorical figure or abstract concept with no major cult or mythological role.
+Origin / Parentage		Self-born or emerged at the literal beginning of time from the primeval waters.			Born later in the genealogy, usually considered a daughter of Chronos or emerging after the initial creation.
 Relationship to Fate		Mother of the Moirai (the Fates), placing her above the destiny of both gods and men.		Subordinate to Zeus, who controls or directs destiny; the Fates are instead daughters of Zeus and Themis.
-Visual Depiction			A serpentine or winged being wrapping around the cosmic egg to split the universe open.		An abstract force rarely personified with distinct physical traits or myths.
+Visual Depiction		A serpentine or winged being wrapping around the cosmic egg to split the universe open.		An abstract force rarely personified with distinct physical traits or myths.
 ~~~
 
 ## The *Orphic* *Ananke*: The Ultimate Power
@@ -860,9 +860,9 @@ The fundamental difference between the ***Hesiodic*** and ***Orphic*** tradition
 
 ## Key Comparisons
 ~~~
-Feature				Hesiodic Tradition (Theogony)															Orphic Tradition (Orphic Cosmogony)
+Feature			Hesiodic Tradition (Theogony)									Orphic Tradition (Orphic Cosmogony)
 
-Primary Parents		Daughters of Nyx (Night) or later as daughters of Zeus and Themis						Daughters of Ananke (Necessity) and Chronos (Time)
+Primary Parents		Daughters of Nyx (Night) or later as daughters of Zeus and Themis				Daughters of Ananke (Necessity) and Chronos (Time)
 Cosmic Status		Independent primal forces of retribution or honorable ministers of divine order			Embodiments of absolute inevitability entwined with the origin of time
 Relation to Zeus	Depicted both as acting independently over gods or as allotted high honors by Zeus		Supreme cosmic parameters that govern existence, to whose ordinances even gods must bow
 ~~~
@@ -904,12 +904,12 @@ While ***Hesiod*** views ***Chaos*** as a passive, empty void, the ***Orphics***
 
 Direct Comparison
 ~~~
-Feature				Hesiodic Chaos (Hesiod's Theogony)																Orphic Chaos (Orphism)
+Feature			Hesiodic Chaos (Hesiod's Theogony)									Orphic Chaos (Orphism)
 
-Origin / Parentage	Uncaused. It is the first entity to spontaneously "come to be."									Child of Chronos (Time) and Ananke (Necessity/Need).
-Nature				A gaping void, chasm, or empty dark space.														A misty primordial element existing alongside Aether and Erebus.
-Role in Creation	An origin point. Other primordial gods (Gaia, Tartarus, Eros) spring up alongside or after it.	A formative material. It acts as a womb or substance used to craft the Cosmic Egg.
-Cosmic Hierarchy	At the very top of the family tree.																A lower-tier force subservient to ultimate cosmic laws (Time & Necessity).
+Origin / Parentage	Uncaused. It is the first entity to spontaneously "come to be."						Child of Chronos (Time) and Ananke (Necessity/Need).
+Nature			A gaping void, chasm, or empty dark space.								A misty primordial element existing alongside Aether and Erebus.
+Role in Creation	An origin point. Other primordial gods (Gaia, Tartarus, Eros) spring up alongside or after it.		A formative material. It acts as a womb or substance used to craft the Cosmic Egg.
+Cosmic Hierarchy	At the very top of the family tree.									A lower-tier force subservient to ultimate cosmic laws (Time & Necessity).
 ~~~
 
 Key Conceptual Differences
@@ -934,13 +934,13 @@ In *Greek* mythology, the *core difference* between the ***Orphic*** and ***Hesi
 
 ##  Key Differences at a Glance
 ~~~
-Feature	 				Hesiodic Tradition (Theogony)	 														Orphic Tradition (Orphism)
+Feature	 			Hesiodic Tradition (Theogony)	 							Orphic Tradition (Orphism)
 
-Primary Source			Hesiod's Theogony (c. 700 BCE)—the mainstream, standard Greek mythology.				Orphic Hymns and fragmented poems from a secret, mystical mystery religion.
-Parentage				Child of Erebus (Darkness) and Nyx (Night).												Child of Chronos (Time) and sometimes Ananke (Necessity).
-Siblings				Hemera (Day).																			Chaos and Erebus (Darkness).
+Primary Source			Hesiod's Theogony (c. 700 BCE)—the mainstream, standard Greek mythology.		Orphic Hymns and fragmented poems from a secret, mystical mystery religion.
+Parentage			Child of Erebus (Darkness) and Nyx (Night).						Child of Chronos (Time) and sometimes Ananke (Necessity).
+Siblings			Hemera (Day).										Chaos and Erebus (Darkness).
 Cosmic Function			Represented the literal physical layer of the bright upper air breathed by the gods.	Acted as a divine, foundational substance that helped incubate the Cosmic Egg.
-Philosophical Meaning	Element of material genealogy: Light emerges from darkness.								Spiritual and allegorical: Aether represents the world soul or life-giving spirit.
+Philosophical Meaning		Element of material genealogy: Light emerges from darkness.				Spiritual and allegorical: Aether represents the world soul or life-giving spirit.
 ~~~
 
 ## Conceptions
@@ -979,12 +979,12 @@ The primary distinctions break down as follows:
 
 ## Comparison Overview
 ~~~
-Feature				Hesiodic Tradition								Orphic Tradition
+Feature			Hesiodic Tradition				Orphic Tradition
 
-First Cause			Chaos (The Void)								Chronos (Time)
-Parent of Erebus	Chaos											Chronos
-Sibilings / Peers	Nyx, Gaia, Tartarus, Eros						Chaos, Aether, Ananke
-Core Cosmic Role	Partners with Night to birth Day and Light.		Acts as the dark womb holding the World Egg.
+First Cause		Chaos (The Void)				Chronos (Time)
+Parent of Erebus	Chaos						Chronos
+Sibilings / Peers	Nyx, Gaia, Tartarus, Eros			Chaos, Aether, Ananke
+Core Cosmic Role	Partners with Night to birth Day and Light.	Acts as the dark womb holding the World Egg.
 ~~~
 
 From Night, says ***Hesiod***, came ***Aether*** and ***Hemera***, born of her union with ***Erebus***: the shining upper air in which the gods breathe and the Day that walks the earth
@@ -997,13 +997,13 @@ In *Greek* mythology, the differences between the ***Orphic*** and ***Hesiodic**
 
 Direct Comparison Overview
 ~~~
-Feature				Hesiodic Theogony																	Orphic Cosmogonies / Hymns
+Feature			Hesiodic Theogony									Orphic Cosmogonies / Hymns
 
-Origin / Lineage	Born directly out of Chaos (the Void).												Born as the daughter, companion, or successor to Phanes (or the absolute first being).
+Origin / Lineage	Born directly out of Chaos (the Void).							Born as the daughter, companion, or successor to Phanes (or the absolute first being).
 Cosmic Status		A primordial force, but secondary to the ultimate ruling gods (Cronus, Zeus).		The second ruler of the universe (or first); an elite cosmic matriarch.
-Role to Zeus		Feared and respected by Zeus, but not his superior.									Acts as a prophetic advisor and nurse to Zeus, dictating how he should rule.
-Descendants			Mothers Aether and Hemera, along with abstract dark forces (Death, Fate, Misery).	Mothers Uranus (Sky) and Gaia (Earth), or lays the Cosmic Egg that births Eros.
-Tone				Described negatively as a dark, threatening and shadowy force.						Revered as a majestic, beautiful and generative source of spiritual mystery.
+Role to Zeus		Feared and respected by Zeus, but not his superior.					Acts as a prophetic advisor and nurse to Zeus, dictating how he should rule.
+Descendants		Mothers Aether and Hemera, along with abstract dark forces (Death, Fate, Misery).	Mothers Uranus (Sky) and Gaia (Earth), or lays the Cosmic Egg that births Eros.
+Tone			Described negatively as a dark, threatening and shadowy force.				Revered as a majestic, beautiful and generative source of spiritual mystery.
 ~~~
 
 ## The *Hesiodic Nyx*: Primordial Shadow
@@ -1034,13 +1034,13 @@ The comparison between ***Orphic Eros*** and ***Hesiodic Eros*** highlights two 
 
 Differences
 ~~~
-Feature				Hesiodic Eros (Standard Myth)											Orphic Eros (Mystery Cults)
+Feature			Hesiodic Eros (Standard Myth)							Orphic Eros (Mystery Cults)
 
-Primary Source		Hesiod's Theogony (c. 700 BC)											Orphic Hymns & Fragments / Aristophanes' The Birds
-Origin & Birth		Emerged spontaneously at the dawn of time.								Hatched from a Cosmic/World Egg.
-Lineage				Co-primordial with Chaos, Gaia and Tartarus.							Born from Nyx (Night), Erebus, or Chronos (Time).
-Alternative Names	Strictly Eros.															Phanes, Protogonos ("First-Born"), Ericapaeus.
-Physical Form		Abstract force; later described as "fairest among the deathless gods".	Gilded wings, double-gendered, multiple animal heads, containing all seeds of life.
+Primary Source		Hesiod's Theogony (c. 700 BC)							Orphic Hymns & Fragments / Aristophanes' The Birds
+Origin & Birth		Emerged spontaneously at the dawn of time.					Hatched from a Cosmic/World Egg.
+Lineage			Co-primordial with Chaos, Gaia and Tartarus.					Born from Nyx (Night), Erebus, or Chronos (Time).
+Alternative Names	Strictly Eros.									Phanes, Protogonos ("First-Born"), Ericapaeus.
+Physical Form		Abstract force; later described as "fairest among the deathless gods".		Gilded wings, double-gendered, multiple animal heads, containing all seeds of life.
 Cosmic Function		The gravity or glue that draws elements together to procreate.			The actual architect and ruler of the universe who births the cosmos.
 ~~~
 
@@ -1072,12 +1072,12 @@ See *Greek* mystery cults, how they influenced modern psychology (like ***Freud'
 In ancient *Greek* mythology, the ***Hesiodic*** and ***Orphic*** traditions present contrasting origins and genealogical frameworks for ***Hemera***, the primordial personification and goddess of Day.
 
 ~~~
-Feature				Hesiodic Tradition											Orphic & Alternative Traditions
+Feature			Hesiodic Tradition						Orphic & Alternative Traditions
 
-Parents				Erebus (Darkness) and Nyx (Night)							Chronos (Time) and Nyx, or Chaos and Caligio
-Nature of Deity		A divine cosmic substance and cyclical force				Integrated into complex ontological successions and eggs
-Consort / Sibling	Aether (Upper Light/Air)									Varied primordials or self-generated entities
-Cosmic Role			Passing through the threshold of Tartarus as Nyx enters		Subsumed into mystical unities and re-birth cycles
+Parents			Erebus (Darkness) and Nyx (Night)				Chronos (Time) and Nyx, or Chaos and Caligio
+Nature of Deity		A divine cosmic substance and cyclical force			Integrated into complex ontological successions and eggs
+Consort / Sibling	Aether (Upper Light/Air)					Varied primordials or self-generated entities
+Cosmic Role		Passing through the threshold of Tartarus as Nyx enters		Subsumed into mystical unities and re-birth cycles
 ~~~
 
 ## Key Differences
@@ -1124,12 +1124,12 @@ The ***Hesiodic*** and ***Orphic*** traditions differ fundamentally in ***Uranus
 
 ## Differences: *Hesiodic* vs. *Orphic Uranus*
 ~~~
-Feature				Hesiodic Tradition (Hesiod's Theogony)													Orphic Tradition (Orphism)
+Feature			Hesiodic Tradition (Hesiod's Theogony)							Orphic Tradition (Orphism)
 
-Origin Point		Born directly from Gaia (Earth) without a male partner.									Emerges from a cosmic World Egg or is born from Nyx (Night) / Phanes.
-Parentage			Son of Gaia alone (or emerging after Chaos/Gaia in standard epic genealogy).			Created via Chronos (Time), Phanes, or Nyx.
-Cosmic Role			Physical personification of the sky/heavens; husband to Gaia and father of the Titans.	Described as "the limit and guardian of everything" (ouros panton) in Orphic hymns.
-Narrative Focus		Central to the violent Succession Myth ending in his castration by Cronus.				Integrated into a more abstract, philosophical theology of cosmic ordering.
+Origin Point		Born directly from Gaia (Earth) without a male partner.					Emerges from a cosmic World Egg or is born from Nyx (Night) / Phanes.
+Parentage		Son of Gaia alone (or emerging after Chaos/Gaia in standard epic genealogy).		Created via Chronos (Time), Phanes, or Nyx.
+Cosmic Role		Physical personification of the sky/heavens; husband to Gaia and father of the Titans.	Described as "the limit and guardian of everything" (ouros panton) in Orphic hymns.
+Narrative Focus		Central to the violent Succession Myth ending in his castration by Cronus.		Integrated into a more abstract, philosophical theology of cosmic ordering.
 ~~~
 
 ## Core Details of Each Tradition
@@ -1148,13 +1148,13 @@ In *Greek* mythology, the ***Titans*** hold vastly different roles and meanings 
 
 ## Differences
 ~~~
-Feature						Hesiod's Theogony																	Orphic Tradition
+Feature				Hesiod's Theogony									Orphic Tradition
 
-Origin & Number				12 original Titans born from Ouranos (Sky) and Gaia (Earth).						Often varies, but emphasizes their role as ancestral, chaotic forces.
-Central Conflict			The Titanomachy: A 10-year war where Zeus and the Olympians overthrow the Titans.	The dismemberment of Dionysus Zagreus: The Titans trick, kill and eat Zeus' heir.
-Fate of the Titans			Imprisoned by Zeus eternally in the depths of Tartarus.								Blasted into ashes by Zeus’s thunderbolts as punishment for their crime.
-Connection to Humanity		Humans are created separately (varying myths, like Prometheus).						Humanity is born from the ashes of the blasted Titans.
-Symbolic Meaning			The triumph of civilization, justice and order over raw, primordial power.			The origin of the dual human nature: a wicked Titanic body and a divine, soul fragment of Dionysus.
+Origin & Number			12 original Titans born from Ouranos (Sky) and Gaia (Earth).				Often varies, but emphasizes their role as ancestral, chaotic forces.
+Central Conflict		The Titanomachy: A 10-year war where Zeus and the Olympians overthrow the Titans.	The dismemberment of Dionysus Zagreus: The Titans trick, kill and eat Zeus' heir.
+Fate of the Titans		Imprisoned by Zeus eternally in the depths of Tartarus.					Blasted into ashes by Zeus’s thunderbolts as punishment for their crime.
+Connection to Humanity		Humans are created separately (varying myths, like Prometheus).				Humanity is born from the ashes of the blasted Titans.
+Symbolic Meaning		The triumph of civilization, justice and order over raw, primordial power.		The origin of the dual human nature: a wicked Titanic body and a divine, soul fragment of Dionysus.
 ~~~
 
 - ***Hesiod's Titans***: Cosmic *Predecessors*
@@ -1171,12 +1171,12 @@ In mainstream *Greek* mythology defined by ***Hesiod***, the ***Titans*** are si
 
 Comparison of Traditions
 ~~~
-Feature				Hesiodic Tradition (Theogony)							Orphic Tradition
+Feature			Hesiodic Tradition (Theogony)					Orphic Tradition
 
 Origin / Parents	Born from Gaia (Earth) and Tartarus (Underworld)		Born from Cronus' semen on two eggs buried by Hera
-Motivation			Cosmic threat born out of Earth's anger/nature			Created specifically by Hera to overpower Zeus
+Motivation		Cosmic threat born out of Earth's anger/nature			Created specifically by Hera to overpower Zeus
 Conflict with Zeus	Defeated in a swift, cataclysmic single battle			Part of a complex cycle involving divine succession
-Aftermath			Imprisoned beneath Mount Etna or hurled into Tartarus	Bound by lightning as part of cosmic reordering
+Aftermath		Imprisoned beneath Mount Etna or hurled into Tartarus		Bound by lightning as part of cosmic reordering
 ~~~
 
 - ***Hesiodic*** Version: Focuses on ***Typhon*** as the final natural beast born of primeval elements to test the absolute supremacy of ***Zeus***.
