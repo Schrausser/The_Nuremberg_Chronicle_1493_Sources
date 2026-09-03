@@ -1,6 +1,6 @@
----
 
-# Greek Creation Myths 3 Traditions (*Hesiod*, *Homer* and *Orphism*), Content
+---
+# Greek Creation Myths: 3 Traditions (*Hesiod*, *Homer* and *Orphism*), Content
 
 An *overview* of *differences* between (1) ***Hesiodic*** mythology, the mainstream, standard *Greek* and the (2) ***Orphic*** Hymns,  fragmented poems from a secret, mystical mystery religion (also *parodied* in ***Aristophanes'*** *The Birds*).
 
@@ -12,14 +12,14 @@ NC. The *equivalence* with classical Greek mythology, especially the ***Orphic t
 
 # *Orphism*
 
-**Orphism** is the name given to a *set of religious beliefs* and practices originating in the ancient *Greek* and *Hellenistic* world.
+**Orphism** is the name given to a *set of religious beliefs* and practices originating in the ancient *Greek* and *Hellenistic* world, see e.g. Norlin ([1908](http://www.jstor.org/stable/3286975)), Edmonds III ([2013](https://doi.org/10.1017/CBO9781139814669.008)), Furlan ([2019](https://www.jstor.org/stable/26796550)).
 
 <br>
 
 # *Hesiodic, Homeric* and *Orphic* traditions
 
 Ancient *Greek* mythology did not rely on a single, standardized holy text. Instead, its cosmogony—*the origin of the universe*—was understood through distinct competing lineages. The core differences between the ***Hesiodic, Homeric*** and ***Orphic*** traditions lie in their (1) primary *source of existence*, (2) the *nature of humanity* and (3) the *intent* of the texts themselves.
-While ***Hesiod*** became the foundational *mainstream* narrative, ***Homer*** hinted at a *fluid, water-based* reality and ***Orphism*** functioned as a *mystical, highly religious* ***counter-culture***.
+While ***Hesiod*** became the foundational *mainstream* narrative, ***Homer*** hinted at a *fluid, water-based* reality and ***Orphism*** functioned as a *mystical, highly religious* ***counter-culture***. See e.g. Sale ([1965](http://www.jstor.org/stable/20162994)),  Finglass ([2008](https://doi.org/10.1007/s12138-009-0055-0)), Hunter and Scully ([2017](https://www.jstor.org/stable/26543462)), Santamaría ([2021](https://doi.org/10.1007/978-3-658-32184-0_7)).
 
 ## Comparison of the 3 Traditions
 
@@ -54,7 +54,7 @@ Written down in the 8th c. BC, ***Hesiod’s*** *Theogony* is the most systemati
 - **The Succession**: ***Phanes*** passes the scepter to ***Nyx*** (Night), who passes it down until ***Zeus*** eventually *swallows* ***Phanes*** entirely. By consuming the creator, ***Zeus*** *absorbs* the old universe and *rebuilds* it under his own design.
 - **Humanity**: This tradition features a *vital origin story* for mankind: The ***Titans*** murder and eat the *infant god* ***Dionysus-Zagreus***. In fury, ***Zeus*** *blasts* the ***Titans*** to ash with thunderbolts. *Humanity* is *born* from these *ashes*. Consequently, humans possess a *dual* nature: (1) a *sinful, physical body* from the *malicious* ***Titans*** and (2) a *divine, immortal soul* from the consumed pieces of ***Dionysus***.
 
-See how *Near Eastern* myths (like *Babylonian* or *Hittite* stories) influenced these accounts.
+See how *Near Eastern* myths (like *Babylonian* or *Hittite* stories) influenced these accounts, c.f. Walcot ([1956]()).
 
 <br>
 
@@ -154,7 +154,7 @@ See *psychological* interpretations (like ***C. G. Jung's*** work) of the symbol
 
 # Greek primordial gods
 
-In *Greek* mythology, the *primordial gods*—known as the ***Protogenoi*** (meaning *first-born*)—are the *very first* generation of deities who emerged at the dawn of creation. Unlike the *human-like* ***Olympian*** gods, these primeval beings were the literal, *physical embodiments* of the *universe's* **fundamental forces** and elements, such as the *earth*, the *sky* and *time* itself. 
+In *Greek* mythology, the *primordial gods*—known as the ***Protogenoi*** (meaning *first-born*)—are the *very first* generation of deities who emerged at the dawn of creation. Unlike the *human-like* ***Olympian*** gods, these primeval beings were the literal, *physical embodiments* of the *universe's* **fundamental forces** and elements, such as the *earth*, the *sky* and *time* itself, c.f. Scully ([1998](https://doi.org/10.1007/978-94-017-2614-6_12)).
 
 According to ***Hesiod's*** famous poem, the *Theogony* (the *birth of the gods*), the cosmos began with a *singular entity* before branching into the *building blocks*(!) of *reality*. 
 
@@ -282,7 +282,7 @@ The ***Orphic*** hymns present a highly *philosophical*, *spiritual* and *cyclic
 
 # Genesis, the *Hesiodic* Theogony and *Orphic* cosmogony
 
-*Genesis*, the ***Hesiodic*** *Theogony* and ***Orphic*** *cosmogony* represent three *vastly different* foundational creation frameworks: 
+*Genesis*, the ***Hesiodic*** *Theogony* and ***Orphic*** *cosmogony* represent three *vastly different* foundational creation frameworks, c.f. Louden ([2013](http://www.jstor.org/stable/10.5406/illiclasstud.38.0001)): 
 - a *monotheistic* command out of a formless void by a **single(!) God**, 
 - a *polytheistic* spontaneous emergence and generational procreation starting from ***Chaos***,
 - an esoteric *mystical* emergence from a cosmic *egg* spawned by eternal **Time**. 
@@ -1186,3 +1186,26 @@ Poets like ***Pindar*** or ***Aeschylus*** describe ***Typhon*** or explore his 
 
 ---
 
+<br>
+
+# References
+
+Edmonds III, R. G. (2013). Orphic Mythology: The Content of Orphic Poems. In *Redefining Ancient Orphism: A Study in Greek Religion*, 160–92. Cambridge University Press.[https://doi.org/10.1017/CBO9781139814669.008](https://doi.org/10.1017/CBO9781139814669.008)
+
+Finglass, P. J. (2008). *Hesiod, Theogony, Works and Days, Testimonia*, Edited and Translated by Glenn w. Most, Loeb Classical Library 57 (Cambridge, MA & London: Harvard University Press, 2006), LXXXII + 308 Pp. *International Journal of the Classical Tradition, 15*(3), 470–73. [https://doi.org/10.1007/s12138-009-0055-0](https://doi.org/10.1007/s12138-009-0055-0)
+
+Furlan, A. L. (2019). A SURVEY OF ORPHIC TRADITION. *The Classical Review, 69*(2), 367–369. [https://www.jstor.org/stable/26796550](https://www.jstor.org/stable/26796550)
+
+Hunter, R., & Scully, S. (2017). Review: Hesiod’s ‘Theogony’: From Near Eastern Creation Myths to Paradise Lost. *Classical Philology,112*(2), 285–289. [https://www.jstor.org/stable/26543462](https://www.jstor.org/stable/26543462)
+
+Louden, B. (2013). Iapetus and Japheth: Hesiod’s Theogony, Iliad 15.187-93 and Genesis 9-10. *Illinois Classical Studies, 38*, 1–22. [http://www.jstor.org/stable/10.5406/illiclasstud.38.0001](http://www.jstor.org/stable/10.5406/illiclasstud.38.0001)
+
+Norlin, G. (1908). The Doctrines of the Orphic Mysteries, with Special Reference to the Words of Anchises in Vergil’s Sixth Aeneid 724-51. *The Classical Journal, 3*(3), 91–99. [http://www.jstor.org/stable/3286975](http://www.jstor.org/stable/3286975)
+
+Sale, W. (1965). The Dual Vision of the "Theogony". *Arion: A Journal of Humanities and the Classics, 4,*(4), 668–99. [http://www.jstor.org/stable/20162994](http://www.jstor.org/stable/20162994)
+
+Santamaría, M. A. (2021). The Emergence of the World in Early Greek Theogonies from Hesiod to Acusilaus. In *Narrating the Beginnings*, edited by Bernabé Pajares, A., & Martín Hernández, R., 117–37. Wiesbaden: Springer Fachmedien Wiesbaden. [https://doi.org/10.1007/978-3-658-32184-0_7](https://doi.org/10.1007/978-3-658-32184-0_7)
+
+Scully, S. (1998). The Nature of the Gods in Early Greek Poetic Thought. In *Philosophies of Nature: The Human Dimension: In Celebration of Erazim Kohák*, edited by Cohen, R. S., & Tauber, A. I., 163–76. Dordrecht: Springer Netherlands. [https://doi.org/10.1007/978-94-017-2614-6_12](https://doi.org/10.1007/978-94-017-2614-6_12)
+
+Walcot, P. (1956). The Text of Hesiod’s Theogony and the Hittite Epic of Kumarbi. *The Classical Quarterly, 6*(3/4), 198–206. [http://www.jstor.org/stable/636913](http://www.jstor.org/stable/636913)
