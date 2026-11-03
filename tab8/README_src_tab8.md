@@ -13,6 +13,14 @@ Literature sources and references (s. Tab. 1) for the *Nuremberg Chronicle*, fol
 
 Especially since the *Early New High German* text is very difficult to understand compared to *modern High German*, as a profound knowledge of *German* (as a mother tongue) as well as knowledge of *various dialects* is required, a *German* translation is also provided.
 
+>"Scripserunt veteres hunc esse siluarum altorem permaximum et beluarum immaniu[m] productorem [et] ***crocodrillor[um]*** [et] hippotamoru[m] [et] c[etera]. Preterea calami atq[ue] papiri:", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIIv).
+
+>"Die alten schreiben diser Nilus sey ein vast grosser nörer der väld. vn[d] ein erzieher grosser wasserthiere. d[er] ***lindwiirme*** vn[d] wasserpferde. auch vil rörichs vn[d] alweg grone[n]der pintzen etc.", (Schedel & Alt, [1496](https://doi.org/10.3931/e-rara-69075), fol. VIIv).
+
+>The old ones tell that the Nile is a very large nourisher of the forests and produces large aquatic animals such as the *lindworms* (crocodiles!) and hippos, as well as the papyrus.
+
+>Die Alten überliefern, dass der Nil ein sehr großer Nährer der Wälder sei und große Wassertiere wie *Lindwürmer* (Krokodile!) und Flusspferde sowie auch Papyrus hervorbringt.
+
 **Table 1.** Pages containing first mentions *ment* of persons *name* (fol. Ir to VIr), sorted according to the corresponding reference pages *ref* of the following text.
 ~~~
 Fol/Blat	name					nr
