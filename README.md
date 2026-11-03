@@ -13,7 +13,7 @@ Literature sources and references (s. Tab. 1) for the *Nuremberg Chronicle*, fol
 
 Especially since the *Early New High German* text is very difficult to understand compared to *modern High German*, as a profound knowledge of *German* (as a mother tongue) as well as knowledge of *various dialects* is required, a *German* translation is also provided.
 
->"Scripserunt veteres hunc esse siluarum altorem permaximum et beluarum immaniu[m] productorem [et] ***crocodrillor[um]*** [et] hippotamoru[m] [et] c[etera]. Preterea calami atq[ue] papiri:", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIIv).
+>"Scripserunt veteres hunc esse siluarum altorem permaximum et beluarum immaniu[m] productorem [et] ***crocodrillo[rum]*** [et] hippotamoru[m] [et] c[etera]. Preterea calami atq[ue] papiri:", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIIv).
 
 >"Die alten schreiben diser Nilus sey ein vast grosser nörer der väld. vn[d] ein erzieher grosser wasserthiere. d[er] ***lindwiirme*** vn[d] wasserpferde. auch vil rörichs vn[d] alweg grone[n]der pintzen etc.", (Schedel & Alt, [1496](https://doi.org/10.3931/e-rara-69075), fol. VIIv).
 
@@ -23,61 +23,61 @@ Especially since the *Early New High German* text is very difficult to understan
 
 **Table 1.** Pages containing first mentions *ment* of persons *name* (fol. Ir to VIr), sorted according to the corresponding reference pages *ref* of the following text.
 ~~~
-Fol/Blat	name					nr
+Fol/Blat		name									nr
 ment	ref
 	
-1r	1r	Euripides¹				1
-1r	1r	Numenius of Apamea¹			2
-1r	1r	Theodoret of Cyrus¹			3
-1r	1r	Rabbi Simeon bar Yochai, Rashbi¹	4
-1r	1r	Rabbi Eliazar ben Hurcanus¹		5
-1r	1r	Abba Saul, The Tanna¹			6
-1r	1r	Rabban Yohanan ben Zakkai¹		7
-1r	1r	Rabbi Nehunyah ben HaKanah¹		8
-1r	1r	Rabbi Levi ben Gershom, Ralbag¹		9
-1r	1r	Rabbi Saadia Gaon¹			10
-1r	1r	Abraham Bar Ḥiyya, Savasorda¹		11
-5r	10	Enoch¹³					12
-1r	11r	"Archa Noe"¹				13
-1r	14v	Yoniton or Ionitus¹			14
-1r	24v	Lisania, Jupiter I¹			15
-1r	29v	Moses					16
-1r	46v	King Solomon the Wise			17
-1r	61v	Pythagoras of Samos²			18
-3r	61v	Ezekiel					19
-1r	71r	Anaxagoras				20
-1r	73v	Plato					21
-1r	74v	Hermippus of Smyrna¹			22
-4v	74v	Plotinus²				23
-2r	77r	The Septuagint²				24
-1r	77r	Yosef ben Matityahu¹²			25
-2r	78r	Aristotle				26
-2r	78r	Epicurus				27
-1r	85r	Philo of Alexandria²³			28
-4r	89r	Marcus Tullius Cicero			29
-4r	92v	Quintus Horatius Flaccus		30
-2r	93v	Publius Ovidius Naso			31
-1r	97r	Philo of Alexandria³			32
-6r	107r	Saint Matthew the Evangelist		33
-1r	108r	Saint Luke the Evangelist		34
-6r	109v	Pseudo-Dionysius the Areopagite⁴	35
-1r	117v	Origen of Alexandria			36
-1r	133r	Saint Basil the Great			37
-1r	134v	Saint Ambrose of Milan			38
-1r	134v	Apollinarius of Laodicea		39
-1r	135r	Saint Jerome				40
-1r	135r	Saint Chrysostom of Constantinople	41
-1r	135v	Saint Didymus the Blind			42
-1r	136r	Saint Augustinus of Hippo		43
-1r	140v	Saint Remigius of Reims			44
-1r	141v	Saint Gennadius I of Constantinople	45
-6r	148r	Saint Gregory the Great			46
-6r	151v	Saint Isidore of Seville		47
-1r	158v	Saint Bede the Venerable		48
-1r	161v	Saint Giles the Hermit			49
-1r	169r	Walafrid Strabo				50
-1r	192v	Isaac Israeli ben Solomon		51
-1r	214r	Saint Albert the Great			52
+1r		1r		Euripides¹								1
+1r		1r		Numenius of Apamea¹						2
+1r		1r		Theodoret of Cyrus¹						3
+1r		1r		Rabbi Simeon bar Yochai, Rashbi¹		4
+1r		1r		Rabbi Eliazar ben Hurcanus¹				5
+1r		1r		Abba Saul, The Tanna¹					6
+1r		1r		Rabban Yohanan ben Zakkai¹				7
+1r		1r		Rabbi Nehunyah ben HaKanah¹				8
+1r		1r		Rabbi Levi ben Gershom, Ralbag¹			9
+1r		1r		Rabbi Saadia Gaon¹						10
+1r		1r		Abraham Bar Ḥiyya, Savasorda¹			11
+5r		10		Enoch¹³									12
+1r		11r		"Archa Noe"¹							13
+1r		14v		Yoniton or Ionitus¹						14
+1r		24v		Lisania, Jupiter I¹						15
+1r		29v		Moses									16
+1r		46v		King Solomon the Wise					17
+1r		61v		Pythagoras of Samos²					18
+3r		61v		Ezekiel									19
+1r		71r		Anaxagoras								20
+1r		73v		Plato									21
+1r		74v		Hermippus of Smyrna¹					22
+4v		74v		Plotinus²								23
+2r		77r		The Septuagint²							24
+1r		77r		Yosef ben Matityahu¹²					25
+2r		78r		Aristotle								26
+2r		78r		Epicurus								27
+1r		85r		Philo of Alexandria²³					28
+4r		89r		Marcus Tullius Cicero					29
+4r		92v		Quintus Horatius Flaccus				30
+2r		93v		Publius Ovidius Naso					31
+1r		97r		Philo of Alexandria³					32
+6r		107r	Saint Matthew the Evangelist			33
+1r		108r	Saint Luke the Evangelist				34
+6r		109v	Pseudo-Dionysius the Areopagite⁴		35
+1r		117v	Origen of Alexandria					36
+1r		133r	Saint Basil the Great					37
+1r		134v	Saint Ambrose of Milan					38
+1r		134v	Apollinarius of Laodicea				39
+1r		135r	Saint Jerome							40
+1r		135r	Saint Chrysostom of Constantinople		41
+1r		135v	Saint Didymus the Blind					42
+1r		136r	Saint Augustinus of Hippo				43
+1r		140v	Saint Remigius of Reims					44
+1r		141v	Saint Gennadius I of Constantinople		45
+6r		148r	Saint Gregory the Great					46
+6r		151v	Saint Isidore of Seville				47
+1r		158v	Saint Bede the Venerable				48
+1r		161v	Saint Giles the Hermit					49
+1r		169r	Walafrid Strabo							50
+1r		192v	Isaac Israeli ben Solomon				51
+1r		214r	Saint Albert the Great					52
 ~~~
 ¹) Mentioned from the *Heptaplus* (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217), p. 1 f.).  
 ²) Anachronistic.  
@@ -148,6 +148,8 @@ Plato. (1588). *Divini Platonis Opera Omnia*, edited by Ficino, M., Conrado, S. 
 Plinius Secundus, G. (1250). *Plinius Secundus Major, Historia Naturalis. Liber Trigesimus Septimus Manu Recentiore Suppletus Est*. Latin 6797. Paris: Bibliothèque nationale de France. [https://gallica.bnf.fr/ark:/12148/btv1b550140045/](https://gallica.bnf.fr/ark:/12148/btv1b550140045/)
 
 Plotinus. (1580). *Plotini Platonicorum facile coryphaei Operum philosophicorum omnium libri LIV in sex Enneades distributi*. Edited by Ficinus, M. Basileae: Ad Perneam Lecythum. [https://doi.org/10.3931/e-rara-120889](https://doi.org/10.3931/e-rara-120889)
+
+Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
 
 Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger.
 [https://web.archive.org/web/20161003154613](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
