@@ -13,7 +13,7 @@ Literature sources and references (s. Tab. 1) for the *Nuremberg Chronicle*, fol
 
 Especially since the *Early New High German* text is very difficult to understand compared to *modern High German*, as a profound knowledge of *German* (as a mother tongue) as well as knowledge of *various dialects* is required, a *German* translation is also provided.
 
->"Scripserunt veteres hunc esse siluarum altorem permaximum et beluarum immaniu[m] productorem [et] ***crocodrillor[um]*** [et] hippotamoru[m] [et] c[etera]. Preterea calami atq[ue] papiri:", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIIv).
+>"Scripserunt veteres hunc esse siluarum altorem permaximum et beluarum immaniu[m] productorem [et] ***crocodrillo[rum]*** [et] hippotamoru[m] [et] c[etera]. Preterea calami atq[ue] papiri:", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIIv).
 
 >"Die alten schreiben diser Nilus sey ein vast grosser nörer der väld. vn[d] ein erzieher grosser wasserthiere. d[er] ***lindwiirme*** vn[d] wasserpferde. auch vil rörichs vn[d] alweg grone[n]der pintzen etc.", (Schedel & Alt, [1496](https://doi.org/10.3931/e-rara-69075), fol. VIIv).
 
@@ -149,6 +149,8 @@ Plato. (1588). *Divini Platonis Opera Omnia*, edited by Ficino, M., Conrado, S. 
 Plinius Secundus, G. (1250). *Plinius Secundus Major, Historia Naturalis. Liber Trigesimus Septimus Manu Recentiore Suppletus Est*. Latin 6797. Paris: Bibliothèque nationale de France. [https://gallica.bnf.fr/ark:/12148/btv1b550140045/](https://gallica.bnf.fr/ark:/12148/btv1b550140045/)
 
 Plotinus. (1580). *Plotini Platonicorum facile coryphaei Operum philosophicorum omnium libri LIV in sex Enneades distributi*. Edited by Ficinus, M. Basileae: Ad Perneam Lecythum. [https://doi.org/10.3931/e-rara-120889](https://doi.org/10.3931/e-rara-120889)
+
+Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
 
 Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger.
 [https://web.archive.org/web/20161003154613](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
