@@ -14,7 +14,7 @@ By describing a divine *creation*, Moses exposes the three errors[^3] of **Plato
 
 (ad 2) Of all beings, he primordially created the *angels*[^12] from that which is *nothing* (***n[]***).[^13] Thus, *he* is powerful through *eternity* and, through the strength of this immense power (which is limitless and immeasurable[^14]), *equal* to the life of the Creator[^15].[^16] 
 Therefore, it may seem astonishing that, prior to the creation of the world, raw matter[^17] from *nothing* had to be prepared.[^18] 
-This is probably how the Saracens understood[^19] it when they said that the angels had been led by God from *darkness* into the light and filled with eternal joy. However, some of them forgot their divine character[^20], changed from good to evil[^21] through their own *own* reversal[^22] and became devils (what we call criminals[^23]).[^24]
+This is probably how the Saracens understood[^19] it when they said that the angels had been led by God from *darkness* into the light and filled with eternal joy. However, some of them forgot their divine character[^20], changed from good to evil[^21] through their *own* reversal[^22] and became devils (what we call criminals[^23]).[^24]
 
 (ad 1) The earth was void, that is (as **Jerome** and **the Seventy**[^25] suggest) invisible and unjoined[^26] and because of this confused[^27] state called *Abyss*, which the Greeks call *Chaos*. This is[^28] *three-dimensional* matter[^29], extended to the greatest depths[^30].
 

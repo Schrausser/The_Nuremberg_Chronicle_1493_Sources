@@ -17,7 +17,7 @@ It is untrue that water is not found anywhere in remote and isolated places, sin
 
 When the earth[^9] is then overwhelmed by the waves of the sea, it is initially not useful or practical for us, but becomes suitable for animals and also for our purposes when the sea *recedes*, then its fertility and bountifulness become increasingly apparent. This is also strongly illustrated by **Moses** when he presents it as the *parent*[^10] of herbs, fruits and trees and describes them as immediately green and blooming after the accumulation of water.[^11]
 
-So he placed it (the *Earth*) in the middle of the *World*, as the *center*, endowed with
+So he placed it (the *earth*) in the middle of the *world*, as the *center*, endowed with
 veins[^12] of metals such as gold, silver, bronze[^13], copper, tin, lead and (surpassing all) iron, immediately covered with all kinds of herbs, in their green ripeness, with herb seeds and trees with the sweetest fruits. It is also said that on that day he created the most fertile and glorious <ins>*Source*</ins>[^14], Paradise, with all kinds of woods and trees, composed of all the delights of springs, with green plains of trees bearing the most abundant fruit.[^15]
 
 [^1]: from the 'Heptaplus' (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217), Book 3).  

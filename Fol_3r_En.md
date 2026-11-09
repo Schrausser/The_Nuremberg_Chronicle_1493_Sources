@@ -11,7 +11,7 @@ Let us hear the prophet speak of celestial mysteries. God created a *wheel-shape
 
 [...][^8] *Above*[^9] the (I) nine celestial spheres, that is, (i) the seven planets, (ii) the eighth sphere, the *unerring*[^10], (iii) the ninth orbit, comprehensible by reason but not by the senses and the first among the *moved* bodies, it is assumed that (II) the tenth heaven is unchanging, at rest and still, since it does not participate in any movement. 
 
-Not only our people held this view, in particular the younger **'Strabo'** and **Bede**, but also many Hebrews and furthermore some philosophers and mathematicians. It suffices to mention two who attested to this: **Abraham**, the greatest Spanish astrologer and **Isaac**, the philosopher. Here, *Isaac* interprets the tenth orbit as designated by **Ezekiel** through the *sapphire in the form of a throne*; the color of the sapphire symbolizes the brilliance of light and the analogy[^11] with a throne symbolizes immobility.[^12]
+Not only our people held this view, in particular the younger, **'Strabo'** and **Bede**, but also many Hebrews and furthermore some philosophers and mathematicians. It suffices to mention two who attested to this: **Abraham**, the greatest Spanish astrologer and **Isaac**, the philosopher. Here, *Isaac* interprets the tenth orbit as designated by **Ezekiel** through the *sapphire in the form of a throne*; the color of the sapphire symbolizes the brilliance of light and the analogy[^11] with a throne symbolizes immobility.[^12]
 
 ⋅
 
