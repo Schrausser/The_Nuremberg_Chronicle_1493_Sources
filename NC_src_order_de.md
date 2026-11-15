@@ -54,7 +54,7 @@ Dionysius			deus			amat vt charitas			noscit vt veritas			sedet vt equitas
 
 			iii				*|angelos|				|archangelos|				*|principatus|
 							*humane custodie solicitudo		magnoru[m] negociorum denunciatio	*capitibunt p[re]sunt populo[rum]			
- 				 			*nutrit vt inspira[n]s			reuelat vt lux				*regit vt principat[us]	
+				deus			*nutrit vt inspira[n]s			reuelat vt lux				*regit vt principat[us]	
 ~~~
 
 **Tabelle 3**. Hauptquellen der zitierten Passagen in der *Weltchronik* fol. Ir bis VIIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075)) mit Datumsangaben.
