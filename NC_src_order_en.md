@@ -2,32 +2,32 @@
 
 **Table 1**. The *Order of the Angels* after Pope Gregory I., 540-604 AD (Étaix, [1999](https://books.google.com/books?id=r4ERnwEACAAJ)) and after the revision according to Thomas Aquinas, 1225-1274 ([1485](https://doi.org/10.3931/e-rara-15170)) based on Pseudo-Dionysius the Areopagite, 485- 518 AD ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)).
 ~~~
-											Order		
-				Level						a 									b									c
+							Order		
+			Level				a 					b					c
 
-Pope Gregory I	i							|seraphin|							|cherubin|							|thronos|
-6th c. AD			[con]siderant dei		bonitate[m]							virtute[m]							equitate[m]
-					deus					amat vt charitas					noscit vt veritas					sedet vt equitas
+Pope Gregory I		i				|seraphin|				|cherubin|				|thronos|
+6th c. AD			[con]siderant dei	bonitate[m]				virtute[m]				equitate[m]
+				deus			amat vt charitas			noscit vt veritas			sedet vt equitas
 
-				ii							|dominat[i]ones|					|principatus|						|potestates|
-											officia regu[n]t angelorum			capitibunt p[re]sunt populo[rum]	coercent demonu[m]
-					d[omi]n[u]s				dominat[ur] vt maiestas				regit vt principat[us]				tenet[ur] vt salus
+			ii				|dominat[i]ones|			|principatus|				|potestates|
+							officia regu[n]t angelorum		capitibunt p[re]sunt populo[rum]	coercent demonu[m]
+				d[omi]n[u]s		dominat[ur] vt maiestas			regit vt principat[us]			tenet[ur] vt salus
 
-				iii							|virtutes|							|archangelos|						|angelos|
-											p[er]tinet miraculorum op[er]atio	magnoru[m] negociorum denunciatio	humane custodie solicitudo
-					deus					op[er]atur vt virt[us]				reuelat vt lux						nutrit vt inspira[n]s
+			iii				|virtutes|				|archangelos|				|angelos|
+							p[er]tinet miraculorum op[er]atio	magnoru[m] negociorum denunciatio	humane custodie solicitudo
+				deus			op[er]atur vt virt[us]			reuelat vt lux				nutrit vt inspira[n]s
 					
-Thomas Aquinas	i							|seraphin|							|cherubin|							|thronos|
-13th c.				[con]siderant 			dei	bonitate[m]						virtute[m]							equitate[m]
-Dionysius			deus					amat vt charitas					noscit vt veritas					sedet vt equitas
+Thomas Aquinas		i				|seraphin|				|cherubin|				|thronos|
+13th c.				[con]siderantdei	bonitate[m]				virtute[m]				equitate[m]
+Dionysius			deus			amat vt charitas			noscit vt veritas			sedet vt equitas
 5-6th c. AD
-				ii							|dominat[i]ones|					*|virtutes|							|potestates|
-											officia regu[n]t angelorum			*p[er]tinet miraculorum op[er]atio	coercent demonu[m]
-					d[omi]n[u]s				dominat[ur] vt maiestas				*op[er]atur vt virt[us]				tenet[ur] vt salus
+			ii				|dominat[i]ones|			*|virtutes|				|potestates|
+							officia regu[n]t angelorum		*p[er]tinet miraculorum op[er]atio	coercent demonu[m]
+				d[omi]n[u]s		dominat[ur] vt maiestas			*op[er]atur vt virt[us]			tenet[ur] vt salus
 
-				iii							*|principatus|						|archangelos|						|angelos|
-											*capitibunt p[re]sunt populo[rum]	magnoru[m] negociorum denunciatio	humane custodie solicitudo
-					deus					*regit vt principat[us]				reuelat vt lux						nutrit vt inspira[n]s
+			iii				*|principatus|				|archangelos|				|angelos|
+							*capitibunt p[re]sunt populo[rum]	magnoru[m] negociorum denunciatio	humane custodie solicitudo
+				deus			*regit vt principat[us]			reuelat vt lux				nutrit vt inspira[n]s
 ~~~
 
 
