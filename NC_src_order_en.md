@@ -2,7 +2,7 @@
 
 >"quem theologi angelicum, philosophi autem intellectualem vocant", *Heptaplus* (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217), p. 3; Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. Ir). 
 
->which the theologians call of the angels or angelic, whereas philosophers call it the intellectual.
+>which the *theologians* call of the angels or *angelic*, whereas *philosophers* call it the *intellectual*.
 
 
 **Table 1**. The *Order of the Angels* after Pope Gregory I, 540-604 AD (Étaix, [1999](https://books.google.com/books?id=r4ERnwEACAAJ)) and after the revision according to Thomas Aquinas, 1225-1274 ([1485](https://doi.org/10.3931/e-rara-15170)) based on Pseudo-Dionysius the Areopagite, 485-518 AD ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)), *principatus* vs. *virtutes*, c.f. Schedel ([1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr), Schedel and Alt  ([1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), fol. VIr).
@@ -23,7 +23,7 @@ Pope Gregory I		i				|seraphin|				|cherubin|				|thronos|
 				deus			op[er]atur vt virt[us]			reuelat vt lux				nutrit vt inspira[n]s
 					
 Thomas Aquinas		i				|seraphin|				|cherubin|				|thronos|
-13th c.				[con]siderantdei	bonitate[m]				virtute[m]				equitate[m]
+13th c.				[con]siderant dei	bonitate[m]				virtute[m]				equitate[m]
 Dionysius			deus			amat vt charitas			noscit vt veritas			sedet vt equitas
 5-6th c. AD
 			ii				|dominat[i]ones|			*|virtutes|				|potestates|
@@ -39,7 +39,7 @@ Dionysius			deus			amat vt charitas			noscit vt veritas			sedet vt equitas
 
 >This must be taken into account so that the ***Trinity*** of the divine Person becomes <ins>visible *in each of the three levels*</ins> mentioned, the upper (i), middle (ii) and lower (iii) equally.
 
-**Table 2**. A further modification *may* be considered, based on the posited *equivalence* to an *intellectual model*, with attention paid to the consistency and alignment of the ***content*** <ins>*of the orders*</ins> (*bonitate[m]*, *virtute[m]* and *equitate[m]*) <ins>within the levels</ins>, *a.ii,iii* vs. *c.ii,iii*.
+**Table 2**. A further modification *may* be considered, based on the posited *equivalence* to an *intellectual model* (*intellectual Order*), with attention paid to the consistency and alignment of the ***content*** <ins>*of the orders*</ins> (*bonitate[m]*, *virtute[m]* and *equitate[m]*) <ins>within the levels</ins>, *a.ii,iii* vs. *c.ii,iii*.
 ~~~
 							Order		
 			Level				a 					b					c
