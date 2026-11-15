@@ -1,5 +1,10 @@
 # NC_src_order_en.md
 
+>"quem theologi angelicum, philosophi autem intellectualem vocant", *Heptaplus* (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217), p. 3; Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. Ir). 
+
+>which the theologians call of the angels or angelic, whereas philosophers call it the intellectual.
+
+
 **Table 1**. The *Order of the Angels* after Pope Gregory I, 540-604 AD (Étaix, [1999](https://books.google.com/books?id=r4ERnwEACAAJ)) and after the revision according to Thomas Aquinas, 1225-1274 ([1485](https://doi.org/10.3931/e-rara-15170)) based on Pseudo-Dionysius the Areopagite, 485-518 AD ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)), *principatus* vs. *virtutes*, c.f. Schedel ([1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
 ~~~
 							Order		
@@ -30,8 +35,29 @@ Dionysius			deus			amat vt charitas			noscit vt veritas			sedet vt equitas
 				deus			*regit vt principat[us]			reuelat vt lux				nutrit vt inspira[n]s
 ~~~
 
+>"Hoc attende q[uia] in qualibet triu[m] hierarchiarum premissarum notatur trinitas p[er]sonarum diuinarum: vt patet in celcsti hierarchia tam superiori q[uonia]m media q[uonia]m inferiori.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
 
-**Table 2**. Main sources of the cited passages in the  *Nuremberg Chronicle* fol. Ir to VIIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)) with dates.
+>This must be taken into account so that the ***Trinity*** of the divine Person becomes <ins>visible *in each of the three levels*</ins> mentioned, the upper (i), middle (ii) and lower (iii) equally.
+
+**Table 2**. A further modification *may* be considered, based on the posited *equivalence* to an *intellectual model*, with attention paid to the consistency and alignment of the ***content*** <ins>*of the orders*</ins> (*bonitate[m]*, *virtute[m]* and *equitate[m]*) <ins>within the levels</ins>, *a.ii,iii* vs. *c.ii,iii*.
+~~~
+							Order		
+			Level				a 					b					c
+
+  			i				|seraphin|				|cherubin|				|thronos|
+ 				[con]siderant dei	bonitate[m]				virtute[m]				equitate[m]
+				deus			amat vt charitas			noscit vt veritas			sedet vt equitas
+
+			ii				*|potestates|				|virtutes|				*|dominat[i]ones|
+							*coercent demonu[m]			p[er]tinet miraculorum op[er]atio	*officia regu[n]t angelorum
+				d[omi]n[u]s		*tenet[ur] vt salus			op[er]atur vt virt[us]			*dominat[ur] vt maiestas
+
+			iii				*|angelos|				|archangelos|				*|principatus|
+							*humane custodie solicitudo		magnoru[m] negociorum denunciatio	*capitibunt p[re]sunt populo[rum]			
+ 				 			*nutrit vt inspira[n]s			reuelat vt lux				*regit vt principat[us]	
+~~~
+
+**Table 3**. Main sources of the cited passages in the  *Nuremberg Chronicle* fol. Ir to VIIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)) with dates.
 ~~~
 Book				Author					from	to	
 
@@ -62,6 +88,8 @@ Dionysius. (1350). *De Caelesti Hierarchia*. MS Gr 2. Oxford, Magdalen College: 
 Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. [https://doi.org/10.3931/e-rara-46695](https://doi.org/10.3931/e-rara-46695)
 
 Lactantius, L. C. F. (1497). *Divinae Institutiones*. Venetiis: Simon Bevilaqua. [https://books.google.com/books?id=qGsnghsi3uUC](https://books.google.com/books?id=qGsnghsi3uUC)
+
+Mirandola, G., & Mirandola, G. F. (1601). *Ioannis Pici, Mirandulae  ... opera quae extant omnia ...* Basileae: per Sebastianum Henricpetri. [https://doi.org/10.3931/e-rara-61217](https://doi.org/10.3931/e-rara-61217)
 
 Petrus. (1484). *Sententiarum Libri IV*. Basel. [https://doi.org/10.3931/e-rara-18241](https://doi.org/10.3931/e-rara-18241)
 
