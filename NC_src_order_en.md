@@ -5,7 +5,7 @@
 >which the theologians call of the angels or angelic, whereas philosophers call it the intellectual.
 
 
-**Table 1**. The *Order of the Angels* after Pope Gregory I, 540-604 AD (Étaix, [1999](https://books.google.com/books?id=r4ERnwEACAAJ)) and after the revision according to Thomas Aquinas, 1225-1274 ([1485](https://doi.org/10.3931/e-rara-15170)) based on Pseudo-Dionysius the Areopagite, 485-518 AD ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)), *principatus* vs. *virtutes*, c.f. Schedel ([1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
+**Table 1**. The *Order of the Angels* after Pope Gregory I, 540-604 AD (Étaix, [1999](https://books.google.com/books?id=r4ERnwEACAAJ)) and after the revision according to Thomas Aquinas, 1225-1274 ([1485](https://doi.org/10.3931/e-rara-15170)) based on Pseudo-Dionysius the Areopagite, 485-518 AD ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)), *principatus* vs. *virtutes*, c.f. Schedel ([1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr), Schedel and Alt  ([1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), fol. VIr).
 ~~~
 							Order		
 			Level				a 					b					c
@@ -57,7 +57,7 @@ Dionysius			deus			amat vt charitas			noscit vt veritas			sedet vt equitas
  				 			*nutrit vt inspira[n]s			reuelat vt lux				*regit vt principat[us]	
 ~~~
 
-**Table 3**. Main sources of the cited passages in the  *Nuremberg Chronicle* fol. Ir to VIIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)) with dates.
+**Table 3**. Main sources of the cited passages in the  *Nuremberg Chronicle* fol. Ir to VIIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075)) with dates.
 ~~~
 Book				Author					from	to	
 
@@ -71,7 +71,7 @@ Imago Mundi			Honorius Augustodunensis		1080	1151
 Sententiarum, Hexameron		Petrus Lombardus⁴			1100	1160	
 Heptaplus			Iohannis Pico della Mirandola		1463	1494
 ~~~
-¹) Lucius Caecilius Firmianius Lactantius, his most important work was to establish the understanding of the truth of Christianity (*Divinae Institutiones*, [1497](https://books.google.com/books?id=qGsnghsi3uUC)), counselor of Constantine I and guide of his initial religious policy. See also Crispus, son of Constantine I.  
+¹) Lucius Caecilius Firmianius Lactantius, his most important work was to establish the understanding of the <ins>truth of Christianity</ins> (*Divinae Institutiones*, [1497](https://books.google.com/books?id=qGsnghsi3uUC)), counselor of Constantine I and guide of his initial religious policy. See also Crispus, son of Constantine I.  
 ²) Latin translation of the Bible, standard text for over a millennium (Jiménez de Cisneros, [1517](https://doi.org/10.3931/e-rara-46695)).  
 ³) based on *De Caelesti Hierarchia*, Thomas Aquinas (*Summa Theologica*, [1485](https://doi.org/10.3931/e-rara-15170)) modified the classification of the Order of Angels according to Pope Gregory I.  
 ⁴) Bishop of Paris,  the *Sententiarum* ([1484](https://doi.org/10.3931/e-rara-18241)) was the standard medieval textbook of theology.
@@ -94,6 +94,10 @@ Mirandola, G., & Mirandola, G. F. (1601). *Ioannis Pici, Mirandulae  ... opera q
 Petrus. (1484). *Sententiarum Libri IV*. Basel. [https://doi.org/10.3931/e-rara-18241](https://doi.org/10.3931/e-rara-18241)
 
 Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
+
+Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger. [https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
+
+———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. [https://doi.org/10.3931/e-rara-69075](https://doi.org/10.3931/e-rara-69075)
 
 Thomas. (1485). *Summa Theologica: Partes 1-3*. Basel: Michael Wenssler. [https://doi.org/10.3931/e-rara-15170](https://doi.org/10.3931/e-rara-15170)
 
