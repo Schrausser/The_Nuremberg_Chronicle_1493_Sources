@@ -1,6 +1,6 @@
 # NC_src_order_en.md
 
-**Table 1**. The *Order of the Angels* after Pope Gregory I., 540-604 AD (Étaix, [1999](https://books.google.com/books?id=r4ERnwEACAAJ)) and after the revision according to Thomas Aquinas, 1225-1274 ([1485](https://doi.org/10.3931/e-rara-15170)) based on Pseudo-Dionysius the Areopagite, 485- 518 AD ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)).
+**Table 1**. The *Order of the Angels* after Pope Gregory I, 540-604 AD (Étaix, [1999](https://books.google.com/books?id=r4ERnwEACAAJ)) and after the revision according to Thomas Aquinas, 1225-1274 ([1485](https://doi.org/10.3931/e-rara-15170)) based on Pseudo-Dionysius the Areopagite, 485-518 AD ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)), *principatus* vs. *virtutes*, c.f. Schedel ([1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
 ~~~
 							Order		
 			Level				a 					b					c
@@ -31,7 +31,7 @@ Dionysius			deus			amat vt charitas			noscit vt veritas			sedet vt equitas
 ~~~
 
 
-**Table 2**. Main sources of the cited passages with dates.
+**Table 2**. Main sources of the cited passages in the  *Nuremberg Chronicle* fol. Ir to VIIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)) with dates.
 ~~~
 Book				Author					from	to	
 
@@ -63,13 +63,7 @@ Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Ar
 
 Lactantius, L. C. F. (1497). *Divinae Institutiones*. Venetiis: Simon Bevilaqua. [https://books.google.com/books?id=qGsnghsi3uUC](https://books.google.com/books?id=qGsnghsi3uUC)
 
-Mirandola, G., & Mirandola, G. F. (1601). *Ioannis Pici, Mirandulae  ... opera quae extant omnia ...* Basileae: per Sebastianum Henricpetri. [https://doi.org/10.3931/e-rara-61217](https://doi.org/10.3931/e-rara-61217)
-
 Petrus. (1484). *Sententiarum Libri IV*. Basel. [https://doi.org/10.3931/e-rara-18241](https://doi.org/10.3931/e-rara-18241)
-
-Plinius Secundus, G. (1250). *Plinius Secundus Major, Historia Naturalis. Liber Trigesimus Septimus Manu Recentiore Suppletus Est*. Latin 6797. Paris: Bibliothèque nationale de France. [https://gallica.bnf.fr/ark:/12148/btv1b550140045/](https://gallica.bnf.fr/ark:/12148/btv1b550140045/)
-
-Rackham, H. (1967). *Pliny Natural History in Ten Volumes*. Vol. 1. Cambridge, Massachusetts: Harvard University Press. [https://archive.org/details/naturalhistory01plinuoft/](https://archive.org/details/naturalhistory01plinuoft/)
 
 Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
 
