@@ -2,7 +2,7 @@
 
 The *picture* of the *atom* evolved through <ins>*5 models*</ins>, shifting from a simple *indivisible sphere* to a complex *quantum probability cloud*:  
 
-(1) The *<ins>Solid Sphere Model</ins>* of John Dalton ([1808](https://doi.org/10.5479/sil.324338.39088000885681), [1810](https://books.google.com/books?id=q4U-AAAAcAAJ), [1827](https://books.google.com/books?id=aLjtOGhfw68C)) who proposed the first modern scientific theory of the <ins>*atom*</ins> based on chemical experiments. Here, ***matter*** consists of, *indivisible* and indestructible solid *spheres* (*'billiard'(!) balls*)[^1], but it could not explain *electrical charges* or the existence of smaller *subatomic particles*. 
+(1) The *<ins>Solid Sphere Model</ins>* of John Dalton ([1808](https://doi.org/10.5479/sil.324338.39088000885681), [1810](https://books.google.com/books?id=q4U-AAAAcAAJ), [1827](https://books.google.com/books?id=aLjtOGhfw68C)) who proposed the first modern scientific theory of the <ins>*atom*</ins> based on chemical experiments. Here, ***matter*** consists of *indivisible* and indestructible solid *spheres* (*'billiard'(!) balls*)[^1], but it could not explain *electrical charges* or the existence of smaller *subatomic particles*. 
 
 (2) The so called *<ins>'Plum Pudding' Model</ins>* of J. J. Thomson ([1897a](https://de.scribd.com/document/425441239/Thomson-Electrician-39-104-97), [b](https://doi.org/10.1080/14786449708621070), [1907](https://books.google.com/books/about/The_Corpuscular_Theory_of_Matter.html?id=YvlAAQAAIAAJ)), discovering the negatively charged <ins>*electron*</ins> using cathode ray tubes. Now, *atoms* are *spheres* of diffuse positive charge with negatively charged *electrons embedded <ins>randomly</ins>* throughout. However, the model failed to explain that *positive charge* is concentrated rather than spread out. 
 
@@ -15,7 +15,7 @@ Erwin Schrödinger ([1926a](https://doi.org/10.1002/andp.19263840404), [b](https
 
 As later refinement, James Chadwick ([1932](https://doi.org/10.1098/rspa.1932.0112)) discovered the <ins>*neutron*</ins>, *<ins>completing</ins>* the modern ***picture*** of the *atomic nucleus*  with *protons* and *neutrons* (c.f. Schrödinger, [1951](https://philpapers.org/rec/SCHNAT-7)).
 
-[^1]: *Ratio deduction*, by comparing different *compounds* ***formed*** *from* the exact same two *elements* (e.g., carbon *monoxide* vs. carbon *dioxide*), he noticed the masses always combined in small, *whole-number* ratios, deducting that this could only happen if elements were made of *indivisible, discrete units*.  
+[^1]: *Ratio deduction*, by comparing different *compounds* ***formed*** *from* the exact same two *elements* (e.g. carbon *monoxide* vs. carbon *dioxide*), he noticed the masses always combined in small, *whole-number* ratios, deducting that this could only happen if elements were made of *indivisible, discrete units*.  
 [^2]: *Planck constant*, das <ins>*Planck'sche Wirkungsquantum*</ins> $h=6.62607015 \cdot 10^{-34} J \cdot s$ beschreibt das konstante Verhältnis zwischen der *Energie* eines Quants (z.B. Photon) und dessen *Frequenz*.   
 [^3]: Wave-particle *duality* for ***matter***, as light exhibits both, *wave and particle*, properties, particles such as *electrons* have a *wave* nature.  
 [^4]: Introducing the *uncertainty principle*, die <ins>*Heisenberg'sche Unschärferelation*</ins>, welche besagt, dass zwei *komplementäre* Eigenschaften eines Quantensystems (Ort und Impuls) nicht gleichzeitig *beliebig genau* bestimmt werden können.
