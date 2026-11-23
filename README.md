@@ -23,8 +23,8 @@ Especially since the *Early New High German* text is very difficult to understan
 
 **Table 1.** Pages containing first mentions *ment* of persons *name* (fol. Ir to VIr), sorted according to the corresponding reference pages *ref* of the following text.
 ~~~
-Fol/Blat		name									nr
-ment	ref
+Fol/Blat			name									nr
+ment		ref
 	
 1r		1r		Euripides¹								1
 1r		1r		Numenius of Apamea¹						2
@@ -58,26 +58,26 @@ ment	ref
 4r		92v		Quintus Horatius Flaccus				30
 2r		93v		Publius Ovidius Naso					31
 1r		97r		Philo of Alexandria³					32
-6r		107r	Saint Matthew the Evangelist			33
-1r		108r	Saint Luke the Evangelist				34
-6r		109v	Pseudo-Dionysius the Areopagite⁴		35
-1r		117v	Origen of Alexandria					36
-1r		133r	Saint Basil the Great					37
-1r		134v	Saint Ambrose of Milan					38
-1r		134v	Apollinarius of Laodicea				39
-1r		135r	Saint Jerome							40
-1r		135r	Saint Chrysostom of Constantinople		41
-1r		135v	Saint Didymus the Blind					42
-1r		136r	Saint Augustinus of Hippo				43
-1r		140v	Saint Remigius of Reims					44
-1r		141v	Saint Gennadius I of Constantinople		45
-6r		148r	Saint Gregory the Great					46
-6r		151v	Saint Isidore of Seville				47
-1r		158v	Saint Bede the Venerable				48
-1r		161v	Saint Giles the Hermit					49
-1r		169r	Walafrid Strabo							50
-1r		192v	Isaac Israeli ben Solomon				51
-1r		214r	Saint Albert the Great					52
+6r		107r		Saint Matthew the Evangelist			33
+1r		108r		Saint Luke the Evangelist				34
+6r		109v		Pseudo-Dionysius the Areopagite⁴		35
+1r		117v		Origen of Alexandria					36
+1r		133r		Saint Basil the Great					37
+1r		134v		Saint Ambrose of Milan					38
+1r		134v		Apollinarius of Laodicea				39
+1r		135r		Saint Jerome							40
+1r		135r		Saint Chrysostom of Constantinople		41
+1r		135v		Saint Didymus the Blind					42
+1r		136r		Saint Augustinus of Hippo				43
+1r		140v		Saint Remigius of Reims					44
+1r		141v		Saint Gennadius I of Constantinople		45
+6r		148r		Saint Gregory the Great					46
+6r		151v		Saint Isidore of Seville				47
+1r		158v		Saint Bede the Venerable				48
+1r		161v		Saint Giles the Hermit					49
+1r		169r		Walafrid Strabo							50
+1r		192v		Isaac Israeli ben Solomon				51
+1r		214r		Saint Albert the Great					52
 ~~~
 ¹) Mentioned from the *Heptaplus* (Mirandola & Mirandola, [1601](https://doi.org/10.3931/e-rara-61217), p. 1 f.).  
 ²) Anachronistic.  
