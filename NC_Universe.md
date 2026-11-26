@@ -5,7 +5,7 @@ The understanding of the scale of the universe expanded through a *sequence of o
 ### 1. Measuring *Earth* ... 
 
 - **Distance to the Moon**. *Aristarchus of Samos* (c. 270 BC)[^1] used the geometry of lunar eclipses to <ins>estimate</ins> the <ins>*Moon’s distance*</ins>,  c.f. Heath ([1913](https://doi.org/10.1017/CBO9781139854719)).
-- **Earth’s Circumference**. *Eratosthenes* (c. 240 BC)[^2] compared the angle of shadows  to calculate <ins>***Earth's size***</ins>, c.f. Bowen & Todd ([2004](https://doi.org/10.1525/california/9780520233256.001.0001)).
+- **Earth’s Circumference**. *Eratosthenes* (c. 240 BC)[^2] compared the angle of shadows  to calculate <ins>***Earth's size***</ins>, c.f. Bowen and Todd ([2004](https://doi.org/10.1525/california/9780520233256.001.0001)).
 
 ### 2. and the *Solar System*
 
@@ -22,7 +22,7 @@ The understanding of the scale of the universe expanded through a *sequence of o
 
 ### 4. *Galaxies* and the *universe*
 
-- **Mapping the Galaxy**. *Harlow Shapley* (Shapley & Curtis [1921](https://archive.org/details/scaleofuniverse00shap)) used globular clusters and variable stars to measure the <ins>*size of the Milky Way*</ins>.
+- **Mapping the Galaxy**. *Harlow Shapley* (Shapley & Curtis, [1921](https://archive.org/details/scaleofuniverse00shap)) used globular clusters and variable stars to measure the <ins>*size of the Milky Way*</ins>.
 - **Beyond the Milky Way**. *Edwin Hubble* ([1925](https://ui.adsabs.harvard.edu/abs/1925Obs....48..139H)) identified *Cepheid* variables inside <ins>Andromeda</ins>, proving it was an entirely <ins>*separate galaxy*</ins> far outside.
 - **Cosmic Expansion**. Combining distance measurements with galactic <ins>*redshifts*</ins>, *Hubble* ([1929](https://doi.org/10.1073/pnas.15.3.168)) demonstrated that galaxies are moving away (*Hubble's Law*), proving <ins>***the universe***</ins> is expanding.
 
@@ -30,7 +30,7 @@ The understanding of the scale of the universe expanded through a *sequence of o
 
 - **The Cosmic Microwave Background**. *Arno Penzias* and *Robert Wilson* ([1965](https://doi.org/10.1086/148307)) detected the thermal echo of the *Big Bang*, to <ins>*date the universe's*</ins> beginning.
 - **Dark Energy and Acceleration**. Observations of distant Type Ia supernovae revealed that the expansion of the <ins>*universe is accelerating*</ins>, c.f. Riess et al. ([1998](https://doi.org/10.1086/300499)), Perlmutter et al. ([1999](https://doi.org/10.1086/307221)).
-- **Precision Cosmology**. Data from the *Planck* satellite, gravitational wave detectors, and the *James Webb* Space Telescope <ins>*refined the age*</ins> of the *observable* universe to 13.8 Ga and its radius to 14.25 Gpc, s. Planck Collaboration et al. ([2014](https://doi.org/10.1051/0004-6361/201321591)).
+- **Precision Cosmology**. Data from the *Planck* satellite, gravitational wave detectors, and the *James Webb* Space Telescope <ins>*refined the age*</ins> of the *observable* universe to 13.8 Ga and its radius to **14.25 Gpc**, s. Planck Collaboration et al. ([2014](https://doi.org/10.1051/0004-6361/201321591)).
 
 [^1]: *On the Sizes and Distances of the Sun and Moon* (*Περὶ μεγεθῶν καὶ ἀποστημάτων [ἡλίου καὶ σελήνης]*).  
 [^2]: *Eratosthenes’* original treatise, *On the Measurement of the Earth* (*Περὶ τῆς ἀναμετρήσεως τῆς γῆς*), is lost. Its contents and methods are known primarily through surviving summaries by later ancient authors, most notably *Cleomedes*.  
